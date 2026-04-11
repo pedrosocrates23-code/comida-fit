@@ -1,0 +1,26 @@
+---
+// @choso — progressive enhancement search
+// @higuruma — aria-label, role
+---
+
+<form
+  action="/receitas/"
+  method="get"
+  class="search-form"
+  role="search"
+  aria-label="Buscar receitas"
+>
+  <label for="search-input" class="sr-only">Buscar receitas</label>
+  <input
+    id="search-input"
+    type="search"
+    name="q"
+    placeholder="Buscar receitas..."
+    class="search-input"
+    autocomplete="off"
+    aria-label="Digite para buscar receitas"
+  />
+  <button type="submit" class="search-btn" aria-label="Buscar">
+    <span aria-hidden="true">🔍</span>
+  </button>
+</form>

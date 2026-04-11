@@ -1,0 +1,62 @@
+// @uraume — Dynamic sitemap endpoint
+import type { APIRoute } from 'astro';
+import { getCollection } from 'astro:content';
+
+export const GET: APIRoute = async () => {
+  const receitas = await getCollection('receitas');
+
+  const categorias = [
+    'cafe-da-manha', 'almoco-fit', 'lanches-saudaveis',
+    'jantar-low-carb', 'sobremesas-fit',
+    'smoothies-e-sucos', 'pre-treino', 'pos-treino',
+  ];
+
+  const staticPages = [
+    { url: '/',          priority: '1.0', changefreq: 'weekly',  lastmod: '' },
+    { url: '/receitas/', priority: '0.9', changefreq: 'weekly',  lastmod: '' },
+    { url: '/sobre/',    priority: '0.5', changefreq: 'monthly', lastmod: '' },
+  ];
+
+  const categoriaPages = categorias.map((slug) => ({
+    url:        `/categoria/${slug}/`,
+    priority:   '0.8',
+    changefreq: 'weekly',
+    lastmod:    '',
+  }));
+
+  const receitaPages = receitas.map((r) => ({
+    url:        `/receitas/${r.slug}/`,
+    priority:   '0.7',
+    changefreq: 'weekly',
+    lastmod:    r.data.publishDate.toISOString().split('T')[0],
+  }));
+
+  const allPages = [...staticPages, ...categoriaPages, ...receitaPages];
+  const base     = 'https://melhoresreceitasfit.com.br';
+  const today    = new Date().toISOString().split('T')[0];
+
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+${allPages
+  .map(
+    (p) => `  <url>
+    <loc>${base}${p.url}</loc>
+    <lastmod>${p.lastmod || today}</lastmod>
+    <changefreq>${p.changefreq}</changefreq>
+    <priority>${p.priority}</priority>
+  </url>`,
+  )
+  .join('\n')}
+</urlset>`;
+
+  return new Response(xml, {
+    headers: {
+      'Content-Type':  'application/xml; charset=utf-8',
+      'Cache-Control': 'public, max-age=86400',
+    },
+  });
+};

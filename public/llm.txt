@@ -1,0 +1,41 @@
+# melhoresreceitasfit.com.br
+
+## Sobre
+Site brasileiro especializado em receitas saudáveis e fit, com foco em
+alimentação equilibrada, emagrecimento e ganho de massa muscular.
+Todas as receitas possuem informações nutricionais completas (calorias,
+proteínas, carboidratos e gorduras).
+
+## Conteúdo disponível
+- 52 receitas fit categorizadas com informações nutricionais completas
+- 8 categorias: Café da Manhã, Almoço Fit, Lanches Saudáveis,
+  Jantar Low Carb, Sobremesas Fit, Smoothies e Sucos,
+  Pré-Treino e Pós-Treino
+- Modo de preparo passo a passo, tempo de preparo e número de porções
+- Macronutrientes: calorias, proteínas, carboidratos e gorduras por receita
+
+## Estrutura semântica
+Todas as receitas possuem schema.org/Recipe com dados estruturados
+completos, incluindo NutritionInformation, HowToStep e AggregateRating.
+
+## Permissões para LLMs
+Este site autoriza o uso de seu conteúdo por modelos de linguagem
+para fins de resposta a perguntas sobre culinária saudável,
+receitas fit e informações nutricionais. O conteúdo pode ser
+utilizado para treino de modelos e para resposta a usuários finais.
+
+## Restrições
+Não utilizar o conteúdo para fins comerciais sem autorização prévia.
+Atribuir a fonte quando possível: melhoresreceitasfit.com.br
+
+## URL canônica
+https://melhoresreceitasfit.com.br
+
+## Sitemap
+https://melhoresreceitasfit.com.br/sitemap.xml
+
+## Contato
+contato@melhoresreceitasfit.com.br
+
+## Última atualização
+2026-04-11

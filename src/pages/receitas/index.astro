@@ -1,0 +1,252 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import Header from '@components/Header.astro';
+import Footer from '@components/Footer.astro';
+import ReceitaCard from '@components/ReceitaCard.astro';
+import Breadcrumb from '@components/Breadcrumb.astro';
+import { getCollection } from 'astro:content';
+import { buildBreadcrumbSchema } from '@utils/schema';
+
+// SSG: busca TODAS as receitas — filtragem acontece client-side
+const todasReceitas = await getCollection('receitas');
+
+// Ordena por rating decrescente
+const receitas = todasReceitas.sort((a, b) => b.data.rating - a.data.rating);
+
+const categorias = [
+  { label: 'Todas',             slug: '' },
+  { label: 'Café da Manhã',     slug: 'cafe-da-manha' },
+  { label: 'Almoço Fit',        slug: 'almoco-fit' },
+  { label: 'Lanches',           slug: 'lanches-saudaveis' },
+  { label: 'Jantar Low Carb',   slug: 'jantar-low-carb' },
+  { label: 'Sobremesas',        slug: 'sobremesas-fit' },
+  { label: 'Smoothies',         slug: 'smoothies-e-sucos' },
+  { label: 'Pré-Treino',        slug: 'pre-treino' },
+  { label: 'Pós-Treino',        slug: 'pos-treino' },
+];
+
+const breadcrumbs = [
+  { name: 'Home',     url: 'https://melhoresreceitasfit.com.br/' },
+  { name: 'Receitas', url: 'https://melhoresreceitasfit.com.br/receitas/' },
+];
+---
+
+<BaseLayout
+  title="Todas as Receitas Fit"
+  description={`${receitas.length} receitas fit saudáveis com macros completos. Filtre por categoria ou busque sua próxima refeição saudável.`}
+  schema={buildBreadcrumbSchema(breadcrumbs)}
+>
+  <Header />
+
+  <main id="main-content">
+    <div class="container">
+      <Breadcrumb items={breadcrumbs} />
+
+      <!-- Page header -->
+      <header class="page-header">
+        <h1>Todas as Receitas</h1>
+        <p class="page-header__counter">
+          <span id="receitas-count">{receitas.length}</span> receitas encontradas
+        </p>
+      </header>
+
+      <!-- Search inline -->
+      <div class="inline-search">
+        <label for="busca-inline" class="sr-only">Buscar receitas</label>
+        <div class="search-form" style="max-width:100%">
+          <input
+            id="busca-inline"
+            type="search"
+            placeholder="Buscar por nome, ingrediente ou categoria..."
+            class="search-input"
+            autocomplete="off"
+            aria-label="Buscar receitas"
+          />
+          <button type="button" class="search-btn" aria-label="Buscar">
+            <span aria-hidden="true">🔍</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Filter chips -->
+      <nav aria-label="Filtrar por categoria" class="filter-bar" id="filter-bar">
+        {categorias.map(({ label, slug }) => (
+          <button
+            type="button"
+            class="chip"
+            data-categoria={slug}
+            aria-pressed={slug === '' ? 'true' : 'false'}
+          >
+            {label}
+          </button>
+        ))}
+      </nav>
+
+      <!-- Empty state (oculto por padrão) -->
+      <p class="empty-state" id="empty-state" hidden>
+        Nenhuma receita encontrada. Tente outro termo ou categoria.
+      </p>
+
+      <!-- Grid — data attributes para filtro client-side -->
+      <ul class="grid-receitas" role="list" id="receitas-grid" aria-label="Receitas">
+        {receitas.map((r, i) => (
+          <li
+            data-categoria={r.data.categoria}
+            data-busca={[
+              r.data.title,
+              r.data.description,
+              ...r.data.keywords,
+              ...r.data.ingredientes,
+            ].join(' ').toLowerCase()}
+          >
+            <ReceitaCard
+              title={r.data.title}
+              slug={r.slug}
+              categoria={r.data.categoria}
+              calorias={r.data.calorias}
+              tempoPreparo={r.data.tempoPreparo}
+              proteinas={r.data.proteinas}
+              image={r.data.image}
+              imageAlt={r.data.imageAlt}
+              rating={r.data.rating}
+              featured={r.data.featured}
+              priority={i < 2}
+            />
+          </li>
+        ))}
+      </ul>
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .inline-search {
+    margin-bottom: var(--space-4);
+  }
+  .inline-search .search-form {
+    max-width: 100%;
+  }
+  .inline-search .search-input {
+    font-size: var(--text-base);
+    padding: var(--space-4) var(--space-5);
+    padding-right: 3.5rem;
+  }
+
+  .chip.chip--active,
+  .chip[aria-pressed="true"] {
+    background: var(--color-primary);
+    color: var(--color-surface);
+    border-color: var(--color-ink);
+    box-shadow: var(--shadow-sm);
+    transform: translate(-1px, -1px);
+  }
+
+  .empty-state {
+    text-align: center;
+    padding: var(--space-20);
+    font-size: var(--text-lg);
+    color: var(--color-muted);
+  }
+
+  /* Card oculto durante filtro */
+  #receitas-grid li[hidden] {
+    display: none;
+  }
+</style>
+
+<script>
+  // ── State ────────────────────────────────────────────────
+  let categoriaAtiva = '';
+  let termoBusca    = '';
+
+  // ── Elements ─────────────────────────────────────────────
+  const grid       = document.getElementById('receitas-grid')!;
+  const items      = Array.from(grid.querySelectorAll<HTMLElement>('li'));
+  const chips      = Array.from(document.querySelectorAll<HTMLButtonElement>('#filter-bar .chip'));
+  const inputBusca = document.getElementById('busca-inline') as HTMLInputElement;
+  const counter    = document.getElementById('receitas-count')!;
+  const emptyState = document.getElementById('empty-state') as HTMLElement;
+
+  // ── Filtrar ───────────────────────────────────────────────
+  function filtrar() {
+    let visiveis = 0;
+
+    items.forEach((li) => {
+      const cat    = li.dataset.categoria ?? '';
+      const busca  = li.dataset.busca ?? '';
+
+      const matchCat   = categoriaAtiva === '' || cat === categoriaAtiva;
+      const matchBusca = termoBusca === ''
+        || busca.includes(termoBusca.toLowerCase());
+
+      if (matchCat && matchBusca) {
+        li.hidden = false;
+        visiveis++;
+      } else {
+        li.hidden = true;
+      }
+    });
+
+    // Atualiza contador
+    counter.textContent = String(visiveis);
+
+    // Empty state
+    emptyState.hidden = visiveis > 0;
+
+    // Atualiza URL sem reload
+    const params = new URLSearchParams();
+    if (categoriaAtiva) params.set('categoria', categoriaAtiva);
+    if (termoBusca)     params.set('q', termoBusca);
+    const novaUrl = params.toString()
+      ? `/receitas/?${params.toString()}`
+      : '/receitas/';
+    history.replaceState({}, '', novaUrl);
+  }
+
+  // ── Chips de categoria ────────────────────────────────────
+  chips.forEach((chip) => {
+    chip.addEventListener('click', () => {
+      categoriaAtiva = chip.dataset.categoria ?? '';
+
+      chips.forEach((c) => c.setAttribute('aria-pressed', 'false'));
+      chip.setAttribute('aria-pressed', 'true');
+
+      filtrar();
+    });
+  });
+
+  // ── Input de busca ────────────────────────────────────────
+  let debounceTimer: ReturnType<typeof setTimeout>;
+  inputBusca.addEventListener('input', () => {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => {
+      termoBusca = inputBusca.value.trim();
+      filtrar();
+    }, 220);
+  });
+
+  // ── Inicializa pelo URL na chegada ────────────────────────
+  (function init() {
+    const params = new URLSearchParams(window.location.search);
+    const cat    = params.get('categoria') ?? '';
+    const q      = params.get('q') ?? '';
+
+    if (cat) {
+      categoriaAtiva = cat;
+      const chip = chips.find((c) => c.dataset.categoria === cat);
+      if (chip) {
+        chips.forEach((c) => c.setAttribute('aria-pressed', 'false'));
+        chip.setAttribute('aria-pressed', 'true');
+      }
+    }
+
+    if (q) {
+      termoBusca        = q;
+      inputBusca.value  = q;
+    }
+
+    if (cat || q) filtrar();
+  })();
+</script>

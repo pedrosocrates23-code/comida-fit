@@ -1,0 +1,117 @@
+---
+// @hakari — home: <main> + section landmarks
+// @uraume — WebSite schema + SearchBox
+import BaseLayout from '@layouts/BaseLayout.astro';
+import Header from '@components/Header.astro';
+import Footer from '@components/Footer.astro';
+import CategoryGrid from '@components/CategoryGrid.astro';
+import ReceitaCard from '@components/ReceitaCard.astro';
+import { getCollection } from 'astro:content';
+import { buildWebSiteSchema } from '@utils/schema';
+
+const receitas  = await getCollection('receitas');
+const destaques = receitas
+  .filter((r) => r.data.featured)
+  .sort((a, b) => b.data.rating - a.data.rating)
+  .slice(0, 6);
+
+const websiteSchema = buildWebSiteSchema();
+---
+
+<BaseLayout
+  title="Melhores Receitas Fit"
+  description="Receitas fit saudáveis com informações nutricionais completas. Café da manhã, almoço, jantar, lanches e smoothies para sua alimentação equilibrada."
+  schema={websiteSchema}
+>
+  <Header />
+
+  <main id="main-content">
+    <!-- Hero Section -->
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="container hero__inner">
+        <div class="hero__content">
+          <h1 class="hero__title" id="hero-title">
+            Receitas <span>Fit</span><br />que você vai<br />querer fazer
+          </h1>
+          <p class="hero__subtitle">
+            Mais de 52 receitas saudáveis com macros completos — proteínas,
+            carboidratos, calorias e gorduras. Do café da manhã ao jantar.
+          </p>
+          <div class="hero__ctas">
+            <a href="/receitas/" class="btn btn-primary">Ver Receitas</a>
+            <a href="/#categorias" class="btn btn-outline">Por Categoria</a>
+          </div>
+        </div>
+
+        <div class="hero__image" aria-hidden="true">
+          <img
+            src="/images/hero-receitas-fit.webp"
+            alt="Prato colorido com receitas fit saudáveis"
+            width="480"
+            height="480"
+            loading="eager"
+            fetchpriority="high"
+            decoding="sync"
+          />
+        </div>
+      </div>
+    </section>
+
+    <div class="container">
+      <!-- Categories -->
+      <CategoryGrid />
+
+      <!-- Destaques -->
+      <section aria-labelledby="destaques-title" class="section-destaques">
+        <h2 id="destaques-title" class="section-title">Mais Populares</h2>
+
+        <ul class="grid-receitas" role="list" aria-label="Receitas em destaque">
+          {destaques.map((r, i) => (
+            <li>
+              <ReceitaCard
+                title={r.data.title}
+                slug={r.slug}
+                description={r.data.description}
+                categoria={r.data.categoria}
+                calorias={r.data.calorias}
+                tempoPreparo={r.data.tempoPreparo}
+                proteinas={r.data.proteinas}
+                image={r.data.image}
+                imageAlt={r.data.imageAlt}
+                rating={r.data.rating}
+                featured={r.data.featured}
+                priority={i === 0}
+              />
+            </li>
+          ))}
+        </ul>
+
+        <div class="section-destaques__footer">
+          <a href="/receitas/" class="btn btn-outline">
+            Ver Todas as Receitas →
+          </a>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .hero__ctas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-4);
+  }
+
+  .section-destaques {
+    padding-block: var(--space-16);
+  }
+
+  .section-destaques__footer {
+    margin-top: var(--space-10);
+    display: flex;
+    justify-content: center;
+  }
+</style>

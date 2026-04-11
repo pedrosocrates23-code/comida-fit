@@ -1,0 +1,46 @@
+---
+// @hakari — <ul> semântico de categorias
+interface CategoriaItem {
+  nome:     string;
+  slug:     string;
+  icone:    string;
+  count:    number;
+}
+
+const categorias: CategoriaItem[] = [
+  { nome: 'Café da Manhã',     slug: 'cafe-da-manha',      icone: '☕', count: 8 },
+  { nome: 'Almoço Fit',        slug: 'almoco-fit',          icone: '🍗', count: 8 },
+  { nome: 'Lanches Saudáveis', slug: 'lanches-saudaveis',   icone: '🥕', count: 6 },
+  { nome: 'Jantar Low Carb',   slug: 'jantar-low-carb',     icone: '🥗', count: 8 },
+  { nome: 'Sobremesas Fit',    slug: 'sobremesas-fit',       icone: '🍫', count: 6 },
+  { nome: 'Smoothies e Sucos', slug: 'smoothies-e-sucos',   icone: '🥤', count: 6 },
+  { nome: 'Pré-Treino',        slug: 'pre-treino',           icone: '⚡', count: 5 },
+  { nome: 'Pós-Treino',        slug: 'pos-treino',           icone: '💪', count: 5 },
+];
+---
+
+<section id="categorias" aria-labelledby="categorias-title" class="section-categorias">
+  <h2 id="categorias-title" class="section-title">Categorias</h2>
+
+  <ul class="grid-categorias" role="list" aria-label="Categorias de receitas">
+    {categorias.map(({ nome, slug, icone, count }) => (
+      <li>
+        <a
+          href={`/categoria/${slug}/`}
+          class="category-card"
+          aria-label={`${nome} — ${count} receitas`}
+        >
+          <span class="category-card__icon" aria-hidden="true">{icone}</span>
+          <span class="category-card__name">{nome}</span>
+          <span class="category-card__count" aria-hidden="true">
+            {count} receitas
+          </span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</section>
+
+<style>
+  .section-categorias { padding-block: var(--space-16); }
+</style>

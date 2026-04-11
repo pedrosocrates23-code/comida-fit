@@ -1,0 +1,26 @@
+---
+// @hakari — dynamic recipe page
+import ReceitaLayout from '@layouts/ReceitaLayout.astro';
+import { getCollection } from 'astro:content';
+import type { GetStaticPaths } from 'astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  receita: CollectionEntry<'receitas'>;
+}
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  const receitas = await getCollection('receitas');
+  return receitas.map((r) => ({
+    params: { slug: r.slug },
+    props:  { receita: r },
+  }));
+};
+
+const { receita } = Astro.props;
+const { Content } = await receita.render();
+---
+
+<ReceitaLayout receita={receita}>
+  <Content />
+</ReceitaLayout>

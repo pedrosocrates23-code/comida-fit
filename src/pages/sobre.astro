@@ -1,0 +1,112 @@
+---
+// @hakari — <main> + <article> institucional
+import BaseLayout from '@layouts/BaseLayout.astro';
+import Header from '@components/Header.astro';
+import Footer from '@components/Footer.astro';
+import Breadcrumb from '@components/Breadcrumb.astro';
+import { buildBreadcrumbSchema } from '@utils/schema';
+
+const breadcrumbs = [
+  { name: 'Home',  url: 'https://melhoresreceitasfit.com.br/' },
+  { name: 'Sobre', url: 'https://melhoresreceitasfit.com.br/sobre/' },
+];
+---
+
+<BaseLayout
+  title="Sobre — Melhores Receitas Fit"
+  description="Conheça o Melhores Receitas Fit: um site dedicado a receitas saudáveis com informações nutricionais completas para uma alimentação equilibrada."
+  schema={buildBreadcrumbSchema(breadcrumbs)}
+>
+  <Header />
+
+  <main id="main-content">
+    <div class="container">
+      <Breadcrumb items={breadcrumbs} />
+
+      <article class="sobre-page" aria-labelledby="sobre-title">
+        <header class="sobre-page__header">
+          <h1 id="sobre-title">Sobre o Melhores Receitas Fit</h1>
+        </header>
+
+        <section aria-labelledby="missao-title">
+          <h2 id="missao-title">Nossa Missão</h2>
+          <p>
+            O <strong>Melhores Receitas Fit</strong> nasceu da vontade de tornar
+            a alimentação saudável mais acessível, saborosa e prática para todos.
+            Acreditamos que comer bem não precisa ser complicado nem sem graça.
+          </p>
+        </section>
+
+        <section aria-labelledby="oque-title">
+          <h2 id="oque-title">O que você encontra aqui</h2>
+          <ul role="list" class="sobre-list">
+            <li>
+              <strong>52 receitas fit</strong> organizadas em 8 categorias
+            </li>
+            <li>
+              <strong>Informações nutricionais completas</strong> — calorias,
+              proteínas, carboidratos e gorduras por receita
+            </li>
+            <li>
+              <strong>Modo de preparo detalhado</strong> passo a passo
+            </li>
+            <li>
+              <strong>Tempo de preparo e porções</strong> para planejamento
+            </li>
+          </ul>
+        </section>
+
+        <section aria-labelledby="contato-title">
+          <h2 id="contato-title">Contato</h2>
+          <p>
+            Sugestões, parcerias ou dúvidas? Entre em contato:
+            <a
+              href="mailto:contato@melhoresreceitasfit.com.br"
+              class="sobre-link"
+            >
+              contato@melhoresreceitasfit.com.br
+            </a>
+          </p>
+        </section>
+      </article>
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .sobre-page {
+    max-width: var(--max-width-text);
+    padding-block: var(--space-8) var(--space-16);
+  }
+  .sobre-page__header {
+    margin-bottom: var(--space-10);
+    padding-bottom: var(--space-8);
+    border-bottom: var(--border);
+  }
+  .sobre-page section {
+    margin-bottom: var(--space-10);
+  }
+  .sobre-page h2 {
+    font-size: var(--text-2xl);
+    margin-bottom: var(--space-4);
+    color: var(--color-primary);
+  }
+  .sobre-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+  }
+  .sobre-list li::before {
+    content: '→ ';
+    color: var(--color-primary);
+    font-weight: 700;
+  }
+  .sobre-link {
+    color: var(--color-primary);
+    font-weight: 600;
+    text-decoration: underline;
+  }
+</style>

@@ -1,0 +1,127 @@
+---
+// @hakari — CollectionPage por categoria
+// @uraume — CollectionPage + BreadcrumbList schema
+import BaseLayout from '@layouts/BaseLayout.astro';
+import Header from '@components/Header.astro';
+import Footer from '@components/Footer.astro';
+import ReceitaCard from '@components/ReceitaCard.astro';
+import Breadcrumb from '@components/Breadcrumb.astro';
+import { getCollection } from 'astro:content';
+import { buildCollectionPageSchema, buildBreadcrumbSchema } from '@utils/schema';
+import type { GetStaticPaths } from 'astro';
+import type { CollectionEntry } from 'astro:content';
+
+type CategoriaConfig = {
+  slug: string;
+  nome: string;
+  icone: string;
+  desc: string;
+};
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  // Definido DENTRO do getStaticPaths — Astro executa em escopo isolado
+  const categoriasConfig: CategoriaConfig[] = [
+    { slug: 'cafe-da-manha',      nome: 'Café da Manhã',     icone: '☕', desc: 'Receitas leves e nutritivas para começar o dia com energia e saúde.' },
+    { slug: 'almoco-fit',         nome: 'Almoço Fit',        icone: '🍗', desc: 'Almoços saudáveis e completos com proteínas, fibras e carboidratos de qualidade.' },
+    { slug: 'lanches-saudaveis',  nome: 'Lanches Saudáveis', icone: '🥕', desc: 'Lanches práticos e nutritivos para manter a energia ao longo do dia.' },
+    { slug: 'jantar-low-carb',    nome: 'Jantar Low Carb',   icone: '🥗', desc: 'Jantares low carb saborosos para ajudar no emagrecimento sem abrir mão do sabor.' },
+    { slug: 'sobremesas-fit',     nome: 'Sobremesas Fit',    icone: '🍫', desc: 'Sobremesas deliciosas e saudáveis para satisfazer a vontade de doce sem culpa.' },
+    { slug: 'smoothies-e-sucos',  nome: 'Smoothies e Sucos', icone: '🥤', desc: 'Bebidas naturais, smoothies e sucos detox ricos em vitaminas e minerais.' },
+    { slug: 'pre-treino',         nome: 'Pré-Treino',        icone: '⚡', desc: 'Refeições pré-treino para dar energia e performance durante os exercícios.' },
+    { slug: 'pos-treino',         nome: 'Pós-Treino',        icone: '💪', desc: 'Receitas pós-treino ricas em proteínas para recuperação muscular e crescimento.' },
+  ];
+  const receitas = await getCollection('receitas');
+  return categoriasConfig.map((cat) => ({
+    params: { slug: cat.slug },
+    props:  {
+      categoria:      cat,
+      receitasDaCategoria: receitas.filter((r) => r.data.categoria === cat.slug),
+    },
+  }));
+};
+
+const { categoria, receitasDaCategoria } = Astro.props as {
+  categoria: CategoriaConfig;
+  receitasDaCategoria: CollectionEntry<'receitas'>[];
+};
+
+const breadcrumbs = [
+  { name: 'Home',             url: 'https://melhoresreceitasfit.com.br/' },
+  { name: 'Receitas',         url: 'https://melhoresreceitasfit.com.br/receitas/' },
+  { name: categoria.nome,     url: `https://melhoresreceitasfit.com.br/categoria/${categoria.slug}/` },
+];
+
+const schemas = [
+  buildCollectionPageSchema(categoria.slug, receitasDaCategoria.length),
+  buildBreadcrumbSchema(breadcrumbs),
+];
+---
+
+<BaseLayout
+  title={`${categoria.nome} — Receitas Fit`}
+  description={`${receitasDaCategoria.length} receitas de ${categoria.nome.toLowerCase()} com informações nutricionais. ${categoria.desc}`}
+  schema={schemas}
+>
+  <Header />
+
+  <main id="main-content">
+    <div class="container">
+      <Breadcrumb items={breadcrumbs} />
+
+      <header class="page-header categoria-header">
+        <span class="categoria-header__icon" aria-hidden="true">
+          {categoria.icone}
+        </span>
+        <div>
+          <h1>{categoria.nome}</h1>
+          <p class="categoria-header__desc">{categoria.desc}</p>
+          <p class="page-header__counter">
+            {receitasDaCategoria.length} receitas disponíveis
+          </p>
+        </div>
+      </header>
+
+      <ul class="grid-receitas" role="list" aria-label={`Receitas de ${categoria.nome}`}>
+        {receitasDaCategoria.map((r, i) => (
+          <li>
+            <ReceitaCard
+              title={r.data.title}
+              slug={r.slug}
+              description={r.data.description}
+              categoria={r.data.categoria}
+              calorias={r.data.calorias}
+              tempoPreparo={r.data.tempoPreparo}
+              proteinas={r.data.proteinas}
+              image={r.data.image}
+              imageAlt={r.data.imageAlt}
+              rating={r.data.rating}
+              featured={r.data.featured}
+              priority={i < 2}
+            />
+          </li>
+        ))}
+      </ul>
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .categoria-header {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--space-6);
+  }
+  .categoria-header__icon {
+    font-size: 4rem;
+    line-height: 1;
+    flex-shrink: 0;
+  }
+  .categoria-header__desc {
+    color: var(--color-muted);
+    font-size: var(--text-lg);
+    max-width: 60ch;
+    margin-top: var(--space-2);
+  }
+</style>

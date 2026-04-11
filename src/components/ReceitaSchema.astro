@@ -1,0 +1,18 @@
+---
+// @uraume — JSON-LD Recipe schema injection
+import type { CollectionEntry } from 'astro:content';
+import { buildRecipeSchema, buildBreadcrumbSchema } from '@utils/schema';
+
+interface Props {
+  receita: CollectionEntry<'receitas'>;
+  breadcrumbs: { name: string; url: string }[];
+}
+
+const { receita, breadcrumbs } = Astro.props;
+
+const recipeSchema     = buildRecipeSchema(receita);
+const breadcrumbSchema = buildBreadcrumbSchema(breadcrumbs);
+---
+
+<script is:inline type="application/ld+json" set:html={JSON.stringify(recipeSchema)} />
+<script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />

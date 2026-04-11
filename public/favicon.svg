@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Background -->
+  <rect width="64" height="64" rx="8" fill="#FFFDF5" stroke="#1A1A1A" stroke-width="3"/>
+  <!-- Plate circle -->
+  <circle cx="32" cy="34" r="20" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="2.5"/>
+  <!-- Fork -->
+  <line x1="22" y1="20" x2="22" y2="44" stroke="#1A1A1A" stroke-width="2" stroke-linecap="round"/>
+  <line x1="19" y1="20" x2="19" y2="28" stroke="#1A1A1A" stroke-width="2" stroke-linecap="round"/>
+  <line x1="22" y1="20" x2="22" y2="28" stroke="#1A1A1A" stroke-width="2" stroke-linecap="round"/>
+  <line x1="25" y1="20" x2="25" y2="28" stroke="#1A1A1A" stroke-width="2" stroke-linecap="round"/>
+  <!-- Leaf accent -->
+  <ellipse cx="36" cy="30" rx="8" ry="5" fill="#00C896" stroke="#1A1A1A" stroke-width="1.5" transform="rotate(-20 36 30)"/>
+  <!-- Orange dot accent -->
+  <circle cx="30" cy="38" r="4" fill="#FF4D00" stroke="#1A1A1A" stroke-width="1.5"/>
+  <!-- Yellow dot -->
+  <circle cx="40" cy="36" r="3" fill="#FFD000" stroke="#1A1A1A" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,424 @@
+---
+// @hakari  — article landmark + structured recipe content
+// @uraume  — recipe schema injection
+import BaseLayout from './BaseLayout.astro';
+import Header from '@components/Header.astro';
+import Footer from '@components/Footer.astro';
+import Breadcrumb from '@components/Breadcrumb.astro';
+import ReceitaSchema from '@components/ReceitaSchema.astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  receita: CollectionEntry<'receitas'>;
+}
+
+const { receita } = Astro.props;
+const { data } = receita;
+
+const categoriaNomes: Record<string, string> = {
+  'cafe-da-manha':      'Café da Manhã',
+  'almoco-fit':         'Almoço Fit',
+  'lanches-saudaveis':  'Lanches Saudáveis',
+  'jantar-low-carb':    'Jantar Low Carb',
+  'sobremesas-fit':     'Sobremesas Fit',
+  'smoothies-e-sucos':  'Smoothies e Sucos',
+  'pre-treino':         'Pré-Treino',
+  'pos-treino':         'Pós-Treino',
+};
+
+const breadcrumbs = [
+  { name: 'Home',        url: 'https://melhoresreceitasfit.com.br/' },
+  { name: categoriaNomes[data.categoria], url: `https://melhoresreceitasfit.com.br/categoria/${data.categoria}/` },
+  { name: data.title,    url: `https://melhoresreceitasfit.com.br/receitas/${receita.slug}/` },
+];
+
+const totalMinutos = data.tempoPreparo + (data.tempoCozimento ?? 0);
+const stars = '★'.repeat(Math.round(data.rating)) + '☆'.repeat(5 - Math.round(data.rating));
+---
+
+<BaseLayout
+  title={data.title}
+  description={data.description}
+  image={data.image}
+  imageAlt={data.imageAlt}
+  type="article"
+  canonicalUrl={`https://melhoresreceitasfit.com.br/receitas/${receita.slug}/`}
+>
+  <ReceitaSchema receita={receita} breadcrumbs={breadcrumbs} slot="head" />
+
+  <Header />
+
+  <main id="main-content">
+    <div class="container">
+      <!-- Breadcrumb -->
+      <Breadcrumb items={breadcrumbs} />
+
+      <!-- Recipe Article (@hakari semantic) -->
+      <article class="recipe-page" itemscope itemtype="https://schema.org/Recipe">
+        <!-- Header -->
+        <header class="recipe-page__header">
+          <div class="recipe-page__badge-row">
+            <span class="badge badge-secondary">
+              {categoriaNomes[data.categoria]}
+            </span>
+          </div>
+
+          <h1 class="recipe-page__title" itemprop="name">
+            {data.title}
+          </h1>
+
+          <p class="recipe-page__description" itemprop="description">
+            {data.description}
+          </p>
+
+          <!-- Rating -->
+          <div
+            class="rating"
+            itemprop="aggregateRating"
+            itemscope
+            itemtype="https://schema.org/AggregateRating"
+            aria-label={`Avaliação: ${data.rating} de 5 estrelas, ${data.ratingCount} avaliações`}
+          >
+            <span class="stars" aria-hidden="true">{stars}</span>
+            <meta itemprop="ratingValue" content={String(data.rating)} />
+            <span class="rating-count">{data.rating}</span>
+            <span class="rating-count">
+              (<span itemprop="reviewCount">{data.ratingCount}</span> avaliações)
+            </span>
+          </div>
+        </header>
+
+        <!-- Hero Image -->
+        <figure class="recipe-page__figure">
+          <img
+            src={data.image}
+            alt={data.imageAlt}
+            loading="eager"
+            fetchpriority="high"
+            decoding="sync"
+            width="900"
+            height="506"
+            itemprop="image"
+            class="recipe-page__image"
+          />
+        </figure>
+
+        <!-- Meta Row -->
+        <div class="recipe-meta-row" role="list" aria-label="Informações da receita">
+          <div class="recipe-meta-item" role="listitem">
+            <span class="recipe-meta-icon" aria-hidden="true">⏱</span>
+            <span>
+              <span class="sr-only">Tempo de preparo:</span>
+              <meta itemprop="prepTime" content={`PT${data.tempoPreparo}M`} />
+              <span>{data.tempoPreparo} min preparo</span>
+            </span>
+          </div>
+          {data.tempoCozimento && (
+            <div class="recipe-meta-item" role="listitem">
+              <span class="recipe-meta-icon" aria-hidden="true">🔥</span>
+              <span>
+                <span class="sr-only">Tempo de cozimento:</span>
+                <meta itemprop="cookTime" content={`PT${data.tempoCozimento}M`} />
+                <span>{data.tempoCozimento} min cozimento</span>
+              </span>
+            </div>
+          )}
+          <div class="recipe-meta-item" role="listitem">
+            <span class="recipe-meta-icon" aria-hidden="true">⏰</span>
+            <span>
+              <span class="sr-only">Tempo total:</span>
+              <meta itemprop="totalTime" content={`PT${totalMinutos}M`} />
+              <span>{totalMinutos} min total</span>
+            </span>
+          </div>
+          <div class="recipe-meta-item" role="listitem">
+            <span class="recipe-meta-icon" aria-hidden="true">👥</span>
+            <span>
+              <span class="sr-only">Porções:</span>
+              <span itemprop="recipeYield">
+                {data.porcoes} {data.porcoes === 1 ? 'porção' : 'porções'}
+              </span>
+            </span>
+          </div>
+        </div>
+
+        <!-- Nutrition Box -->
+        <section
+          class="nutrition-box"
+          aria-labelledby="nutrition-title"
+          itemprop="nutrition"
+          itemscope
+          itemtype="https://schema.org/NutritionInformation"
+        >
+          <h2 id="nutrition-title" class="sr-only">Informações Nutricionais</h2>
+          <dl class="nutrition-grid">
+            <div class="nutrition-item">
+              <dt class="nutrition-label">Calorias</dt>
+              <dd class="nutrition-value" itemprop="calories">
+                {data.calorias}<small>kcal</small>
+              </dd>
+            </div>
+            <div class="nutrition-item">
+              <dt class="nutrition-label">Proteínas</dt>
+              <dd class="nutrition-value" itemprop="proteinContent">
+                {data.proteinas}<small>g</small>
+              </dd>
+            </div>
+            <div class="nutrition-item">
+              <dt class="nutrition-label">Carboidratos</dt>
+              <dd class="nutrition-value" itemprop="carbohydrateContent">
+                {data.carboidratos}<small>g</small>
+              </dd>
+            </div>
+            <div class="nutrition-item">
+              <dt class="nutrition-label">Gorduras</dt>
+              <dd class="nutrition-value" itemprop="fatContent">
+                {data.gorduras}<small>g</small>
+              </dd>
+            </div>
+          </dl>
+        </section>
+
+        <!-- Two-column layout for ingredients + instructions -->
+        <div class="recipe-page__columns">
+          <!-- Ingredients (@hakari semantic) -->
+          <section aria-labelledby="ingredientes-title">
+            <h2 id="ingredientes-title" class="section-title">Ingredientes</h2>
+            <ul
+              class="ingredient-list"
+              role="list"
+              aria-label="Lista de ingredientes"
+            >
+              {data.ingredientes.map((ing, i) => (
+                <li class="ingredient-item">
+                  <input
+                    type="checkbox"
+                    id={`ing-${i}`}
+                    aria-label={`Marcar: ${ing}`}
+                  />
+                  <label for={`ing-${i}`}>
+                    <span itemprop="recipeIngredient">{ing}</span>
+                  </label>
+                </li>
+              ))}
+            </ul>
+          </section>
+
+          <!-- Instructions (@hakari semantic HowToStep) -->
+          <section aria-labelledby="instrucoes-title">
+            <h2 id="instrucoes-title" class="section-title">Modo de Preparo</h2>
+            <ol
+              class="instruction-list"
+              role="list"
+              aria-label="Passos do modo de preparo"
+            >
+              {data.instrucoes.map((step, i) => (
+                <li
+                  class="instruction-step"
+                  itemprop="recipeInstructions"
+                  itemscope
+                  itemtype="https://schema.org/HowToStep"
+                >
+                  <span class="instruction-number" aria-hidden="true">
+                    {String(i + 1).padStart(2, '0')}
+                  </span>
+                  <p itemprop="text">{step}</p>
+                </li>
+              ))}
+            </ol>
+          </section>
+        </div>
+
+        <!-- Rich content: passo a passo detalhado, dicas, variações (Markdown) -->
+        <div class="recipe-prose">
+          <slot />
+        </div>
+
+      </article>
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .recipe-page { padding-block: var(--space-8) var(--space-16); }
+
+  .recipe-page__header {
+    max-width: 760px;
+    margin-bottom: var(--space-8);
+  }
+
+  .recipe-page__badge-row { margin-bottom: var(--space-4); }
+
+  .recipe-page__title {
+    font-size: var(--text-4xl);
+    margin-bottom: var(--space-4);
+  }
+
+  .recipe-page__description {
+    font-size: var(--text-lg);
+    color: var(--color-muted);
+    margin-bottom: var(--space-4);
+    max-width: 65ch;
+  }
+
+  .recipe-page__figure {
+    margin-bottom: var(--space-6);
+  }
+
+  .recipe-page__image {
+    width: 100%;
+    max-height: 500px;
+    object-fit: cover;
+    border: var(--border);
+    box-shadow: var(--shadow-lg);
+  }
+
+  .recipe-page__columns {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: var(--space-12);
+    margin-top: var(--space-10);
+  }
+
+  @media (max-width: 768px) {
+    .recipe-page__columns {
+      grid-template-columns: 1fr;
+      gap: var(--space-8);
+    }
+  }
+
+  .nutrition-box small {
+    font-size: 0.6em;
+    font-weight: 400;
+    margin-left: 2px;
+  }
+
+  /* ── Conteúdo rico (Markdown) ─────────────────────────── */
+  .recipe-prose {
+    margin-top: var(--space-12);
+    border-top: var(--border);
+    padding-top: var(--space-10);
+    max-width: 780px;
+  }
+
+  .recipe-prose :global(h2) {
+    font-family: var(--font-display);
+    font-size: var(--text-2xl);
+    margin-top: var(--space-10);
+    margin-bottom: var(--space-4);
+    padding-bottom: var(--space-2);
+    border-bottom: 3px solid var(--color-accent);
+  }
+
+  .recipe-prose :global(h3) {
+    font-family: var(--font-display);
+    font-size: var(--text-xl);
+    margin-top: var(--space-8);
+    margin-bottom: var(--space-3);
+    color: var(--color-primary);
+  }
+
+  .recipe-prose :global(h4) {
+    font-size: var(--text-base);
+    font-weight: 700;
+    margin-top: var(--space-4);
+    margin-bottom: var(--space-2);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-muted);
+  }
+
+  .recipe-prose :global(p) {
+    font-size: var(--text-base);
+    line-height: 1.75;
+    margin-bottom: var(--space-4);
+    color: var(--color-ink);
+  }
+
+  .recipe-prose :global(ul),
+  .recipe-prose :global(ol) {
+    padding-left: var(--space-6);
+    margin-bottom: var(--space-4);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+  }
+
+  .recipe-prose :global(li) {
+    line-height: 1.7;
+  }
+
+  .recipe-prose :global(strong) {
+    font-weight: 700;
+    color: var(--color-ink);
+  }
+
+  /* Blockquote = caixa de dica */
+  .recipe-prose :global(blockquote) {
+    border-left: 4px solid var(--color-primary);
+    background: color-mix(in srgb, var(--color-primary) 8%, var(--color-canvas));
+    padding: var(--space-4) var(--space-6);
+    margin: var(--space-4) 0;
+    border-radius: 0 var(--radius) var(--radius) 0;
+    border: var(--border);
+    border-left-color: var(--color-primary);
+    border-left-width: 5px;
+    box-shadow: var(--shadow-sm);
+  }
+
+  .recipe-prose :global(blockquote p) {
+    margin: 0;
+    font-size: var(--text-sm);
+  }
+
+  /* Caixas de aviso (> ⚠️) com cor diferente */
+  .recipe-prose :global(blockquote:has(p:first-child:where([data-type="warning"])),
+  blockquote:has(p > strong:first-child)) {
+    border-left-color: var(--color-accent);
+    background: color-mix(in srgb, var(--color-accent) 10%, var(--color-canvas));
+  }
+
+  /* Tabelas de substituições */
+  .recipe-prose :global(table) {
+    width: 100%;
+    border-collapse: collapse;
+    margin: var(--space-6) 0;
+    border: var(--border);
+    box-shadow: var(--shadow-sm);
+    font-size: var(--text-sm);
+  }
+
+  .recipe-prose :global(th) {
+    background: var(--color-ink);
+    color: var(--color-surface);
+    padding: var(--space-3) var(--space-4);
+    text-align: left;
+    font-weight: 700;
+  }
+
+  .recipe-prose :global(td) {
+    padding: var(--space-3) var(--space-4);
+    border-bottom: 1px solid color-mix(in srgb, var(--color-ink) 15%, transparent);
+    vertical-align: top;
+  }
+
+  .recipe-prose :global(tr:nth-child(even) td) {
+    background: color-mix(in srgb, var(--color-ink) 4%, var(--color-canvas));
+  }
+
+  .recipe-prose :global(hr) {
+    border: none;
+    border-top: var(--border);
+    margin: var(--space-10) 0;
+  }
+
+  .recipe-prose :global(code) {
+    font-family: var(--font-mono);
+    font-size: 0.9em;
+    background: color-mix(in srgb, var(--color-ink) 8%, transparent);
+    padding: 0.1em 0.4em;
+    border-radius: var(--radius-sm);
+  }
+</style>

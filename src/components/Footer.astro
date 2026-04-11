@@ -1,0 +1,59 @@
+---
+// @hakari — <footer> landmark
+const categorias = [
+  { nome: 'Café da Manhã',     slug: 'cafe-da-manha' },
+  { nome: 'Almoço Fit',        slug: 'almoco-fit' },
+  { nome: 'Lanches Saudáveis', slug: 'lanches-saudaveis' },
+  { nome: 'Jantar Low Carb',   slug: 'jantar-low-carb' },
+  { nome: 'Sobremesas Fit',    slug: 'sobremesas-fit' },
+  { nome: 'Smoothies e Sucos', slug: 'smoothies-e-sucos' },
+  { nome: 'Pré-Treino',        slug: 'pre-treino' },
+  { nome: 'Pós-Treino',        slug: 'pos-treino' },
+];
+const year = new Date().getFullYear();
+---
+
+<footer class="site-footer" role="contentinfo">
+  <div class="container">
+    <div class="footer-grid">
+      <!-- Brand -->
+      <div class="footer-brand">
+        <p class="footer-brand__title">🥗 Melhores Receitas Fit</p>
+        <p class="footer-brand__tagline">
+          Receitas saudáveis, saborosas e com informações nutricionais completas
+          para sua alimentação equilibrada.
+        </p>
+      </div>
+
+      <!-- Categorias -->
+      <nav aria-label="Categorias de receitas" class="footer-links">
+        <h3>Categorias</h3>
+        <ul role="list">
+          {categorias.slice(0, 4).map(({ nome, slug }) => (
+            <li>
+              <a href={`/categoria/${slug}/`}>{nome}</a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+
+      <!-- Mais categorias -->
+      <nav aria-label="Mais categorias" class="footer-links">
+        <h3>Mais</h3>
+        <ul role="list">
+          {categorias.slice(4).map(({ nome, slug }) => (
+            <li>
+              <a href={`/categoria/${slug}/`}>{nome}</a>
+            </li>
+          ))}
+          <li><a href="/receitas/">Todas as Receitas</a></li>
+          <li><a href="/sobre/">Sobre</a></li>
+        </ul>
+      </nav>
+    </div>
+
+    <p class="footer-bottom">
+      &copy; {year} Melhores Receitas Fit. Todos os direitos reservados.
+    </p>
+  </div>
+</footer>

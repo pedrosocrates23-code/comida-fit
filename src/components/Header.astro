@@ -1,0 +1,177 @@
+---
+// @hakari — <header role="banner"> + <nav aria-label>
+// @higuruma — keyboard navigation, ARIA
+import SearchBar from './SearchBar.astro';
+
+const navLinks = [
+  { label: 'Receitas',   href: '/receitas/' },
+  { label: 'Categorias', href: '/#categorias' },
+  { label: 'Sobre',      href: '/sobre/' },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="site-header" role="banner">
+  <div class="container header__inner">
+    <!-- Logo -->
+    <a href="/" class="header__logo" aria-label="Melhores Receitas Fit — Página inicial">
+      <span class="header__logo-icon" aria-hidden="true">🥗</span>
+      <span class="header__logo-text">
+        Melhores<br /><strong>Receitas Fit</strong>
+      </span>
+    </a>
+
+    <!-- Nav principal (@hakari landmark) -->
+    <nav aria-label="Navegação principal" class="header__nav">
+      <ul role="list" class="header__nav-list">
+        {navLinks.map(({ label, href }) => (
+          <li>
+            <a
+              href={href}
+              class={`header__nav-link ${currentPath === href ? 'header__nav-link--active' : ''}`}
+              aria-current={currentPath === href ? 'page' : undefined}
+            >
+              {label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+
+    <!-- Search -->
+    <div class="header__search">
+      <SearchBar />
+    </div>
+
+    <!-- Mobile menu button (@higuruma) -->
+    <button
+      class="header__mobile-btn"
+      aria-label="Abrir menu de navegação"
+      aria-expanded="false"
+      aria-controls="mobile-menu"
+      id="mobile-menu-btn"
+    >
+      <span aria-hidden="true">☰</span>
+    </button>
+  </div>
+
+  <!-- Mobile menu (@choso progressive) -->
+  <div id="mobile-menu" class="mobile-menu" hidden aria-label="Menu mobile">
+    <nav aria-label="Menu mobile">
+      <ul role="list" class="mobile-menu__list">
+        {navLinks.map(({ label, href }) => (
+          <li>
+            <a href={href} class="mobile-menu__link">{label}</a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: var(--color-canvas);
+    border-bottom: var(--border);
+  }
+
+  .header__inner {
+    display: flex;
+    align-items: center;
+    gap: var(--space-6);
+    height: 4rem;
+  }
+
+  .header__logo {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    text-decoration: none;
+    flex-shrink: 0;
+  }
+  .header__logo-icon { font-size: 1.75rem; line-height: 1; }
+  .header__logo-text {
+    font-family: var(--font-display);
+    font-size: 0.95rem;
+    line-height: 1.2;
+    color: var(--color-ink);
+  }
+  .header__logo-text strong { color: var(--color-primary); }
+
+  .header__nav { margin-left: auto; }
+  .header__nav-list {
+    display: flex;
+    list-style: none;
+    gap: var(--space-1);
+  }
+  .header__nav-link {
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: var(--text-sm);
+    padding: var(--space-2) var(--space-3);
+    border: 2px solid transparent;
+    text-decoration: none;
+    transition: all var(--transition);
+    color: var(--color-ink);
+  }
+  .header__nav-link:hover,
+  .header__nav-link--active {
+    background: var(--color-primary);
+    color: var(--color-surface);
+    border-color: var(--color-ink);
+    box-shadow: 3px 3px 0 var(--color-ink);
+    transform: translate(-1px, -1px);
+  }
+
+  .header__search { margin-left: var(--space-4); }
+
+  .header__mobile-btn {
+    display: none;
+    margin-left: auto;
+    background: none;
+    border: var(--border);
+    padding: var(--space-2) var(--space-3);
+    font-size: var(--text-lg);
+    cursor: pointer;
+  }
+
+  .mobile-menu {
+    border-top: var(--border);
+    background: var(--color-surface);
+    padding: var(--space-4);
+  }
+  .mobile-menu__list { list-style: none; display: flex; flex-direction: column; gap: var(--space-2); }
+  .mobile-menu__link {
+    display: block;
+    padding: var(--space-3);
+    font-weight: 600;
+    border: 2px solid transparent;
+    transition: all var(--transition);
+  }
+  .mobile-menu__link:hover {
+    background: var(--color-primary);
+    color: var(--color-surface);
+    border-color: var(--color-ink);
+  }
+
+  @media (max-width: 768px) {
+    .header__nav,
+    .header__search { display: none; }
+    .header__mobile-btn { display: flex; }
+  }
+</style>
+
+<script>
+  const btn  = document.getElementById('mobile-menu-btn');
+  const menu = document.getElementById('mobile-menu');
+  btn?.addEventListener('click', () => {
+    const isOpen = menu?.hidden === false;
+    if (menu) menu.hidden = isOpen;
+    btn.setAttribute('aria-expanded', String(!isOpen));
+    btn.setAttribute('aria-label', isOpen ? 'Abrir menu' : 'Fechar menu');
+  });
+</script>
