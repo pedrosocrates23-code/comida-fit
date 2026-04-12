@@ -39,7 +39,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Hidrate e dissolva a gelatina corretamente
-Despeje as 3 colheres de sopa de água fria em uma tigelinha pequena e polvilhe o envelope de gelatina em pó por cima, de forma uniforme. Aguarde exatamente 5 minutos — nesse tempo a gelatina absorve a água e incha (processo chamado de hidratação). Depois leve ao micro-ondas por 15 segundos em potência média, ou em banho-maria por 2 minutos, mexendo até a mistura ficar completamente transparente e líquida, sem nenhum grânulo visível.
+Despeje as 3 colheres de sopa de água fria em uma tigelinha pequena e polvilhe o envelope de gelatina em pó por cima, de forma uniforme. Aguarde exatamente 5 minutos.
+
+Nesse tempo a gelatina absorve a água e incha (processo chamado de hidratação). Depois leve ao micro-ondas por 15 segundos em potência média, ou em banho-maria por 2 minutos, mexendo até a mistura ficar completamente transparente e líquida, sem nenhum grânulo visível.
 
 > 💡 **Dica:** Verifique a temperatura da gelatina dissolvida antes de adicionar ao creme: ela deve estar morna, não quente. Gelatina quente pode "talhar" o iogurte grego ao entrar em contato, criando grumos indesejados na textura final.
 
@@ -48,9 +50,11 @@ Despeje as 3 colheres de sopa de água fria em uma tigelinha pequena e polvilhe 
 ---
 
 ### Passo 2: Bata a polpa de maracujá com o mel
-Corte os 3 maracujás ao meio e retire a polpa com sementes para um liquidificador. Adicione as 3 colheres de sopa de mel. Bata em velocidade média por 1 minuto — as sementes não se dissolvem, mas o processo libera os aromas e homogeneíza o mel à polpa. Se preferir mousse sem sementes, passe a polpa batida por uma peneira fina, pressionando com uma colher para extrair o máximo de suco e sabor.
+Corte os 3 maracujás ao meio e retire a polpa com sementes para um liquidificador. Adicione as 3 colheres de sopa de mel. Bata em velocidade média por 1 minuto.
 
-> 💡 **Dica:** Maracujás maduros têm a casca levemente enrugada e são mais pesados — isso indica polpa abundante e mais doce. Maracujás lisos e muito firmes tendem a ser mais ácidos e com menos polpa. Escolha os enrugados para uma mousse naturalmente mais adocicada.
+As sementes não se dissolvem, mas o processo libera os aromas e homogeneíza o mel à polpa. Se preferir mousse sem sementes, passe a polpa batida por uma peneira fina, pressionando com uma colher para extrair o máximo de suco e sabor.
+
+> 💡 **Dica:** Maracujás maduros têm a casca levemente enrugada e são mais pesados, isso indica polpa abundante e mais doce. Maracujás lisos e muito firmes tendem a ser mais ácidos e com menos polpa. Escolha os enrugados para uma mousse naturalmente mais adocicada.
 
 > ⚠️ **Erro comum:** Usar polpa industrializada congelada sem ajustar o mel. Polpas industrializadas costumam ser mais ácidas que a fruta fresca. Prove a polpa antes de adicionar o mel e ajuste a quantidade conforme a acidez.
 
@@ -75,18 +79,22 @@ Com a gelatina morna (não quente) e completamente líquida, despeje-a em fio co
 ---
 
 ### Passo 5: Distribua nas taças e leve à geladeira
-Divida o creme igualmente em 4 taças de sobremesa ou potinhos individuais. Use uma colher para nivelar a superfície de cada porção. Cubra com filme plástico encostado diretamente na superfície do creme — isso evita a formação de película ressecada por cima. Leve à geladeira por no mínimo 2 horas, ou de preferência durante a noite, para que a gelatina firme completamente e a mousse adquira textura cremosa e consistente.
+Divida o creme igualmente em 4 taças de sobremesa ou potinhos individuais. Use uma colher para nivelar a superfície de cada porção. Cubra com filme plástico encostado diretamente na superfície do creme.
+
+Isso evita a formação de película ressecada por cima. Leve à geladeira por no mínimo 2 horas, ou de preferência durante a noite, para que a gelatina firme completamente e a mousse adquira textura cremosa e consistente.
 
 > 💡 **Dica:** Na hora de servir, decore com 1 colher de chá de polpa fresca de maracujá por cima e algumas raspas de limão-siciliano. O contraste entre a mousse gelada e a polpa fresca com sementes crocantes eleva visualmente e sensorialmente a sobremesa.
 
-> ⚠️ **Erro comum:** Servir a mousse antes das 2 horas mínimas de geladeira. Antes desse tempo, a textura fica líquida e aguada porque a gelatina ainda não terminou de gelificar. Planeje com antecedência — a mousse pode ficar na geladeira por até 3 dias.
+> ⚠️ **Erro comum:** Servir a mousse antes das 2 horas mínimas de geladeira. Antes desse tempo, a textura fica líquida e aguada porque a gelatina ainda não terminou de gelificar. Planeje com antecedência, a mousse pode ficar na geladeira por até 3 dias.
 
 ---
 
 ## Dicas Essenciais
 
 ### 🍮 A textura perfeita da mousse depende da gelatina
-A quantidade de gelatina nesta receita foi calibrada para um resultado cremoso e levemente firme — não como uma gelatina sólida, mas com estrutura suficiente para manter a forma na colher. Se preferir uma mousse mais firme (que se sustente desenformada), use 1,5 envelopes de gelatina. Para uma textura mais suave, próxima de um iogurte espesso, use apenas 3/4 do envelope.
+A quantidade de gelatina nesta receita foi calibrada para um resultado cremoso e levemente firme.
+
+Não como uma gelatina sólida, mas com estrutura suficiente para manter a forma na colher. Se preferir uma mousse mais firme (que se sustente desenformada), use 1,5 envelopes de gelatina. Para uma textura mais suave, próxima de um iogurte espesso, use apenas 3/4 do envelope.
 
 ### 🌟 Iogurte grego é o segredo da creaminess
 O iogurte grego tem de 2 a 3 vezes mais proteína que iogurtes convencionais justamente porque passa por um processo de coagem que remove o soro. Essa concentração de proteínas também é responsável pela textura densa e cremosa que substitui perfeitamente o creme de leite em sobremesas fit. Use sempre iogurte grego com no mínimo 9g de proteína por 100g na embalagem.
@@ -110,7 +118,9 @@ O mel adiciona doçura natural e um leve caramelo ao sabor, mas pode ser substit
 
 ## Como Armazenar
 
-**Geladeira:** 3 dias em taças cobertas com filme plástico ou tampa. A textura melhora após a primeira noite — fica mais firme e os sabores se integram.
+**Geladeira:** 3 dias em taças cobertas com filme plástico ou tampa. A textura melhora após a primeira noite.
+
+Fica mais firme e os sabores se integram.
 
 **Freezer:** Não recomendado. A gelatina perde a capacidade de gelificar após descongelamento e o iogurte fica com textura granulada e aguada.
 
@@ -120,7 +130,9 @@ O mel adiciona doçura natural e um leve caramelo ao sabor, mas pode ser substit
 
 ## Por que essa Receita é Fit?
 
-O iogurte grego desnatado é a estrela nutricional desta receita. Com aproximadamente 10g de proteína por 100g, ele entrega proteína completa — com todos os aminoácidos essenciais — a partir de uma fonte leve e de fácil digestão. As proteínas do iogurte incluem caseína e soro do leite (whey), que têm perfis de absorção complementares: o whey é absorvido rapidamente e a caseína de forma lenta, garantindo saciedade prolongada após o consumo.
+O iogurte grego desnatado é a estrela nutricional desta receita. Com aproximadamente 10g de proteína por 100g, ele entrega proteína completa.
+
+Com todos os aminoácidos essenciais, a partir de uma fonte leve e de fácil digestão. As proteínas do iogurte incluem caseína e soro do leite (whey), que têm perfis de absorção complementares: o whey é absorvido rapidamente e a caseína de forma lenta, garantindo saciedade prolongada após o consumo.
 
 O maracujá é uma fruta com propriedades sedativas e ansiolíticas comprovadas pela presença de flavonoides como a passiflorina. Rico em vitamina C, vitaminas do complexo B e fibras, tem índice glicêmico moderado e uma característica única: a acidez natural inibe o desejo por sobremesas mais ricas após o consumo. A polpa fresca também contém antioxidantes que combatem o estresse oxidativo causado pelo treino intenso.
 
@@ -134,7 +146,9 @@ Com apenas 112 calorias por porção e 9g de proteína, esta mousse tem uma dens
 Sim, mas verifique se não tem açúcar adicionado. Polpas 100% fruta congeladas funcionam bem e são uma alternativa prática fora da época do maracujá fresco. Descongele na geladeira antes de usar e ajuste o mel conforme a acidez da polpa.
 
 **A mousse fica com sabor de gelatina?**
-Não. A quantidade de gelatina usada é suficiente apenas para dar estrutura, sem deixar o sabor característico de gelatina industrializada. A gelatina sem sabor incolor é neutra e invisível no resultado final — você sentirá apenas maracujá e iogurte.
+Não. A quantidade de gelatina usada é suficiente apenas para dar estrutura, sem deixar o sabor característico de gelatina industrializada. A gelatina sem sabor incolor é neutra e invisível no resultado final.
+
+Você sentirá apenas maracujá e iogurte.
 
 **Posso substituir o iogurte grego por queijo cottage?**
 Sim, bata o cottage no liquidificador até ficar completamente liso antes de usar. A textura final será ligeiramente menos cremosa e o sabor um pouco mais salgado. Adicione uma colher extra de mel para compensar. O perfil nutricional será similar, com talvez 1-2g a mais de proteína por porção.

@@ -43,7 +43,9 @@ featured: true
 ## Passo a Passo Detalhado
 
 ### Passo 1: Marine o camarão com temperos aromáticos
-Combine em uma tigela o alho picado, o suco de limão, a páprica, o sal, a pimenta e metade do azeite. Adicione o camarão limpo e misture bem para que todos os pedaços fiquem envolvidos. Deixe marinar por 10 minutos em temperatura ambiente — esse tempo é suficiente para o ácido do limão começar a realçar o sabor sem "cozinhar" o camarão antes de grelhar.
+Combine em uma tigela o alho picado, o suco de limão, a páprica, o sal, a pimenta e metade do azeite. Adicione o camarão limpo e misture bem para que todos os pedaços fiquem envolvidos. Deixe marinar por 10 minutos em temperatura ambiente.
+
+Esse tempo é suficiente para o ácido do limão começar a realçar o sabor sem "cozinhar" o camarão antes de grelhar.
 
 > 💡 **Dica:** Se tiver mais tempo, marine na geladeira por até 30 minutos. A páprica vai colorir lindamente o camarão e adicionar uma leve defumação ao sabor.
 
@@ -52,34 +54,42 @@ Combine em uma tigela o alho picado, o suco de limão, a páprica, o sal, a pime
 ---
 
 ### Passo 2: Grelhe o camarão em frigideira bem quente
-Aqueça a frigideira em fogo alto por 2 minutos antes de adicionar o camarão — ela deve estar realmente quente para selar rapidamente e criar aquela cor dourada irresistível. Distribua os camarões em uma única camada, sem sobrepor, e grelhe por 2 a 3 minutos de cada lado. O sinal de que estão prontos: o camarão muda de cinza translúcido para branco-rosado opaco e fica ligeiramente enrolado em forma de "C".
+Aqueça a frigideira em fogo alto por 2 minutos antes de adicionar o camarão.
 
-> 💡 **Dica:** Use frigideira de ferro fundido ou antiaderente pesada. Quanto mais quente a superfície, melhor o selamento e menos umidade liberada — o resultado é um camarão suculento, não cozido no próprio líquido.
+Ela deve estar realmente quente para selar rapidamente e criar aquela cor dourada irresistível. Distribua os camarões em uma única camada, sem sobrepor, e grelhe por 2 a 3 minutos de cada lado. O sinal de que estão prontos: o camarão muda de cinza translúcido para branco-rosado opaco e fica ligeiramente enrolado em forma de "C".
+
+> 💡 **Dica:** Use frigideira de ferro fundido ou antiaderente pesada. Quanto mais quente a superfície, melhor o selamento e menos umidade liberada, o resultado é um camarão suculento, não cozido no próprio líquido.
 
 > ⚠️ **Erro comum:** Colocar camarão demais de uma vez baixa a temperatura da frigideira e o camarão acaba cozinhando no vapor em vez de grelhar. Trabalhe em duas levas se necessário.
 
 ---
 
 ### Passo 3: Monte a salada fresca
-Distribua as folhas verdes em uma travessa ou prato grande. Adicione as fatias de pepino (de preferência cortadas em meias-luas para mais elegância) e os tomates-cereja cortados ao meio. A combinação de texturas — folhas delicadas, pepino crocante e tomates suculentos — cria o contraponto perfeito para o camarão quente.
+Distribua as folhas verdes em uma travessa ou prato grande. Adicione as fatias de pepino (de preferência cortadas em meias-luas para mais elegância) e os tomates-cereja cortados ao meio. A combinação de texturas.
+
+Folhas delicadas, pepino crocante e tomates suculentos, cria o contraponto perfeito para o camarão quente.
 
 > 💡 **Dica:** Seque bem as folhas com centrifugador de salada ou papel toalha antes de montar. Folhas molhadas diluem o tempero e deixam a salada aguada.
 
-> ⚠️ **Erro comum:** Não misture a salada com antecedência. As folhas murcham rapidamente em contato com sal e acidez — monte somente na hora de servir.
+> ⚠️ **Erro comum:** Não misture a salada com antecedência. As folhas murcham rapidamente em contato com sal e acidez, monte somente na hora de servir.
 
 ---
 
 ### Passo 4: Tempere a salada com azeite e pimenta
-Regue as folhas com o restante do azeite em fio, distribuindo uniformemente. Tempere com sal e pimenta a gosto. Se quiser uma camada extra de sabor, adicione algumas gotas de limão sobre as folhas — isso funciona como um tempero leve sem precisar de vinagrete elaborado.
+Regue as folhas com o restante do azeite em fio, distribuindo uniformemente. Tempere com sal e pimenta a gosto. Se quiser uma camada extra de sabor, adicione algumas gotas de limão sobre as folhas.
+
+Isso funciona como um tempero leve sem precisar de vinagrete elaborado.
 
 > 💡 **Dica:** Use azeite extra virgem de qualidade nesta etapa, pois ele não vai ao fogo e seu sabor frutado vai brilhar na salada crua.
 
-> ⚠️ **Erro comum:** Exagerar no sal antes de colocar o camarão. Lembre-se que o camarão já foi temperado na marinada — prove antes de adicionar mais sal.
+> ⚠️ **Erro comum:** Exagerar no sal antes de colocar o camarão. Lembre-se que o camarão já foi temperado na marinada, prove antes de adicionar mais sal.
 
 ---
 
 ### Passo 5: Sirva o camarão quente sobre a salada imediatamente
-Disponha os camarões grelhados sobre a salada montada logo após sair da frigideira. O contraste entre o camarão quente e as folhas frescas é parte da experiência deste prato — o calor do camarão levemente murcha as folhas mais próximas, criando uma textura agradável que mistura cru e levemente aquecido.
+Disponha os camarões grelhados sobre a salada montada logo após sair da frigideira. O contraste entre o camarão quente e as folhas frescas é parte da experiência deste prato.
+
+O calor do camarão levemente murcha as folhas mais próximas, criando uma textura agradável que mistura cru e levemente aquecido.
 
 > 💡 **Dica:** Sirva em pratos aquecidos (passe água quente no prato antes de montar) para que o camarão não esfrie tão rapidamente.
 
@@ -90,19 +100,27 @@ Disponha os camarões grelhados sobre a salada montada logo após sair da frigid
 ## Dicas Essenciais
 
 ### 🌡️ A frigideira no ponto certo de temperatura
-A temperatura é o segredo do camarão grelhado perfeito. Teste com uma gota de água — ela deve evaporar instantaneamente com um chiado forte. Em temperatura baixa, o camarão solta água e cozinha no próprio líquido, resultando em uma textura mole e sem cor. Em temperatura alta, o processo de Maillard acontece rapidamente, criando a crosta dourada e o sabor caramelizado que fazem toda a diferença.
+A temperatura é o segredo do camarão grelhado perfeito. Teste com uma gota de água.
+
+Ela deve evaporar instantaneamente com um chiado forte. Em temperatura baixa, o camarão solta água e cozinha no próprio líquido, resultando em uma textura mole e sem cor. Em temperatura alta, o processo de Maillard acontece rapidamente, criando a crosta dourada e o sabor caramelizado que fazem toda a diferença.
 
 ### 🔪 Como limpar o camarão corretamente
 Se comprar camarão com casca, retire a cabeça, a casca e o fio intestinal (o fio escuro que fica no dorso). Para remover o fio, faça um corte raso no dorso com uma faquinha e puxe com a ponta do próprio utensílio. Camarão bem limpo não tem sabor amargo e apresenta melhor textura após o cozimento.
 
 ### ⏱️ O timing perfeito para não passar do ponto
-Camarão passa do ponto em segundos. Assim que o camarão fica completamente rosado e forma um "C" fechado, tire imediatamente do fogo. Se ele estiver formando um "O" (completamente enrolado), passou do ponto e estará borrachudo. Prefira o ponto ligeiramente translúcido no centro — o calor residual termina o cozimento fora da frigideira.
+Camarão passa do ponto em segundos. Assim que o camarão fica completamente rosado e forma um "C" fechado, tire imediatamente do fogo. Se ele estiver formando um "O" (completamente enrolado), passou do ponto e estará borrachudo. Prefira o ponto ligeiramente translúcido no centro.
+
+O calor residual termina o cozimento fora da frigideira.
 
 ### 🌿 Escolha das folhas verdes para a salada
-Aposte em um mix com folhas de sabores variados: rúcula para amargar levemente, alface americana para crocância, espinafre baby para maciez e talvez um pouco de radicchio para cor. Evite usar apenas alface iceberg — ela é aguada e não tem sabor nem nutrientes suficientes para equilibrar o prato.
+Aposte em um mix com folhas de sabores variados: rúcula para amargar levemente, alface americana para crocância, espinafre baby para maciez e talvez um pouco de radicchio para cor. Evite usar apenas alface iceberg.
+
+Ela é aguada e não tem sabor nem nutrientes suficientes para equilibrar o prato.
 
 ### 🍋 O limão como protagonista da receita
-Tanto na marinada quanto no tempero final, o limão desempenha papel central nesta receita. Além de aromatizar, o suco de limão ajuda a realçar o sabor do azeite e equilibra a salinidade do camarão. Use limão fresco — o limão engarrafado tem sabor artificial que compromete o resultado.
+Tanto na marinada quanto no tempero final, o limão desempenha papel central nesta receita. Além de aromatizar, o suco de limão ajuda a realçar o sabor do azeite e equilibra a salinidade do camarão. Use limão fresco.
+
+O limão engarrafado tem sabor artificial que compromete o resultado.
 
 ---
 
@@ -121,7 +139,9 @@ Tanto na marinada quanto no tempero final, o limão desempenha papel central nes
 
 ## Como Armazenar
 
-**Geladeira:** O camarão grelhado dura até 2 dias em recipiente fechado. A salada montada não deve ser armazenada — as folhas murcham e perdem textura em contato com o tempero.
+**Geladeira:** O camarão grelhado dura até 2 dias em recipiente fechado. A salada montada não deve ser armazenada.
+
+As folhas murcham e perdem textura em contato com o tempero.
 
 **Freezer:** Não recomendado para a receita montada. O camarão pode ser congelado cru antes de marinar por até 3 meses.
 
@@ -142,7 +162,9 @@ As folhas verdes adicionam fibras, ácido fólico, vitaminas K, C e E, e compost
 ## Perguntas Frequentes
 
 **Posso usar camarão congelado nesta receita?**
-Sim, mas descongele completamente antes de marinar. O ideal é deixar na geladeira de um dia para o outro ou em água fria por 30 minutos. Seque bem com papel toalha antes de grelhar — o excesso de umidade impede a formação da crosta dourada.
+Sim, mas descongele completamente antes de marinar. O ideal é deixar na geladeira de um dia para o outro ou em água fria por 30 minutos. Seque bem com papel toalha antes de grelhar.
+
+O excesso de umidade impede a formação da crosta dourada.
 
 **Como saber se o camarão está no ponto certo sem cortar?**
 Observe a cor e o formato. Camarão cru é cinza translúcido. Quando fica completamente rosado-branco e se enrola levemente formando um "C", está no ponto. Se você ver um "O" (enrolado completamente), passou um pouco do ponto, mas ainda estará bom. O "O" fechado com textura firme demais indica camarão borrachudo.

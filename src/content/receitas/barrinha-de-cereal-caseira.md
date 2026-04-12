@@ -43,7 +43,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Preparar a forma e o forno
-Pré-aqueça o forno a 170°C — uma temperatura mais baixa do que o usual é proposital aqui, porque o mel queima facilmente em temperaturas altas e deixaria as barrinhas amargas. Forre uma forma retangular pequena (aproximadamente 20 x 15 cm) com papel-manteiga deixando sobra nas bordas para facilitar na hora de retirar. Essa sobra funciona como uma "alça" e evita que as barrinhas quebrem ao serem removidas.
+Pré-aqueça o forno a 170°C.
+
+Uma temperatura mais baixa do que o usual é proposital aqui, porque o mel queima facilmente em temperaturas altas e deixaria as barrinhas amargas. Forre uma forma retangular pequena (aproximadamente 20 x 15 cm) com papel-manteiga deixando sobra nas bordas para facilitar na hora de retirar. Essa sobra funciona como uma "alça" e evita que as barrinhas quebrem ao serem removidas.
 
 > 💡 **Dica:** Unte levemente o papel-manteiga com um fio de azeite ou spray antiaderente para garantir que nada grude, especialmente nas laterais.
 
@@ -52,25 +54,31 @@ Pré-aqueça o forno a 170°C — uma temperatura mais baixa do que o usual é p
 ---
 
 ### Passo 2: Tostar a aveia
-Coloque os flocos de aveia em uma frigideira seca (sem óleo) em fogo médio e mexa constantemente por cerca de 3 minutos. Você vai perceber a mudança: a aveia vai escurecer levemente e liberar um aroma de noz tostada. Esse passo transforma completamente o sabor final da barrinha — a aveia crua tem um gosto neutro e farinhento, enquanto a tostada traz profundidade e crocância real.
+Coloque os flocos de aveia em uma frigideira seca (sem óleo) em fogo médio e mexa constantemente por cerca de 3 minutos. Você vai perceber a mudança: a aveia vai escurecer levemente e liberar um aroma de noz tostada. Esse passo transforma completamente o sabor final da barrinha.
+
+A aveia crua tem um gosto neutro e farinhento, enquanto a tostada traz profundidade e crocância real.
 
 > 💡 **Dica:** Se sua frigideira for de aço inox, mantenha o fogo médio-baixo. Em frigideiras de teflon, médio já é suficiente. O objetivo é tostar, não queimar.
 
-> ⚠️ **Erro comum:** Tostar a aveia em fogo alto e depois esquecê-la por 1 minuto. A aveia queima muito rápido — fique de olho e não pare de mexer.
+> ⚠️ **Erro comum:** Tostar a aveia em fogo alto e depois esquecê-la por 1 minuto. A aveia queima muito rápido, fique de olho e não pare de mexer.
 
 ---
 
 ### Passo 3: Preparar a liga de mel e manteiga de amendoim
-Em uma panela pequena, misture o mel e a manteiga de amendoim em fogo baixo. Mexa com uma colher de silicone até os dois ingredientes se unirem em uma calda homogênea e levemente borbulhante. Isso leva cerca de 2 minutos. Essa mistura é a cola que vai manter a barrinha unida — ela precisa estar bem derretida e misturada para distribuir uniformemente por todos os ingredientes secos.
+Em uma panela pequena, misture o mel e a manteiga de amendoim em fogo baixo. Mexa com uma colher de silicone até os dois ingredientes se unirem em uma calda homogênea e levemente borbulhante. Isso leva cerca de 2 minutos. Essa mistura é a cola que vai manter a barrinha unida.
+
+Ela precisa estar bem derretida e misturada para distribuir uniformemente por todos os ingredientes secos.
 
 > 💡 **Dica:** Use manteiga de amendoim integral (aquela com a camada de óleo por cima) para um sabor mais rico e uma liga mais eficiente do que as versões cremosas industriais.
 
-> ⚠️ **Erro comum:** Aquecer a mistura em fogo alto e fazer a calda caramelizar demais. Fogo baixo e paciência são tudo nesse passo — a mistura deve esquentar, mas não borbulhar intensamente.
+> ⚠️ **Erro comum:** Aquecer a mistura em fogo alto e fazer a calda caramelizar demais. Fogo baixo e paciência são tudo nesse passo, a mistura deve esquentar, mas não borbulhar intensamente.
 
 ---
 
 ### Passo 4: Combinar os ingredientes
-Em um bowl grande, coloque a aveia tostada ainda morna, as castanhas picadas, as sementes de girassol, as uvas-passas e o sal marinho. Despeje a calda de mel e amendoim por cima imediatamente — a mistura precisa estar quente para cobrir tudo de forma uniforme. Mexa com uma espátula de forma rápida e enérgica, garantindo que cada floco de aveia seja coberto pela calda. Você tem cerca de 2 minutos antes de a mistura começar a firmar.
+Em um bowl grande, coloque a aveia tostada ainda morna, as castanhas picadas, as sementes de girassol, as uvas-passas e o sal marinho. Despeje a calda de mel e amendoim por cima imediatamente.
+
+A mistura precisa estar quente para cobrir tudo de forma uniforme. Mexa com uma espátula de forma rápida e enérgica, garantindo que cada floco de aveia seja coberto pela calda. Você tem cerca de 2 minutos antes de a mistura começar a firmar.
 
 > 💡 **Dica:** Adicione sementes de chia, coco ralado sem açúcar ou nibs de cacau nesse momento para variar a receita sem comprometer a estrutura.
 
@@ -79,33 +87,41 @@ Em um bowl grande, coloque a aveia tostada ainda morna, as castanhas picadas, as
 ---
 
 ### Passo 5: Pressionar e assar
-Transfira a mistura para a forma preparada e pressione com força usando o fundo de um copo ou as costas de uma colher úmida. A compressão é o segredo para barrinhas que não se esfareiam — quanto mais firme você pressionar, melhor a estrutura final. A camada deve ficar uniforme. Leve ao forno a 170°C por 20 minutos, ou até as bordas dourarem levemente.
+Transfira a mistura para a forma preparada e pressione com força usando o fundo de um copo ou as costas de uma colher úmida. A compressão é o segredo para barrinhas que não se esfareiam.
+
+Quanto mais firme você pressionar, melhor a estrutura final. A camada deve ficar uniforme. Leve ao forno a 170°C por 20 minutos, ou até as bordas dourarem levemente.
 
 > 💡 **Dica:** Depois de pressionar na forma, coloque um pedaço extra de papel-manteiga por cima e pressione novamente com outra forma menor. Isso garante superfície completamente plana.
 
-> ⚠️ **Erro comum:** Retirar do forno quando ainda estiver mole no centro. A barrinha parece frágil quando quente, mas firma enquanto esfria — confie no processo.
+> ⚠️ **Erro comum:** Retirar do forno quando ainda estiver mole no centro. A barrinha parece frágil quando quente, mas firma enquanto esfria, confie no processo.
 
 ---
 
 ### Passo 6: Esfriar e cortar
 Esse passo exige paciência: retire do forno e deixe esfriar completamente na forma, em temperatura ambiente, por pelo menos 30 minutos. Só então leve à geladeira por mais 15 minutos antes de cortar. Use uma faca afiada e um único movimento para baixo (sem serrar) para obter cortes limpos. Rende aproximadamente 8 barrinhas.
 
-> 💡 **Dica:** Marque as linhas de corte com a faca antes de levar à geladeira — isso facilita muito e evita que as bordas quebrem.
+> 💡 **Dica:** Marque as linhas de corte com a faca antes de levar à geladeira, isso facilita muito e evita que as bordas quebrem.
 
-> ⚠️ **Erro comum:** Cortar ainda quente. A barrinha vai se despedaçar completamente. O resfriamento total não é opcional — é parte fundamental da receita.
+> ⚠️ **Erro comum:** Cortar ainda quente. A barrinha vai se despedaçar completamente. O resfriamento total não é opcional, é parte fundamental da receita.
 
 ---
 
 ## Dicas Essenciais
 
 ### 🌡️ A temperatura de forno faz toda a diferença
-170°C pode parecer baixo, mas é a temperatura ideal para secar a barrinha sem queimar o mel. Fornos que não são calibrados costumam estar 10–15°C acima do indicado — se as bordas estiverem escurecendo muito rápido nos primeiros 10 minutos, reduza para 160°C. O objetivo é uma cor dourada uniforme, não marrom escuro.
+170°C pode parecer baixo, mas é a temperatura ideal para secar a barrinha sem queimar o mel. Fornos que não são calibrados costumam estar 10–15°C acima do indicado.
+
+Se as bordas estiverem escurecendo muito rápido nos primeiros 10 minutos, reduza para 160°C. O objetivo é uma cor dourada uniforme, não marrom escuro.
 
 ### 🔪 O corte perfeito é uma técnica
-Use uma faca grande e afiada. Aqueça a lâmina passando-a rapidamente sob água quente e seque antes de cortar — isso ajuda a cortar a barrinha sem esfarelar as bordas. Corte em movimento único, de cima para baixo, sem arrastar. Limpe a faca entre os cortes para resultados mais precisos.
+Use uma faca grande e afiada. Aqueça a lâmina passando-a rapidamente sob água quente e seque antes de cortar.
+
+Isso ajuda a cortar a barrinha sem esfarelar as bordas. Corte em movimento único, de cima para baixo, sem arrastar. Limpe a faca entre os cortes para resultados mais precisos.
 
 ### ⏱️ Preparo em lote economiza tempo
-Essa receita escala muito bem. Dobre ou triplique as quantidades usando uma forma maior e você tem lanches para a semana toda. As barrinhas duram até 7 dias na geladeira em pote fechado — perfeitas para levar ao trabalho, à academia ou como lanche pré-treino de emergência.
+Essa receita escala muito bem. Dobre ou triplique as quantidades usando uma forma maior e você tem lanches para a semana toda. As barrinhas duram até 7 dias na geladeira em pote fechado.
+
+Perfeitas para levar ao trabalho, à academia ou como lanche pré-treino de emergência.
 
 ### 🥜 A qualidade dos ingredientes importa
 Mel puro (sem adição de xarope de milho) e manteiga de amendoim 100% natural fazem diferença real no sabor e na liga. Ingredientes industrializados com açúcar adicionado alteram a textura e o ponto de caramelização, podendo resultar em barrinhas duras demais ou que não firmam corretamente.
@@ -135,7 +151,9 @@ Mel puro (sem adição de xarope de milho) e manteiga de amendoim 100% natural f
 
 ## Por que essa Receita é Fit?
 
-A barrinha de cereal caseira é uma alternativa real às versões industriais, que normalmente carregam xarope de glicose, conservantes, aromatizantes artificiais e açúcar refinado como segundo ou terceiro ingrediente. Aqui, você controla cada componente. Com 165 calorias por porção, a barrinha entrega 24g de carboidratos de baixo a médio índice glicêmico, vindos majoritariamente da aveia, que é rica em beta-glucana — uma fibra solúvel comprovadamente eficaz em reduzir o colesterol LDL e promover saciedade prolongada.
+A barrinha de cereal caseira é uma alternativa real às versões industriais, que normalmente carregam xarope de glicose, conservantes, aromatizantes artificiais e açúcar refinado como segundo ou terceiro ingrediente. Aqui, você controla cada componente. Com 165 calorias por porção, a barrinha entrega 24g de carboidratos de baixo a médio índice glicêmico, vindos majoritariamente da aveia, que é rica em beta-glucana.
+
+Uma fibra solúvel comprovadamente eficaz em reduzir o colesterol LDL e promover saciedade prolongada.
 
 A combinação de aveia com manteiga de amendoim natural oferece uma proporção equilibrada de carboidratos complexos e gorduras insaturadas, o que significa que a energia é liberada de forma gradual, sem pico de glicemia seguido de queda brusca. Isso faz da barrinha um lanche pré-treino excelente, consumido 30 a 45 minutos antes da atividade, fornecendo combustível sustentado sem pesar no estômago.
 
@@ -146,7 +164,9 @@ As castanhas-do-pará merecem destaque especial: duas unidades já fornecem 100%
 ## Perguntas Frequentes
 
 **A barrinha fica muito dura depois de gelar?**
-Se ficou muito dura, provavelmente foi pressionada com força excessiva ou assada por tempo demais. Para o próximo preparo, pressione de forma firme mas não extrema, e retire do forno quando as bordas estiverem douradas (não marrons). Barrinhas mais finas também tendem a ficar mais duras — tente usar uma forma menor para maior espessura.
+Se ficou muito dura, provavelmente foi pressionada com força excessiva ou assada por tempo demais. Para o próximo preparo, pressione de forma firme mas não extrema, e retire do forno quando as bordas estiverem douradas (não marrons). Barrinhas mais finas também tendem a ficar mais duras.
+
+Tente usar uma forma menor para maior espessura.
 
 **Posso fazer sem mel, para versão vegana sem açúcar?**
 Sim. Substitua o mel por xarope de agave (quantidade igual) para manter a consistência vegana. Para versão sem adoçante, tâmaras trituradas com um pouco de água funcionam como liga natural, porém a textura fica um pouco mais úmida e as barrinhas devem ser consumidas em até 4 dias.

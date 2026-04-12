@@ -23,7 +23,7 @@ instrucoes:
   - "Adicione o alho e o cominho e refogue por mais 1 minuto."
   - "Acrescente a carne moída e cozinhe em fogo alto por 8 a 10 minutos desfazendo os grumos."
   - "Tempere com sal e pimenta e adicione o tomate picado. Cozinhe por 3 minutos."
-  - "Junte a abobrinha em cubos e refogue por 5 a 6 minutos — ela deve ficar al dente."
+  - "Junte a abobrinha em cubos e refogue por 5 a 6 minutos, ela deve ficar al dente."
   - "Finalize com cheiro-verde picado e sirva quente."
 keywords:
   - "carne moída fit"
@@ -46,7 +46,7 @@ featured: false
 ### Passo 1: Refogue a cebola no azeite até ficar translúcida
 Aqueça o azeite em frigideira grande ou wok em fogo médio. Adicione a cebola picada e refogue mexendo ocasionalmente por cerca de 2 minutos. O sinal de que está pronta: ela muda da cor branca opaca para levemente translúcida e começa a soltar um aroma adocicado. Esse processo libera os açúcares naturais da cebola, criando a base de sabor de todo o prato.
 
-> 💡 **Dica:** Corte a cebola em cubos pequenos e uniformes para que cozinhe por igual. Cebola bem refogada dissolve no prato e distribui sabor de forma harmoniosa — pedaços grandes ficam com textura indesejada.
+> 💡 **Dica:** Corte a cebola em cubos pequenos e uniformes para que cozinhe por igual. Cebola bem refogada dissolve no prato e distribui sabor de forma harmoniosa, pedaços grandes ficam com textura indesejada.
 
 > ⚠️ **Erro comum:** Pular o refogado da cebola e jogar tudo junto. Esse passo é fundamental para construir as camadas de sabor do prato. Não economize esse tempo de 2 minutos.
 
@@ -55,23 +55,25 @@ Aqueça o azeite em frigideira grande ou wok em fogo médio. Adicione a cebola p
 ### Passo 2: Adicione o alho e o cominho para criar a base aromática
 Com a cebola translúcida, adicione o alho picado e o cominho em pó. Refogue por mais 1 minuto em fogo médio, mexendo sempre para evitar que o alho queime. O alho fica pronto quando fica levemente dourado e o aroma intenso se transforma em algo mais suave e adocicado. O cominho aqui é essencial: vai dar ao prato aquele caráter robusto e levemente terroso que diferencia uma carne moída comum de uma refeição realmente saborosa.
 
-> 💡 **Dica:** Amasse levemente o alho com a lateral da faca antes de picar — isso libera os compostos de enxofre que amplificam o sabor e os benefícios para a saúde.
+> 💡 **Dica:** Amasse levemente o alho com a lateral da faca antes de picar, isso libera os compostos de enxofre que amplificam o sabor e os benefícios para a saúde.
 
-> ⚠️ **Erro comum:** Queimar o alho. Se isso acontecer, descarte e recomece — alho queimado tem sabor amargo que se propaga por toda a receita.
+> ⚠️ **Erro comum:** Queimar o alho. Se isso acontecer, descarte e recomece, alho queimado tem sabor amargo que se propaga por toda a receita.
 
 ---
 
 ### Passo 3: Cozinhe a carne moída em fogo alto desfazendo os grumos
 Aumente o fogo para alto e adicione a carne moída. Com uma espátula, vá quebrando os grumos e espalhando a carne pela frigideira. Cozinhe por 8 a 10 minutos, mexendo a cada 1-2 minutos. A carne está pronta quando não há mais partes rosadas e começa a aparecer uma leve douração. Fogo alto é fundamental para selar a carne e concentrar o sabor em vez de cozinhá-la no vapor.
 
-> 💡 **Dica:** Não mexa a carne o tempo todo — deixe-a em contato com a frigideira por 1-2 minutos antes de mexer. Isso cria pequenas crostas douradas que adicionam sabor e textura ao prato.
+> 💡 **Dica:** Não mexa a carne o tempo todo, deixe-a em contato com a frigideira por 1-2 minutos antes de mexer. Isso cria pequenas crostas douradas que adicionam sabor e textura ao prato.
 
 > ⚠️ **Erro comum:** Cozinhar em fogo baixo faz a carne soltar muito líquido e cozinhar no próprio suco, resultando em uma textura cinzenta e sem sabor. Fogo alto é essencial nessa etapa.
 
 ---
 
 ### Passo 4: Adicione o tomate e tempere com sal e pimenta
-Após a carne estar bem cozida, adicione o tomate picado, o sal e a pimenta. Misture bem e cozinhe por 3 minutos. O tomate vai soltar seu suco natural, criando um molho leve que vai umedecer a carne. Prove o tempero neste momento — é o ponto ideal para ajustar antes de adicionar a abobrinha, que vai absorver os sabores já presentes.
+Após a carne estar bem cozida, adicione o tomate picado, o sal e a pimenta. Misture bem e cozinhe por 3 minutos. O tomate vai soltar seu suco natural, criando um molho leve que vai umedecer a carne. Prove o tempero neste momento.
+
+É o ponto ideal para ajustar antes de adicionar a abobrinha, que vai absorver os sabores já presentes.
 
 > 💡 **Dica:** Use tomate maduro italiano ou tomate-cereja para melhor resultado. Eles têm mais sabor e menos água do que o tomate salada comum.
 
@@ -80,9 +82,11 @@ Após a carne estar bem cozida, adicione o tomate picado, o sal e a pimenta. Mis
 ---
 
 ### Passo 5: Junte a abobrinha e refogue até ficar al dente
-Adicione os cubos de abobrinha à frigideira e misture tudo. Refogue em fogo médio-alto por 5 a 6 minutos. A abobrinha deve ficar al dente — levemente tenra por fora mas ainda com resistência ao morder. Ela vai absorver todos os temperos e sucos da carne, ficando extremamente saborosa. Se cozinhar demais, vira uma pasta aguada que prejudica a apresentação e a textura.
+Adicione os cubos de abobrinha à frigideira e misture tudo. Refogue em fogo médio-alto por 5 a 6 minutos. A abobrinha deve ficar al dente.
 
-> 💡 **Dica:** Corte a abobrinha em cubos de aproximadamente 1,5 cm — tamanho uniforme garante cozimento homogêneo. Cubos grandes ficam crus no centro; pequenos ficam moles demais.
+Levemente tenra por fora mas ainda com resistência ao morder. Ela vai absorver todos os temperos e sucos da carne, ficando extremamente saborosa. Se cozinhar demais, vira uma pasta aguada que prejudica a apresentação e a textura.
+
+> 💡 **Dica:** Corte a abobrinha em cubos de aproximadamente 1,5 cm, tamanho uniforme garante cozimento homogêneo. Cubos grandes ficam crus no centro; pequenos ficam moles demais.
 
 > ⚠️ **Erro comum:** Tampar a frigideira nessa etapa. Isso retém vapor e faz a abobrinha soltar muita água, deixando o prato aguado. Refogue com a frigideira aberta para evaporação.
 
@@ -103,7 +107,9 @@ Desligue o fogo e adicione generosa quantidade de salsinha e cebolinha picadas. 
 Esta receita trabalha com duas temperaturas distintas: fogo médio para a cebola e o alho (para não queimar), e fogo alto para a carne (para selar e dourar). Manter essa diferença é o segredo para um prato com sabor profundo e textura perfeita. Se usar apenas fogo médio em tudo, a carne vai cozinhar no próprio suco sem caramelizar.
 
 ### 🔪 Escolha do corte da carne moída
-O patinho com 5% de gordura é a escolha ideal: proteína suficiente, gordura equilibrada para sabor e suculência, sem excessos calóricos. Evite carne moída com mais de 15% de gordura para receitas fit — o excesso de gordura cria um caldo gorduroso que deixa o prato pesado. Carne moída de frango ou peru são alternativas mais magras se quiser reduzir ainda mais as calorias.
+O patinho com 5% de gordura é a escolha ideal: proteína suficiente, gordura equilibrada para sabor e suculência, sem excessos calóricos. Evite carne moída com mais de 15% de gordura para receitas fit.
+
+O excesso de gordura cria um caldo gorduroso que deixa o prato pesado. Carne moída de frango ou peru são alternativas mais magras se quiser reduzir ainda mais as calorias.
 
 ### ⏱️ O momento certo de adicionar cada ingrediente
 A sequência importa muito nesta receita: cebola → alho → carne → tomate → abobrinha. Cada ingrediente precisa do tempo anterior para construir sabor. Adicionar tudo de uma vez resulta em ingredientes que não se integram e um prato sem profundidade.
@@ -132,13 +138,17 @@ Além do cominho, esta receita aceita muito bem: páprica defumada (1 colher de 
 
 **Freezer:** Sim, por até 3 meses. Divida em porções individuais antes de congelar. Descongele na geladeira e reaqueça em frigideira com uma colher de água.
 
-**Preparo antecipado:** Você pode picar todos os vegetais e deixar na geladeira por até 24 horas. A carne moída temperada (sem a abobrinha) pode ser cozinhada com antecedência — adicione a abobrinha somente na hora de reaquecer para manter a textura.
+**Preparo antecipado:** Você pode picar todos os vegetais e deixar na geladeira por até 24 horas. A carne moída temperada (sem a abobrinha) pode ser cozinhada com antecedência.
+
+Adicione a abobrinha somente na hora de reaquecer para manter a textura.
 
 ---
 
 ## Por que essa Receita é Fit?
 
-A carne moída patinho é uma das melhores fontes de proteína animal para quem busca uma alimentação equilibrada. Com 28g de proteína por porção e apenas 285 calorias, ela oferece um excelente custo-benefício nutricional. Além disso, é uma das principais fontes de ferro heme (o tipo mais bem absorvido pelo organismo), vitamina B12, zinco e creatina natural — nutrientes essenciais para a produção de energia, saúde muscular e imunidade.
+A carne moída patinho é uma das melhores fontes de proteína animal para quem busca uma alimentação equilibrada. Com 28g de proteína por porção e apenas 285 calorias, ela oferece um excelente custo-benefício nutricional. Além disso, é uma das principais fontes de ferro heme (o tipo mais bem absorvido pelo organismo), vitamina B12, zinco e creatina natural.
+
+Nutrientes essenciais para a produção de energia, saúde muscular e imunidade.
 
 A abobrinha transforma este prato em um jantar completo e satisfatório com apenas 10g de carboidratos por porção. Ela é rica em vitaminas do complexo B, potássio (que ajuda na contração muscular e no controle da pressão), água (hidratação) e compostos antioxidantes. Sua fibra solúvel ajuda a desacelerar a absorção dos nutrientes, mantendo a saciedade por mais tempo após a refeição.
 

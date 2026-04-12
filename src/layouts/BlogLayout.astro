@@ -1,0 +1,308 @@
+---
+// Layout para artigos individuais do blog
+import BaseLayout from './BaseLayout.astro';
+import Header from '@components/Header.astro';
+import Footer from '@components/Footer.astro';
+import Breadcrumb from '@components/Breadcrumb.astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  post: CollectionEntry<'blog'>;
+}
+
+const { post } = Astro.props;
+const { data } = post;
+
+const categoriaNomes: Record<string, string> = {
+  'nutricao':      'Nutrição',
+  'treino':        'Treino',
+  'emagrecimento': 'Emagrecimento',
+  'saude':         'Saúde',
+  'dicas-fit':     'Dicas Fit',
+};
+
+const breadcrumbs = [
+  { name: 'Home', url: 'https://melhoresreceitasfit.com.br/' },
+  { name: 'Blog', url: 'https://melhoresreceitasfit.com.br/blog/' },
+  { name: data.title, url: `https://melhoresreceitasfit.com.br/blog/${post.slug}/` },
+];
+
+const formattedDate = data.publishDate.toLocaleDateString('pt-BR', {
+  day: '2-digit', month: 'long', year: 'numeric',
+});
+const updatedDate = data.updatedDate?.toLocaleDateString('pt-BR', {
+  day: '2-digit', month: 'long', year: 'numeric',
+});
+
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: data.title,
+  description: data.description,
+  image: data.image ? `https://melhoresreceitasfit.com.br${data.image}` : undefined,
+  author: {
+    '@type': 'Person',
+    name: data.author,
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'Melhores Receitas Fit',
+    url: 'https://melhoresreceitasfit.com.br',
+  },
+  datePublished: data.publishDate.toISOString(),
+  dateModified: (data.updatedDate ?? data.publishDate).toISOString(),
+  url: `https://melhoresreceitasfit.com.br/blog/${post.slug}/`,
+  keywords: data.keywords.join(', '),
+};
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: breadcrumbs.map((item, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: item.name,
+    item: item.url,
+  })),
+};
+---
+
+<BaseLayout
+  title={data.title}
+  description={data.description}
+  image={data.image}
+  imageAlt={data.imageAlt}
+  type="article"
+  canonicalUrl={`https://melhoresreceitasfit.com.br/blog/${post.slug}/`}
+  schema={[articleSchema, breadcrumbSchema]}
+>
+  <Header />
+
+  <main id="main-content">
+    <div class="container">
+      <Breadcrumb items={breadcrumbs} />
+
+      <article class="blog-post">
+        <header class="blog-post__header">
+          <div class="blog-post__meta-top">
+            <span class="badge badge-secondary">
+              {categoriaNomes[data.categoria] ?? data.categoria}
+            </span>
+            <time datetime={data.publishDate.toISOString()} class="blog-post__date">
+              {formattedDate}
+            </time>
+          </div>
+
+          <h1 class="blog-post__title">{data.title}</h1>
+
+          <p class="blog-post__description">{data.description}</p>
+
+          <div class="blog-post__byline">
+            <span>✍️ <strong>{data.author}</strong></span>
+            {updatedDate && (
+              <span class="blog-post__updated">
+                Atualizado em <time datetime={data.updatedDate!.toISOString()}>{updatedDate}</time>
+              </span>
+            )}
+          </div>
+        </header>
+
+        {data.image && (
+          <figure class="blog-post__figure">
+            <img
+              src={data.image}
+              alt={data.imageAlt ?? data.title}
+              loading="eager"
+              fetchpriority="high"
+              decoding="sync"
+              width="1200"
+              height="675"
+              class="blog-post__image"
+            />
+          </figure>
+        )}
+
+        <div class="blog-prose">
+          <slot />
+        </div>
+      </article>
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .blog-post {
+    max-width: 780px;
+    margin: 0 auto;
+    padding-block: var(--space-8) var(--space-16);
+  }
+
+  .blog-post__header {
+    margin-bottom: var(--space-8);
+  }
+
+  .blog-post__meta-top {
+    display: flex;
+    align-items: center;
+    gap: var(--space-4);
+    margin-bottom: var(--space-4);
+    flex-wrap: wrap;
+  }
+
+  .blog-post__date {
+    font-size: var(--text-sm);
+    color: var(--color-muted);
+    font-weight: 500;
+  }
+
+  .blog-post__title {
+    font-size: var(--text-4xl);
+    line-height: 1.15;
+    margin-bottom: var(--space-4);
+  }
+
+  .blog-post__description {
+    font-size: var(--text-lg);
+    color: var(--color-muted);
+    line-height: 1.6;
+    max-width: 65ch;
+    margin-bottom: var(--space-4);
+  }
+
+  .blog-post__byline {
+    display: flex;
+    align-items: center;
+    gap: var(--space-6);
+    font-size: var(--text-sm);
+    color: var(--color-muted);
+    flex-wrap: wrap;
+  }
+
+  .blog-post__updated {
+    font-style: italic;
+  }
+
+  .blog-post__figure {
+    margin-bottom: var(--space-10);
+  }
+
+  .blog-post__image {
+    width: 100%;
+    max-height: 480px;
+    object-fit: cover;
+    border: var(--border);
+    box-shadow: var(--shadow-lg);
+  }
+
+  /* ── Conteúdo do artigo ─────────────────────────────── */
+  .blog-prose :global(h2) {
+    font-family: var(--font-display);
+    font-size: var(--text-2xl);
+    margin-top: var(--space-10);
+    margin-bottom: var(--space-4);
+    padding-bottom: var(--space-2);
+    border-bottom: 3px solid var(--color-accent);
+  }
+
+  .blog-prose :global(h3) {
+    font-family: var(--font-display);
+    font-size: var(--text-xl);
+    margin-top: var(--space-8);
+    margin-bottom: var(--space-3);
+    color: var(--color-primary);
+  }
+
+  .blog-prose :global(p) {
+    font-size: var(--text-base);
+    line-height: 1.8;
+    margin-bottom: var(--space-4);
+    color: var(--color-ink);
+  }
+
+  .blog-prose :global(ul),
+  .blog-prose :global(ol) {
+    padding-left: var(--space-6);
+    margin-bottom: var(--space-4);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+  }
+
+  .blog-prose :global(li) {
+    line-height: 1.7;
+    color: var(--color-ink);
+  }
+
+  .blog-prose :global(strong) {
+    font-weight: 700;
+    color: var(--color-ink);
+  }
+
+  .blog-prose :global(blockquote) {
+    border-left: 5px solid var(--color-primary);
+    background: color-mix(in srgb, var(--color-primary) 8%, var(--color-canvas));
+    padding: var(--space-4) var(--space-6);
+    margin: var(--space-6) 0;
+    border-radius: 0 var(--radius) var(--radius) 0;
+    border: var(--border);
+    border-left-color: var(--color-primary);
+    border-left-width: 5px;
+    box-shadow: var(--shadow-sm);
+  }
+
+  .blog-prose :global(blockquote p) {
+    margin: 0;
+    font-size: var(--text-sm);
+    font-style: italic;
+  }
+
+  .blog-prose :global(table) {
+    width: 100%;
+    border-collapse: collapse;
+    margin: var(--space-6) 0;
+    border: var(--border);
+    font-size: var(--text-sm);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .blog-prose :global(th) {
+    background: var(--color-ink);
+    color: var(--color-surface);
+    padding: var(--space-3) var(--space-4);
+    text-align: left;
+    font-weight: 700;
+  }
+
+  .blog-prose :global(td) {
+    padding: var(--space-3) var(--space-4);
+    border-bottom: 1px solid color-mix(in srgb, var(--color-ink) 15%, transparent);
+    vertical-align: top;
+  }
+
+  .blog-prose :global(tr:nth-child(even) td) {
+    background: color-mix(in srgb, var(--color-ink) 4%, var(--color-canvas));
+  }
+
+  .blog-prose :global(hr) {
+    border: none;
+    border-top: var(--border);
+    margin: var(--space-10) 0;
+  }
+
+  .blog-prose :global(a) {
+    color: var(--color-primary);
+    font-weight: 600;
+    text-underline-offset: 3px;
+  }
+
+  .blog-prose :global(a:hover) {
+    color: var(--color-accent-dark, var(--color-primary));
+    text-decoration: none;
+  }
+
+  @media (max-width: 768px) {
+    .blog-post__title { font-size: var(--text-3xl); }
+  }
+</style>

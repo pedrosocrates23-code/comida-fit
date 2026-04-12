@@ -39,7 +39,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Dissolver a gelatina corretamente
-Despeje a gelatina em pó na água quente (não fervente — em torno de 80°C) e misture vigorosamente com uma colher por 2 minutos completos. Nenhum grânulo deve permanecer visível. A dissolução completa é fundamental: grumos de gelatina não dissolvida criam pontos com textura borrachenta e distribuição irregular na sobremesa final. Se necessário, aqueça brevemente em micro-ondas por 10 segundos e mexa novamente.
+Despeje a gelatina em pó na água quente (não fervente.
+
+Em torno de 80°C) e misture vigorosamente com uma colher por 2 minutos completos. Nenhum grânulo deve permanecer visível. A dissolução completa é fundamental: grumos de gelatina não dissolvida criam pontos com textura borrachenta e distribuição irregular na sobremesa final. Se necessário, aqueça brevemente em micro-ondas por 10 segundos e mexa novamente.
 
 > 💡 **Dica:** Adicione a gelatina à água (não o contrário) despejando em fio enquanto mexe. Essa técnica evita a formação de grumos e garante dissolução mais uniforme.
 
@@ -48,20 +50,24 @@ Despeje a gelatina em pó na água quente (não fervente — em torno de 80°C) 
 ---
 
 ### Passo 2: Adicionar água fria e deixar esfriar
-Adicione os 150ml de água fria à gelatina dissolvida e misture bem. Neste momento, a mistura ainda está bastante líquida e quente. Deixe esfriar em temperatura ambiente até atingir temperatura morna — aproximadamente 30 a 35°C. Esse resfriamento parcial é essencial antes de adicionar o whey e o iogurte: se a mistura estiver quente, vai desnaturar as proteínas do whey de forma irregular e cozinhar parcialmente o iogurte, resultando em textura granulosa e aspecto pouco apetitoso.
+Adicione os 150ml de água fria à gelatina dissolvida e misture bem. Neste momento, a mistura ainda está bastante líquida e quente. Deixe esfriar em temperatura ambiente até atingir temperatura morna.
 
-> 💡 **Dica:** Acelere o resfriamento colocando o bowl em uma tigela maior com gelo. Mexa ocasionalmente — em 5 a 7 minutos a gelatina estará na temperatura ideal para receber o whey.
+Aproximadamente 30 a 35°C. Esse resfriamento parcial é essencial antes de adicionar o whey e o iogurte: se a mistura estiver quente, vai desnaturar as proteínas do whey de forma irregular e cozinhar parcialmente o iogurte, resultando em textura granulosa e aspecto pouco apetitoso.
+
+> 💡 **Dica:** Acelere o resfriamento colocando o bowl em uma tigela maior com gelo. Mexa ocasionalmente, em 5 a 7 minutos a gelatina estará na temperatura ideal para receber o whey.
 
 > ⚠️ **Erro comum:** Ter pressa e adicionar o whey com a gelatina ainda quente. O whey protein coagula em contato com calor excessivo, formando grumos que não se dissolvem mais. Espere pacientemente.
 
 ---
 
 ### Passo 3: Incorporar o whey protein
-Com a gelatina em temperatura morna, adicione o whey protein aos poucos enquanto mistura com um fouet (batedor de arame). Adicione em duas ou três porções para facilitar a dissolução. Bata por 1 a 2 minutos até não haver nenhum grumo visível. O whey de morango reforça o sabor da gelatina; o de baunilha cria uma nota mais suave e cremosa. Ambos funcionam bem — escolha conforme preferência.
+Com a gelatina em temperatura morna, adicione o whey protein aos poucos enquanto mistura com um fouet (batedor de arame). Adicione em duas ou três porções para facilitar a dissolução. Bata por 1 a 2 minutos até não haver nenhum grumo visível. O whey de morango reforça o sabor da gelatina; o de baunilha cria uma nota mais suave e cremosa. Ambos funcionam bem.
+
+Escolha conforme preferência.
 
 > 💡 **Dica:** Dissolva o whey separadamente em 2 a 3 colheres de sopa de água fria antes de adicionar à gelatina. Essa pré-dissolução elimina os grumos antes mesmo de entrar na mistura principal.
 
-> ⚠️ **Erro comum:** Usar whey de sabores muito intensos como brigadeiro ou doce de leite — esses sabores conflitam com o morango da gelatina e criam combinações estranhas. Prefira morango, baunilha ou neutro.
+> ⚠️ **Erro comum:** Usar whey de sabores muito intensos como brigadeiro ou doce de leite, esses sabores conflitam com o morango da gelatina e criam combinações estranhas. Prefira morango, baunilha ou neutro.
 
 ---
 
@@ -75,7 +81,9 @@ Adicione o iogurte grego desnatado à mistura de gelatina e whey. Misture com o 
 ---
 
 ### Passo 5: Distribuir nas taças e decorar
-Divida a mistura igualmente entre 4 taças ou potinhos. Adicione morangos frescos fatiados — parte pode ser afundada na mistura ainda líquida (vão ficar "flutuando" na gelatina quando firmar) e parte reservada para decoração na hora de servir. Cubra cada taça com filme plástico e leve à geladeira.
+Divida a mistura igualmente entre 4 taças ou potinhos. Adicione morangos frescos fatiados.
+
+Parte pode ser afundada na mistura ainda líquida (vão ficar "flutuando" na gelatina quando firmar) e parte reservada para decoração na hora de servir. Cubra cada taça com filme plástico e leve à geladeira.
 
 > 💡 **Dica:** Coloque primeiros os morangos no fundo da taça, despeje metade da mistura, adicione mais morangos, e cubra com o restante da mistura. Você terá uma apresentação em camadas lindíssima quando servir.
 
@@ -86,9 +94,9 @@ Divida a mistura igualmente entre 4 taças ou potinhos. Adicione morangos fresco
 ### Passo 6: Aguardar o tempo de gelatinização
 Deixe na geladeira por no mínimo 3 horas. Para o melhor resultado, prepare na véspera e deixe overnight. O tempo completo de gelatinização é o que dá ao iogurte e ao whey tempo para se integrar completamente à estrutura da gelatina, resultando em textura uniforme. Gelatina retirada antes do tempo fica líquida no centro.
 
-> 💡 **Dica:** Para verificar se está pronto sem abrir, incline levemente a taça — a gelatina deve se mover como um bloco único, não escorrer como líquido. Se ainda escorrer, precisa de mais tempo.
+> 💡 **Dica:** Para verificar se está pronto sem abrir, incline levemente a taça, a gelatina deve se mover como um bloco único, não escorrer como líquido. Se ainda escorrer, precisa de mais tempo.
 
-> ⚠️ **Erro comum:** Tentar acelerar o gelatinização no freezer. A gelatina colocada no freezer cristaliza de forma irregular, cria camadas de gelo e perde a textura lisa e aveludada — resultado totalmente diferente e inferior.
+> ⚠️ **Erro comum:** Tentar acelerar o gelatinização no freezer. A gelatina colocada no freezer cristaliza de forma irregular, cria camadas de gelo e perde a textura lisa e aveludada, resultado totalmente diferente e inferior.
 
 ---
 
@@ -101,7 +109,9 @@ Esta receita tem três zonas de temperatura que precisam ser respeitadas: água 
 A gelatina zero (diet) tem adoçante artificial no lugar do açúcar. Se preferir versão sem adoçante artificial, use gelatina sem sabor incolor + 100g de morango fresco processado com 1 colher de sopa de mel. O resultado é igualmente gostoso, com ingredientes completamente naturais.
 
 ### ⏱️ Sobremesa de preparo rápido e espera longa
-O preparo ativo leva menos de 10 minutos. A espera de 3 horas (ou overnight) é passiva — você apenas espera. Por isso, essa é uma sobremesa perfeita para preparar no início da tarde para o jantar, ou na noite de sexta para ter pronto no sábado.
+O preparo ativo leva menos de 10 minutos. A espera de 3 horas (ou overnight) é passiva.
+
+Você apenas espera. Por isso, essa é uma sobremesa perfeita para preparar no início da tarde para o jantar, ou na noite de sexta para ter pronto no sábado.
 
 ---
 
@@ -121,7 +131,9 @@ O preparo ativo leva menos de 10 minutos. A espera de 3 horas (ou overnight) é 
 ## Como Armazenar
 
 **Geladeira:** Até 4 dias coberto com filme plástico. A textura se mantém bem, mas os morangos frescos começam a soltar suco após o segundo dia.
-**Freezer:** Não recomendado — a gelatina cristaliza no freezer e a textura fica completamente comprometida ao descongelar.
+**Freezer:** Não recomendado.
+
+A gelatina cristaliza no freezer e a textura fica completamente comprometida ao descongelar.
 **Preparo antecipado:** Ideal para preparar com 12 a 24 horas de antecedência. Adicione a decoração de morango fresco apenas na hora de servir.
 
 ---
@@ -130,7 +142,9 @@ O preparo ativo leva menos de 10 minutos. A espera de 3 horas (ou overnight) é 
 
 Com apenas 95 calorias por porção e 14g de proteína, esta gelatina proteica é uma das sobremesas com melhor relação proteína/caloria de todo o repertório fit. Para comparação, uma gelatina convencional tem apenas 2 a 3g de proteína e praticamente nenhum nutriente relevante. Aqui, cada porção entrega uma dose proteica real, comparável a uma clara de ovo e meia.
 
-O iogurte grego desnatado contribui com proteínas de alta qualidade (caseína e whey naturais), probióticos e cálcio — uma combinação que beneficia a microbiota intestinal, fortalece os ossos e suporta a recuperação muscular. A caseína do iogurte, especificamente, tem digestão mais lenta que o whey protein, o que torna esta sobremesa especialmente interessante como opção noturna: a liberação gradual de aminoácidos ao longo da noite favorece a recuperação muscular enquanto você dorme.
+O iogurte grego desnatado contribui com proteínas de alta qualidade (caseína e whey naturais), probióticos e cálcio.
+
+Uma combinação que beneficia a microbiota intestinal, fortalece os ossos e suporta a recuperação muscular. A caseína do iogurte, especificamente, tem digestão mais lenta que o whey protein, o que torna esta sobremesa especialmente interessante como opção noturna: a liberação gradual de aminoácidos ao longo da noite favorece a recuperação muscular enquanto você dorme.
 
 O morango, além de decorativo, é nutricionalmente rico em vitamina C (uma porção de morangos fornece mais vitamina C que uma laranja inteira), manganês, ácido fólico e antocianinas antioxidantes. Com apenas 7g de carboidratos por porção, esta sobremesa é adequada para dietas low carb e cetogênica flexível, tornando-a uma das poucas opções de sobremesa verdadeiramente doce que cabe em protocolos de restrição de carboidrato.
 

@@ -1,0 +1,212 @@
+---
+// Página de listagem do blog
+import BaseLayout from '@layouts/BaseLayout.astro';
+import Header from '@components/Header.astro';
+import Footer from '@components/Footer.astro';
+import Breadcrumb from '@components/Breadcrumb.astro';
+import BlogCard from '@components/BlogCard.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog')).sort(
+  (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
+);
+
+const breadcrumbs = [
+  { name: 'Home', url: 'https://melhoresreceitasfit.com.br/' },
+  { name: 'Blog', url: 'https://melhoresreceitasfit.com.br/blog/' },
+];
+
+const categorias = [
+  { slug: 'nutricao',      nome: 'Nutrição',       icone: '🥦' },
+  { slug: 'treino',        nome: 'Treino',          icone: '🏋️' },
+  { slug: 'emagrecimento', nome: 'Emagrecimento',   icone: '⚖️' },
+  { slug: 'saude',         nome: 'Saúde',           icone: '❤️' },
+  { slug: 'dicas-fit',     nome: 'Dicas Fit',       icone: '💡' },
+];
+
+const featured = posts.find(p => p.data.featured);
+const outros   = posts.filter(p => !p.data.featured);
+
+const webPageSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Blog',
+  name: 'Blog Melhores Receitas Fit',
+  description: 'Artigos sobre nutrição, treino, emagrecimento e alimentação saudável.',
+  url: 'https://melhoresreceitasfit.com.br/blog/',
+};
+---
+
+<BaseLayout
+  title="Blog — Nutrição, Treino e Alimentação Saudável"
+  description={`${posts.length} artigos sobre nutrição, emagrecimento, treino e dicas fit baseados em evidências científicas.`}
+  canonicalUrl="https://melhoresreceitasfit.com.br/blog/"
+  schema={webPageSchema}
+>
+  <Header />
+
+  <main id="main-content">
+    <div class="container">
+      <Breadcrumb items={breadcrumbs} />
+
+      <!-- Cabeçalho da página -->
+      <header class="page-header blog-header">
+        <div>
+          <h1>Blog Fit 📝</h1>
+          <p class="blog-header__desc">
+            Artigos sobre nutrição, treino e alimentação saudável baseados em ciência.
+            {posts.length} {posts.length === 1 ? 'artigo publicado' : 'artigos publicados'}.
+          </p>
+        </div>
+      </header>
+
+      <!-- Filtros por categoria -->
+      <nav class="blog-categorias" aria-label="Filtrar por categoria">
+        <a href="/blog/" class="blog-cat-chip blog-cat-chip--active">Todos</a>
+        {categorias.map(cat => (
+          <a href={`/blog/categoria/${cat.slug}/`} class="blog-cat-chip">
+            {cat.icone} {cat.nome}
+          </a>
+        ))}
+      </nav>
+
+      <!-- Artigo em destaque -->
+      {featured && (
+        <section class="blog-featured" aria-label="Artigo em destaque">
+          <h2 class="section-label">Em Destaque</h2>
+          <BlogCard
+            title={featured.data.title}
+            slug={featured.slug}
+            description={featured.data.description}
+            publishDate={featured.data.publishDate}
+            categoria={featured.data.categoria}
+            image={featured.data.image}
+            imageAlt={featured.data.imageAlt}
+            author={featured.data.author}
+            featured={true}
+          />
+        </section>
+      )}
+
+      <!-- Grade de artigos -->
+      {outros.length > 0 && (
+        <section aria-label="Todos os artigos">
+          {featured && <h2 class="section-label">Todos os Artigos</h2>}
+          <ul class="grid-blog" role="list">
+            {outros.map(post => (
+              <li>
+                <BlogCard
+                  title={post.data.title}
+                  slug={post.slug}
+                  description={post.data.description}
+                  publishDate={post.data.publishDate}
+                  categoria={post.data.categoria}
+                  image={post.data.image}
+                  imageAlt={post.data.imageAlt}
+                  author={post.data.author}
+                />
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      {posts.length === 0 && (
+        <div class="blog-empty">
+          <p>Nenhum artigo publicado ainda. Em breve novos conteúdos!</p>
+        </div>
+      )}
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .blog-header__desc {
+    color: var(--color-muted);
+    font-size: var(--text-lg);
+    max-width: 60ch;
+    margin-top: var(--space-2);
+  }
+
+  /* Filtros de categoria */
+  .blog-categorias {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    margin-bottom: var(--space-10);
+  }
+
+  .blog-cat-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-1);
+    padding: var(--space-2) var(--space-4);
+    border: 2px solid var(--color-ink);
+    font-size: var(--text-sm);
+    font-weight: 600;
+    text-decoration: none;
+    color: var(--color-ink);
+    background: var(--color-canvas);
+    transition: all var(--transition);
+    box-shadow: 2px 2px 0 var(--color-ink);
+  }
+
+  .blog-cat-chip:hover,
+  .blog-cat-chip--active {
+    background: var(--color-primary);
+    color: var(--color-surface);
+    transform: translate(-1px, -1px);
+    box-shadow: 3px 3px 0 var(--color-ink);
+  }
+
+  /* Destaque */
+  .blog-featured {
+    margin-bottom: var(--space-12);
+  }
+
+  .blog-featured .blog-card {
+    max-width: 760px;
+  }
+
+  /* Label de seção */
+  .section-label {
+    font-size: var(--text-sm);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--color-muted);
+    margin-bottom: var(--space-4);
+  }
+
+  /* Grade de artigos */
+  .grid-blog {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: var(--space-6);
+    margin-bottom: var(--space-12);
+  }
+
+  .grid-blog li {
+    display: flex;
+  }
+
+  .grid-blog .blog-card {
+    width: 100%;
+  }
+
+  /* Estado vazio */
+  .blog-empty {
+    text-align: center;
+    padding: var(--space-16) var(--space-4);
+    color: var(--color-muted);
+    font-size: var(--text-lg);
+  }
+
+  @media (max-width: 640px) {
+    .grid-blog {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

@@ -34,4 +34,20 @@ const receitasCollection = defineCollection({
   }),
 });
 
-export const collections = { receitas: receitasCollection };
+const blogCollection = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title:       z.string(),
+    description: z.string().max(160),
+    publishDate: z.date(),
+    updatedDate: z.date().optional(),
+    author:      z.string().default('Equipe Receitas Fit'),
+    image:       z.string().optional(),
+    imageAlt:    z.string().optional(),
+    keywords:    z.array(z.string()),
+    featured:    z.boolean().default(false),
+    categoria:   z.enum(['nutricao', 'treino', 'emagrecimento', 'saude', 'dicas-fit']),
+  }),
+});
+
+export const collections = { receitas: receitasCollection, blog: blogCollection };

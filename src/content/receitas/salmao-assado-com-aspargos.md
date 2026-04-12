@@ -22,7 +22,7 @@ instrucoes:
   - "Disponha os aspargos na assadeira, regue com metade do azeite e tempere com sal e pimenta."
   - "Coloque os filés de salmão sobre os aspargos com a pele para baixo."
   - "Misture o restante do azeite com suco de limão, raspas, alho e endro e espalhe sobre o salmão."
-  - "Asse por 15 a 18 minutos — o salmão deve estar opaco por fora mas levemente rosado no centro."
+  - "Asse por 15 a 18 minutos, o salmão deve estar opaco por fora mas levemente rosado no centro."
   - "Finalize com as alcaparras e sirva imediatamente para preservar a textura."
 keywords:
   - "salmão assado"
@@ -43,16 +43,20 @@ featured: true
 ## Passo a Passo Detalhado
 
 ### Passo 1: Pré-aqueça o forno e prepare a assadeira
-Ligue o forno a 200°C com pelo menos 15 minutos de antecedência — forno totalmente aquecido é fundamental para que o salmão comece a assar imediatamente ao entrar, evitando o cozimento lento que resseca o peixe. Forre a assadeira com papel-manteiga, que além de facilitar a limpeza, evita que o salmão grude e preserve os sucos naturais do peixe durante o assamento.
+Ligue o forno a 200°C com pelo menos 15 minutos de antecedência.
 
-> 💡 **Dica:** Se o seu forno tiver convecção (ventilador interno), reduza a temperatura para 185°C — o ar circulante distribui o calor mais eficientemente e pode ressecar o salmão se a temperatura for muito alta.
+Forno totalmente aquecido é fundamental para que o salmão comece a assar imediatamente ao entrar, evitando o cozimento lento que resseca o peixe. Forre a assadeira com papel-manteiga, que além de facilitar a limpeza, evita que o salmão grude e preserve os sucos naturais do peixe durante o assamento.
+
+> 💡 **Dica:** Se o seu forno tiver convecção (ventilador interno), reduza a temperatura para 185°C, o ar circulante distribui o calor mais eficientemente e pode ressecar o salmão se a temperatura for muito alta.
 
 > ⚠️ **Erro comum:** Colocar o salmão no forno ainda frio. O salmão precisa de calor intenso imediato para selar a superfície e preservar a umidade interna. Forno não pré-aquecido resulta em peixe ressecado e sem cor.
 
 ---
 
 ### Passo 2: Disponha os aspargos e tempere-os na assadeira
-Prepare os aspargos quebrando a extremidade lenhosa — segure um aspargo com as duas mãos e dobre: ele vai quebrar naturalmente no ponto exato onde a parte tenra começa. Esse truque elimina a textura fibrosa indesejável. Disponha os aspargos em uma única camada na assadeira, regue com metade do azeite e tempere com sal e pimenta. Eles ficarão como "cama" para o salmão — absorvendo os sucos que escorrem durante o assamento.
+Prepare os aspargos quebrando a extremidade lenhosa.
+
+Segure um aspargo com as duas mãos e dobre: ele vai quebrar naturalmente no ponto exato onde a parte tenra começa. Esse truque elimina a textura fibrosa indesejável. Disponha os aspargos em uma única camada na assadeira, regue com metade do azeite e tempere com sal e pimenta. Eles ficarão como "cama" para o salmão, absorvendo os sucos que escorrem durante o assamento.
 
 > 💡 **Dica:** Se os aspargos forem muito grossos (mais de 1 cm de diâmetro), asse-os por 5 minutos sozinhos antes de colocar o salmão. Aspargos grossos precisam de mais tempo para ficarem al dente.
 
@@ -61,7 +65,9 @@ Prepare os aspargos quebrando a extremidade lenhosa — segure um aspargo com as
 ---
 
 ### Passo 3: Posicione os filés de salmão sobre os aspargos
-Coloque os filés de salmão com a pele para baixo diretamente sobre os aspargos na assadeira. A pele vai proteger a carne delicada durante o assamento, funcionando como uma barreira natural entre a fonte de calor e a proteína. Ao posicionar sobre os aspargos, o salmão assa ligeiramente elevado, permitindo que o calor circule por baixo e a gordura do salmão escorra naturalmente sobre os vegetais — um auto-tempero natural.
+Coloque os filés de salmão com a pele para baixo diretamente sobre os aspargos na assadeira. A pele vai proteger a carne delicada durante o assamento, funcionando como uma barreira natural entre a fonte de calor e a proteína. Ao posicionar sobre os aspargos, o salmão assa ligeiramente elevado, permitindo que o calor circule por baixo e a gordura do salmão escorra naturalmente sobre os vegetais.
+
+Um auto-tempero natural.
 
 > 💡 **Dica:** Se os filés tiverem tamanhos diferentes, coloque o maior mais ao fundo do forno (onde geralmente o calor é mais intenso) para um cozimento mais uniforme.
 
@@ -70,16 +76,20 @@ Coloque os filés de salmão com a pele para baixo diretamente sobre os aspargos
 ---
 
 ### Passo 4: Prepare e aplique o tempero de limão siciliano com ervas
-Em uma tigela pequena, misture o restante do azeite com o suco do limão siciliano, as raspas da casca (apenas a parte amarela — a parte branca é amarga), o alho laminado e o endro. Espalhe essa mistura uniformemente sobre toda a superfície dos filés. O limão siciliano tem sabor mais floral e menos ácido que o limão taiti comum, resultando em um tempero mais elegante e sofisticado. As raspas da casca são o elemento mais aromático — não omita.
+Em uma tigela pequena, misture o restante do azeite com o suco do limão siciliano, as raspas da casca (apenas a parte amarela.
+
+A parte branca é amarga), o alho laminado e o endro. Espalhe essa mistura uniformemente sobre toda a superfície dos filés. O limão siciliano tem sabor mais floral e menos ácido que o limão taiti comum, resultando em um tempero mais elegante e sofisticado. As raspas da casca são o elemento mais aromático, não omita.
 
 > 💡 **Dica:** Deixe o salmão temperado descansar por 5 minutos antes de ir ao forno. Isso permite que o limão e o endro comecem a aromatizar a superfície da carne.
 
-> ⚠️ **Erro comum:** Usar suco de limão engarrafado em vez de limão fresco. O suco industrializado perde os compostos aromáticos voláteis que tornam o limão fresco tão especial. Nesta receita, o frescor do limão é protagonista — não substitua.
+> ⚠️ **Erro comum:** Usar suco de limão engarrafado em vez de limão fresco. O suco industrializado perde os compostos aromáticos voláteis que tornam o limão fresco tão especial. Nesta receita, o frescor do limão é protagonista, não substitua.
 
 ---
 
 ### Passo 5: Asse por 15 a 18 minutos no ponto ideal
-Insira a assadeira no centro do forno pré-aquecido a 200°C. Asse por 15 a 18 minutos, dependendo da espessura dos filés. O salmão está perfeitamente assado quando: a superfície está opaca e levemente dourada nas bordas, e o centro ainda apresenta um tom levemente rosado e translúcido quando você aperta gentilmente com um garfo. Se preferir bem passado, asse por 20 minutos — mas saiba que o ponto médio (levemente rosado no centro) é considerado o ideal tanto em termos de sabor quanto de nutrição.
+Insira a assadeira no centro do forno pré-aquecido a 200°C. Asse por 15 a 18 minutos, dependendo da espessura dos filés. O salmão está perfeitamente assado quando: a superfície está opaca e levemente dourada nas bordas, e o centro ainda apresenta um tom levemente rosado e translúcido quando você aperta gentilmente com um garfo. Se preferir bem passado, asse por 20 minutos.
+
+Mas saiba que o ponto médio (levemente rosado no centro) é considerado o ideal tanto em termos de sabor quanto de nutrição.
 
 > 💡 **Dica:** Para verificar o ponto sem termômetro, pressione o centro do filé com o dedo. Ponto cru: muito mole e cede completamente. Ponto ideal: cede mas resiste levemente. Passado demais: firme e sem elasticidade.
 
@@ -88,27 +98,37 @@ Insira a assadeira no centro do forno pré-aquecido a 200°C. Asse por 15 a 18 m
 ---
 
 ### Passo 6: Finalize com alcaparras e sirva imediatamente
-Retire do forno e distribua as alcaparras sobre o salmão. As alcaparras adicionam um toque salgado-ácido que equilibra a riqueza do salmão e a doçura do limão siciliano — são o toque final que eleva este prato de simples a sofisticado. Sirva imediatamente: peixe esfria rapidamente e a textura muda drasticamente após 5-10 minutos fora do forno.
+Retire do forno e distribua as alcaparras sobre o salmão. As alcaparras adicionam um toque salgado-ácido que equilibra a riqueza do salmão e a doçura do limão siciliano.
+
+São o toque final que eleva este prato de simples a sofisticado. Sirva imediatamente: peixe esfria rapidamente e a textura muda drasticamente após 5-10 minutos fora do forno.
 
 > 💡 **Dica:** Se não tiver alcaparras, um fio de azeite extra virgem de alta qualidade e algumas folhas de endro fresco fazem uma finalização igualmente elegante.
 
-> ⚠️ **Erro comum:** Deixar o salmão descansar por muito tempo após o forno como se fosse carne vermelha. Peixe não precisa (nem se beneficia de) descanso prolongado — sirva em menos de 2 minutos após sair do forno.
+> ⚠️ **Erro comum:** Deixar o salmão descansar por muito tempo após o forno como se fosse carne vermelha. Peixe não precisa (nem se beneficia de) descanso prolongado, sirva em menos de 2 minutos após sair do forno.
 
 ---
 
 ## Dicas Essenciais
 
 ### 🌡️ A temperatura interna perfeita do salmão
-Temperatura interna ideal: 52-54°C para ponto médio (levemente rosado, máxima suculência), 60°C para bem passado. Com termômetro culinário, insira no ponto mais grosso do filé. Sem termômetro, use o teste do garfo: pressione suavemente com o garfo — o salmão deve começar a separar em lascas mas ainda com resistência no centro.
+Temperatura interna ideal: 52-54°C para ponto médio (levemente rosado, máxima suculência), 60°C para bem passado. Com termômetro culinário, insira no ponto mais grosso do filé. Sem termômetro, use o teste do garfo: pressione suavemente com o garfo.
+
+O salmão deve começar a separar em lascas mas ainda com resistência no centro.
 
 ### 🔪 Como escolher o salmão fresco no mercado
-Salmão fresco tem carne firme de cor laranja-rosada vibrante, sem manchas acinzentadas ou amareladas. O cheiro deve ser de mar (levemente salgado e fresco) — se cheirar intensamente a peixe, está velho. A pele deve estar brilhante e bem aderida à carne. Filés de tamanho uniforme assam por igual — se um for muito mais grosso, faça um corte raso no lado mais espesso para equalizar.
+Salmão fresco tem carne firme de cor laranja-rosada vibrante, sem manchas acinzentadas ou amareladas. O cheiro deve ser de mar (levemente salgado e fresco).
+
+Se cheirar intensamente a peixe, está velho. A pele deve estar brilhante e bem aderida à carne. Filés de tamanho uniforme assam por igual, se um for muito mais grosso, faça um corte raso no lado mais espesso para equalizar.
 
 ### ⏱️ Por que o papel-manteiga é indispensável
-O papel-manteiga não é apenas facilidade de limpeza — ele cria um ambiente de vapor sutil ao redor do peixe durante o assamento, mantendo a umidade da carne. Sem ele, o salmão em contato direto com a assadeira perde umidade mais rapidamente. Folha de alumínio também funciona, mas o papel-manteiga mantém a temperatura mais estável.
+O papel-manteiga não é apenas facilidade de limpeza.
+
+Ele cria um ambiente de vapor sutil ao redor do peixe durante o assamento, mantendo a umidade da carne. Sem ele, o salmão em contato direto com a assadeira perde umidade mais rapidamente. Folha de alumínio também funciona, mas o papel-manteiga mantém a temperatura mais estável.
 
 ### 🌿 O endro (dill) e sua afinidade com o salmão
-Endro e salmão são uma das combinações mais clássicas da gastronomia mundial — não é à toa que aparecem juntos na culinária escandinava há séculos. O endro tem um sabor delicado que lembra erva-doce e anis, sem dominar o peixe. Se usar endro fresco, dobre a quantidade. Outras ervas que combinam: cebolinha, estragão e tomilho limão.
+Endro e salmão são uma das combinações mais clássicas da gastronomia mundial.
+
+Não é à toa que aparecem juntos na culinária escandinava há séculos. O endro tem um sabor delicado que lembra erva-doce e anis, sem dominar o peixe. Se usar endro fresco, dobre a quantidade. Outras ervas que combinam: cebolinha, estragão e tomilho limão.
 
 ---
 
@@ -128,7 +148,9 @@ Endro e salmão são uma das combinações mais clássicas da gastronomia mundia
 
 ## Como Armazenar
 
-**Geladeira:** Salmão assado dura 2 dias em recipiente fechado. Reaqueça suavemente em forno a 150°C por 5-6 minutos para preservar a textura — micro-ondas resseca o salmão muito rapidamente.
+**Geladeira:** Salmão assado dura 2 dias em recipiente fechado. Reaqueça suavemente em forno a 150°C por 5-6 minutos para preservar a textura.
+
+Micro-ondas resseca o salmão muito rapidamente.
 
 **Freezer:** Não recomendado para salmão já assado. O peixe cozido congela mal e perde textura ao descongelar. Se quiser congelar, faça com o salmão cru e marinado.
 
@@ -142,7 +164,9 @@ O salmão é frequentemente chamado de "superalimento" e a classificação tem f
 
 O EPA e o DHA têm um portfólio impressionante de benefícios: redução de inflamação sistêmica (especialmente relevante para quem treina com intensidade), proteção cardiovascular documentada por múltiplos estudos, melhora cognitiva e de humor (o cérebro é 60% gordura, e o DHA é seu principal componente estrutural), e otimização da síntese proteica muscular. Para quem busca recomposição corporal, a combinação de proteína + ômega-3 do salmão é virtualmente imbatível.
 
-Os aspargos complementam perfeitamente com asparagina (aminoácido diurético que reduz retenção de líquidos), vitaminas K (coagulação e saúde óssea), C e E, ácido fólico e o prebiótico inulina (que alimenta bactérias benéficas do intestino). Com 370 calorias por porção, este jantar entrega nutrição de elite com elegância de restaurante — e em apenas 26 minutos do início ao fim.
+Os aspargos complementam perfeitamente com asparagina (aminoácido diurético que reduz retenção de líquidos), vitaminas K (coagulação e saúde óssea), C e E, ácido fólico e o prebiótico inulina (que alimenta bactérias benéficas do intestino). Com 370 calorias por porção, este jantar entrega nutrição de elite com elegância de restaurante.
+
+E em apenas 26 minutos do início ao fim.
 
 ---
 

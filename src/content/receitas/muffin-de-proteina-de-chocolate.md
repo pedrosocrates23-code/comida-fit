@@ -24,7 +24,7 @@ instrucoes:
   - "Em outro bowl, misture as claras, banana amassada e o leite."
   - "Una os ingredientes úmidos aos secos e misture até incorporar sem sobremisturar."
   - "Divida a massa igualmente entre as 6 forminhas."
-  - "Asse por 18 a 20 minutos — teste com palito, deve sair levemente úmido."
+  - "Asse por 18 a 20 minutos, teste com palito, deve sair levemente úmido."
 keywords:
   - "muffin proteico"
   - "muffin fit"
@@ -44,7 +44,9 @@ featured: true
 ## Passo a Passo Detalhado
 
 ### Passo 1: Preparar o forno e as forminhas
-Pré-aqueça o forno a 180°C por pelo menos 10 minutos. Unte 6 forminhas individuais de muffin com spray antiaderente ou forre com forminhas de papel. Se optar pela forma de silicone, não é necessário untar. A uniformidade das forminhas importa — formas muito grandes produzem muffins baixos e secos, enquanto formas muito pequenas podem transbordar.
+Pré-aqueça o forno a 180°C por pelo menos 10 minutos. Unte 6 forminhas individuais de muffin com spray antiaderente ou forre com forminhas de papel. Se optar pela forma de silicone, não é necessário untar. A uniformidade das forminhas importa.
+
+Formas muito grandes produzem muffins baixos e secos, enquanto formas muito pequenas podem transbordar.
 
 > 💡 **Dica:** Para muffins com topo mais alto e arredondado (aquele visual bonito de padaria), encha cada forminha até 3/4 da capacidade e inicie o forno a 200°C pelos primeiros 5 minutos, depois reduza para 180°C. O calor inicial forte cria o efeito de expansão rápida no topo.
 
@@ -53,16 +55,20 @@ Pré-aqueça o forno a 180°C por pelo menos 10 minutos. Unte 6 forminhas indivi
 ---
 
 ### Passo 2: Misturar os ingredientes secos
-Em um bowl médio, misture a farinha de aveia, o whey protein de chocolate, o cacau em pó sem açúcar, o fermento em pó e a pitada de sal. Use um fouet para distribuir bem o fermento — grumos de fermento concentrado em um ponto criam buracos irregulares na massa. O whey e o cacau juntos garantem o sabor intenso de chocolate sem nenhum açúcar refinado.
+Em um bowl médio, misture a farinha de aveia, o whey protein de chocolate, o cacau em pó sem açúcar, o fermento em pó e a pitada de sal. Use um fouet para distribuir bem o fermento.
 
-> 💡 **Dica:** Peneire o cacau antes de misturar — ele tem tendência a formar grumos que são difíceis de desfazer depois da massa montada, resultando em pontos amargos no muffin final.
+Grumos de fermento concentrado em um ponto criam buracos irregulares na massa. O whey e o cacau juntos garantem o sabor intenso de chocolate sem nenhum açúcar refinado.
+
+> 💡 **Dica:** Peneire o cacau antes de misturar, ele tem tendência a formar grumos que são difíceis de desfazer depois da massa montada, resultando em pontos amargos no muffin final.
 
 > ⚠️ **Erro comum:** Usar whey protein de outro sabor (baunilha, por exemplo) sem ajustar o cacau. Se o whey não for de chocolate, adicione mais 1 colher de sopa de cacau para manter a intensidade do sabor.
 
 ---
 
 ### Passo 3: Misturar os ingredientes úmidos
-Em outro bowl, misture as 3 claras de ovo (temperatura ambiente — claras frias não incorporam tão bem), a banana amassada em purê fino e o leite desnatado ou de amêndoas. Misture com fouet por 30 segundos até ficar homogêneo. A banana é o adoçante natural desta receita — quanto mais madura, mais doce o muffin final. Uma banana bem escura (quase preta) pode tornar o mel ou adoçante extras completamente desnecessários.
+Em outro bowl, misture as 3 claras de ovo (temperatura ambiente.
+
+Claras frias não incorporam tão bem), a banana amassada em purê fino e o leite desnatado ou de amêndoas. Misture com fouet por 30 segundos até ficar homogêneo. A banana é o adoçante natural desta receita, quanto mais madura, mais doce o muffin final. Uma banana bem escura (quase preta) pode tornar o mel ou adoçante extras completamente desnecessários.
 
 > 💡 **Dica:** Se preferir uma textura mais leve, bata as claras em neve leve (não ponto de neve firme) antes de adicionar à banana. O resultado é um muffin mais aerado e com textura mais similar ao muffin convencional.
 
@@ -71,11 +77,13 @@ Em outro bowl, misture as 3 claras de ovo (temperatura ambiente — claras frias
 ---
 
 ### Passo 4: Unir úmidos e secos sem sobremisturar
-Despeje os ingredientes úmidos sobre os secos de uma vez e misture com uma espátula em movimentos suaves de dobrar — não de bater. O objetivo é incorporar tudo até não haver mais rastros de farinha seca, mas parar por aí. Sobremisturar ativa o glúten residual da aveia e o whey protein, resultando em muffins densos, borrachudos e com textura de borracha em vez de macia e úmida. Alguns pequenos grumos na massa são aceitáveis e preferíveis.
+Despeje os ingredientes úmidos sobre os secos de uma vez e misture com uma espátula em movimentos suaves de dobrar.
+
+Não de bater. O objetivo é incorporar tudo até não haver mais rastros de farinha seca, mas parar por aí. Sobremisturar ativa o glúten residual da aveia e o whey protein, resultando em muffins densos, borrachudos e com textura de borracha em vez de macia e úmida. Alguns pequenos grumos na massa são aceitáveis e preferíveis.
 
 > 💡 **Dica:** Adicione 2 colheres de sopa de gotinhas de chocolate 70% à massa nesse momento para pontos de chocolate derretido que elevam muito o nível da receita.
 
-> ⚠️ **Erro comum:** Misturar em excesso pensando que a massa precisa ficar completamente lisa. É exatamente o oposto com muffins — quanto menos você misturar após a união dos ingredientes, melhor a textura final.
+> ⚠️ **Erro comum:** Misturar em excesso pensando que a massa precisa ficar completamente lisa. É exatamente o oposto com muffins, quanto menos você misturar após a união dos ingredientes, melhor a textura final.
 
 ---
 
@@ -89,7 +97,9 @@ Com uma colher de sorvete ou colher de sopa, distribua a massa igualmente entre 
 ---
 
 ### Passo 6: Assar e testar o ponto
-Asse a 180°C por 18 a 20 minutos. Faça o teste do palito inserido no centro do muffin: o palito deve sair com algumas migalhas úmidas, mas sem massa crua. Se o palito sair completamente limpo, o muffin já passou do ponto ideal e ficará seco. O whey protein resseca mais rapidamente do que a farinha convencional — o ponto úmido é fundamental para a textura perfeita.
+Asse a 180°C por 18 a 20 minutos. Faça o teste do palito inserido no centro do muffin: o palito deve sair com algumas migalhas úmidas, mas sem massa crua. Se o palito sair completamente limpo, o muffin já passou do ponto ideal e ficará seco. O whey protein resseca mais rapidamente do que a farinha convencional.
+
+O ponto úmido é fundamental para a textura perfeita.
 
 > 💡 **Dica:** Comece a verificar com 16 minutos de forno. Cada forno é diferente e muffins proteicos passam do ponto mais rápido do que os convencionais.
 
@@ -100,10 +110,14 @@ Asse a 180°C por 18 a 20 minutos. Faça o teste do palito inserido no centro do
 ## Dicas Essenciais
 
 ### 🌡️ Whey protein seca rápido no forno
-O whey protein tem comportamento diferente das farinhas comuns no forno — resseca rapidamente quando exposto a calor por tempo demais. Por isso o teste do palito com migalhas úmidas é o indicador correto, não o palito seco. Controle o tempo de perto e não asse além do necessário.
+O whey protein tem comportamento diferente das farinhas comuns no forno.
+
+Resseca rapidamente quando exposto a calor por tempo demais. Por isso o teste do palito com migalhas úmidas é o indicador correto, não o palito seco. Controle o tempo de perto e não asse além do necessário.
 
 ### 🔪 A banana no lugar do óleo
-A banana amassada cumpre o papel do óleo em receitas convencionais de muffin: ela fornece umidade, maciez e liga. Por isso, bananas mais maduras (com manchas escuras) são essenciais — elas têm mais açúcar natural e mais umidade, resultando em muffins mais saborosos e macios. Uma banana pouco madura vai resultar em muffins secos e sem doçura.
+A banana amassada cumpre o papel do óleo em receitas convencionais de muffin: ela fornece umidade, maciez e liga. Por isso, bananas mais maduras (com manchas escuras) são essenciais.
+
+Elas têm mais açúcar natural e mais umidade, resultando em muffins mais saborosos e macios. Uma banana pouco madura vai resultar em muffins secos e sem doçura.
 
 ### ⏱️ Ideal para preparo em lote
 Essa receita escala facilmente. Duplique para 12 muffins com o dobro dos ingredientes, usando uma forma de 12 cavidades. Os muffins duram 5 dias na geladeira e ficam ainda melhores no segundo dia, quando os sabores se integram completamente. Aqueça por 20 segundos no micro-ondas antes de consumir.
@@ -128,7 +142,9 @@ Leite de amêndoas acrescenta notas levemente adocicadas e reduz o total calóri
 
 ## Como Armazenar
 
-**Temperatura ambiente:** Até 1 dia em pote fechado — após isso, a umidade altera a textura.
+**Temperatura ambiente:** Até 1 dia em pote fechado.
+
+Após isso, a umidade altera a textura.
 **Geladeira:** Até 5 dias em pote hermético. Aqueça por 20 a 25 segundos no micro-ondas antes de consumir.
 **Freezer:** Sim, até 2 meses. Embrulhe individualmente em filme plástico. Descongele na geladeira overnight ou 40 segundos no micro-ondas.
 
@@ -138,7 +154,9 @@ Leite de amêndoas acrescenta notas levemente adocicadas e reduz o total calóri
 
 Com 14g de proteína por muffin e apenas 155 calorias, esta receita oferece uma das proporções proteína/caloria mais eficientes entre os lanches doces fit. Para contexto: um muffin convencional de cafeteria tem em média 300 a 450 calorias e apenas 4 a 6g de proteína. Aqui você tem quase o triplo da proteína com metade das calorias.
 
-O whey protein, além de elevar o teor proteico, tem perfil de aminoácidos completo com alto teor de leucina — o aminoácido sinalizador da síntese proteica muscular. Consumir whey no pós-treino, mesmo em formato de muffin, é uma forma prática de iniciar a recuperação muscular especialmente para quem não tem apetite para uma refeição completa imediatamente após o exercício. O carboidrato da banana e da aveia complementa o whey, recarregando o glicogênio muscular.
+O whey protein, além de elevar o teor proteico, tem perfil de aminoácidos completo com alto teor de leucina.
+
+O aminoácido sinalizador da síntese proteica muscular. Consumir whey no pós-treino, mesmo em formato de muffin, é uma forma prática de iniciar a recuperação muscular especialmente para quem não tem apetite para uma refeição completa imediatamente após o exercício. O carboidrato da banana e da aveia complementa o whey, recarregando o glicogênio muscular.
 
 O cacau em pó 100% merece destaque especial: rico em flavonoides (especificamente epicatequina e catequina), o cacau tem efeito vasodilatador documentado, melhora o fluxo sanguíneo muscular e tem propriedades anti-inflamatórias relevantes para quem pratica exercício regularmente. Duas colheres de sopa fornecem uma dose com efeito real, diferente das quantidades mínimas encontradas em produtos industrializados.
 

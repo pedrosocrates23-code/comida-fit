@@ -1,0 +1,173 @@
+---
+// Card de artigo para a listagem do blog
+interface Props {
+  title: string;
+  slug: string;
+  description: string;
+  publishDate: Date;
+  categoria: string;
+  image?: string;
+  imageAlt?: string;
+  featured?: boolean;
+  author?: string;
+}
+
+const {
+  title, slug, description, publishDate,
+  categoria, image, imageAlt,
+  featured = false, author = 'Equipe Receitas Fit',
+} = Astro.props;
+
+const categoriaNomes: Record<string, string> = {
+  'nutricao':      'Nutrição',
+  'treino':        'Treino',
+  'emagrecimento': 'Emagrecimento',
+  'saude':         'Saúde',
+  'dicas-fit':     'Dicas Fit',
+};
+
+const formattedDate = publishDate.toLocaleDateString('pt-BR', {
+  day: '2-digit', month: 'long', year: 'numeric',
+});
+---
+
+<article class={`blog-card card-brutal ${featured ? 'blog-card--featured' : ''}`}>
+  {image && (
+    <a href={`/blog/${slug}/`} class="blog-card__image" tabindex="-1" aria-hidden="true">
+      <img
+        src={image}
+        alt={imageAlt ?? title}
+        loading="lazy"
+        decoding="async"
+        width="800"
+        height="450"
+        sizes="(max-width: 640px) calc(100vw - 2rem), (max-width: 1024px) calc(50vw - 2.5rem), 560px"
+      />
+    </a>
+  )}
+
+  <div class="blog-card__body">
+    <div class="blog-card__meta-top">
+      <span class="badge badge-secondary">
+        {categoriaNomes[categoria] ?? categoria}
+      </span>
+      <time datetime={publishDate.toISOString()} class="blog-card__date">
+        {formattedDate}
+      </time>
+    </div>
+
+    <h3 class="blog-card__title">
+      <a href={`/blog/${slug}/`} class="blog-card__title-link">
+        {title}
+      </a>
+    </h3>
+
+    <p class="blog-card__desc">{description}</p>
+
+    <div class="blog-card__footer">
+      <span class="blog-card__author">✍️ {author}</span>
+      <a href={`/blog/${slug}/`} class="btn btn-primary blog-card__btn">
+        Ler Artigo
+      </a>
+    </div>
+  </div>
+</article>
+
+<style>
+  .blog-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+
+  .blog-card__image {
+    display: block;
+    overflow: hidden;
+    aspect-ratio: 16/9;
+    border-bottom: var(--border);
+  }
+
+  .blog-card__image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+  }
+
+  .blog-card__image:hover img {
+    transform: scale(1.03);
+  }
+
+  .blog-card__body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: var(--space-5);
+    gap: var(--space-3);
+  }
+
+  .blog-card__meta-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-2);
+    flex-wrap: wrap;
+  }
+
+  .blog-card__date {
+    font-size: var(--text-xs);
+    color: var(--color-muted);
+    font-weight: 500;
+  }
+
+  .blog-card__title {
+    font-size: var(--text-xl);
+    line-height: 1.3;
+    margin: 0;
+  }
+
+  .blog-card__title-link {
+    text-decoration: none;
+    color: inherit;
+    transition: color var(--transition);
+  }
+  .blog-card__title-link:hover { color: var(--color-primary); }
+
+  .blog-card__desc {
+    font-size: var(--text-sm);
+    color: var(--color-muted);
+    line-height: 1.6;
+    margin: 0;
+    flex: 1;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .blog-card__footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-3);
+    margin-top: auto;
+    padding-top: var(--space-3);
+    border-top: 1px solid color-mix(in srgb, var(--color-ink) 10%, transparent);
+  }
+
+  .blog-card__author {
+    font-size: var(--text-xs);
+    color: var(--color-muted);
+    font-weight: 500;
+  }
+
+  .blog-card__btn {
+    font-size: var(--text-sm);
+    padding: var(--space-2) var(--space-4);
+  }
+
+  .blog-card--featured {
+    border-color: var(--color-primary);
+    border-width: 3px;
+  }
+</style>

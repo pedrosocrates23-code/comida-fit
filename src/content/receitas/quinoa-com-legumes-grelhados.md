@@ -48,25 +48,29 @@ Coloque a quinoa em uma peneira de malha fina e lave sob água corrente por 1 a 
 
 > 💡 **Dica:** A maioria das quinoas vendidas no Brasil já vem pré-lavada, mas uma lavagem rápida de 30 segundos nunca faz mal e garante que o sabor amargo não apareça. Vale sempre fazer.
 
-> ⚠️ **Erro comum:** Pular a lavagem porque a embalagem diz "pré-lavada". Nem sempre o processamento industrial remove 100% da saponina — uma lavagem extra custa menos de 1 minuto e elimina qualquer risco de sabor amargo.
+> ⚠️ **Erro comum:** Pular a lavagem porque a embalagem diz "pré-lavada". Nem sempre o processamento industrial remove 100% da saponina, uma lavagem extra custa menos de 1 minuto e elimina qualquer risco de sabor amargo.
 
 ---
 
 ### Passo 2: Cozinhar a quinoa no ponto certo
-Use a proporção de 2 xícaras de água para cada 1 xícara de quinoa. Adicione uma pitada de sal, leve à fervura em fogo alto e depois reduza imediatamente para fogo baixo. Cozinhe tampado por exatamente 15 minutos sem abrir. O sinal de que a quinoa está cozida é quando aparecem os "rabinhos" brancos em espiral nos grãos — são os germes da quinoa se separando, e isso indica que o grão absorveu água suficiente.
+Use a proporção de 2 xícaras de água para cada 1 xícara de quinoa. Adicione uma pitada de sal, leve à fervura em fogo alto e depois reduza imediatamente para fogo baixo. Cozinhe tampado por exatamente 15 minutos sem abrir. O sinal de que a quinoa está cozida é quando aparecem os "rabinhos" brancos em espiral nos grãos.
+
+São os germes da quinoa se separando, e isso indica que o grão absorveu água suficiente.
 
 > 💡 **Dica:** Para quinoa mais saborosa, substitua metade da água por caldo de legumes caseiro ou low sodium. O resultado é um sabor muito mais profundo sem adicionar calorias significativas.
 
-> ⚠️ **Erro comum:** Abrir a tampa durante o cozimento ou mexer os grãos. A quinoa cozinha por absorção de vapor, exatamente como o arroz — cada abertura da tampa perde vapor essencial e o resultado é uma quinoa grudenta e mal cozida.
+> ⚠️ **Erro comum:** Abrir a tampa durante o cozimento ou mexer os grãos. A quinoa cozinha por absorção de vapor, exatamente como o arroz, cada abertura da tampa perde vapor essencial e o resultado é uma quinoa grudenta e mal cozida.
 
 ---
 
 ### Passo 3: Deixar a quinoa descansar tampada
-Após os 15 minutos de cozimento, desligue o fogo e mantenha a panela tampada por mais 5 minutos. Esse descanso é tão importante quanto o próprio cozimento — ele permite que o vapor residual termine de hidrarar os grãos de forma uniforme e que a textura se estabilize. Sem esse passo, a quinoa fica com textura irregular: grãos moles embaixo e mais firmes em cima.
+Após os 15 minutos de cozimento, desligue o fogo e mantenha a panela tampada por mais 5 minutos. Esse descanso é tão importante quanto o próprio cozimento.
 
-> 💡 **Dica:** Se a panela não tiver tampa, cubra a boca com um pano de prato dobrado antes de colocar a tampa ou use papel alumínio moldado — o tecido absorve o excesso de condensação e evita que a água pingue de volta nos grãos.
+Ele permite que o vapor residual termine de hidrarar os grãos de forma uniforme e que a textura se estabilize. Sem esse passo, a quinoa fica com textura irregular: grãos moles embaixo e mais firmes em cima.
 
-> ⚠️ **Erro comum:** Soltar a quinoa com um garfo imediatamente após desligar o fogo. Espere os 5 minutos de descanso antes de mexer — a diferença na textura final é notável.
+> 💡 **Dica:** Se a panela não tiver tampa, cubra a boca com um pano de prato dobrado antes de colocar a tampa ou use papel alumínio moldado, o tecido absorve o excesso de condensação e evita que a água pingue de volta nos grãos.
+
+> ⚠️ **Erro comum:** Soltar a quinoa com um garfo imediatamente após desligar o fogo. Espere os 5 minutos de descanso antes de mexer, a diferença na textura final é notável.
 
 ---
 
@@ -75,23 +79,27 @@ Corte os legumes em tamanhos semelhantes para garantir que assem uniformemente: 
 
 > 💡 **Dica:** Tempere os legumes pelo menos 10 minutos antes de grelhar. O sal vai extrair um pouco de umidade da superfície, o que permite uma caramelização muito mais rápida e intensa quando o legume tocar a grelha quente.
 
-> ⚠️ **Erro comum:** Usar legumes com umidade excessiva diretamente na grelha. A berinjela, em especial, pode ser salgada e deixada em repouso por 10 minutos, depois seca com papel toalha antes de grelhar — isso elimina o excesso de água e melhora muito a textura.
+> ⚠️ **Erro comum:** Usar legumes com umidade excessiva diretamente na grelha. A berinjela, em especial, pode ser salgada e deixada em repouso por 10 minutos, depois seca com papel toalha antes de grelhar, isso elimina o excesso de água e melhora muito a textura.
 
 ---
 
 ### Passo 5: Grelhar os legumes com marcas perfeitas
-Aqueça bem a grelha ou frigideira de ferro em fogo alto por 3 a 4 minutos. Coloque os legumes sem sobrepor — em camada única — e não mexa por 3 a 4 minutos completos. A paciência aqui é essencial: as marcas de grelha bonitas e o sabor caramelizado só se formam quando o legume tem contato direto e ininterrupto com a superfície quente. Vire uma única vez e grelhe por mais 3 a 4 minutos do outro lado.
+Aqueça bem a grelha ou frigideira de ferro em fogo alto por 3 a 4 minutos. Coloque os legumes sem sobrepor.
+
+Em camada única, e não mexa por 3 a 4 minutos completos. A paciência aqui é essencial: as marcas de grelha bonitas e o sabor caramelizado só se formam quando o legume tem contato direto e ininterrupto com a superfície quente. Vire uma única vez e grelhe por mais 3 a 4 minutos do outro lado.
 
 > 💡 **Dica:** Grelhe os legumes em lotes, sem lotarr a grelha. Legumes demais de uma vez baixam a temperatura da superfície, e em vez de grelhar, os legumes ficam na própria vapor e cozinham sem caramelizar.
 
-> ⚠️ **Erro comum:** Mover os legumes repetidamente tentando obter marcas de grelha. As marcas se formam pelo contato contínuo com a superfície quente — movimentação constante impede a formação das estrias características.
+> ⚠️ **Erro comum:** Mover os legumes repetidamente tentando obter marcas de grelha. As marcas se formam pelo contato contínuo com a superfície quente, movimentação constante impede a formação das estrias características.
 
 ---
 
 ### Passo 6: Soltar a quinoa e montar o bowl
-Use um garfo para soltar delicadamente os grãos de quinoa cozidos, quebrando eventuais grumos com movimentos suaves de cima para baixo. Regue com o restante do azeite e o suco de limão e misture. O ácido do limão não apenas adiciona sabor — ele realça as cores vibrantes da quinoa e dos legumes. Monte servindo a quinoa como base no bowl e disponha os legumes grelhados por cima de forma organizada por cor.
+Use um garfo para soltar delicadamente os grãos de quinoa cozidos, quebrando eventuais grumos com movimentos suaves de cima para baixo. Regue com o restante do azeite e o suco de limão e misture. O ácido do limão não apenas adiciona sabor.
 
-> 💡 **Dica:** Uma colher de tahine diluída em água e limão como molho final transforma completamente este prato — adiciona creaminess, proteínas extras e um sabor mediterrâneo irresistível, com menos de 50 calorias.
+Ele realça as cores vibrantes da quinoa e dos legumes. Monte servindo a quinoa como base no bowl e disponha os legumes grelhados por cima de forma organizada por cor.
+
+> 💡 **Dica:** Uma colher de tahine diluída em água e limão como molho final transforma completamente este prato, adiciona creaminess, proteínas extras e um sabor mediterrâneo irresistível, com menos de 50 calorias.
 
 > ⚠️ **Erro comum:** Misturar os legumes quentes diretamente na quinoa e servir em um prato fundo. O vapor dos legumes quentes vai continuar cozinhando a quinoa no bowl, deixando-a empapada. Sirva os legumes por cima, não misturados.
 
@@ -100,13 +108,19 @@ Use um garfo para soltar delicadamente os grãos de quinoa cozidos, quebrando ev
 ## Dicas Essenciais
 
 ### 🌡️ A grelha precisa estar muito quente
-A temperatura da grelha é o fator mais importante para legumes grelhados com sabor e aparência profissionais. Teste com um pingão de água — se evaporar instantaneamente com um barulho alto, está pronta. Uma grelha bem quente carameliza os açúcares naturais dos legumes em segundos, criando aquele sabor levemente adocicado e defumado que é impossível de replicar com calor baixo.
+A temperatura da grelha é o fator mais importante para legumes grelhados com sabor e aparência profissionais. Teste com um pingão de água.
+
+Se evaporar instantaneamente com um barulho alto, está pronta. Uma grelha bem quente carameliza os açúcares naturais dos legumes em segundos, criando aquele sabor levemente adocicado e defumado que é impossível de replicar com calor baixo.
 
 ### 🔪 Cortar os legumes no tamanho certo
-Espessura importa na grelha. Fatias muito finas (menos de 1 cm) queimam rapidamente antes de cozinhar por dentro. Fatias muito grossas (mais de 2 cm) ficam cruas no centro. O ponto ideal para todos os legumes desta receita é entre 1 e 1,5 cm de espessura — fino o suficiente para cozinhar rápido, espesso o suficiente para não desmanchar.
+Espessura importa na grelha. Fatias muito finas (menos de 1 cm) queimam rapidamente antes de cozinhar por dentro. Fatias muito grossas (mais de 2 cm) ficam cruas no centro. O ponto ideal para todos os legumes desta receita é entre 1 e 1,5 cm de espessura.
+
+Fino o suficiente para cozinhar rápido, espesso o suficiente para não desmanchar.
 
 ### ⏱️ Organize o tempo para servir tudo quente
-Comece o cozimento da quinoa primeiro (15 min + 5 descanso = 20 min no total). Enquanto a quinoa descansa, grelhe os legumes (cerca de 8 a 10 minutos). Assim, quinoa e legumes ficam prontos quase simultaneamente. Se a quinoa ficar pronta antes, mantenha tampada no fogo mínimo — ela aguenta bem por 5 a 10 minutos sem secar.
+Comece o cozimento da quinoa primeiro (15 min + 5 descanso = 20 min no total). Enquanto a quinoa descansa, grelhe os legumes (cerca de 8 a 10 minutos). Assim, quinoa e legumes ficam prontos quase simultaneamente. Se a quinoa ficar pronta antes, mantenha tampada no fogo mínimo.
+
+Ela aguenta bem por 5 a 10 minutos sem secar.
 
 ---
 
@@ -125,19 +139,29 @@ Comece o cozimento da quinoa primeiro (15 min + 5 descanso = 20 min no total). E
 
 ## Como Armazenar
 
-**Geladeira:** Quinoa cozida dura até 5 dias em recipiente hermético — é um dos cereais que melhor se conserva na geladeira. Legumes grelhados duram até 3 dias, mas perdem parte da crocância das bordas.
+**Geladeira:** Quinoa cozida dura até 5 dias em recipiente hermético.
 
-**Freezer:** A quinoa cozida congela muito bem por até 3 meses em porções. Espalhe em uma assadeira para congelar individualmente antes de embalar — assim os grãos ficam soltos ao descongelar. Legumes grelhados não congelam bem.
+É um dos cereais que melhor se conserva na geladeira. Legumes grelhados duram até 3 dias, mas perdem parte da crocância das bordas.
 
-**Preparo antecipado:** A quinoa pode ser cozida em grande quantidade no início da semana e usada em diferentes refeições — funciona bem fria em saladas, quente como acompanhamento e até em receitas de café da manhã.
+**Freezer:** A quinoa cozida congela muito bem por até 3 meses em porções. Espalhe em uma assadeira para congelar individualmente antes de embalar.
+
+Assim os grãos ficam soltos ao descongelar. Legumes grelhados não congelam bem.
+
+**Preparo antecipado:** A quinoa pode ser cozida em grande quantidade no início da semana e usada em diferentes refeições.
+
+Funciona bem fria em saladas, quente como acompanhamento e até em receitas de café da manhã.
 
 ---
 
 ## Por que essa Receita é Fit?
 
-A quinoa é um dos poucos alimentos de origem vegetal que contém todos os 9 aminoácidos essenciais em quantidades significativas — por isso é chamada de proteína completa. Isso a torna especialmente valiosa para vegetarianos e veganos que precisam garantir a ingestão adequada de todos os aminoácidos sem combinar múltiplas fontes proteicas.
+A quinoa é um dos poucos alimentos de origem vegetal que contém todos os 9 aminoácidos essenciais em quantidades significativas.
 
-Com 14g de proteína por porção, a quinoa também é rica em ferro (2,8 mg por xícara cozida), magnésio, fósforo e manganês. Ao contrário do arroz, que tem índice glicêmico elevado, a quinoa tem índice glicêmico relativamente baixo (53), o que significa que não provoca picos bruscos de glicemia — ideal para quem controla os níveis de açúcar no sangue ou busca energia estável ao longo do dia.
+Por isso é chamada de proteína completa. Isso a torna especialmente valiosa para vegetarianos e veganos que precisam garantir a ingestão adequada de todos os aminoácidos sem combinar múltiplas fontes proteicas.
+
+Com 14g de proteína por porção, a quinoa também é rica em ferro (2,8 mg por xícara cozida), magnésio, fósforo e manganês. Ao contrário do arroz, que tem índice glicêmico elevado, a quinoa tem índice glicêmico relativamente baixo (53), o que significa que não provoca picos bruscos de glicemia.
+
+Ideal para quem controla os níveis de açúcar no sangue ou busca energia estável ao longo do dia.
 
 Os legumes grelhados desta receita amplificam ainda mais o perfil nutricional: o pimentão vermelho é uma das fontes mais ricas de vitamina C (mais que a maioria das frutas cítricas), a berinjela contém nasunina (antioxidante forte) e a abobrinha fornece potássio e vitamina B6 com praticamente zero calorias. A combinação resulta em uma refeição de 310 calorias com densidade nutricional excepcional.
 
@@ -146,10 +170,16 @@ Os legumes grelhados desta receita amplificam ainda mais o perfil nutricional: o
 ## Perguntas Frequentes
 
 **Por que minha quinoa fica com textura empapada e grudenta?**
-A causa mais comum é excesso de água ou fogo muito alto. Use exatamente 2 partes de água para 1 de quinoa, leve à fervura e reduza imediatamente para fogo mínimo. Outro fator é abrir a tampa durante o cozimento — o vapor escapa e a quinoa cozinha de forma irregular. Por fim, certifique-se de respeitar os 5 minutos de descanso tampado após desligar o fogo.
+A causa mais comum é excesso de água ou fogo muito alto. Use exatamente 2 partes de água para 1 de quinoa, leve à fervura e reduza imediatamente para fogo mínimo. Outro fator é abrir a tampa durante o cozimento.
+
+O vapor escapa e a quinoa cozinha de forma irregular. Por fim, certifique-se de respeitar os 5 minutos de descanso tampado após desligar o fogo.
 
 **Posso usar quinoa em flocos em vez de em grão?**
-Pode, mas o resultado é completamente diferente. A quinoa em flocos tem textura mais parecida com aveia — cremosa e mole — e não serve como base para um bowl da mesma forma que a quinoa em grão. Para este prato, use sempre quinoa em grão (branca, vermelha, preta ou tricolor).
+Pode, mas o resultado é completamente diferente. A quinoa em flocos tem textura mais parecida com aveia.
+
+Cremosa e mole, e não serve como base para um bowl da mesma forma que a quinoa em grão. Para este prato, use sempre quinoa em grão (branca, vermelha, preta ou tricolor).
 
 **Esta receita serve como base para meal prep semanal?**
-Com certeza — é uma das melhores opções de meal prep. A quinoa cozida dura 5 dias na geladeira e os legumes grelhados duram 3 dias. Cozinhe uma quantidade maior de quinoa no domingo e prepare os legumes em dois lotes: um para segunda e terça, outro para quarta e quinta. No dia, é só aquecer e montar o bowl em menos de 5 minutos.
+Com certeza.
+
+É uma das melhores opções de meal prep. A quinoa cozida dura 5 dias na geladeira e os legumes grelhados duram 3 dias. Cozinhe uma quantidade maior de quinoa no domingo e prepare os legumes em dois lotes: um para segunda e terça, outro para quarta e quinta. No dia, é só aquecer e montar o bowl em menos de 5 minutos.
