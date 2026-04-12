@@ -27,3 +27,13 @@ npm-debug.log*
 
 # Playwright
 .playwright-mcp/
+
+# Amazon affiliate scripts
+scripts/amazon/service_account.json
+
+# Google Search Console credentials
+scripts/gsc-service-account.json
+scripts/indexing-log.json
+scripts/content-index-state.json
+scripts/amazon/output/
+scripts/amazon/.env

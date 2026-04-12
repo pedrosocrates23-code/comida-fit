@@ -1,0 +1,78 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import Header from '@components/Header.astro';
+import Footer from '@components/Footer.astro';
+import { getCollection } from 'astro:content';
+
+const pages = await getCollection('afiliados');
+pages.sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+
+const categoriaLabels: Record<string, string> = {
+  'proteinas':    'Proteínas',
+  'creatinas':    'Creatinas',
+  'pre-treino':   'Pré-Treino',
+  'aminoacidos':  'Aminoácidos',
+  'vitaminas':    'Vitaminas',
+  'termogenicos': 'Termogênicos',
+  'suplementos':  'Suplementos',
+};
+
+const pageTitle = 'Suplementos Fitness: Comparativos e Reviews | Receitas Fit';
+const pageDesc  = 'Comparativos completos dos melhores suplementos para treino. Avaliações reais, preços atualizados e links diretos para Amazon.';
+---
+
+<BaseLayout title={pageTitle} description={pageDesc}>
+  <Header />
+
+  <main class="afiliados-index">
+    <section class="hero">
+      <h1>Suplementos Fitness</h1>
+      <p>Comparativos e reviews dos melhores produtos para sua performance</p>
+    </section>
+
+    {pages.length === 0 ? (
+      <p class="empty">Em breve: comparativos de proteínas, creatinas e mais.</p>
+    ) : (
+      <div class="grid">
+        {pages.map(page => (
+          <a href={`/afiliados/${page.slug}/`} class="card">
+            {page.data.image && (
+              <img
+                src={page.data.image}
+                alt={page.data.imageAlt || page.data.title}
+                width="400"
+                height="300"
+                loading="lazy"
+              />
+            )}
+            <div class="card-body">
+              <span class="badge">{categoriaLabels[page.data.categoria] ?? page.data.categoria}</span>
+              <h2>{page.data.title}</h2>
+              <p>{page.data.description}</p>
+              <span class="produtos-count">{page.data.produtos.length} produtos comparados</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    )}
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .afiliados-index { max-width: 1100px; margin: 0 auto; padding: 2rem 1rem; }
+  .hero { text-align: center; padding: 3rem 0 2rem; }
+  .hero h1 { font-size: 2.5rem; color: #1a1a1a; margin-bottom: .5rem; }
+  .hero p { color: #555; font-size: 1.1rem; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1.5rem; }
+  .card { border: 1px solid #e5e7eb; border-radius: 12px; overflow: hidden; text-decoration: none; color: inherit; transition: box-shadow .2s; }
+  .card:hover { box-shadow: 0 4px 20px rgba(0,0,0,.1); }
+  .card img { width: 100%; height: 200px; object-fit: cover; }
+  .card-body { padding: 1.25rem; }
+  .badge { background: #dcfce7; color: #166534; font-size: .75rem; font-weight: 600; padding: .25rem .75rem; border-radius: 99px; }
+  .card-body h2 { font-size: 1.1rem; margin: .75rem 0 .5rem; }
+  .card-body p { color: #666; font-size: .9rem; margin: 0 0 .75rem; }
+  .produtos-count { color: #888; font-size: .8rem; }
+  .empty { text-align: center; color: #888; padding: 4rem 0; }
+</style>

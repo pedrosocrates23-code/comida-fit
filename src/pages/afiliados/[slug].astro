@@ -1,0 +1,169 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import Header from '@components/Header.astro';
+import Footer from '@components/Footer.astro';
+import Breadcrumb from '@components/Breadcrumb.astro';
+import { getCollection } from 'astro:content';
+import type { GetStaticPaths } from 'astro';
+
+export const getStaticPaths: GetStaticPaths = async () => {
+  const pages = await getCollection('afiliados');
+  return pages.map(page => ({
+    params: { slug: page.slug },
+    props:  { page },
+  }));
+};
+
+const { page } = Astro.props;
+const { data } = page;
+const { Content } = await page.render();
+
+const categoriaLabels: Record<string, string> = {
+  'proteinas':    'Proteínas',
+  'creatinas':    'Creatinas',
+  'pre-treino':   'Pré-Treino',
+  'aminoacidos':  'Aminoácidos',
+  'vitaminas':    'Vitaminas',
+  'termogenicos': 'Termogênicos',
+  'suplementos':  'Suplementos',
+};
+
+const breadcrumbs = [
+  { name: 'Home',        url: 'https://melhoresreceitasfit.com.br/' },
+  { name: 'Suplementos', url: 'https://melhoresreceitasfit.com.br/afiliados/' },
+  { name: data.title,    url: `https://melhoresreceitasfit.com.br/afiliados/${page.slug}/` },
+];
+
+const publishedDate = data.publishDate.toLocaleDateString('pt-BR', {
+  day: '2-digit', month: 'long', year: 'numeric',
+});
+
+const bestProduct = data.produtos.find(p => p.destaque) ?? data.produtos[0];
+
+// Schema.org ItemList para SEO
+const itemListSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: data.title,
+  description: data.description,
+  numberOfItems: data.produtos.length,
+  itemListElement: data.produtos.map((p, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: p.titulo,
+    url: p.link,
+  })),
+};
+---
+
+<BaseLayout title={data.title} description={data.description}>
+  <script type="application/ld+json" set:html={JSON.stringify(itemListSchema)} slot="head" />
+
+  <Header />
+  <Breadcrumb items={breadcrumbs} />
+
+  <main class="afiliado-page">
+    <article>
+      <header class="page-header">
+        <span class="badge">{categoriaLabels[data.categoria] ?? data.categoria}</span>
+        <h1>{data.title}</h1>
+        <p class="desc">{data.description}</p>
+        <time datetime={data.publishDate.toISOString()}>Atualizado em {publishedDate}</time>
+      </header>
+
+      {data.produtos.length > 0 && (
+        <section class="top-pick">
+          <p class="top-label">Nossa Recomendação #1</p>
+          <div class="top-card">
+            {bestProduct?.imagem && (
+              <img
+                src={bestProduct.imagem}
+                alt={bestProduct.titulo}
+                width="200"
+                height="200"
+                loading="eager"
+              />
+            )}
+            <div class="top-info">
+              <h2>{bestProduct?.titulo}</h2>
+              {bestProduct?.preco && (
+                <p class="preco">
+                  R$ {bestProduct.preco.toLocaleString('pt-BR', { minimumFractionDigits: 2 })}
+                </p>
+              )}
+              {bestProduct?.rating && (
+                <p class="rating">{'⭐'.repeat(Math.round(bestProduct.rating))} {bestProduct.rating}/5</p>
+              )}
+              <a
+                href={bestProduct?.link}
+                target="_blank"
+                rel="noopener sponsored"
+                class="btn-amazon"
+              >
+                Ver na Amazon →
+              </a>
+            </div>
+          </div>
+        </section>
+      )}
+
+      <div class="content">
+        <Content />
+      </div>
+    </article>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .afiliado-page { max-width: 860px; margin: 0 auto; padding: 1rem 1rem 4rem; }
+  .page-header { margin-bottom: 2rem; }
+  .badge { background: #dcfce7; color: #166534; font-size: .75rem; font-weight: 600; padding: .25rem .75rem; border-radius: 99px; }
+  .page-header h1 { font-size: 2rem; margin: .75rem 0 .5rem; color: #111; }
+  .desc { color: #555; font-size: 1.05rem; margin-bottom: .5rem; }
+  time { color: #888; font-size: .85rem; }
+
+  .top-pick { background: #f0fdf4; border: 2px solid #86efac; border-radius: 12px; padding: 1.5rem; margin: 2rem 0; }
+  .top-label { font-size: .8rem; font-weight: 700; color: #16a34a; text-transform: uppercase; letter-spacing: .05em; margin-bottom: .75rem; }
+  .top-card { display: flex; gap: 1.5rem; align-items: center; flex-wrap: wrap; }
+  .top-card img { width: 160px; height: 160px; object-fit: contain; border-radius: 8px; background: #fff; }
+  .top-info h2 { font-size: 1.1rem; margin: 0 0 .5rem; }
+  .preco { font-size: 1.4rem; font-weight: 700; color: #111; margin: .25rem 0; }
+  .rating { color: #555; font-size: .9rem; margin: .25rem 0 1rem; }
+
+  .btn-amazon {
+    display: inline-block;
+    background: #ff9900;
+    color: #111;
+    font-weight: 700;
+    padding: .6rem 1.5rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: .95rem;
+    transition: background .2s;
+  }
+  .btn-amazon:hover { background: #e68900; }
+
+  .content :global(h2) { font-size: 1.5rem; margin: 2.5rem 0 1rem; color: #111; border-bottom: 2px solid #e5e7eb; padding-bottom: .5rem; }
+  .content :global(h3) { font-size: 1.2rem; margin: 2rem 0 .75rem; color: #111; }
+  .content :global(p)  { line-height: 1.75; color: #333; margin-bottom: 1rem; }
+  .content :global(table) { width: 100%; border-collapse: collapse; margin: 1.5rem 0; }
+  .content :global(th) { background: #f3f4f6; padding: .6rem 1rem; text-align: left; font-size: .9rem; }
+  .content :global(td) { padding: .6rem 1rem; border-bottom: 1px solid #e5e7eb; font-size: .9rem; }
+  .content :global(.btn-afiliado) {
+    display: inline-block;
+    background: #ff9900;
+    color: #111;
+    font-weight: 700;
+    padding: .6rem 1.5rem;
+    border-radius: 8px;
+    text-decoration: none;
+    margin: 1rem 0;
+    transition: background .2s;
+  }
+  .content :global(.btn-afiliado:hover) { background: #e68900; }
+  .content :global(ul) { padding-left: 1.5rem; margin-bottom: 1rem; }
+  .content :global(li) { margin-bottom: .35rem; line-height: 1.6; }
+  .content :global(strong) { color: #111; }
+</style>

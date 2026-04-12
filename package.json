@@ -7,7 +7,11 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "download-images": "node scripts/download-images.mjs"
+    "download-images": "node scripts/download-images.mjs",
+    "index:all": "node scripts/index-gsc.mjs",
+    "index:new": "node scripts/index-new-content.mjs",
+    "index:new-dry": "node scripts/index-new-content.mjs --dry-run",
+    "deploy": "npm run build && node scripts/index-new-content.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.2.0",
@@ -16,6 +20,7 @@
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.8",
+    "googleapis": "^171.4.0",
     "typescript": "^5.9.3"
   }
 }

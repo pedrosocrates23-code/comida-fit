@@ -99,7 +99,9 @@ O **brownie de batata doce** está pronto quando as bordas estiverem firmes e le
 ---
 
 ### Passo 6: Resfriar completamente antes de cortar
-Retire do forno e deixe esfriar na forma por pelo menos 30 minutos em temperatura ambiente, depois leve à geladeira por mais 30 a 60 minutos. O resfriamento completo é absolutamente necessário: brownie morno se parte em pedaços irregulares ao cortar. Frio, a textura firma e os cortes ficam limpos. Use uma faca afiada e limpe entre os cortes para quadradinhos perfeitos.
+Retire do forno e deixe esfriar na forma por pelo menos **30 minutos** em temperatura ambiente, depois leve à **geladeira por mais 30 a 60 minutos**. O resfriamento completo é absolutamente necessário: brownie morno se parte em pedaços irregulares ao cortar.
+
+Frio, a **textura firma** e os cortes ficam limpos. Use uma **faca afiada** e limpe entre os cortes para **quadradinhos perfeitos**.
 
 > 💡 **Dica:** Para cortes absolutamente perfeitos, passe a faca sob água quente antes de cada corte e seque rapidamente. O calor sutil faz a faca deslizar pela textura densa do brownie sem comprimir ou rasgar.
 
