@@ -2,7 +2,7 @@
 title: "Melhores BCAAs e Aminoácidos 2025: Comparativo com os 5 Melhores"
 description: "Compare os 5 melhores produtos de aminoacidos com avaliações reais, preços atualizados e entrega Prime pela Amazon."
 publishDate: 2026-04-12
-categoria: aminoacidos
+categoria: suplementos
 tipo: comparativo
 image: "/afiliados/images/B0CLB2QLZ2.jpg"
 imageAlt: "Melhores BCAAs e Aminoácidos 2025"

@@ -2,7 +2,7 @@
 title: "Melhores Creatinas 2025: Comparativo com os 6 Melhores"
 description: "Compare os 6 melhores produtos de creatinas com avaliações reais, preços atualizados e entrega Prime pela Amazon."
 publishDate: 2026-04-12
-categoria: creatinas
+categoria: suplementos
 tipo: comparativo
 image: "/afiliados/images/B081QQFXMK.jpg"
 imageAlt: "Melhores Creatinas 2025"

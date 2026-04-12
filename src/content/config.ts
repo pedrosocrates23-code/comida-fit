@@ -46,23 +46,8 @@ const blogCollection = defineCollection({
     imageAlt:    z.string().optional(),
     keywords:    z.array(z.string()),
     featured:    z.boolean().default(false),
-    categoria:   z.enum(['nutricao', 'treino', 'emagrecimento', 'saude', 'dicas-fit']),
-  }),
-});
-
-const afiliadosCollection = defineCollection({
-  type: 'content',
-  schema: z.object({
-    title:       z.string(),
-    description: z.string().max(160),
-    publishDate: z.date(),
-    updatedDate: z.date().optional(),
-    categoria:   z.enum(['proteinas', 'creatinas', 'pre-treino', 'aminoacidos', 'vitaminas', 'termogenicos', 'suplementos']),
-    tipo:        z.enum(['comparativo', 'review', 'top-lista']).default('comparativo'),
-    image:       z.string().optional(),
-    imageAlt:    z.string().optional(),
-    keywords:    z.array(z.string()),
-    featured:    z.boolean().default(false),
+    categoria:   z.enum(['nutricao', 'treino', 'emagrecimento', 'saude', 'dicas-fit', 'suplementos']),
+    tipo:        z.enum(['comparativo', 'review', 'top-lista', 'artigo']).default('artigo'),
     produtos:    z.array(z.object({
       asin:        z.string(),
       titulo:      z.string(),
@@ -73,11 +58,8 @@ const afiliadosCollection = defineCollection({
       link:        z.string(),
       vendedor:    z.string().optional(),
       destaque:    z.boolean().default(false),
-      pros:        z.array(z.string()).optional(),
-      contras:     z.array(z.string()).optional(),
-      descricao:   z.string().optional(),
     })).default([]),
   }),
 });
 
-export const collections = { receitas: receitasCollection, blog: blogCollection, afiliados: afiliadosCollection };
+export const collections = { receitas: receitasCollection, blog: blogCollection };
