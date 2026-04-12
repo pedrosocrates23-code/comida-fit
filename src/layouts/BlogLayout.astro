@@ -302,6 +302,86 @@ const breadcrumbSchema = {
     text-decoration: none;
   }
 
+  /* ── CTA Afiliado ───────────────────────────────────── */
+  .blog-prose :global(.btn-afiliado) {
+    display: block;
+    width: 100%;
+    max-width: 420px;
+    margin: 1.75rem auto;
+    padding: 1rem 1.5rem;
+    background: var(--color-secondary);
+    color: #fff;
+    font-family: var(--font-display);
+    font-size: var(--text-lg);
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    border: var(--border-thick);
+    box-shadow: var(--shadow);
+    border-radius: var(--radius-sm);
+    transition: box-shadow var(--transition), transform var(--transition);
+    cursor: pointer;
+  }
+
+  .blog-prose :global(.btn-afiliado:hover) {
+    box-shadow: var(--shadow-hover);
+    transform: translate(-2px, -2px);
+    text-decoration: none;
+    color: #fff;
+  }
+
+  .blog-prose :global(.btn-afiliado:active) {
+    box-shadow: var(--shadow-active);
+    transform: translate(3px, 3px);
+  }
+
+  /* veredito box */
+  .blog-prose :global(.veredito) {
+    background: color-mix(in srgb, var(--color-accent) 20%, var(--color-canvas));
+    border: var(--border-thick);
+    box-shadow: var(--shadow);
+    border-radius: var(--radius);
+    padding: var(--space-6);
+    margin: var(--space-8) 0;
+  }
+
+  /* pros/contras table */
+  .blog-prose :global(.pros-contras) {
+    width: 100%;
+    border-collapse: collapse;
+    margin: var(--space-6) 0;
+    font-size: var(--text-sm);
+  }
+
+  .blog-prose :global(.pros-contras th:first-child) {
+    background: #16a34a;
+    color: #fff;
+  }
+
+  .blog-prose :global(.pros-contras th:last-child) {
+    background: #dc2626;
+    color: #fff;
+  }
+
+  .blog-prose :global(.pros-contras td:first-child) {
+    background: #f0fdf4;
+    color: #166534;
+  }
+
+  .blog-prose :global(.pros-contras td:last-child) {
+    background: #fef2f2;
+    color: #991b1b;
+  }
+
+  .blog-prose :global(.pros-contras td),
+  .blog-prose :global(.pros-contras th) {
+    padding: var(--space-3) var(--space-4);
+    border: 2px solid var(--color-border);
+    vertical-align: top;
+  }
+
   @media (max-width: 768px) {
     .blog-post__title { font-size: var(--text-3xl); }
   }
