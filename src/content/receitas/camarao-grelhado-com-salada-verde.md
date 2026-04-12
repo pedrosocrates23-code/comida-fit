@@ -1,6 +1,6 @@
 ---
 title: "Camarão Grelhado com Salada Verde"
-description: "Camarão grelhado temperado com alho e limão servido com salada verde fresca — jantar low carb, rico em proteínas e pronto em 20 minutos."
+description: "Camarão grelhado temperado com alho e limão servido com salada verde fresca. jantar low carb, rico em proteínas e pronto em 20 minutos."
 categoria: "jantar-low-carb"
 tempoPreparo: 10
 tempoCozimento: 10

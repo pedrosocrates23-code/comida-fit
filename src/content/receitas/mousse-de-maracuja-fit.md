@@ -1,6 +1,6 @@
 ---
 title: "Mousse de Maracujá Fit"
-description: "Mousse de maracujá fit com iogurte grego e gelatina sem sabor — sobremesa leve, cremosa, rica em proteínas e sem açúcar refinado."
+description: "Mousse de maracujá fit com iogurte grego e gelatina sem sabor. sobremesa leve, cremosa, rica em proteínas e sem açúcar refinado."
 categoria: "sobremesas-fit"
 tempoPreparo: 15
 porcoes: 4

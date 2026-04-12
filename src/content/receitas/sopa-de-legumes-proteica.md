@@ -1,6 +1,6 @@
 ---
 title: "Sopa de Legumes Proteica"
-description: "Sopa de legumes com frango e grão-de-bico — refeição fit completa, rica em proteínas e fibras, reconfortante e baixa em calorias para o almoço."
+description: "Sopa de legumes com frango e grão-de-bico. refeição fit completa, rica em proteínas e fibras, reconfortante e baixa em calorias para o almoço."
 categoria: "almoco-fit"
 tempoPreparo: 15
 tempoCozimento: 35

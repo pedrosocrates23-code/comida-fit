@@ -1,6 +1,6 @@
 ---
 title: "Bolinho de Atum Assado"
-description: "Bolinho de atum assado sem fritar — lanche fit proteico, crocante por fora e macio por dentro, com apenas 35 calorias por unidade."
+description: "Bolinho de atum assado sem fritar. lanche fit proteico, crocante por fora e macio por dentro, com apenas 35 calorias por unidade."
 categoria: "lanches-saudaveis"
 tempoPreparo: 15
 tempoCozimento: 20

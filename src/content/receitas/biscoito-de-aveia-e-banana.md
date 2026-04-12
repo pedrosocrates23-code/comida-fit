@@ -1,6 +1,6 @@
 ---
 title: "Biscoito de Aveia e Banana"
-description: "Biscoito fit de aveia e banana sem açúcar refinado — lanche saudável crocante, rico em fibras e fácil de fazer com apenas 3 ingredientes básicos."
+description: "Biscoito fit de aveia e banana sem açúcar refinado. lanche saudável crocante, rico em fibras e fácil de fazer com apenas 3 ingredientes básicos."
 categoria: "lanches-saudaveis"
 tempoPreparo: 10
 tempoCozimento: 15

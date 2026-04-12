@@ -1,6 +1,6 @@
 ---
 title: "Shake de Aveia Pré-Treino"
-description: "Shake de aveia com banana e whey protein — bebida pré-treino energética com carboidratos complexos e proteínas para melhor performance."
+description: "Shake de aveia com banana e whey protein. bebida pré-treino energética com carboidratos complexos e proteínas para melhor performance."
 categoria: "pre-treino"
 tempoPreparo: 5
 porcoes: 1

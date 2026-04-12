@@ -1,6 +1,6 @@
 ---
 title: "Omelete Recheada de Legumes"
-description: "Omelete grande recheada com legumes salteados e queijo — jantar low carb rápido, nutritivo e versátil, com alto teor de proteínas e apenas 20 minutos."
+description: "Omelete grande recheada com legumes salteados e queijo. jantar low carb rápido, nutritivo e versátil, com alto teor de proteínas e apenas 20 minutos."
 categoria: "jantar-low-carb"
 tempoPreparo: 10
 tempoCozimento: 12

@@ -1,6 +1,6 @@
 ---
 title: "Shake de Whey com Banana Pós-Treino"
-description: "Shake de whey protein com banana e leite — bebida pós-treino clássica para recuperação muscular rápida, com alto valor proteico e carboidratos simples."
+description: "Shake de whey protein com banana e leite. bebida pós-treino clássica para recuperação muscular rápida, com alto valor proteico e carboidratos simples."
 categoria: "pos-treino"
 tempoPreparo: 3
 porcoes: 1

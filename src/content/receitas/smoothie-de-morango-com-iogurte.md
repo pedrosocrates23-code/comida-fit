@@ -1,6 +1,6 @@
 ---
 title: "Smoothie de Morango com Iogurte"
-description: "Smoothie de morango com iogurte grego e chia — bebida proteica, cremosa e refrescante, perfeita para o café da manhã ou lanche fitness."
+description: "Smoothie de morango com iogurte grego e chia. bebida proteica, cremosa e refrescante, perfeita para o café da manhã ou lanche fitness."
 categoria: "smoothies-e-sucos"
 tempoPreparo: 5
 porcoes: 1

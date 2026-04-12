@@ -1,6 +1,6 @@
 ---
 title: "Sorvete de Banana com Pasta de Amendoim"
-description: "Sorvete fit de banana congelada com pasta de amendoim — sobremesa vegana, sem lactose e sem açúcar, cremosa e pronta em 5 minutos."
+description: "Sorvete fit de banana congelada com pasta de amendoim. sobremesa vegana, sem lactose e sem açúcar, cremosa e pronta em 5 minutos."
 categoria: "sobremesas-fit"
 tempoPreparo: 5
 porcoes: 2

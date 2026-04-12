@@ -1,6 +1,6 @@
 ---
 title: "Mingau de Aveia com Frutas Vermelhas"
-description: "Mingau de aveia cremoso com frutas vermelhas frescas — café da manhã nutritivo, rico em fibras e antioxidantes para começar bem o dia."
+description: "Mingau de aveia cremoso com frutas vermelhas frescas. café da manhã nutritivo, rico em fibras e antioxidantes para começar bem o dia."
 categoria: "cafe-da-manha"
 tempoPreparo: 5
 tempoCozimento: 8

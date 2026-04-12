@@ -1,5 +1,5 @@
 ---
-// @hakari — <ul> semântico de categorias
+// @hakari - <ul> semântico de categorias
 interface CategoriaItem {
   nome:     string;
   slug:     string;
@@ -28,7 +28,7 @@ const categorias: CategoriaItem[] = [
         <a
           href={`/categoria/${slug}/`}
           class="category-card"
-          aria-label={`${nome} — ${count} receitas`}
+          aria-label={`${nome}, ${count} receitas`}
         >
           <span class="category-card__icon" aria-hidden="true">{icone}</span>
           <span class="category-card__name">{nome}</span>

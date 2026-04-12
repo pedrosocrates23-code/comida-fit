@@ -1,6 +1,6 @@
 ---
 title: "Wrap de Frango com Alface"
-description: "Wrap fit de frango grelhado com alface, tomate e molho de iogurte — almoço prático, proteico e nutritivo, perfeito para levar na marmita."
+description: "Wrap fit de frango grelhado com alface, tomate e molho de iogurte. almoço prático, proteico e nutritivo, perfeito para levar na marmita."
 categoria: "almoco-fit"
 tempoPreparo: 15
 tempoCozimento: 15

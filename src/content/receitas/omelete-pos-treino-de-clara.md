@@ -1,6 +1,6 @@
 ---
 title: "Omelete Pós-Treino de Clara"
-description: "Omelete de claras com espinafre e tomate — refeição pós-treino leve e proteica, com baixíssimo teor de gordura e preparo em menos de 10 minutos."
+description: "Omelete de claras com espinafre e tomate. refeição pós-treino leve e proteica, com baixíssimo teor de gordura e preparo em menos de 10 minutos."
 categoria: "pos-treino"
 tempoPreparo: 5
 tempoCozimento: 8

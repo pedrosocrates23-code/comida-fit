@@ -1,4 +1,4 @@
-// @uraume — Dynamic sitemap endpoint
+// @uraume - Dynamic sitemap endpoint
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 

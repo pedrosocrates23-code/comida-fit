@@ -1,6 +1,6 @@
 ---
 title: "Suco de Beterraba com Gengibre"
-description: "Suco de beterraba com gengibre e laranja — bebida anti-inflamatória, energizante e rica em nitratos naturais, ótima antes do treino."
+description: "Suco de beterraba com gengibre e laranja. bebida anti-inflamatória, energizante e rica em nitratos naturais, ótima antes do treino."
 categoria: "smoothies-e-sucos"
 tempoPreparo: 10
 porcoes: 2

@@ -1,6 +1,6 @@
 ---
 title: "Tilápia Assada com Ervas"
-description: "Filé de tilápia assado com ervas frescas e limão — almoço fit leve, rico em proteínas magras e ômega-3, pronto em menos de 30 minutos."
+description: "Filé de tilápia assado com ervas frescas e limão. almoço fit leve, rico em proteínas magras e ômega-3, pronto em menos de 30 minutos."
 categoria: "almoco-fit"
 tempoPreparo: 10
 tempoCozimento: 20

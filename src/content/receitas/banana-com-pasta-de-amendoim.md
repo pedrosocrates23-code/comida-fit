@@ -1,6 +1,6 @@
 ---
 title: "Banana com Pasta de Amendoim Pré-Treino"
-description: "Banana com pasta de amendoim integral — lanche pré-treino rápido e energético, com carboidratos de fácil absorção e gorduras boas."
+description: "Banana com pasta de amendoim integral. lanche pré-treino rápido e energético, com carboidratos de fácil absorção e gorduras boas."
 categoria: "pre-treino"
 tempoPreparo: 2
 porcoes: 1

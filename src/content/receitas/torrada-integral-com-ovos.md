@@ -1,6 +1,6 @@
 ---
 title: "Torrada Integral com Ovos Pré-Treino"
-description: "Torrada integral com ovos mexidos e abacate — lanche pré-treino nutritivo com carboidratos complexos, proteínas e gorduras saudáveis."
+description: "Torrada integral com ovos mexidos e abacate. lanche pré-treino nutritivo com carboidratos complexos, proteínas e gorduras saudáveis."
 categoria: "pre-treino"
 tempoPreparo: 5
 tempoCozimento: 5

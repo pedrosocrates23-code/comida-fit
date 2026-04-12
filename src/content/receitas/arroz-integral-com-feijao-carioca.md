@@ -1,6 +1,6 @@
 ---
 title: "Arroz Integral com Feijão Carioca"
-description: "Arroz integral com feijão carioca temperado — combinação clássica brasileira fit, rica em fibras, proteínas vegetais e aminoácidos essenciais."
+description: "Arroz integral com feijão carioca temperado. combinação clássica brasileira fit, rica em fibras, proteínas vegetais e aminoácidos essenciais."
 categoria: "almoco-fit"
 tempoPreparo: 10
 tempoCozimento: 50

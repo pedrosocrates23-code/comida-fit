@@ -1,6 +1,6 @@
 ---
 title: "Frango ao Molho de Iogurte"
-description: "Frango macio ao molho cremoso de iogurte grego com ervas — jantar low carb proteico, rico em sabor, fácil de preparar e com apenas 260 calorias."
+description: "Frango macio ao molho cremoso de iogurte grego com ervas. jantar low carb proteico, rico em sabor, fácil de preparar e com apenas 260 calorias."
 categoria: "jantar-low-carb"
 tempoPreparo: 10
 tempoCozimento: 25

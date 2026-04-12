@@ -1,6 +1,6 @@
 ---
 title: "Chips de Batata-Doce Assada"
-description: "Chips crocantes de batata-doce assada sem fritura — lanche fit colorido, rico em betacaroteno e fibras, com apenas 110 calorias por porção."
+description: "Chips crocantes de batata-doce assada sem fritura. lanche fit colorido, rico em betacaroteno e fibras, com apenas 110 calorias por porção."
 categoria: "lanches-saudaveis"
 tempoPreparo: 10
 tempoCozimento: 25

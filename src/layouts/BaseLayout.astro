@@ -1,6 +1,6 @@
 ---
-// @uraume — <head> precision crystallization
-// @hakari  — semantic landmark structure
+// @uraume - <head> precision crystallization
+// @hakari  - semantic landmark structure
 import '@styles/global.css';
 
 interface Props {
@@ -30,7 +30,7 @@ const siteName   = 'Melhores Receitas Fit';
 const canonical  = canonicalUrl ?? new URL(Astro.url.pathname, siteUrl).href;
 const ogImage    = image.startsWith('http') ? image : `${siteUrl}${image}`;
 const pageTitle  = title === siteName
-  ? `${siteName} — Receitas Saudáveis e Fit`
+  ? `${siteName}: Receitas Saudáveis e Fit`
   : `${title} | ${siteName}`;
 
 const schemaArray = schema

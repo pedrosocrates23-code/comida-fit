@@ -1,6 +1,6 @@
 ---
 title: "Smoothie Verde Detox"
-description: "Smoothie verde detox com espinafre, maçã e gengibre — bebida nutritiva para desintoxicar e dar energia no café da manhã."
+description: "Smoothie verde detox com espinafre, maçã e gengibre. bebida nutritiva para desintoxicar e dar energia no café da manhã."
 categoria: "smoothies-e-sucos"
 tempoPreparo: 5
 porcoes: 1

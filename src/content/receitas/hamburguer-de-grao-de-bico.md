@@ -1,6 +1,6 @@
 ---
 title: "Hambúrguer de Grão-de-Bico"
-description: "Hambúrguer vegano de grão-de-bico com ervas e especiarias — opção fit, low carb e rica em fibras para um jantar saboroso e nutritivo."
+description: "Hambúrguer vegano de grão-de-bico com ervas e especiarias. opção fit, low carb e rica em fibras para um jantar saboroso e nutritivo."
 categoria: "jantar-low-carb"
 tempoPreparo: 20
 tempoCozimento: 20

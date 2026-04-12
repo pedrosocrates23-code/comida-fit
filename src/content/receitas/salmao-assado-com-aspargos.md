@@ -1,6 +1,6 @@
 ---
 title: "Salmão Assado com Aspargos"
-description: "Filé de salmão assado com aspargos frescos e limão — jantar low carb elegante, rico em ômega-3 e proteínas, pronto em 20 minutos com sabor sofisticado."
+description: "Filé de salmão assado com aspargos frescos e limão. jantar low carb elegante, rico em ômega-3 e proteínas, pronto em 20 minutos com sabor sofisticado."
 categoria: "jantar-low-carb"
 tempoPreparo: 8
 tempoCozimento: 18

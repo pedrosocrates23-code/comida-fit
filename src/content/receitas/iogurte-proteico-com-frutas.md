@@ -1,6 +1,6 @@
 ---
 title: "Iogurte Proteico com Frutas Pós-Treino"
-description: "Iogurte grego proteico com frutas vermelhas e granola — lanche pós-treino rico em proteínas, probióticos e antioxidantes para recuperação."
+description: "Iogurte grego proteico com frutas vermelhas e granola. lanche pós-treino rico em proteínas, probióticos e antioxidantes para recuperação."
 categoria: "pos-treino"
 tempoPreparo: 5
 porcoes: 1

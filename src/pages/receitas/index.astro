@@ -7,7 +7,7 @@ import Breadcrumb from '@components/Breadcrumb.astro';
 import { getCollection } from 'astro:content';
 import { buildBreadcrumbSchema } from '@utils/schema';
 
-// SSG: busca TODAS as receitas — filtragem acontece client-side
+// SSG: busca TODAS as receitas - filtragem acontece client-side
 const todasReceitas = await getCollection('receitas');
 
 // Ordena por rating decrescente
@@ -87,7 +87,7 @@ const breadcrumbs = [
         Nenhuma receita encontrada. Tente outro termo ou categoria.
       </p>
 
-      <!-- Grid — data attributes para filtro client-side -->
+      <!-- Grid - data attributes para filtro client-side -->
       <ul class="grid-receitas" role="list" id="receitas-grid" aria-label="Receitas">
         {receitas.map((r, i) => (
           <li

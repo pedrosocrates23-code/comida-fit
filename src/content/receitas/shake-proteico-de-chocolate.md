@@ -1,6 +1,6 @@
 ---
 title: "Shake Proteico de Chocolate"
-description: "Shake proteico de chocolate com whey protein e leite vegetal — bebida cremosa e rica em proteínas para pós-treino ou lanche fit rápido."
+description: "Shake proteico de chocolate com whey protein e leite vegetal. bebida cremosa e rica em proteínas para pós-treino ou lanche fit rápido."
 categoria: "smoothies-e-sucos"
 tempoPreparo: 5
 porcoes: 1

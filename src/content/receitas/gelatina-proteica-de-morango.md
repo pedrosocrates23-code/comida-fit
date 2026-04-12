@@ -1,6 +1,6 @@
 ---
 title: "Gelatina Proteica de Morango"
-description: "Gelatina proteica de morango com whey protein e iogurte grego — sobremesa fit de baixo carboidrato, refrescante e rica em proteínas."
+description: "Gelatina proteica de morango com whey protein e iogurte grego. sobremesa fit de baixo carboidrato, refrescante e rica em proteínas."
 categoria: "sobremesas-fit"
 tempoPreparo: 10
 porcoes: 4

@@ -1,6 +1,6 @@
 ---
 title: "Risoto de Couve-Flor com Frango"
-description: "Risoto fit de couve-flor triturada com frango desfiado — versão low carb do risoto clássico, cremoso, proteico e com apenas 280 calorias por porção."
+description: "Risoto fit de couve-flor triturada com frango desfiado. versão low carb do risoto clássico, cremoso, proteico e com apenas 280 calorias por porção."
 categoria: "almoco-fit"
 tempoPreparo: 15
 tempoCozimento: 25

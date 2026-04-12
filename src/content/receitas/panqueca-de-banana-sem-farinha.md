@@ -1,6 +1,6 @@
 ---
 title: "Panqueca de Banana Sem Farinha"
-description: "Panqueca fit sem farinha com banana e ovos — receita rápida, sem glúten e perfeita para o café da manhã saudável."
+description: "Panqueca fit sem farinha com banana e ovos. receita rápida, sem glúten e perfeita para o café da manhã saudável."
 categoria: "cafe-da-manha"
 tempoPreparo: 5
 tempoCozimento: 10

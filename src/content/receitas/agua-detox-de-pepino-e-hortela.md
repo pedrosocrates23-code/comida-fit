@@ -1,6 +1,6 @@
 ---
 title: "Água Detox de Pepino e Hortelã"
-description: "Água detox de pepino com hortelã e limão — bebida refrescante, hidratante e desintoxicante para consumir ao longo do dia e emagrecer."
+description: "Água detox de pepino com hortelã e limão. bebida refrescante, hidratante e desintoxicante para consumir ao longo do dia e emagrecer."
 categoria: "smoothies-e-sucos"
 tempoPreparo: 5
 porcoes: 4
@@ -116,7 +116,7 @@ Cubos de hortelã congelada que você adiciona diretamente à jarra.
 | Limão siciliano | Limão taiti ou lima da pérsia | Limão taiti é mais ácido; lima da pérsia é mais perfumada |
 | Hortelã | Manjericão fresco | Aroma completamente diferente, mais floral e herbal |
 | Água filtrada | Água de coco | Versão mais doce e rica em eletrólitos, sabor tropical |
-| — | Adicionar fatias de gengibre | Potencializa o efeito anti-inflamatório e digestivo |
+|, | Adicionar fatias de gengibre | Potencializa o efeito anti-inflamatório e digestivo |
 
 ---
 

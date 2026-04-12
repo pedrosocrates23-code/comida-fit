@@ -1,6 +1,6 @@
 ---
 title: "Vitamina de Mamão com Linhaça"
-description: "Vitamina de mamão com linhaça e leite de amêndoas — bebida digestiva, rica em fibras e ômega-3, perfeita para o café da manhã saudável."
+description: "Vitamina de mamão com linhaça e leite de amêndoas. bebida digestiva, rica em fibras e ômega-3, perfeita para o café da manhã saudável."
 categoria: "smoothies-e-sucos"
 tempoPreparo: 5
 porcoes: 1

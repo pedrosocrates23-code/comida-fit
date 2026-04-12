@@ -1,6 +1,6 @@
 ---
 title: "Smoothie Bowl de Açaí Fit"
-description: "Smoothie bowl de açaí fit sem açúcar adicionado — base cremosa com toppings nutritivos, rico em antioxidantes e perfeito para o café da manhã."
+description: "Smoothie bowl de açaí fit sem açúcar adicionado. base cremosa com toppings nutritivos, rico em antioxidantes e perfeito para o café da manhã."
 categoria: "cafe-da-manha"
 tempoPreparo: 10
 porcoes: 1

@@ -1,6 +1,6 @@
 ---
 title: "Trufa de Chocolate com Óleo de Coco"
-description: "Trufas fit de chocolate amargo com óleo de coco e tâmaras — sobremesa saudável sem açúcar refinado, rica em gorduras boas e antioxidantes."
+description: "Trufas fit de chocolate amargo com óleo de coco e tâmaras. sobremesa saudável sem açúcar refinado, rica em gorduras boas e antioxidantes."
 categoria: "sobremesas-fit"
 tempoPreparo: 20
 porcoes: 16

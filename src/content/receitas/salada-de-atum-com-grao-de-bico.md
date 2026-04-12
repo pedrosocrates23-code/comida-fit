@@ -1,6 +1,6 @@
 ---
 title: "Salada de Atum com Grão-de-Bico"
-description: "Salada proteica de atum com grão-de-bico, legumes frescos e molho de limão — almoço fit leve, nutritivo e sem necessidade de cozimento."
+description: "Salada proteica de atum com grão-de-bico, legumes frescos e molho de limão. almoço fit leve, nutritivo e sem necessidade de cozimento."
 categoria: "almoco-fit"
 tempoPreparo: 15
 porcoes: 2

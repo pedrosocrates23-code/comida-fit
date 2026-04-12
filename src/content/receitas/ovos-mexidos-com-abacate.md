@@ -1,6 +1,6 @@
 ---
 title: "Ovos Mexidos com Abacate"
-description: "Ovos mexidos cremosos com abacate fatiado — café da manhã fit rico em gorduras boas e proteínas, pronto em apenas 10 minutos."
+description: "Ovos mexidos cremosos com abacate fatiado. café da manhã fit rico em gorduras boas e proteínas, pronto em apenas 10 minutos."
 categoria: "cafe-da-manha"
 tempoPreparo: 5
 tempoCozimento: 5

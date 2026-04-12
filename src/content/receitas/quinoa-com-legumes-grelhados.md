@@ -1,6 +1,6 @@
 ---
 title: "Quinoa com Legumes Grelhados"
-description: "Quinoa nutritiva com legumes grelhados coloridos — almoço fit vegetariano, rico em proteínas completas, fibras e minerais essenciais."
+description: "Quinoa nutritiva com legumes grelhados coloridos. almoço fit vegetariano, rico em proteínas completas, fibras e minerais essenciais."
 categoria: "almoco-fit"
 tempoPreparo: 15
 tempoCozimento: 25

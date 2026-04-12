@@ -1,6 +1,6 @@
 ---
 title: "Batata Doce Assada com Mel Pré-Treino"
-description: "Batata doce assada com mel e canela — lanche pré-treino rico em carboidratos de baixo índice glicêmico para energia sustentada durante o exercício."
+description: "Batata doce assada com mel e canela. lanche pré-treino rico em carboidratos de baixo índice glicêmico para energia sustentada durante o exercício."
 categoria: "pre-treino"
 tempoPreparo: 5
 tempoCozimento: 40

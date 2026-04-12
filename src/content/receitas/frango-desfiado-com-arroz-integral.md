@@ -1,6 +1,6 @@
 ---
 title: "Frango Desfiado com Arroz Integral Pós-Treino"
-description: "Frango desfiado temperado com arroz integral — refeição pós-treino completa, rica em proteínas e carboidratos para recuperação muscular eficiente."
+description: "Frango desfiado temperado com arroz integral. refeição pós-treino completa, rica em proteínas e carboidratos para recuperação muscular eficiente."
 categoria: "pos-treino"
 tempoPreparo: 10
 tempoCozimento: 35

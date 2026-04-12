@@ -1,6 +1,6 @@
 ---
 title: "Zoodles com Pesto de Manjericão"
-description: "Zoodles (espaguete de abobrinha) ao pesto de manjericão fresco — prato low carb, vegano e cheio de sabor para um jantar leve e nutritivo."
+description: "Zoodles (espaguete de abobrinha) ao pesto de manjericão fresco. prato low carb, vegano e cheio de sabor para um jantar leve e nutritivo."
 categoria: "jantar-low-carb"
 tempoPreparo: 15
 tempoCozimento: 5

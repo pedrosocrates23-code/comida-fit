@@ -1,6 +1,6 @@
 ---
 title: "Iogurte Grego com Granola Caseira"
-description: "Iogurte grego cremoso com granola caseira crocante e frutas — café da manhã fit rico em proteínas e probióticos, pronto em 10 minutos."
+description: "Iogurte grego cremoso com granola caseira crocante e frutas. café da manhã fit rico em proteínas e probióticos, pronto em 10 minutos."
 categoria: "cafe-da-manha"
 tempoPreparo: 10
 porcoes: 2

@@ -1,6 +1,6 @@
 ---
 title: "Palito de Cenoura com Homus"
-description: "Palitos de cenoura fresca com homus caseiro de grão-de-bico — lanche fit riquíssimo em fibras, proteínas vegetais e beta-caroteno, sem precisar cozinhar."
+description: "Palitos de cenoura fresca com homus caseiro de grão-de-bico. lanche fit riquíssimo em fibras, proteínas vegetais e beta-caroteno, sem precisar cozinhar."
 categoria: "lanches-saudaveis"
 tempoPreparo: 15
 porcoes: 2

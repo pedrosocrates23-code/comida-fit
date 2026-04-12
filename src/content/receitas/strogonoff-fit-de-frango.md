@@ -1,6 +1,6 @@
 ---
 title: "Strogonoff Fit de Frango"
-description: "Strogonoff fit de frango com creme de ricota e cogumelos — versão saudável e low carb do clássico brasileiro, rico em proteínas."
+description: "Strogonoff fit de frango com creme de ricota e cogumelos. versão saudável e low carb do clássico brasileiro, rico em proteínas."
 categoria: "jantar-low-carb"
 tempoPreparo: 10
 tempoCozimento: 25

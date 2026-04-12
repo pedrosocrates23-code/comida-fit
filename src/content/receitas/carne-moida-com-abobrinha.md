@@ -1,6 +1,6 @@
 ---
 title: "Carne Moída com Abobrinha"
-description: "Carne moída temperada refogada com abobrinha em cubos — jantar low carb completo, rico em proteínas e ferro, pronto em 25 minutos e muito saboroso."
+description: "Carne moída temperada refogada com abobrinha em cubos. jantar low carb completo, rico em proteínas e ferro, pronto em 25 minutos e muito saboroso."
 categoria: "jantar-low-carb"
 tempoPreparo: 10
 tempoCozimento: 20

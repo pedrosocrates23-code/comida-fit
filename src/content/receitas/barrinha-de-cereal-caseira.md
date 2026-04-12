@@ -1,6 +1,6 @@
 ---
 title: "Barrinha de Cereal Caseira"
-description: "Barrinha de cereal caseira com aveia, mel e castanhas — lanche fit saudável sem conservantes, rica em fibras e energia para o dia a dia."
+description: "Barrinha de cereal caseira com aveia, mel e castanhas. lanche fit saudável sem conservantes, rica em fibras e energia para o dia a dia."
 categoria: "lanches-saudaveis"
 tempoPreparo: 15
 tempoCozimento: 25

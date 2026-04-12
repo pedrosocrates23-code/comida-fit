@@ -1,6 +1,6 @@
 ---
 title: "Frango Grelhado com Legumes no Vapor"
-description: "Peito de frango grelhado com legumes no vapor — almoço fit clássico, rico em proteínas e vitaminas, com baixo teor de gordura e alto valor nutricional."
+description: "Peito de frango grelhado com legumes no vapor. almoço fit clássico, rico em proteínas e vitaminas, com baixo teor de gordura e alto valor nutricional."
 categoria: "almoco-fit"
 tempoPreparo: 10
 tempoCozimento: 25

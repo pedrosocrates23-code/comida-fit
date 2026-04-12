@@ -1,6 +1,6 @@
 ---
 title: "Pudim Fit Sem Lactose"
-description: "Pudim fit sem lactose feito com leite de coco e ovos — versão saudável do clássico brasileiro, sem açúcar refinado e com calda de tâmaras."
+description: "Pudim fit sem lactose feito com leite de coco e ovos. versão saudável do clássico brasileiro, sem açúcar refinado e com calda de tâmaras."
 categoria: "sobremesas-fit"
 tempoPreparo: 15
 tempoCozimento: 50

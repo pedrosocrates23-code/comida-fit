@@ -1,6 +1,6 @@
 ---
-// @hakari — CollectionPage por categoria
-// @uraume — CollectionPage + BreadcrumbList schema
+// @hakari - CollectionPage por categoria
+// @uraume - CollectionPage + BreadcrumbList schema
 import BaseLayout from '@layouts/BaseLayout.astro';
 import Header from '@components/Header.astro';
 import Footer from '@components/Footer.astro';
@@ -19,7 +19,7 @@ type CategoriaConfig = {
 };
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  // Definido DENTRO do getStaticPaths — Astro executa em escopo isolado
+  // Definido DENTRO do getStaticPaths - Astro executa em escopo isolado
   const categoriasConfig: CategoriaConfig[] = [
     { slug: 'cafe-da-manha',      nome: 'Café da Manhã',     icone: '☕', desc: 'Receitas leves e nutritivas para começar o dia com energia e saúde.' },
     { slug: 'almoco-fit',         nome: 'Almoço Fit',        icone: '🍗', desc: 'Almoços saudáveis e completos com proteínas, fibras e carboidratos de qualidade.' },
@@ -58,7 +58,7 @@ const schemas = [
 ---
 
 <BaseLayout
-  title={`${categoria.nome} — Receitas Fit`}
+  title={`${categoria.nome}: Receitas Fit`}
   description={`${receitasDaCategoria.length} receitas de ${categoria.nome.toLowerCase()} com informações nutricionais. ${categoria.desc}`}
   schema={schemas}
 >

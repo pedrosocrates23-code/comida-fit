@@ -1,6 +1,6 @@
 ---
 title: "Sanduíche de Atum Integral Pós-Treino"
-description: "Sanduíche de atum com pão integral, ricota e vegetais — lanche pós-treino prático, rico em proteínas magras e carboidratos complexos para recuperação."
+description: "Sanduíche de atum com pão integral, ricota e vegetais. lanche pós-treino prático, rico em proteínas magras e carboidratos complexos para recuperação."
 categoria: "pos-treino"
 tempoPreparo: 8
 porcoes: 1

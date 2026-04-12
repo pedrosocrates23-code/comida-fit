@@ -1,4 +1,4 @@
-// @uraume — JSON-LD schema generation utilities
+// @uraume - JSON-LD schema generation utilities
 import type { CollectionEntry } from 'astro:content';
 
 const SITE_URL  = 'https://melhoresreceitasfit.com.br';
@@ -15,7 +15,7 @@ const categoriaNomes: Record<string, string> = {
   'pos-treino':         'Pós-Treino',
 };
 
-/** Recipe schema — página individual */
+/** Recipe schema - página individual */
 export function buildRecipeSchema(receita: CollectionEntry<'receitas'>) {
   const { data, slug } = receita;
   const totalMinutos   = data.tempoPreparo + (data.tempoCozimento ?? 0);
@@ -63,7 +63,7 @@ export function buildRecipeSchema(receita: CollectionEntry<'receitas'>) {
   };
 }
 
-/** WebSite schema + SearchBox — home */
+/** WebSite schema + SearchBox - home */
 export function buildWebSiteSchema() {
   return {
     '@context': 'https://schema.org',
@@ -83,7 +83,7 @@ export function buildWebSiteSchema() {
   };
 }
 
-/** BreadcrumbList — todas as páginas */
+/** BreadcrumbList - todas as páginas */
 export function buildBreadcrumbSchema(items: { name: string; url: string }[]) {
   return {
     '@context': 'https://schema.org',
@@ -97,7 +97,7 @@ export function buildBreadcrumbSchema(items: { name: string; url: string }[]) {
   };
 }
 
-/** CollectionPage — página de categoria */
+/** CollectionPage - página de categoria */
 export function buildCollectionPageSchema(
   categoriaSlug: string,
   total: number,
@@ -107,7 +107,7 @@ export function buildCollectionPageSchema(
   return {
     '@context': 'https://schema.org',
     '@type':    'CollectionPage',
-    name:       `Receitas de ${nome} — ${SITE_NAME}`,
+    name:       `Receitas de ${nome}: ${SITE_NAME}`,
     description: `${total} receitas fit de ${nome.toLowerCase()} com informações nutricionais completas.`,
     url,
     isPartOf: {

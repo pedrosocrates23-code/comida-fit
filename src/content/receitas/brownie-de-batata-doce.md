@@ -1,6 +1,6 @@
 ---
 title: "Brownie de Batata Doce"
-description: "Brownie fit de batata doce com cacau e tâmaras — sobremesa saudável, sem glúten e sem açúcar refinado, rico em fibras e antioxidantes."
+description: "Brownie fit de batata doce com cacau e tâmaras. sobremesa saudável, sem glúten e sem açúcar refinado, rico em fibras e antioxidantes."
 categoria: "sobremesas-fit"
 tempoPreparo: 15
 tempoCozimento: 25

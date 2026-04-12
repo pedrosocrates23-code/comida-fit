@@ -1,6 +1,6 @@
 ---
 title: "Fruta com Castanhas Pré-Treino"
-description: "Mix de frutas frescas com castanhas e nozes — lanche pré-treino prático com carboidratos naturais e gorduras saudáveis para energia rápida."
+description: "Mix de frutas frescas com castanhas e nozes. lanche pré-treino prático com carboidratos naturais e gorduras saudáveis para energia rápida."
 categoria: "pre-treino"
 tempoPreparo: 5
 porcoes: 1

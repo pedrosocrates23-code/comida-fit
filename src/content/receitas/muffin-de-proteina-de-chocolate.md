@@ -1,6 +1,6 @@
 ---
 title: "Muffin de Proteína de Chocolate"
-description: "Muffin fit de chocolate com whey protein — lanche proteico, úmido e chocolatudo, sem açúcar refinado e perfeito para pós-treino ou lanche da tarde."
+description: "Muffin fit de chocolate com whey protein. lanche proteico, úmido e chocolatudo, sem açúcar refinado e perfeito para pós-treino ou lanche da tarde."
 categoria: "lanches-saudaveis"
 tempoPreparo: 10
 tempoCozimento: 20

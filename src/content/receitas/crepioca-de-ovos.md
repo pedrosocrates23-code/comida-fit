@@ -1,6 +1,6 @@
 ---
 title: "Crepioca de Ovos"
-description: "Crepioca fit feita com ovos e tapioca — receita rápida, sem glúten e rica em proteínas, perfeita para o café da manhã ou lanche low carb."
+description: "Crepioca fit feita com ovos e tapioca. receita rápida, sem glúten e rica em proteínas, perfeita para o café da manhã ou lanche low carb."
 categoria: "cafe-da-manha"
 tempoPreparo: 5
 tempoCozimento: 8

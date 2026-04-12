@@ -1,6 +1,6 @@
 ---
 title: "Tapioca de Frango Desfiado"
-description: "Tapioca fit recheada com frango desfiado temperado — opção sem glúten, proteica e deliciosa para o café da manhã ou lanche saudável."
+description: "Tapioca fit recheada com frango desfiado temperado. opção sem glúten, proteica e deliciosa para o café da manhã ou lanche saudável."
 categoria: "cafe-da-manha"
 tempoPreparo: 10
 tempoCozimento: 10

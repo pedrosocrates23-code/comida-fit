@@ -1,6 +1,6 @@
 ---
 title: "Omelete de Espinafre e Queijo Cottage"
-description: "Omelete proteica com espinafre e queijo cottage — café da manhã fit rico em proteínas, ferro e cálcio em apenas 15 minutos."
+description: "Omelete proteica com espinafre e queijo cottage. café da manhã fit rico em proteínas, ferro e cálcio em apenas 15 minutos."
 categoria: "cafe-da-manha"
 tempoPreparo: 5
 tempoCozimento: 10
