@@ -9,7 +9,7 @@ export default defineConfig({
   },
   build: {
     assets: '_assets',
-    inlineStylesheets: 'auto',
+    inlineStylesheets: 'always',
   },
   compressHTML: true,
 });

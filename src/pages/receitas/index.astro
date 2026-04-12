@@ -170,39 +170,37 @@ const breadcrumbs = [
   const emptyState = document.getElementById('empty-state') as HTMLElement;
 
   // ── Filtrar ───────────────────────────────────────────────
+  // Lê (reads) tudo antes de escrever (writes) para evitar forced reflow
   function filtrar() {
-    let visiveis = 0;
+    const termLower = termoBusca.toLowerCase();
 
-    items.forEach((li) => {
-      const cat    = li.dataset.categoria ?? '';
-      const busca  = li.dataset.busca ?? '';
-
-      const matchCat   = categoriaAtiva === '' || cat === categoriaAtiva;
-      const matchBusca = termoBusca === ''
-        || busca.includes(termoBusca.toLowerCase());
-
-      if (matchCat && matchBusca) {
-        li.hidden = false;
-        visiveis++;
-      } else {
-        li.hidden = true;
-      }
+    // Fase 1: calcula visibilidade (só leitura de dataset — sem tocar no DOM)
+    const visibilidades = items.map((li) => {
+      const cat   = li.dataset.categoria ?? '';
+      const busca = li.dataset.busca ?? '';
+      return (categoriaAtiva === '' || cat === categoriaAtiva) &&
+             (termoBusca === '' || busca.includes(termLower));
     });
 
-    // Atualiza contador
-    counter.textContent = String(visiveis);
-
-    // Empty state
-    emptyState.hidden = visiveis > 0;
+    // Fase 2: aplica escritas no DOM num único frame (sem interleave leitura/escrita)
+    requestAnimationFrame(() => {
+      let visiveis = 0;
+      items.forEach((li, i) => {
+        const show = visibilidades[i];
+        li.hidden = !show;
+        if (show) visiveis++;
+      });
+      counter.textContent = String(visiveis);
+      emptyState.hidden = visiveis > 0;
+    });
 
     // Atualiza URL sem reload
     const params = new URLSearchParams();
     if (categoriaAtiva) params.set('categoria', categoriaAtiva);
     if (termoBusca)     params.set('q', termoBusca);
-    const novaUrl = params.toString()
+    history.replaceState({}, '', params.toString()
       ? `/receitas/?${params.toString()}`
-      : '/receitas/';
-    history.replaceState({}, '', novaUrl);
+      : '/receitas/');
   }
 
   // ── Chips de categoria ────────────────────────────────────

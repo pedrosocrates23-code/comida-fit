@@ -23,6 +23,15 @@ const websiteSchema = buildWebSiteSchema();
   description="Receitas fit saudáveis com informações nutricionais completas. Café da manhã, almoço, jantar, lanches e smoothies para sua alimentação equilibrada."
   schema={websiteSchema}
 >
+  <!-- Preload do LCP (hero image) -->
+  <link
+    rel="preload"
+    href="/images/hero-receitas-fit.webp"
+    as="image"
+    type="image/webp"
+    fetchpriority="high"
+    slot="head"
+  />
   <Header />
 
   <main id="main-content">

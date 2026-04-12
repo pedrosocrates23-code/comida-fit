@@ -104,14 +104,14 @@ schemaArray.push(orgSchema);
     <!-- media="print" → onload swap: loads async, never blocks render -->
     <link
       rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=Space+Mono:wght@700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=Space+Mono:wght@700&display=optional"
       media="print"
       onload="this.media='all'"
     />
     <noscript>
       <link
         rel="stylesheet"
-        href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=Space+Mono:wght@700&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=Space+Mono:wght@700&display=optional"
       />
     </noscript>
 
@@ -119,6 +119,9 @@ schemaArray.push(orgSchema);
     {schemaArray.map((s) => (
       <script is:inline type="application/ld+json" set:html={JSON.stringify(s)} />
     ))}
+
+    <!-- ── Slot para preloads e extras de página ─────────── -->
+    <slot name="head" />
   </head>
 
   <body>
