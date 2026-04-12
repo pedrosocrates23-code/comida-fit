@@ -43,9 +43,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Refogue os legumes até amolecer ligeiramente
-Aqueça o azeite em frigideira antiaderente de 22-24 cm em fogo médio-alto. Adicione a abobrinha em cubos pequenos, o pimentão picado e os cogumelos fatiados. Refogue mexendo ocasionalmente por 4 a 5 minutos. Os legumes devem amolecer mas manter alguma firmeza.
+Aqueça o **azeite** em **frigideira antiaderente** de 22-24 cm em **fogo médio-alto**. Adicione a **abobrinha** em cubos pequenos, o **pimentão** picado e os **cogumelos** fatiados. Refogue mexendo ocasionalmente por **4 a 5 minutos**. Os legumes devem amolecer mas manter alguma firmeza.
 
-Textura al dente. O pimentão vai liberar seus açúcares naturais e caramelizar levemente, os cogumelos vão murchar e intensificar o sabor umami, e a abobrinha vai dourar nas bordas.
+Textura **al dente**. O pimentão vai liberar seus **açúcares naturais** e **caramelizar** levemente, os cogumelos vão murchar e intensificar o **sabor umami**, e a abobrinha vai dourar nas bordas.
 
 > 💡 **Dica:** Não adicione todos os legumes ao mesmo tempo se preferir texturas distintas. Comece com o pimentão (mais duro), depois a abobrinha e por último os cogumelos (cozinham rápido). Isso garante que cada vegetal chegue ao ponto ideal.
 
@@ -54,9 +54,9 @@ Textura al dente. O pimentão vai liberar seus açúcares naturais e caramelizar
 ---
 
 ### Passo 2: Tempere os legumes e reserve
-Com os legumes no ponto, tempere com sal, pimenta-do-reino e orégano seco. Misture bem, desligue o fogo e transfira para um prato. Reserve aquecido enquanto prepara os ovos. Não deixe os legumes na frigideira quente.
+Com os legumes no ponto, tempere com **sal**, **pimenta-do-reino** e **orégano seco**. Misture bem, desligue o fogo e transfira para um prato.
 
-Eles continuam cozinhando e podem ficar moles demais para rechear a omelete.
+Reserve aquecido enquanto prepara os ovos. Não deixe os legumes na **frigideira quente**, pois eles continuam cozinhando e podem ficar **moles demais** para rechear a omelete.
 
 > 💡 **Dica:** Adicione 1 colher de chá de azeite extra nos legumes após reservar, isso evita que grudem entre si e mantém o aspecto brilhante e apetitoso.
 
@@ -65,9 +65,9 @@ Eles continuam cozinhando e podem ficar moles demais para rechear a omelete.
 ---
 
 ### Passo 3: Bata os ovos até ficarem homogêneos
-Em uma tigela, quebre os 3 ovos, adicione uma pitada de sal e pimenta. Bata com um garfo ou fouet por 30-40 segundos em movimentos circulares rápidos.
+Em uma tigela, quebre os **3 ovos**, adicione uma pitada de **sal** e **pimenta**. Bata com um garfo ou **fouet** por **30-40 segundos** em movimentos circulares rápidos.
 
-O objetivo é incorporar ar e criar uma mistura completamente homogênea onde gema e clara estejam totalmente integradas. Uma mistura bem batida resulta em uma omelete mais leve e fofa.
+O objetivo é **incorporar ar** e criar uma mistura completamente homogênea onde **gema** e **clara** estejam totalmente integradas. Uma mistura bem batida resulta em uma omelete mais **leve e fofa**.
 
 > 💡 **Dica:** Para uma omelete mais aerada, adicione 1 colher de sopa de água ou leite desnatado aos ovos antes de bater. A água vira vapor durante o cozimento e cria pequenas bolhas que deixam a omelete mais leve.
 
@@ -76,9 +76,9 @@ O objetivo é incorporar ar e criar uma mistura completamente homogênea onde ge
 ---
 
 ### Passo 4: Cozinhe os ovos em fogo médio-baixo sem mexer
-Na mesma frigideira (limpa ou levemente untada), em fogo médio-baixo, despeje os ovos batidos. Deixe cozinhar sem mexer. Essa é a diferença entre uma omelete francesa elegante e ovos mexidos.
+Na mesma frigideira (limpa ou levemente untada), em **fogo médio-baixo**, despeje os **ovos batidos**. Deixe cozinhar **sem mexer**. Essa é a diferença entre uma **omelete francesa** elegante e **ovos mexidos**.
 
-Você não interfere no cozimento. Conforme o calor trabalha de baixo para cima, as bordas firmam primeiro enquanto o centro permanece levemente úmido. Esse cozimento lento e controlado cria uma textura sedosa e uniforme.
+Você não interfere no cozimento. Conforme o calor trabalha de baixo para cima, as bordas firmam primeiro enquanto o centro permanece **levemente úmido**. Esse **cozimento lento e controlado** cria uma textura **sedosa e uniforme**.
 
 > 💡 **Dica:** Para verificar se a omelete está no ponto certo de rechear, incline a frigideira levemente, a borda já deve estar firme e a superfície central ainda levemente brilhante (úmida). Esse é o momento exato de adicionar o recheio.
 
@@ -87,7 +87,9 @@ Você não interfere no cozimento. Conforme o calor trabalha de baixo para cima,
 ---
 
 ### Passo 5: Adicione o recheio e o queijo sobre metade da omelete
-Com a omelete no ponto (bordas firmes, centro levemente úmido), distribua os legumes refogados sobre metade da superfície. Adicione o queijo minas meia cura ralado por cima dos legumes. O queijo vai derreter com o calor residual da omelete e dos legumes quentes, criando uma camada cremosa que une o recheio.
+Com a omelete no ponto (**bordas firmes**, **centro levemente úmido**), distribua os **legumes refogados** sobre metade da superfície. Adicione o **queijo minas meia cura** ralado por cima dos legumes.
+
+O queijo vai **derreter** com o **calor residual** da omelete e dos legumes quentes, criando uma **camada cremosa** que une o recheio.
 
 > 💡 **Dica:** Não sobrecarregue o recheio, uma omelete com recheio excessivo é impossível de dobrar sem quebrar. Use a quantidade indicada na receita e distribua uniformemente na metade do círculo de ovos.
 
@@ -96,9 +98,9 @@ Com a omelete no ponto (bordas firmes, centro levemente úmido), distribua os le
 ---
 
 ### Passo 6: Dobre, tampe e sirva com manjericão fresco
-Com uma espátula larga, dobre a metade sem recheio sobre a metade com recheio. Pressione levemente para selar. Tampe a frigideira e deixe cozinhar por mais 1 minuto em fogo baixo.
+Com uma **espátula larga**, dobre a metade sem recheio sobre a metade com recheio. Pressione levemente para selar. **Tampe** a frigideira e deixe cozinhar por mais **1 minuto** em **fogo baixo**.
 
-Esse tempo finaliza o cozimento do centro (que ainda estava úmido) e derrete completamente o queijo. Transfira para o prato e decore com folhas de manjericão fresco rasgadas, o aroma herbáceo do manjericão contrasta perfeitamente com o sabor rico dos ovos e queijo.
+Esse tempo finaliza o cozimento do centro e **derrete completamente** o queijo. Transfira para o prato e decore com folhas de **manjericão fresco** rasgadas. O aroma herbáceo do manjericão contrasta perfeitamente com o sabor rico dos ovos e queijo.
 
 > 💡 **Dica:** Para uma apresentação mais profissional, dobre a omelete no prato em vez da frigideira: incline a frigideira sobre o prato e use a espátula para guiar a omelete, dobrando enquanto desliza.
 

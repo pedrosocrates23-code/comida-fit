@@ -43,9 +43,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Espiralize as abobrinhas para criar os zoodles
-Lave e seque as abobrinhas. Use um espiralizador (o equipamento mais eficiente), um descascador de legumes em movimentos longos para criar fitas mais largas, ou um cortador mandoline com lâmina julienne. Espiralize até chegar próximo ao núcleo com sementes.
+Lave e seque as **abobrinhas**. Use um **espiralizador** (o equipamento mais eficiente), um descascador de legumes em movimentos longos para criar fitas mais largas, ou um cortador **mandoline** com lâmina julienne. Espiralize até chegar próximo ao **núcleo com sementes**, pois esse miolo é mais aquoso e vai deixar o prato com excesso de líquido.
 
-Esse miolo é mais aquoso e vai deixar o prato com excesso de líquido. Reserve os zoodles em um escorredor ou sobre papel toalha para que o excesso de umidade drene naturalmente por 5-10 minutos.
+Reserve os **zoodles** em um escorredor ou sobre **papel toalha** para que o excesso de **umidade** drene naturalmente por **5-10 minutos**.
 
 > 💡 **Dica:** Salpique os zoodles com uma pitada de sal e deixe descansar por 10 minutos, o sal extrai parte da umidade da abobrinha por osmose. Aperte levemente com papel toalha antes de cozinhar. Esse passo evita aquele acúmulo de água no fundo do prato.
 
@@ -54,9 +54,9 @@ Esse miolo é mais aquoso e vai deixar o prato com excesso de líquido. Reserve 
 ---
 
 ### Passo 2: Processe o pesto de manjericão fresco
-No processador de alimentos ou liquidificador, adicione as folhas de manjericão fresco (aperte bem para medir), o azeite extra virgem, as castanhas-de-caju (ou pinholi, para o pesto mais tradicional), o dente de alho e o suco de limão. Processe em pulsos curtos no início para quebrar os ingredientes grosseiros, depois processe continuamente por 30-40 segundos. O pesto deve ter textura levemente rústica.
+No **processador de alimentos** ou liquidificador, adicione as folhas de **manjericão fresco** (aperte bem para medir), o **azeite extra virgem**, as **castanhas-de-caju** (ou pinholi, para o pesto mais tradicional), o dente de **alho** e o **suco de limão**. Processe em **pulsos curtos** no início para quebrar os ingredientes grosseiros, depois processe continuamente por **30-40 segundos**.
 
-Não completamente lisa. Um pesto com alguns pedaços pequenos tem mais personalidade.
+O **pesto** deve ter textura levemente **rústica**, não completamente lisa. Um pesto com alguns pedaços pequenos tem mais personalidade.
 
 > 💡 **Dica:** Coloque os ingredientes do pesto na geladeira por 10 minutos antes de processar, o frio preserva a cor verde vibrante do manjericão, evitando que oxide e escureça com o calor do processador em funcionamento.
 
@@ -65,9 +65,9 @@ Não completamente lisa. Um pesto com alguns pedaços pequenos tem mais personal
 ---
 
 ### Passo 3: Ajuste a consistência e o tempero do pesto
-Prove o pesto e ajuste: mais sal ou limão para acidez, mais azeite para consistência mais fluida, mais manjericão para sabor mais intenso. O pesto para zoodles deve ser levemente mais líquido que o pesto para massas convencionais.
+Prove o **pesto** e ajuste: mais **sal** ou **limão** para acidez, mais **azeite** para consistência mais fluida, mais **manjericão** para sabor mais intenso. O pesto para zoodles deve ser levemente mais **líquido** que o pesto para massas convencionais, pois os zoodles têm mais **umidade natural** e diluem o molho ao ser misturado.
 
-Os zoodles têm mais umidade natural e diluem o molho ao ser misturado. A consistência ideal: escorre lentamente da colher sem ser aguada.
+A consistência ideal: escorre **lentamente da colher** sem ser aguada.
 
 > 💡 **Dica:** Se o pesto ficar muito espesso, adicione 1-2 colheres de água fria em vez de mais azeite, mantém a cremosidade sem aumentar as calorias. Água muito fria também ajuda a preservar a cor verde.
 
@@ -76,9 +76,9 @@ Os zoodles têm mais umidade natural e diluem o molho ao ser misturado. A consis
 ---
 
 ### Passo 4: Refogue os zoodles rapidamente: máximo 3 minutos
-Aqueça uma frigideira antiaderente em fogo médio-alto. Sem adicionar óleo (os zoodles já vão soltar umidade suficiente), adicione os zoodles espiralizados. Refogue mexendo constantemente por 2 a 3 minutos.
+Aqueça uma **frigideira antiaderente** em **fogo médio-alto**. Sem adicionar óleo (os zoodles já vão soltar umidade suficiente), adicione os **zoodles espiralizados**. **Refogue mexendo constantemente** por **2 a 3 minutos**, não mais que isso.
 
-Não mais que isso. Os zoodles devem ficar quentes e levemente tenros mas ainda manter estrutura e resistência ao morder. Textura al dente é essencial: zoodles cozidos demais viram uma pasta aguada e sem forma.
+Os zoodles devem ficar quentes e levemente **tenros** mas ainda manter estrutura e resistência ao morder. A **textura al dente** é essencial: zoodles cozidos demais viram uma pasta **aguada** e sem forma.
 
 > 💡 **Dica:** Refogue os zoodles em duas levas se necessário, frigideira superlotada retém vapor e cozinha demais. Uma única camada de zoodles garante o refogado ideal.
 
@@ -87,9 +87,9 @@ Não mais que isso. Os zoodles devem ficar quentes e levemente tenros mas ainda 
 ---
 
 ### Passo 5: Misture o pesto e sirva imediatamente com tomates-cereja
-Retire a frigideira do fogo.
+Retire a frigideira do fogo. Não misture o **pesto** com os zoodles no fogo: o **calor direto** degrada o aroma delicado do **manjericão fresco** e pode amargar o **alho**.
 
-Não misture o pesto com os zoodles no fogo. O calor direto degrada o aroma delicado do manjericão fresco e pode amargar o alho. Transfira os zoodles para uma tigela de servir e adicione o pesto. Misture delicadamente com pinças ou dois garfos para envolver todos os fios. Distribua os tomates-cereja cortados ao meio por cima, eles adicionam cor, acidez e umidade refrescante que equilibra a riqueza do pesto.
+Transfira os **zoodles** para uma tigela de servir e adicione o pesto. Misture delicadamente com **pinças** ou dois garfos para envolver todos os fios. Distribua os **tomates-cereja** cortados ao meio por cima: eles adicionam cor, **acidez** e umidade refrescante que equilibra a riqueza do pesto.
 
 > 💡 **Dica:** Aqueça levemente a tigela de servir com água quente antes de montar o prato. Isso evita que os zoodles esfriem rapidamente ao serem transferidos.
 

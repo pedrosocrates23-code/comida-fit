@@ -42,9 +42,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Bata os ovos até ficarem homogêneos
-Quebre os 3 ovos em um bowl médio, tempere com sal e pimenta-do-reino a gosto e bata com um fouet ou garfo por 45 a 60 segundos com vigor. Você quer uma mistura completamente uniforme, sem fios de clara visíveis. Um truque profissional é bater com movimentos de baixo para cima em vez de só circular.
+Quebre os **3 ovos** em um bowl médio, tempere com **sal e pimenta-do-reino** a gosto e bata com um **fouet ou garfo** por **45 a 60 segundos** com vigor. Você quer uma mistura completamente uniforme, sem fios de clara visíveis.
 
-Isso incorpora mais ar e deixa a omelete mais leve e fofa. A consistência certa é quando a mistura cai em fio contínuo ao levantar o garfo.
+Um truque profissional é bater com **movimentos de baixo para cima** em vez de só circular, isso incorpora mais ar e deixa a omelete mais **leve e fofa**. A consistência certa é quando a mistura cai em **fio contínuo** ao levantar o garfo.
 
 > 💡 **Dica:** Adicione uma colher de sopa de água fria aos ovos antes de bater, o vapor gerado durante o cozimento deixa a omelete mais aerada e macia.
 
@@ -53,9 +53,9 @@ Isso incorpora mais ar e deixa a omelete mais leve e fofa. A consistência certa
 ---
 
 ### Passo 2: Refogue o alho no azeite
-Aqueça a colher de chá de azeite em uma frigideira antiaderente de 20 a 22 cm em fogo médio. Quando o azeite começar a brilhar (não fumaçar), adicione o dente de alho picado finamente. Refogue por apenas 30 segundos, mexendo constantemente.
+Aqueça a **colher de chá de azeite** em uma **frigideira antiaderente de 20 a 22 cm** em **fogo médio**. Quando o azeite começar a brilhar (não fumaçar), adicione o **dente de alho picado finamente**. Refogue por apenas **30 segundos**, mexendo constantemente.
 
-O objetivo é apenas liberar o aroma e tirar a acidez do alho cru, sem deixá-lo dourar ou queimar. Alho dourado demais fica amargo e interfere no sabor delicado da omelete.
+O objetivo é apenas liberar o **aroma** e tirar a acidez do alho cru, sem deixá-lo dourar ou queimar. Alho dourado demais fica amargo e interfere no **sabor delicado** da omelete.
 
 > 💡 **Dica:** Esmague o dente de alho com a lateral da faca antes de picar, isso libera mais compostos aromáticos (alicina) e facilita o corte fino.
 
@@ -64,9 +64,9 @@ O objetivo é apenas liberar o aroma e tirar a acidez do alho cru, sem deixá-lo
 ---
 
 ### Passo 3: Murche o espinafre rapidamente
-Com o alho perfumado na frigideira, adicione o espinafre fresco picado e refogue por apenas 1 minuto, mexendo algumas vezes. O espinafre vai reduzir drasticamente de volume (cerca de 70 a 80%).
+Com o alho perfumado na frigideira, adicione o **espinafre fresco picado** e refogue por apenas **1 minuto**, mexendo algumas vezes. O espinafre vai reduzir drasticamente de volume (cerca de **70 a 80%**), o que é normal e esperado.
 
-Isso é normal e esperado. O objetivo não é cozinhar completamente, mas apenas murchar levemente para que ele se integre bem à omelete sem soltar água demais durante o cozimento dos ovos. Espinafre bem cozido libera umidade excessiva que amolece e encharque a base da omelete.
+O objetivo não é cozinhar completamente, mas apenas **murchar levemente** para que ele se integre bem à omelete sem soltar água demais durante o cozimento dos ovos. Espinafre bem cozido libera **umidade excessiva** que amolece e encharca a base da omelete.
 
 > 💡 **Dica:** Esprema levemente o espinafre murchado com a espátula contra a frigideira para eliminar o excesso de água antes de adicionar os ovos.
 
@@ -75,9 +75,9 @@ Isso é normal e esperado. O objetivo não é cozinhar completamente, mas apenas
 ---
 
 ### Passo 4: Despeje os ovos e não mexa
-Com o espinafre distribuído uniformemente na frigideira, despeje os ovos batidos de uma vez por toda a superfície. Agora o segredo: NÃO MEXA. Deixe cozinhar em fogo médio-baixo por 2 minutos sem tocar na omelete. Você verá as bordas ficando opaques e o centro ainda brilhante.
+Com o espinafre distribuído uniformemente na frigideira, despeje os **ovos batidos** de uma vez por toda a superfície. Agora o segredo: **NÃO MEXA**. Deixe cozinhar em **fogo médio-baixo por 2 minutos** sem tocar na omelete.
 
-Esse é o ponto. Se mexer, vira ovos mexidos. Para acelerar o cozimento do centro sem virar, tampe a frigideira por 1 minuto.
+Você verá as **bordas ficando opaques** e o **centro ainda brilhante**: esse é o ponto. Se mexer, vira ovos mexidos. Para acelerar o cozimento do centro sem virar, **tampe a frigideira por 1 minuto**.
 
 > 💡 **Dica:** Incline levemente a frigideira nos primeiros 30 segundos para o ovo líquido do centro escorrer para as bordas e cozinhar de forma mais uniforme.
 
@@ -86,9 +86,9 @@ Esse é o ponto. Se mexer, vira ovos mexidos. Para acelerar o cozimento do centr
 ---
 
 ### Passo 5: Adicione o cottage e dobre
-Com a omelete ainda levemente brilhante no centro (ligeiramente mal passada.
+Com a omelete ainda levemente brilhante no centro (ligeiramente mal passada, pois vai terminar de cozinhar após dobrar), distribua as **3 colheres de queijo cottage** sobre **metade da omelete**.
 
-Vai terminar de cozinhar após dobrar), distribua as 3 colheres de queijo cottage sobre metade da omelete. Com uma espátula larga e firme, dobre a outra metade por cima. Pressione levemente por 10 segundos para ajudar a aderir.
+Com uma **espátula larga e firme**, dobre a outra metade por cima. Pressione levemente por **10 segundos** para ajudar a aderir.
 
 > 💡 **Dica:** Se o cottage estiver muito úmido (com soro), escorra em uma peneira por 5 minutos antes de usar, assim ele não encharque o interior da omelete.
 
@@ -97,9 +97,9 @@ Vai terminar de cozinhar após dobrar), distribua as 3 colheres de queijo cottag
 ---
 
 ### Passo 6: Finalize e sirva quente
-Após dobrar, deixe em fogo baixo por 1 minuto final para o cottage aquecer e o interior finalizar. Deslize com cuidado para o prato usando a espátula. Sirva imediatamente.
+Após dobrar, deixe em **fogo baixo por 1 minuto** final para o **cottage aquecer** e o interior finalizar. Deslize com cuidado para o prato usando a espátula.
 
-Omelete esfria rápido e perde a textura. Para completar o prato, acompanhe com fatias de tomate temperado ou uma salada de folhas verdes.
+Sirva **imediatamente**, pois a omelete esfria rápido e perde a textura. Para completar o prato, acompanhe com **fatias de tomate temperado** ou uma **salada de folhas verdes**.
 
 > 💡 **Dica:** Um fio de azeite extra por cima na hora de servir e uma pitada de páprica defumada elevam o visual e o sabor da omelete sem adicionar muitas calorias.
 

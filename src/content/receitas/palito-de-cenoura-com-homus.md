@@ -43,9 +43,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Preparar o grão-de-bico
-Se usar grão-de-bico cozido em lata, escorra e lave bem em água corrente para remover o líquido de conserva (aquafaba), que tem sabor metálico e muito sódio. Se usar grão-de-bico seco, deixe de molho em água por 8 a 12 horas, escorra e cozinhe por 45 a 60 minutos na panela convencional ou 20 minutos na panela de pressão, até ficar bem macio.
+Se usar **grão-de-bico** cozido em lata, escorra e lave bem em água corrente para remover o **líquido de conserva (aquafaba)**, que tem sabor metálico e muito **sódio**. Se usar grão-de-bico seco, deixe de molho em água por **8 a 12 horas**, escorra e cozinhe por **45 a 60 minutos** na panela convencional ou **20 minutos** na **panela de pressão**, até ficar bem macio.
 
-Facilmente esmagado entre os dedos. Grão-de-bico bem cozido é fundamental para um homus verdadeiramente cremoso.
+Facilmente esmagado entre os dedos. **Grão-de-bico bem cozido** é fundamental para um **homus** verdadeiramente cremoso.
 
 > 💡 **Dica:** Reserve a água do cozimento do grão-de-bico caseiro para usar no homus em vez de água gelada. Ela tem amido e deixa o homus ainda mais aveludado e com melhor consistência.
 
@@ -54,9 +54,9 @@ Facilmente esmagado entre os dedos. Grão-de-bico bem cozido é fundamental para
 ---
 
 ### Passo 2: Processar a base do homus
-Coloque o grão-de-bico, o tahine, o suco de limão (espremido na hora.
+Coloque o **grão-de-bico**, o **tahine**, o **suco de limão** (espremido na hora, não use limão engarrafado), o dente de **alho**, o **azeite**, o **sal** e o **cominho** no processador.
 
-Não use limão engarrafado), o dente de alho, o azeite, o sal e o cominho no processador. Pulse algumas vezes para quebrar os ingredientes e depois processe continuamente por 2 minutos. Vai parecer uma pasta grossa e irregular no começo, isso é normal.
+Pulse algumas vezes para quebrar os ingredientes e depois processe continuamente por **2 minutos**. Vai parecer uma pasta grossa e irregular no começo, isso é normal.
 
 > 💡 **Dica:** Adicione o tahine antes do azeite ao processador. O tahine emulsifica melhor com o limão quando processado primeiro, criando uma base mais estável para o homus.
 
@@ -65,9 +65,9 @@ Não use limão engarrafado), o dente de alho, o azeite, o sal e o cominho no pr
 ---
 
 ### Passo 3: Adicionar água gelada aos poucos
-Com o processador ligado, adicione água gelada colher por colher.
+Com o processador ligado, adicione **água gelada** colher por colher, uma colher de sopa de cada vez.
 
-Uma colher de sopa de cada vez. A água gelada (não em temperatura ambiente) é o segredo para o homus ficar com aquela textura branca, leve e quase aerada dos melhores restaurantes árabes. A temperatura fria cria uma emulsão mais estável com as gorduras do tahine e do azeite. Continue processando por mais 1 a 2 minutos após a última colher de água.
+A **água gelada** (não em temperatura ambiente) é o segredo para o homus ficar com aquela textura **branca, leve e quase aerada** dos melhores restaurantes árabes. A **temperatura fria** cria uma **emulsão mais estável** com as gorduras do **tahine** e do **azeite**. Continue processando por mais **1 a 2 minutos** após a última colher de água.
 
 > 💡 **Dica:** Para um homus ainda mais cremoso, adicione 1 colher de sopa de iogurte grego natural. A leveza e acidez do iogurte tornam a textura extraordinária e equilibram a riqueza do tahine.
 
@@ -76,9 +76,9 @@ Uma colher de sopa de cada vez. A água gelada (não em temperatura ambiente) é
 ---
 
 ### Passo 4: Ajustar temperos e finalizar
-Prove o homus e ajuste sal, limão e cominho. O equilíbrio ideal é: levemente ácido (limão), com fundo de amargor suave (tahine), toque terroso (cominho) e sabor de alho presente mas não dominante. Transfira para uma tigela e use as costas de uma colher para criar um redemoinho na superfície.
+Prove o homus e ajuste **sal**, **limão** e **cominho**. O equilíbrio ideal é: levemente ácido (limão), com fundo de amargor suave (**tahine**), toque terroso (cominho) e sabor de **alho** presente mas não dominante.
 
-Além de bonito, esse gesto cria canais que seguram o azeite de finalização. Finalize generosamente com azeite extra virgem, páprica defumada e alguns grãos inteiros reservados.
+Transfira para uma tigela e use as costas de uma colher para criar um **redemoinho** na superfície. Além de bonito, esse gesto cria canais que seguram o **azeite de finalização**. Finalize generosamente com **azeite extra virgem**, **páprica defumada** e alguns grãos inteiros reservados.
 
 > 💡 **Dica:** Adicione algumas folhas de salsinha picada e raspas de limão na finalização para uma versão mais fresca e aromática.
 
@@ -87,7 +87,9 @@ Além de bonito, esse gesto cria canais que seguram o azeite de finalização. F
 ---
 
 ### Passo 5: Cortar as cenouras em palitos
-Lave bem as cenouras (podem ser mantidas com a casca para mais fibra e nutrientes). Corte o cabo e a ponta, depois corte ao meio no sentido do comprimento. Cada metade vira mais 2 a 3 palitos, resultando em bastões de aproximadamente 8 cm de comprimento e 1 cm de espessura. Palitos uniformes são mais fáceis de mergulhar no homus e têm apresentação mais agradável.
+Lave bem as **cenouras** (podem ser mantidas com a **casca** para mais fibra e nutrientes). Corte o cabo e a ponta, depois corte ao meio no sentido do comprimento. Cada metade vira mais 2 a 3 palitos, resultando em bastões de aproximadamente **8 cm de comprimento** e **1 cm de espessura**.
+
+**Palitos uniformes** são mais fáceis de mergulhar no homus e têm apresentação mais agradável.
 
 > 💡 **Dica:** Mantenha os palitos de cenoura em água fria com gelo na geladeira por 30 minutos antes de servir. A cenoura fria e crocante mergulhada no homus cremoso em temperatura ambiente cria um contraste de textura e temperatura delicioso.
 
@@ -96,7 +98,9 @@ Lave bem as cenouras (podem ser mantidas com a casca para mais fibra e nutriente
 ---
 
 ### Passo 6: Montar e servir
-Sirva o homus na tigela com a finalização de azeite e páprica, e os palitos de cenoura ao lado em um copo ou espalhados na bancada em formato de leque. Para um lanche completo, acrescente outros vegetais: palitos de pepino, floretes de brócolis, aipo ou pimentão em tiras são ótimas adições que aumentam a variedade nutricional sem comprometer o perfil fit da refeição.
+Sirva o **homus** na tigela com a finalização de **azeite** e **páprica**, e os **palitos de cenoura** ao lado em um copo ou espalhados na bancada em formato de leque.
+
+Para um lanche completo, acrescente outros vegetais: palitos de **pepino**, floretes de **brócolis**, **aipo** ou **pimentão** em tiras são ótimas adições que aumentam a **variedade nutricional** sem comprometer o perfil fit da refeição.
 
 > 💡 **Dica:** Sirva o homus em temperatura ambiente, não gelado. Homus direto da geladeira fica denso e com sabor menos pronunciado. Retire 10 a 15 minutos antes de servir para a melhor experiência.
 

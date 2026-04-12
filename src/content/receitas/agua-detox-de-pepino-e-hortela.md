@@ -39,9 +39,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Higienize bem os ingredientes
-Antes de qualquer coisa, lave o pepino, o limão e as folhas de hortelã sob água corrente fria. O pepino será usado com casca.
+Antes de qualquer coisa, lave o **pepino**, o **limão** e as **folhas de hortelã** sob **água corrente fria**. O pepino será usado **com casca**, onde está grande parte das **fibras e clorofila**.
 
-Onde está grande parte das fibras e clorofila, por isso é importante remover agrotóxicos e impurezas da superfície. Esfregue com uma escovinha de legumes ou use uma solução de vinagre (1 colher de sopa por litro de água) por 10 minutos, depois enxágue bem. Folhas de hortelã devem ser lavadas folha por folha ou mergulhadas em água fria por 1 a 2 minutos.
+Por isso é importante remover **agrotóxicos e impurezas** da superfície. Esfregue com uma **escovinha de legumes** ou use uma **solução de vinagre** (1 colher de sopa por litro de água) por **10 minutos**, depois enxágue bem. Folhas de hortelã devem ser lavadas folha por folha ou mergulhadas em **água fria** por 1 a 2 minutos.
 
 > 💡 **Dica:** Prefira pepino orgânico sempre que possível para manter a casca com segurança, ela concentra os nutrientes mais importantes e adiciona cor verde bonita à água.
 
@@ -50,9 +50,9 @@ Onde está grande parte das fibras e clorofila, por isso é importante remover a
 ---
 
 ### Passo 2: Fatie o pepino e o limão em rodelas finas
-Corte o pepino em rodelas de 3 a 5 mm de espessura.
+Corte o **pepino** em **rodelas de 3 a 5 mm de espessura**, finas o suficiente para **liberar compostos aromáticos e nutritivos** na água rapidamente, mas não tão finas que se desmanchem em poucas horas.
 
-Finas o suficiente para liberar os compostos aromáticos e nutritivos na água rapidamente, mas não tão finas que se desmanchem em poucas horas. Para o limão, corte igualmente em rodelas e retire as sementes que podem amargar a água com o tempo de infusão. Rodelas finas de limão (2 a 3 mm) liberam mais óleos essenciais da casca e suco do que fatias grossas.
+Para o **limão**, corte igualmente em rodelas e retire as **sementes** que podem amargar a água com o tempo de infusão. **Rodelas finas de limão (2 a 3 mm)** liberam mais **óleos essenciais** da casca e suco do que fatias grossas.
 
 > 💡 **Dica:** Use uma faca afiada (ou mandoline) para fatias uniformes e bonitas, a apresentação da jarra transparente faz parte da experiência e incentiva o consumo ao longo do dia.
 
@@ -61,7 +61,9 @@ Finas o suficiente para liberar os compostos aromáticos e nutritivos na água r
 ---
 
 ### Passo 3: Monte a jarra com todos os ingredientes
-Em uma jarra de vidro ou plástico sem BPA de pelo menos 1,5 litros, coloque primeiro as rodelas de pepino, as rodelas de limão e as folhas de hortelã. Adicione a água filtrada e mexa suavemente com uma colher longa apenas para distribuir os ingredientes, sem esmagar a hortelã ou o limão. Esmagar antes do tempo libera taninos amargos dos óleos essenciais que podem deixar a bebida desagradável.
+Em uma **jarra de vidro ou plástico sem BPA** de pelo menos 1,5 litros, coloque primeiro as **rodelas de pepino**, as **rodelas de limão** e as **folhas de hortelã**. Adicione a **água filtrada** e mexa suavemente com uma colher longa apenas para distribuir os ingredientes.
+
+Não esmague a **hortelã** nem o **limão** antes do tempo, pois isso libera **taninos amargos** dos óleos essenciais que podem deixar a bebida desagradável.
 
 > 💡 **Dica:** Para uma infusão mais intensa, amasse levemente as folhas de hortelã entre os dedos antes de colocar na jarra, libera mais mentol sem amargar.
 
@@ -70,9 +72,9 @@ Em uma jarra de vidro ou plástico sem BPA de pelo menos 1,5 litros, coloque pri
 ---
 
 ### Passo 4: Deixe infundir na geladeira por pelo menos 2 horas
-Tampa na jarra e leve à geladeira por no mínimo 2 horas.
+Tampa na jarra e leve à **geladeira** por no mínimo **2 horas**, idealmente **4 a 6 horas** para sabor mais pronunciado.
 
-Idealmente 4 a 6 horas para sabor mais pronunciado. Durante esse tempo, os compostos bioativos do pepino (cucurbitacinas, vitamina C, silício), do limão (limoneno, vitamina C, hesperidina) e da hortelã (mentol, ácido rosmarínico) migram gradualmente para a água, criando uma bebida saborizada naturalmente rica em micronutrientes. A cor da água ficará levemente esverdeada e transparente.
+Durante esse tempo, os **compostos bioativos** do pepino (**cucurbitacinas**, vitamina C, silício), do limão (**limoneno**, vitamina C, hesperidina) e da hortelã (**mentol**, ácido rosmarínico) migram gradualmente para a água, criando uma bebida naturalmente rica em **micronutrientes**. A cor ficará levemente esverdeada e transparente.
 
 > 💡 **Dica:** Prepare na véspera e deixe na geladeira a noite toda, o sabor fica mais desenvolvido e você acorda com a bebida pronta para consumir em jejum.
 
@@ -81,9 +83,9 @@ Idealmente 4 a 6 horas para sabor mais pronunciado. Durante esse tempo, os compo
 ---
 
 ### Passo 5: Sirva com gelo e consuma ao longo do dia
-Adicione gelo na hora de servir (não antes, para não diluir desnecessariamente) e distribua a água detox ao longo do dia em pequenos goles ou em copos cheios. O ideal é consumir toda a jarra em um único dia. Para facilitar, use uma garrafinha de 500ml que você abastece da jarra ao longo do dia e carrega para onde for.
+Adicione **gelo** na hora de servir (não antes, para não diluir desnecessariamente) e distribua a **água detox** ao longo do dia em pequenos goles ou em copos cheios. O ideal é consumir toda a jarra em **um único dia**.
 
-Trabalho, academia, compromissos.
+Para facilitar, use uma **garrafinha de 500ml** que você abastece da jarra ao longo do dia e carrega para onde for: trabalho, academia, compromissos.
 
 > 💡 **Dica:** Recarregue a jarra com mais água filtrada uma segunda vez sobre os mesmos ingredientes, na segunda infusão o sabor ainda estará presente, embora mais suave.
 

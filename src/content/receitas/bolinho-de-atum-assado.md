@@ -43,9 +43,9 @@ featured: true
 ## Passo a Passo Detalhado
 
 ### Passo 1: Preparar o forno e a assadeira
-Pré-aqueça o forno a 200°C.
+Pré-aqueça o forno a **200°C**, temperatura mais alta que o usual para bolinhos, necessária para criar a **crostinha dourada externa** sem ressecar o **interior proteico**.
 
-Uma temperatura mais alta que o usual para bolinhos, necessária para criar a crostinha dourada externa sem ressecar o interior proteico. Forre uma assadeira média com papel-manteiga e reserve. Essa temperatura elevada é o que diferencia bolinhos assados com casquinha crocante dos que ficam pálidos e borrachudos, não abaixe a temperatura.
+Forre uma **assadeira média** com **papel-manteiga** e reserve. Essa temperatura elevada é o que diferencia bolinhos assados com casquinha crocante dos que ficam pálidos e borrachudos: não abaixe a temperatura.
 
 > 💡 **Dica:** Pincele o papel-manteiga com uma quantidade mínima de azeite antes de colocar os bolinhos. Isso cria uma base levemente crocante e facilita o desprendimento após assar.
 
@@ -54,9 +54,9 @@ Uma temperatura mais alta que o usual para bolinhos, necessária para criar a cr
 ---
 
 ### Passo 2: Preparar o atum
-Escorra o atum das latas com cuidado, pressionando a tampa contra o conteúdo para remover o máximo de líquido possível. O excesso de água é o inimigo dessa receita.
+Escorra o **atum das latas** com cuidado, pressionando a tampa contra o conteúdo para remover o máximo de **líquido** possível. O excesso de água é o inimigo dessa receita: bolinhos muito úmidos se desmancham ao assar e não formam a **casquinha dourada**.
 
-Bolinhos muito úmidos se desmancham ao assar e não formam a casquinha dourada. Transfira para um bowl e desfaça os pedaços maiores com um garfo, mas sem transformar em pasta. Manter alguma textura é importante para o resultado final.
+Transfira para um bowl e desfaça os pedaços maiores com um **garfo**, sem transformar em pasta. Manter alguma **textura** é importante para o resultado final.
 
 > 💡 **Dica:** Após escorrer, embrulhe o atum em papel toalha e pressione levemente por 30 segundos. Essa técnica de "secagem" remove ainda mais umidade residual e melhora significativamente a estrutura dos bolinhos.
 
@@ -65,9 +65,9 @@ Bolinhos muito úmidos se desmancham ao assar e não formam a casquinha dourada.
 ---
 
 ### Passo 3: Misturar a massa
-Adicione ao atum o ovo inteiro, as 2 colheres de farinha de aveia e a mostarda. Misture com garfo ou espátula até todos os ingredientes estarem incorporados. A farinha de aveia funciona como aglutinante.
+Adicione ao atum o **ovo inteiro**, as **2 colheres de farinha de aveia** e a **mostarda**. Misture com garfo ou espátula até todos os ingredientes estarem incorporados.
 
-Ela absorve a umidade restante e ajuda a manter os bolinhos coesos durante o processo de modelagem e assar. A mostarda, por sua vez, adiciona um toque levemente ácido que equilibra o sabor do atum e realça os outros temperos.
+A **farinha de aveia** funciona como aglutinante: absorve a umidade restante e mantém os bolinhos coesos durante a modelagem e o assamento. A **mostarda** adiciona um toque levemente ácido que equilibra o sabor do atum e realça os outros temperos.
 
 > 💡 **Dica:** Se a massa parecer muito mole para modelar, acrescente mais 1 colher de sopa de farinha de aveia e espere 2 minutos para a farinha absorver a umidade antes de ajustar novamente.
 
@@ -76,9 +76,9 @@ Ela absorve a umidade restante e ajuda a manter os bolinhos coesos durante o pro
 ---
 
 ### Passo 4: Temperar e incorporar os aromáticos
-Acrescente a cebola picada bem fininha, a salsinha, o sal e a pimenta-do-reino. A cebola deve estar picada em pedaços muito pequenos (brunoise).
+Acrescente a **cebola picada bem fininha** (brunoise), a **salsinha**, o sal e a **pimenta-do-reino**. A cebola deve estar em pedaços muito pequenos, pois pedaços grandes criam **bolsões de umidade** que prejudicam a estrutura.
 
-Pedaços grandes criam bolsões de umidade que prejudicam a estrutura. Misture delicadamente até obter uma massa homogênea que se mantém unida quando pressionada entre os dedos. Prove um pouquinho para ajustar o tempero antes de modelar.
+Misture delicadamente até obter uma **massa homogênea** que se mantém unida quando pressionada entre os dedos. Prove para ajustar o **tempero** antes de modelar.
 
 > 💡 **Dica:** Adicione 1 colher de chá de páprica defumada ou suco de meio limão para uma versão com sabor mais complexo. Ambos combinam muito bem com o atum e não comprometem a estrutura.
 
@@ -87,9 +87,9 @@ Pedaços grandes criam bolsões de umidade que prejudicam a estrutura. Misture d
 ---
 
 ### Passo 5: Modelar com mãos úmidas
-Umedeça as mãos em água fria.
+**Umedeça as mãos** em água fria para impedir que a massa grude nos dedos e facilitar a modelagem. Divida a massa em **12 porções iguais** e molde cada uma em bolinhas ou **discos de aproximadamente 4 cm** de diâmetro.
 
-Isso impede que a massa grude nos dedos e facilita muito a modelagem. Divida a massa em 12 porções iguais e molde cada uma em bolinhas ou discos de aproximadamente 4 cm de diâmetro. Tamanhos uniformes garantem cozimento homogêneo. Posicione na assadeira com 2 cm de espaço entre os bolinhos para permitir que o calor circule.
+**Tamanhos uniformes** garantem cozimento homogêneo. Posicione na assadeira com **2 cm de espaço** entre os bolinhos para permitir que o calor circule.
 
 > 💡 **Dica:** Para bolinhos em formato de disco (mais achatados), eles assam mais uniformemente e ficam crocantes em maior área de superfície. Prefira os discos se quiser textura mais crocante.
 
@@ -98,9 +98,9 @@ Isso impede que a massa grude nos dedos e facilita muito a modelagem. Divida a m
 ---
 
 ### Passo 6: Assar e virar na metade
-Leve ao forno a 200°C por 18 a 20 minutos no total, virando os bolinhos com cuidado na marca dos 10 minutos usando uma espátula fina. O lado que ficou em contato com o papel-manteiga vai estar dourado.
+Leve ao forno a **200°C** por **18 a 20 minutos** no total, virando os bolinhos com cuidado na marca dos **10 minutos** usando uma espátula fina. O lado que ficou em contato com o papel-manteiga vai estar dourado.
 
-O objetivo é dourar também o outro lado para uma crocância uniforme. Quando prontos, os bolinhos terão uma cor dourada nos dois lados e som levemente oco ao bater levemente com o dedo.
+O objetivo é **dourar também o outro lado** para crocância uniforme. Quando prontos, os bolinhos terão **cor dourada nos dois lados** e som levemente oco ao bater levemente com o dedo.
 
 > 💡 **Dica:** Nos últimos 3 minutos, ative a função grill (gratinar) do forno por alguns segundos para dar um dourado extra na superfície, fique atento para não queimar.
 

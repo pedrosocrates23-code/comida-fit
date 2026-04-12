@@ -43,9 +43,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Amasse o grão-de-bico preservando alguns pedaços
-Escorra bem o grão-de-bico cozido e seque levemente com papel toalha.
+Escorra bem o **grão-de-bico cozido** e seque levemente com **papel toalha**. O **excesso de umidade** é o principal inimigo de hambúrgueres vegetais, que tendem a desmanchar.
 
-O excesso de umidade é o principal inimigo de hambúrgueres vegetais, que tendem a desmanchar. Use um garfo para amassar, aplicando pressão uniforme mas intencional: o objetivo é obter uma mistura com textura irregular, com aproximadamente 70% amassado e 30% em pedaços menores. Essa textura heterogênea cria hambúrgueres com mais personalidade e melhor estrutura do que uma pasta completamente homogênea.
+Use um **garfo** para amassar, aplicando pressão uniforme mas intencional: o objetivo é obter uma mistura com **textura irregular**, com aproximadamente **70% amassado e 30% em pedaços menores**. Essa textura heterogênea cria hambúrgueres com mais personalidade e melhor estrutura do que uma pasta completamente homogênea.
 
 > 💡 **Dica:** Você também pode usar um processador de alimentos com pulsos curtos (não deixe processar continuamente). 3-4 pulsos são suficientes para a textura ideal sem virar homus.
 
@@ -54,9 +54,9 @@ O excesso de umidade é o principal inimigo de hambúrgueres vegetais, que tende
 ---
 
 ### Passo 2: Incorpore os ligantes e temperos à mistura
-Adicione ao grão-de-bico amassado a cebola picada finamente, o alho amassado, o ovo (ligante principal), a farinha de aveia (absorve umidade e liga a mistura), o cominho, a páprica defumada, o sal, a pimenta e a salsinha picada. Misture com as mãos ou com uma espátula até todos os ingredientes estarem completamente incorporados e a mistura parecer coesa.
+Adicione ao grão-de-bico amassado a **cebola picada finamente**, o **alho amassado**, o **ovo** (ligante principal), a **farinha de aveia** (absorve umidade e liga a mistura), o **cominho**, a **páprica defumada**, o sal, a pimenta e a **salsinha picada**.
 
-Ela deve segurar a forma quando pressionada entre os dedos sem grudar excessivamente.
+Misture com as mãos ou com uma espátula até todos os ingredientes estarem completamente incorporados e a mistura parecer **coesa**. Ela deve segurar a forma quando pressionada entre os dedos sem grudar excessivamente.
 
 > 💡 **Dica:** Se a mistura parecer muito úmida e não segurar a forma, adicione mais 1 colher de farinha de aveia. Se parecer muito seca e esfarelar, adicione 1 colher de chá de azeite.
 
@@ -65,9 +65,9 @@ Ela deve segurar a forma quando pressionada entre os dedos sem grudar excessivam
 ---
 
 ### Passo 3: Modele os hambúrgueres e leve à geladeira para firmar
-Divida a mistura em 4 partes iguais. Com as mãos levemente úmidas (isso evita que a mistura grude), modele cada porção em um disco de aproximadamente 1,5 cm de espessura e 10 cm de diâmetro. Pressione bem para compactar a mistura. Coloque os hambúrgueres em um prato forrado com papel-manteiga e leve à geladeira por 15 a 20 minutos. Esse tempo de resfriamento é fundamental.
+Divida a mistura em **4 partes iguais**. Com as mãos levemente úmidas (isso evita que a mistura grude), modele cada porção em um disco de aproximadamente **1,5 cm de espessura e 10 cm de diâmetro**. Pressione bem para compactar a mistura. Coloque os hambúrgueres em um prato forrado com **papel-manteiga** e leve à geladeira por **15 a 20 minutos**.
 
-A farinha de aveia absorve a umidade da mistura e o amido do grão-de-bico firma, resultando em hambúrgueres que mantêm a forma perfeitamente durante o cozimento.
+Esse **tempo de resfriamento** é fundamental: a **farinha de aveia** absorve a umidade da mistura e o **amido do grão-de-bico** firma, resultando em hambúrgueres que mantêm a forma perfeitamente durante o cozimento.
 
 > 💡 **Dica:** Se tiver tempo, deixe na geladeira por 30 minutos ou até 2 horas. Quanto mais tempo, mais firme ficará o hambúrguer. Você pode até deixar na geladeira de um dia para o outro.
 
@@ -76,9 +76,9 @@ A farinha de aveia absorve a umidade da mistura e o amido do grão-de-bico firma
 ---
 
 ### Passo 4: Grelhe em frigideira antiaderente por 4 minutos de cada lado
-Aqueça a frigideira antiaderente em fogo médio com o azeite. Quando o azeite estiver quente (não fumegante), coloque os hambúrgueres com cuidado. Grelhe sem tocar por exatamente 4 minutos.
+Aqueça a **frigideira antiaderente** em **fogo médio** com o **azeite**. Quando o azeite estiver quente (não fumegante), coloque os hambúrgueres com cuidado. Grelhe **sem tocar** por exatamente **4 minutos**, pois o hambúrguer precisa criar uma **crosta firme** antes de ser virado.
 
-O hambúrguer precisa criar uma crosta firme antes de ser virado. Use uma espátula larga e firme para virar com um único movimento rápido e decidido. Grelhe o outro lado por mais 4 minutos. O hambúrguer pronto tem uma crosta dourada das duas faces e está aquecido no centro.
+Use uma **espátula larga e firme** para virar com um único movimento rápido e decidido. Grelhe o outro lado por mais **4 minutos**. O hambúrguer pronto tem uma **crosta dourada** das duas faces e está aquecido no centro.
 
 > 💡 **Dica:** Pressione levemente o hambúrguer com a espátula após colocar na frigideira para garantir contato uniforme com a superfície. Isso cria uma crosta dourada mais homogênea.
 
@@ -87,9 +87,9 @@ O hambúrguer precisa criar uma crosta firme antes de ser virado. Use uma espát
 ---
 
 ### Passo 5: Monte e sirva com acompanhamentos saborosos
-Sirva os hambúrgueres sobre folhas verdes frescas, fatias de tomate e regue com molho de iogurte com ervas (misture iogurte grego, suco de limão, alho, sal e endro). Essa combinação cria um prato completo e equilibrado.
+Sirva os hambúrgueres sobre **folhas verdes frescas**, **fatias de tomate** e regue com **molho de iogurte com ervas** (misture iogurte grego, suco de limão, alho, sal e endro). Essa combinação cria um prato completo e equilibrado.
 
-A proteína e as fibras do hambúrguer, as vitaminas das folhas e a cremosidade do molho de iogurte. Para um jantar mais substancial, adicione fatias de abacate ou uma camada de homus caseiro.
+A **proteína e as fibras** do hambúrguer, as vitaminas das folhas e a cremosidade do **molho de iogurte** formam um conjunto nutritivo. Para um jantar mais substancial, adicione fatias de **abacate** ou uma camada de **homus caseiro**.
 
 > 💡 **Dica:** Aqueça levemente as folhas de alface romana ou americana sobre o hambúrguer quente, elas ficam crocantes por baixo e macias por cima, criando uma textura excelente.
 

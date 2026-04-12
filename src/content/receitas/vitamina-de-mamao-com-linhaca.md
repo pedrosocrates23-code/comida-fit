@@ -39,9 +39,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Prepare o mamão corretamente
-Corte a fatia de mamão ao meio no sentido do comprimento para expor as sementes. Com uma colher, raspe todas as sementes pretas (que têm sabor amargo e não devem ir para a vitamina). Remova a casca com uma faca afiada ou descascador. Corte a polpa laranja em cubos de 3 a 4 cm. O mamão deve estar maduro.
+Corte a fatia de **mamão** ao meio no sentido do comprimento para expor as **sementes**. Com uma colher, raspe todas as **sementes pretas** (que têm sabor amargo e não devem ir para a vitamina). Remova a **casca** com uma faca afiada ou descascador. Corte a **polpa laranja** em cubos de **3 a 4 cm**.
 
-Firme mas levemente macio ao pressionar, com polpa de cor laranja intensa. Mamão muito verde tem sabor adstringente e amargo; muito maduro (com partes moles e escuras) compromete o sabor e a textura da vitamina.
+O mamão deve estar **maduro**: firme mas levemente macio ao pressionar, com polpa de **cor laranja intensa**. Mamão muito verde tem sabor adstringente e amargo; muito maduro (com partes moles e escuras) compromete o sabor e a **textura** da vitamina.
 
 > 💡 **Dica:** Para uma vitamina mais fria e cremosa, congele os cubos de mamão por pelo menos 2 horas antes de usar, elimina a necessidade de muito gelo e a bebida não dilui.
 
@@ -50,9 +50,9 @@ Firme mas levemente macio ao pressionar, com polpa de cor laranja intensa. Mamã
 ---
 
 ### Passo 2: Prepare a linhaça (triturada é melhor)
-Se usar linhaça inteira, as sementes passarão pelo sistema digestivo praticamente intactas.
+Se usar **linhaça inteira**, as sementes passarão pelo sistema digestivo praticamente intactas: você ingere as fibras mas não absorve o **ômega-3** e a **lignana** da semente, que estão protegidos pela **casca dura**.
 
-Você ingere as fibras mas não absorve o ômega-3 e a lignana da semente, que estão protegidos pela casca dura. Para máxima absorção nutricional, triture a linhaça no liquidificador ou processador por 10 a 15 segundos antes de adicionar os demais ingredientes, ou use linhaça já triturada (vendida como "linhaça moída" ou "farinha de linhaça"). A linhaça dourada tem sabor mais suave do que a marrom, preferível para vitaminas.
+Para **máxima absorção nutricional**, triture a linhaça no liquidificador ou processador por **10 a 15 segundos** antes de adicionar os demais ingredientes, ou use **linhaça já triturada** (vendida como "linhaça moída" ou "farinha de linhaça"). A **linhaça dourada** tem sabor mais suave do que a marrom, sendo preferível para vitaminas.
 
 > 💡 **Dica:** Compre a linhaça inteira e triture em pequenas quantidades (1 a 2 semanas de consumo) para garantir frescor. A linhaça moída oxida mais rapidamente que a inteira.
 
@@ -61,7 +61,9 @@ Você ingere as fibras mas não absorve o ômega-3 e a lignana da semente, que e
 ---
 
 ### Passo 3: Adicione todos os ingredientes ao liquidificador
-Coloque no liquidificador: o leite de amêndoas (primeiro, para facilitar a mistura), os cubos de mamão, a linhaça (triturada ou inteira para o liquidificador moer), o mel e a cúrcuma (se usar). Finalize com o gelo. Essa ordem garante que o leite ajude a distribuir os ingredientes pelas lâminas desde o início, evitando que o mamão fique preso no fundo sem contato com o líquido.
+Coloque no **liquidificador**: o **leite de amêndoas** primeiro (para facilitar a mistura), os cubos de **mamão**, a **linhaça** (triturada ou inteira para o liquidificador moer), o **mel** e a **cúrcuma** (se usar). Finalize com o **gelo**.
+
+Essa ordem garante que o leite ajude a distribuir os ingredientes pelas **lâminas** desde o início, evitando que o mamão fique preso no fundo sem contato com o líquido.
 
 > 💡 **Dica:** A cúrcuma nesta receita não é apenas decorativa, tem potente ação anti-inflamatória (curcumina) e combina surpreendentemente bem com o sabor suave do mamão. Inclua sempre que possível.
 
@@ -70,7 +72,9 @@ Coloque no liquidificador: o leite de amêndoas (primeiro, para facilitar a mist
 ---
 
 ### Passo 4: Bata por 1 a 2 minutos até textura cremosa
-Bata em potência média-alta por 1 a 2 minutos. O mamão é uma fruta de polpa macia que se processa facilmente, mas a linhaça precisa de tempo extra para ser completamente moída. A vitamina está pronta quando a cor for laranja vívido e uniforme (com leve tom dourado da cúrcuma, se adicionada), a textura for completamente lisa sem partículas visíveis e o aroma for fresco e levemente amadeirado da linhaça.
+Bata em **potência média-alta** por **1 a 2 minutos**. O **mamão** é uma fruta de polpa macia que se processa facilmente, mas a **linhaça** precisa de tempo extra para ser completamente moída.
+
+A vitamina está pronta quando a cor for **laranja vívido e uniforme** (com leve tom dourado da **cúrcuma**, se adicionada), a textura for completamente **lisa** sem partículas visíveis e o aroma for fresco e levemente amadeirado da linhaça.
 
 > 💡 **Dica:** Para uma vitamina ainda mais cremosa e proteica, adicione 2 colheres de sopa de iogurte grego natural, complementa perfeitamente o sabor suave do mamão e adiciona probióticos.
 
@@ -79,9 +83,9 @@ Bata em potência média-alta por 1 a 2 minutos. O mamão é uma fruta de polpa 
 ---
 
 ### Passo 5: Prove, ajuste e sirva imediatamente
-Prove com uma colher.
+Prove com uma colher. O ponto ideal é quando o sabor do **mamão** está no centro, com o **mel** equilibrando qualquer leve amargor da **linhaça** e a **cúrcuma** no fundo como um toque terroso e quente. Se quiser mais doce, adicione mais um pouquinho de mel e bata por **5 segundos**; se quiser mais fresco, adicione **suco de 1/4 de limão**.
 
-O ponto ideal é quando o sabor do mamão está no centro, com o mel equilibrando qualquer leve amargor da linhaça e a cúrcuma no fundo como um toque terroso e quente. Se quiser mais doce, adicione mais um pouquinho de mel e bata por 5 segundos. Se quiser mais fresco, adicione suco de 1/4 de limão. Sirva em copo alto com gelo e consuma logo após o preparo para máxima preservação dos ácidos graxos ômega-3 da linhaça, que se oxidam relativamente rápido após exposição ao ar.
+Sirva em **copo alto com gelo** e consuma **logo após o preparo** para máxima preservação dos **ácidos graxos ômega-3** da linhaça, que se oxidam relativamente rápido após exposição ao ar.
 
 > 💡 **Dica:** Polvilhe algumas sementes de linhaça inteiras por cima como decoração, lembra visualmente o que está dentro da vitamina e fica bonito na apresentação.
 

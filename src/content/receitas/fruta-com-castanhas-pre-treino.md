@@ -39,9 +39,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Lavar as frutas corretamente
-Lave todas as frutas sob água corrente fria, esfregando a superfície com os dedos ou uma escovinha de frutas. As uvas devem ser lavadas ainda no cacho, mas separadas uma por uma para garantir que a água alcance o ponto de fixação de cada fruta, onde pode acumular resíduos. A maçã e a banana, mesmo que a casca não seja consumida inteiramente, devem ser lavadas antes de cortar.
+Lave todas as frutas sob **água corrente fria**, esfregando a superfície com os dedos ou uma **escovinha de frutas**. As **uvas** devem ser lavadas ainda no cacho, mas separadas uma por uma para garantir que a água alcance o ponto de fixação de cada fruta, onde pode acumular resíduos.
 
-A faca transfere contaminantes da casca para a polpa ao cortar.
+A **maçã e a banana**, mesmo que a casca não seja consumida inteiramente, devem ser lavadas antes de cortar, pois a faca **transfere contaminantes da casca para a polpa** ao cortar.
 
 > 💡 **Dica:** Para remover agrotóxicos de frutas não orgânicas mais eficientemente, faça uma solução de 1 litro de água com 1 colher de sopa de bicarbonato de sódio. Mergulhe as frutas por 10 a 15 minutos e enxágue bem. Estudos mostram que o bicarbonato remove mais resíduos que água simples.
 
@@ -50,9 +50,9 @@ A faca transfere contaminantes da casca para a polpa ao cortar.
 ---
 
 ### Passo 2: Cortar a maçã e a banana no tamanho ideal
-Corte a maçã ao meio, retire o miolo com sementes e fatie em cunhas ou fatias de 0,5 cm.
+Corte a **maçã** ao meio, retire o miolo com sementes e fatie em cunhas ou fatias de **0,5 cm**. Não é necessário descascar, pois a casca contém **quercetina** e outros **antioxidantes** importantes.
 
-Não é necessário descascar, pois a casca contém quercetina e outros antioxidantes importantes. Corte a banana descascada em rodelas de 1 cm. Para este lanche, o objetivo é que cada pedaço seja do tamanho de uma mordida, pequeno o suficiente para ser fácil de comer rapidamente, mas grande o suficiente para ter sabor de cada fruta separadamente.
+Corte a **banana** descascada em **rodelas de 1 cm**. O objetivo é que cada pedaço seja do tamanho de uma mordida: pequeno o suficiente para comer rapidamente, mas grande o suficiente para sentir o sabor de cada fruta separadamente.
 
 > 💡 **Dica:** Esprema algumas gotas de suco de limão sobre a maçã cortada para evitar o escurecimento por oxidação. Isso é especialmente útil se você preparar o lanche com mais de 10 minutos de antecedência.
 
@@ -61,9 +61,9 @@ Não é necessário descascar, pois a casca contém quercetina e outros antioxid
 ---
 
 ### Passo 3: Montar a tigela de frutas com apresentação estratégica
-Disponha as uvas inteiras no fundo da tigela (são as mais pesadas e ficam estáveis na base), depois coloque as rodelas de banana e as fatias de maçã em cima. As uvas na base também criam uma "almofada" que evita que as outras frutas fiquem amassadas. Use uma tigela ou pote com tampa se for levar na mochila.
+Disponha as **uvas inteiras no fundo** da tigela (são as mais pesadas e ficam estáveis na base), depois coloque as **rodelas de banana** e as **fatias de maçã** em cima. As uvas na base também criam uma "almofada" que evita que as outras frutas fiquem amassadas.
 
-Frutas soltas na bolsa viram um desastre.
+Use uma **tigela ou pote com tampa** se for levar na mochila, pois frutas soltas na bolsa viram um desastre.
 
 > 💡 **Dica:** Para levar como pré-treino fora de casa, use um pote de vidro com tampa de rosca de 500 ml. É resistente, não transfere odores, mantém melhor a temperatura e é reutilizável, muito mais prático e sustentável que potes de plástico.
 
@@ -72,9 +72,9 @@ Frutas soltas na bolsa viram um desastre.
 ---
 
 ### Passo 4: Medir e adicionar as castanhas
-Meça as porções de castanhas com precisão: 10g de castanha-do-pará (são exatamente 2 unidades grandes), 15g de nozes (equivale a 2 metades ou 4 quartos), 10g de amêndoas (cerca de 8 a 10 unidades). Castanhas são densas em calorias.
+Meça as porções de castanhas com precisão: **10g de castanha-do-pará** (são exatamente 2 unidades grandes), **15g de nozes** (equivale a 2 metades ou 4 quartos), **10g de amêndoas** (cerca de 8 a 10 unidades). Castanhas são **densas em calorias**.
 
-Pequenas variações no peso têm grande impacto calórico. Uma balança de cozinha ou o hábito de contar unidades garante que você não ultrapasse as 11g de gordura previstas na receita sem perceber.
+Pequenas variações no peso têm **grande impacto calórico**. Uma **balança de cozinha** ou o hábito de contar unidades garante que você não ultrapasse as **11g de gordura** previstas na receita sem perceber.
 
 > 💡 **Dica:** Prepare pacotinhos semanais com as castanhas já separadas nas porções corretas. Use pequenos saquinhos de papel ou potes individuais de 50 ml, um por dia de treino. Isso elimina a necessidade de medir na pressa antes do treino.
 
@@ -83,9 +83,9 @@ Pequenas variações no peso têm grande impacto calórico. Uma balança de cozi
 ---
 
 ### Passo 5: Consumir no timing ideal para o treino
-Consuma este lanche 30 a 45 minutos antes do início do aquecimento. A banana e as uvas fornecem carboidratos de absorção rápida que chegam na corrente sanguínea dentro de 20 a 30 minutos. A maçã tem fibras (especialmente pectina) que moderam a absorção. As castanhas, nozes e amêndoas.
+Consuma este lanche **30 a 45 minutos** antes do início do aquecimento. A **banana** e as **uvas** fornecem **carboidratos de absorção rápida** que chegam na corrente sanguínea dentro de 20 a 30 minutos. A **maçã** tem fibras (especialmente **pectina**) que moderam a absorção.
 
-Com suas gorduras e proteínas, sustentam a energia de forma mais lenta, garantindo performance mesmo em treinos de 45 a 60 minutos de duração.
+As **castanhas, nozes e amêndoas**, com suas gorduras e proteínas, sustentam a energia de forma mais lenta, garantindo **performance** mesmo em treinos de **45 a 60 minutos** de duração.
 
 > 💡 **Dica:** Combine este lanche com 250 ml de água. As frutas já têm alto teor de água (a uva tem cerca de 80% de água), mas a hidratação adicional garante que você chegue ao treino bem hidratado, o que impacta diretamente na performance.
 

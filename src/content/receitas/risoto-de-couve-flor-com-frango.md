@@ -44,9 +44,9 @@ featured: true
 ## Passo a Passo Detalhado
 
 ### Passo 1: Triturar a couve-flor no tamanho correto
-Separe a couve-flor em floretes e seque bem com papel toalha.
+Separe a **couve-flor** em floretes e seque bem com papel toalha. **Umidade em excesso** vai criar vapor na frigideira e deixar o "arroz" encharcado em vez de soltinho.
 
-Umidade em excesso vai criar vapor na frigideira e deixar o "arroz" encharcado em vez de soltinho. Coloque os floretes no processador e pulse em intervalos curtos de 2 a 3 segundos, verificando a consistência entre os pulsos. O objetivo é obter grãos irregulares do tamanho de grãos de arroz, entre 3 e 5 mm. Não deixe processar por tempo demais ou vira purê.
+Coloque os floretes no **processador** e pulse em intervalos curtos de **2 a 3 segundos**, verificando a consistência entre os pulsos. O objetivo é obter **grãos irregulares** do tamanho de grãos de arroz, entre **3 e 5 mm**. Não deixe processar por tempo demais ou vira purê.
 
 > 💡 **Dica:** Se não tiver processador, use um ralador grosso sobre um bowl. A textura fica um pouco mais fina, mas o resultado final é excelente. Rale os floretes pela face de maior abertura do ralador para obter fios mais grossos.
 
@@ -55,7 +55,9 @@ Umidade em excesso vai criar vapor na frigideira e deixar o "arroz" encharcado e
 ---
 
 ### Passo 2: Refogar a base aromática
-Em uma frigideira larga ou wok em fogo médio, aqueça o azeite e adicione a cebola picada finamente. Refogue por 2 minutos, mexendo sempre, até ficar translúcida. Adicione o alho picado e continue refogando por mais 1 minuto até perfumar. A largura da frigideira é importante nesta receita: uma superfície maior permite que a couve-flor seja distribuída em camada fina, o que favorece a evaporação da umidade e resulta em grãos com melhor textura.
+Em uma **frigideira larga** ou wok em **fogo médio**, aqueça o **azeite** e adicione a **cebola** picada finamente. Refogue por **2 minutos**, mexendo sempre, até ficar translúcida. Adicione o **alho** picado e continue refogando por mais **1 minuto** até perfumar.
+
+A largura da frigideira é importante nesta receita: uma **superfície maior** permite que a couve-flor seja distribuída em **camada fina**, o que favorece a **evaporação da umidade** e resulta em grãos com melhor textura.
 
 > 💡 **Dica:** Use cebola bem picada finamente (brunoise), não em pedaços grossos. Pedaços grandes de cebola criam uma textura heterogênea no risoto, você quer que a cebola se integre completamente ao prato, não apareça em bocados separados.
 
@@ -64,9 +66,9 @@ Em uma frigideira larga ou wok em fogo médio, aqueça o azeite e adicione a ceb
 ---
 
 ### Passo 3: Refogar a couve-flor triturada para secar
-Adicione toda a couve-flor triturada à frigideira de uma vez e aumente ligeiramente o fogo. Mexa constantemente por 3 a 4 minutos.
+Adicione toda a **couve-flor triturada** à frigideira de uma vez e aumente ligeiramente o fogo. Mexa constantemente por **3 a 4 minutos**.
 
-O objetivo desta etapa é evaporar a umidade natural da couve-flor e começar a dourar levemente os grãos. Quando os grãos começarem a soltar um aroma de "noz" e o fundo da frigideira apresentar uma leve crosta dourada, é sinal de que esta etapa está completa.
+O objetivo desta etapa é **evaporar a umidade natural** da couve-flor e começar a **dourar** levemente os grãos. Quando os grãos começarem a soltar um **aroma de "noz"** e o fundo da frigideira apresentar uma leve **crosta dourada**, é sinal de que esta etapa está completa.
 
 > 💡 **Dica:** Não tampe a frigideira nesta etapa. A tampa prende o vapor e o "arroz" de couve-flor vai cozinhar por vapor em vez de refogar, resultando em textura mole e aguada, exatamente o que queremos evitar.
 
@@ -75,9 +77,9 @@ O objetivo desta etapa é evaporar a umidade natural da couve-flor e começar a 
 ---
 
 ### Passo 4: Adicionar o caldo gradualmente como um risoto real
-Esse é o passo que transforma uma simples couve-flor refogada em um risoto cremoso. Adicione o caldo de frango em pequenas porções, de 2 a 3 colheres por vez, mexendo constantemente após cada adição. Só acrescente mais caldo quando o anterior tiver sido absorvido completamente. O amido liberado pela couve-flor durante o meximento constante é o que cria a cremosidade natural.
+Esse é o passo que transforma uma simples couve-flor refogada em um **risoto cremoso**. Adicione o **caldo de frango** em pequenas porções, de **2 a 3 colheres** por vez, **mexendo constantemente** após cada adição. Só acrescente mais caldo quando o anterior tiver sido **absorvido completamente**.
 
-Exatamente como o amido do arroz funciona no risoto tradicional.
+O **amido** liberado pela couve-flor durante o meximento constante é o que cria a **cremosidade natural**, exatamente como o amido do arroz funciona no **risoto tradicional**.
 
 > 💡 **Dica:** Use caldo quente (mantenha-o aquecido em uma panelinha pequena ao lado). Adicionar caldo frio para a frigideira quente interrompe o cozimento, afeta a textura e pode fazer os grãos endurecerem de repente.
 
@@ -86,9 +88,9 @@ Exatamente como o amido do arroz funciona no risoto tradicional.
 ---
 
 ### Passo 5: Incorporar o frango desfiado
-Com a couve-flor já cremosa e com a consistência de risoto, adicione o frango desfiado e misture delicadamente. Ajuste o sal, adicione a pimenta-do-reino moída na hora e uma pitada generosa de noz-moscada ralada.
+Com a couve-flor já cremosa e com a consistência de risoto, adicione o **frango desfiado** e misture delicadamente. Ajuste o **sal**, adicione a **pimenta-do-reino** moída na hora e uma pitada generosa de **noz-moscada** ralada.
 
-Esse condimento é o segredo do toque especial do prato, realçando a doçura natural da couve-flor. Cozinhe por mais 1 a 2 minutos para aquecer o frango completamente e integrar os sabores.
+Esse condimento é o segredo do toque especial do prato, realçando a **doçura natural** da couve-flor. Cozinhe por mais **1 a 2 minutos** para aquecer o frango completamente e **integrar os sabores**.
 
 > 💡 **Dica:** Para um frango desfiado ainda mais saboroso neste prato, cozinhe o peito diretamente no caldo de frango e aproveite esse caldo rico para fazer o risoto, os dois elementos de sabor se complementam de forma excepcional.
 
@@ -97,9 +99,9 @@ Esse condimento é o segredo do toque especial do prato, realçando a doçura na
 ---
 
 ### Passo 6: Finalizar com parmesão e servir imediatamente
-Desligue o fogo e adicione o parmesão ralado, mexendo energicamente por 30 segundos até ele derreter completamente e se integrar ao prato. O parmesão não é só sabor.
+Desligue o fogo e adicione o **parmesão ralado**, mexendo energicamente por **30 segundos** até ele derreter completamente e se integrar ao prato. O parmesão não é só sabor.
 
-A gordura e as proteínas do queijo criam uma emulsão com o caldo que dá ao risoto uma cremosidade adicional. Sirva imediatamente: o risoto de couve-flor, ao contrário do arroz, não espera, a couve-flor continua liberando umidade e o prato fica aguado se ficar parado por muito tempo.
+A **gordura** e as **proteínas** do queijo criam uma **emulsão** com o caldo que dá ao risoto uma **cremosidade adicional**. Sirva imediatamente: o risoto de couve-flor não espera, pois a couve-flor continua **liberando umidade** e o prato fica aguado se ficar parado por muito tempo.
 
 > 💡 **Dica:** Reserve um pouco do caldo quente para ajustar a consistência na finalização. Se o risoto ficou muito espesso, adicione uma colherada de caldo e mexa, volta à cremosidade ideal em segundos.
 

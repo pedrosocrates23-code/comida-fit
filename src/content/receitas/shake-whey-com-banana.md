@@ -36,9 +36,9 @@ featured: true
 ## Passo a Passo Detalhado
 
 ### Passo 1: Escolher a banana no ponto certo para o pós-treino
-Selecione uma banana madura.
+Selecione uma **banana madura**, com casca amarela uniforme e pequenas manchas escuras. Bananas no ponto ideal têm a maior concentração de **açúcares simples** (**glicose** e **frutose**) convertidos a partir do amido, que é exatamente o que os músculos precisam imediatamente após o exercício para iniciar a reposição do **glicogênio muscular**.
 
-Com casca amarela uniforme e pequenas manchas escuras. Bananas no ponto ideal para este shake têm a maior concentração de açúcares simples (glicose e frutose) convertidos a partir do amido, que é exatamente o que os músculos precisam imediatamente após o exercício para iniciar a reposição do glicogênio muscular. Bananas verdes têm amido resistente de digestão lenta, inadequadas para o pós-treino imediato. Descasque e quebre a banana em pedaços médios diretamente no liquidificador.
+Bananas verdes têm **amido resistente** de digestão lenta, inadequadas para o **pós-treino imediato**. Descasque e quebre a banana em pedaços médios diretamente no liquidificador.
 
 > 💡 **Dica:** Congele bananas maduras em porções individuais em sacos zip. Banana congelada deixa o shake mais frio, mais cremoso e mais espesso, sem precisar de gelo que dilui o sabor. Além disso, você aproveita bananas antes que passem do ponto.
 
@@ -47,9 +47,9 @@ Com casca amarela uniforme e pequenas manchas escuras. Bananas no ponto ideal pa
 ---
 
 ### Passo 2: Adicionar o leite e o whey protein ao liquidificador
-Despeje o leite no liquidificador primeiro.
+Despeje o **leite** no liquidificador primeiro. O líquido por baixo dos pós impede que eles grudem nas lâminas e formem **grumos**. Adicione o scoop de **whey protein** sobre o leite.
 
-O líquido por baixo dos pós impede que eles grudem nas lâminas e formem grumos. Adicione o scoop de whey protein sobre o leite. Para whey protein baunilha, o resultado é um shake com sabor mais suave e a doçura natural da banana fica mais pronunciada. Para sabor chocolate, há um contraste interessante entre o cacau do whey e o doce da banana, experimente ambas as versões. Não há certo ou errado, apenas preferência.
+Para whey protein **baunilha**, o resultado é um shake com sabor mais suave e a doçura natural da banana fica mais pronunciada. Para sabor **chocolate**, há um contraste interessante entre o cacau do whey e o doce da banana, experimente ambas as versões.
 
 > 💡 **Dica:** Para shake ainda mais proteico (ideal para quem está em fase de ganho de massa), use leite desnatado (8g de proteína por 250ml) no lugar do leite de amêndoas. A diferença de apenas 80 calorias adicionais resulta em aproximadamente 42g de proteína total por shake.
 
@@ -58,9 +58,9 @@ O líquido por baixo dos pós impede que eles grudem nas lâminas e formem grumo
 ---
 
 ### Passo 3: Bater por 30 a 60 segundos até consistência homogênea
-Este é genuinamente um shake de 3 minutos.
+Este é genuinamente um shake de **3 minutos**. Tampe o liquidificador e bata em **velocidade alta** por **30 a 60 segundos**. A consistência ideal é cremosa e homogênea, **cor amarelo-baunilha** uniforme, sem grumos de whey ou pedaços de banana.
 
-Tampe o liquidificador e bata em velocidade alta por 30 a 60 segundos. A consistência ideal é cremosa e homogênea, cor amarelo-baunilha uniforme, sem grumos de whey ou pedaços de banana. Se usar banana congelada, bata por 60 segundos completos para garantir que a banana processe completamente. Com banana fresca, 30 a 40 segundos são suficientes para textura perfeita.
+Se usar **banana congelada**, bata por **60 segundos** completos para garantir que a banana processe completamente. Com banana fresca, **30 a 40 segundos** são suficientes para textura perfeita.
 
 > 💡 **Dica:** Se não tiver liquidificador disponível (academia, trabalho), uma coqueteleira funciona bem para esta receita desde que a banana esteja muito madura e amassada com um garfo antes de adicioná-la ao shaker, o resultado não será tão cremoso, mas igualmente eficaz nutricionalmente.
 
@@ -69,9 +69,9 @@ Tampe o liquidificador e bata em velocidade alta por 30 a 60 segundos. A consist
 ---
 
 ### Passo 4: Adicionar gelo e servir imediatamente pós-treino
-Adicione 4 a 6 cubos de gelo se preferir o shake bem gelado e bata por mais 10 segundos. Despeje em copo alto ou garrafa e consuma imediatamente após o treino.
+Adicione **4 a 6 cubos de gelo** se preferir o shake bem gelado e bata por mais **10 segundos**. Despeje em copo alto ou garrafa e consuma **imediatamente após o treino**.
 
-Nos primeiros 30 a 60 minutos pós-exercício, os músculos estão com captação de glicose e aminoácidos no nível máximo, e consumir proteína + carboidrato nesse período potencializa a recuperação muscular de maneira mensurável.
+Nos primeiros **30 a 60 minutos pós-exercício**, os músculos estão com captação de **glicose** e **aminoácidos** no nível máximo, e consumir **proteína + carboidrato** nesse período potencializa a **recuperação muscular** de maneira mensurável.
 
 > 💡 **Dica:** Leve o scoop de whey já separado na bolsa da academia em um pote pequeno. Na saída do treino, bata no liquidificador da academia (se disponível) ou em coqueteleira. Assim você aproveita exatamente a janela de recuperação ideal sem precisar chegar em casa antes de consumir.
 

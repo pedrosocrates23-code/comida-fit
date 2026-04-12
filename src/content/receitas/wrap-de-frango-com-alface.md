@@ -44,9 +44,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Grelhar e fatiar o frango para o wrap
-Tempere o peito de frango com sal, pimenta e uma pitada de páprica. Grelhe em frigideira bem quente por 6 a 7 minutos de cada lado sem mexer.
+Tempere o **peito de frango** com **sal, pimenta** e uma pitada de **páprica**. Grelhe em **frigideira bem quente** por **6 a 7 minutos de cada lado** sem mexer, aguardando o frango soltar naturalmente da superfície antes de virar, o que indica que a **crosta** se formou adequadamente.
 
-Aguarde o frango soltar naturalmente da superfície antes de virar, o que indica que a crosta se formou adequadamente. Após grelhar, deixe descansar por 3 minutos sobre uma tábua e então fatie em tiras diagonais de 1 a 1,5 cm. Tiras diagonais são fundamentais para o wrap: ficam melhor acomodadas dentro da tortilla e são mais fáceis de morder do que pedaços quadrados.
+Após grelhar, deixe **descansar por 3 minutos** sobre uma tábua e então fatie em **tiras diagonais de 1 a 1,5 cm**. Tiras diagonais são fundamentais para o wrap: ficam melhor acomodadas dentro da **tortilla** e são mais fáceis de morder do que pedaços quadrados.
 
 > 💡 **Dica:** Adicione uma colher de chá de azeite e metade do limão na marinada básica antes de grelhar. Mesmo 10 minutos de marinada fazem diferença significativa no sabor e na maciez do frango no wrap.
 
@@ -55,9 +55,9 @@ Aguarde o frango soltar naturalmente da superfície antes de virar, o que indica
 ---
 
 ### Passo 2: Preparar o molho de iogurte grego
-Em um bowl pequeno, misture o iogurte grego natural (sem açúcar) com a mostarda Dijon, uma pitada de sal e as ervas que preferir.
+Em um bowl pequeno, misture o **iogurte grego natural** (sem açúcar) com a **mostarda Dijon**, uma pitada de sal e as **ervas** que preferir: cebolinha, dill, salsinha ou orégano funcionam muito bem.
 
-Cebolinha, dill, salsinha ou orégano funcionam muito bem. Misture vigorosamente por 30 segundos até ficar homogêneo. O molho deve ter a consistência de creme azedo espesso, se ficou muito espesso, adicione algumas gotas de limão; se ficou muito líquido, o iogurte pode ter muita água (use um iogurte grego mais espesso da próxima vez).
+Misture vigorosamente por **30 segundos** até ficar homogêneo. O molho deve ter a consistência de **creme azedo espesso**: se ficou muito espesso, adicione algumas gotas de limão; se ficou muito líquido, o iogurte pode ter muita água (use um **iogurte grego** mais espesso da próxima vez).
 
 > 💡 **Dica:** Prepare o molho na véspera e deixe na geladeira, o sabor fica muito mais complexo após uma noite de descanso, quando os sabores da mostarda e das ervas se integram completamente ao iogurte.
 
@@ -66,9 +66,9 @@ Cebolinha, dill, salsinha ou orégano funcionam muito bem. Misture vigorosamente
 ---
 
 ### Passo 3: Aquecer as tortillas integrais
-Aqueça uma frigideira seca (sem gordura) em fogo médio. Coloque uma tortilla por vez e aqueça por 30 segundos de cada lado.
+Aqueça uma **frigideira seca** (sem gordura) em **fogo médio**. Coloque uma **tortilla** por vez e aqueça por **30 segundos de cada lado**. Ela deve ficar **maleável** e levemente quentinha, não crocante ou torrada.
 
-Ela deve ficar maleável e levemente quentinha, não crocante ou torrada. Tortillas frias são difíceis de enrolar sem rachar; tortillas excessivamente aquecidas ficam secas e quebradiças. O aquecimento correto transforma a tortilla em algo flexível, como couro, que enrola sem resistência e mantém o recheio sem rachar.
+**Tortillas frias** são difíceis de enrolar sem rachar; tortillas excessivamente aquecidas ficam secas e quebradiças. O aquecimento correto transforma a tortilla em algo **flexível**, que enrola sem resistência e mantém o recheio sem rachar.
 
 > 💡 **Dica:** Envolva as tortillas aquecidas em um pano de prato limpo enquanto aquece as demais, o vapor acumulado dentro do pano mantém todas macias e quentes até a hora de montar.
 
@@ -77,9 +77,9 @@ Ela deve ficar maleável e levemente quentinha, não crocante ou torrada. Tortil
 ---
 
 ### Passo 4: Montar o wrap na ordem correta
-A ordem dos ingredientes importa muito para que o wrap funcione. Espalhe o molho de iogurte em uma camada uniforme, deixando 3 cm de borda livre nas laterais. Coloque a alface por cima do molho.
+A **ordem dos ingredientes** importa muito para que o wrap funcione. Espalhe o **molho de iogurte** em uma camada uniforme, deixando **3 cm de borda livre** nas laterais. Coloque a **alface** por cima do molho, pois ela age como **camada protetora** que impede que o molho encharque diretamente a tortilla.
 
-Ela age como camada protetora que impede que o molho encharque diretamente a tortilla. Em seguida, distribua as tiras de frango em uma linha no centro, depois o tomate e o pepino ao lado. Menos recheio é mais: um wrap com excesso de recheio não fecha corretamente.
+Em seguida, distribua as **tiras de frango** em uma linha no centro, depois o **tomate** e o **pepino** ao lado. Menos recheio é mais: um wrap com excesso de recheio não fecha corretamente.
 
 > 💡 **Dica:** Coloque os ingredientes no terço inferior da tortilla (não no centro), deixando mais espaço no terço superior. Isso facilita muito o enrolamento, você tem mais "superfície" de tortilla para cobrir o recheio.
 
@@ -88,7 +88,9 @@ Ela age como camada protetora que impede que o molho encharque diretamente a tor
 ---
 
 ### Passo 5: Enrolar o wrap com firmeza
-Comece dobrando as duas laterais da tortilla sobre o recheio (como um envelope). Mantenha as laterais dobradas com os polegares enquanto usa os outros dedos para enrolar firmemente do lado mais próximo de você em direção ao lado mais distante, apertando levemente conforme enrola para compactar o recheio. O objetivo é um wrap cilíndrico e firme que não se abre ao ser cortado ou pego com as mãos.
+Comece dobrando as duas **laterais da tortilla** sobre o recheio (como um envelope). Mantenha as laterais dobradas com os polegares enquanto usa os outros dedos para **enrolar firmemente** do lado mais próximo de você em direção ao lado mais distante, **apertando levemente** conforme enrola para compactar o recheio.
+
+O objetivo é um **wrap cilíndrico e firme** que não se abre ao ser cortado ou pego com as mãos.
 
 > 💡 **Dica:** Enrole o wrap em papel alumínio imediatamente após montar, apertando bem para compactar. Deixe assim por 5 minutos antes de cortar, o papel alumínio mantém a pressão e o wrap fica perfeitamente compacto, sem se abrir.
 
@@ -97,9 +99,9 @@ Comece dobrando as duas laterais da tortilla sobre o recheio (como um envelope).
 ---
 
 ### Passo 6: Cortar na diagonal e servir
-Com uma faca afiada (não serrilhada), corte o wrap ao meio em ângulo de 45 graus. O corte diagonal não é apenas estético.
+Com uma **faca afiada** (não serrilhada), corte o wrap ao meio em **ângulo de 45 graus**. O **corte diagonal** não é apenas estético: ele cria uma abertura elipsoidal que mostra o **recheio colorido** de forma atraente e facilita a primeira mordida.
 
-Ele cria uma abertura elipsoidal que mostra o recheio colorido de forma atraente e facilita a primeira mordida. Sirva imediatamente com o corte virado para cima para exibir o interior, ou embrulhe em papel manteiga para marmita.
+Sirva imediatamente com o corte virado para cima para exibir o interior, ou embrulhe em **papel manteiga** para marmita.
 
 > 💡 **Dica:** Para marmita, embrulhe cada metade separadamente em papel manteiga e leve o molho extra em um pote pequeno à parte, adicione antes de comer para o wrap ficar fresquinho mesmo horas depois.
 

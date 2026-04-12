@@ -44,9 +44,9 @@ featured: true
 ## Passo a Passo Detalhado
 
 ### Passo 1: Marinar o frango com antecedência
-Misture o suco de limão, o alho amassado, o azeite, o sal e a pimenta em um bowl. Adicione o peito de frango e massageie bem a marinada por todos os lados, incluindo os cantos e as superfícies mais grossas. Deixe descansar por pelo menos 15 minutos em temperatura ambiente.
+Misture o **suco de limão**, o **alho amassado**, o **azeite**, o **sal** e a **pimenta** em um bowl. Adicione o **peito de frango** e massageie bem a marinada por todos os lados, incluindo os cantos e as superfícies mais grossas.
 
-Ou, para melhor resultado, cubra com filme plástico e leve à geladeira por até 2 horas. A acidez do limão começa a "cozinhar" levemente as proteínas superficiais, o que resulta em carne mais macia e saborosa.
+Deixe descansar por pelo menos **15 minutos em temperatura ambiente** ou, para melhor resultado, cubra com filme plástico e leve à **geladeira por até 2 horas**. A **acidez do limão** começa a "cozinhar" levemente as proteínas superficiais, resultando em carne mais **macia e saborosa**.
 
 > 💡 **Dica:** Se o peito de frango for grosso (mais de 3 cm), faça cortes rasos na superfície com uma faca afiada antes de marinar. Isso permite que a marinada penetre mais fundo e acelera o cozimento uniforme na grelha.
 
@@ -55,9 +55,9 @@ Ou, para melhor resultado, cubra com filme plástico e leve à geladeira por at�
 ---
 
 ### Passo 2: Aquecer a grelha na temperatura certa
-Aqueça a grelha ou frigideira de ferro fundido em fogo alto por pelo menos 3 a 4 minutos antes de colocar o frango. A superfície precisa estar muito quente.
+Aqueça a **grelha ou frigideira de ferro fundido** em **fogo alto** por pelo menos **3 a 4 minutos** antes de colocar o frango. A superfície precisa estar muito quente: ao jogar uma gota de água, ela deve evaporar instantaneamente com um "tsss" alto.
 
-Ao jogar uma gota de água, ela deve evaporar instantaneamente com um "tsss" alto. Essa temperatura alta é o segredo para criar aquelas marcas de grelha bonitas e, mais importante, selar a superfície da carne e manter o suco interno.
+Essa **temperatura alta** é o segredo para criar aquelas **marcas de grelha** bonitas e, mais importante, **selar a superfície da carne** e manter o suco interno.
 
 > 💡 **Dica:** Esfregue um papel toalha com um pouquíssimo de azeite na grelha antes de grelhar. Isso evita que o frango grude sem adicionar gordura significativa ao prato.
 
@@ -66,9 +66,9 @@ Ao jogar uma gota de água, ela deve evaporar instantaneamente com um "tsss" alt
 ---
 
 ### Passo 3: Grelhar sem mexer demais
-Coloque o frango na grelha quente e NÃO mexa por 6 a 7 minutos completos. A carne vai grudar no início e se soltar naturalmente quando a crosta estiver formada. Quando ela se soltar sem resistência, está na hora de virar.
+Coloque o frango na grelha quente e **NÃO mexa** por **6 a 7 minutos completos**. A carne vai grudar no início e se soltar naturalmente quando a **crosta estiver formada**. Quando ela se soltar sem resistência, está na hora de virar — e **apenas uma vez**.
 
-E apenas uma vez. Grelhe do outro lado por mais 6 a 7 minutos. O frango está pronto quando a temperatura interna chegar a 74°C ou quando, ao fazer um pequeno corte no ponto mais grosso, o suco sair limpo e transparente, não rosado.
+Grelhe do outro lado por mais **6 a 7 minutos**. O frango está pronto quando a **temperatura interna chegar a 74°C** ou quando, ao fazer um pequeno corte no ponto mais grosso, o suco sair **limpo e transparente**, não rosado.
 
 > 💡 **Dica:** Após grelhar, deixe o frango descansar sobre uma tábua por 3 a 5 minutos antes de fatiar. Esse descanso redistribui os sucos internos, sem ele, todo o líquido escorre no primeiro corte e a carne fica seca.
 
@@ -77,9 +77,9 @@ E apenas uma vez. Grelhe do outro lado por mais 6 a 7 minutos. O frango está pr
 ---
 
 ### Passo 4: Cozinhar os legumes no vapor ao mesmo tempo
-Enquanto o frango grelha, prepare o cozimento a vapor dos legumes. Coloque água em uma panela, insira a cesta de vapor e adicione os legumes em ordem de tempo de cozimento: cenoura primeiro (precisa de mais tempo), depois abobrinha, e por último os floretes de brócolis. Tampe e cozinhe por 8 a 10 minutos. O ponto ideal é "al dente".
+Enquanto o frango grelha, prepare o **cozimento a vapor** dos legumes. Coloque água em uma panela, insira a **cesta de vapor** e adicione os legumes em ordem de tempo de cozimento: **cenoura** primeiro (precisa de mais tempo), depois **abobrinha**, e por último os **floretes de brócolis**.
 
-Quando um palito de dente penetra com uma leve resistência. Legumes al dente mantêm mais vitaminas e têm textura muito superior a legumes moles.
+Tampe e cozinhe por **8 a 10 minutos**. O ponto ideal é "**al dente**", quando um palito de dente penetra com uma leve resistência. Legumes al dente mantêm mais **vitaminas** e têm textura muito superior a legumes moles.
 
 > 💡 **Dica:** Não tem cesta de vapor? Use uma peneira metálica apoiada sobre uma panela com água fervente, tampada com uma tampa ou papel alumínio. Funciona perfeitamente e é um utensílio que já está em qualquer cozinha.
 
@@ -88,9 +88,9 @@ Quando um palito de dente penetra com uma leve resistência. Legumes al dente ma
 ---
 
 ### Passo 5: Temperar e finalizar os legumes
-Assim que os legumes saírem do vapor, tempere imediatamente com sal, pimenta e um fio de azeite. Legumes quentes absorvem o tempero muito melhor que frios. Se tiver ervas frescas como tomilho, alecrim ou salsinha, adicione neste momento.
+Assim que os legumes saírem do vapor, tempere imediatamente com **sal**, **pimenta** e um **fio de azeite**. Legumes quentes absorvem o tempero muito melhor que frios. Se tiver **ervas frescas** como tomilho, alecrim ou salsinha, adicione neste momento.
 
-O calor residual ativa os óleos essenciais das ervas e intensifica o aroma. Uma pitada de raspas de limão transforma completamente o prato, adicionando frescor sem calorias.
+O calor residual **ativa os óleos essenciais das ervas** e intensifica o aroma. Uma pitada de **raspas de limão** transforma completamente o prato, adicionando frescor sem calorias.
 
 > 💡 **Dica:** Para legumes ainda mais saborosos, finalize com algumas gotas de molho tamari (shoyu com menos sódio) em vez de sal. Adiciona umami e sabor profundo sem comprometer o valor calórico do prato.
 
@@ -99,9 +99,9 @@ O calor residual ativa os óleos essenciais das ervas e intensifica o aroma. Uma
 ---
 
 ### Passo 6: Montar e servir o prato
-Fatie o frango descansado em fatias diagonais de 1 cm.
+Fatie o frango descansado em **fatias diagonais de 1 cm**. O **corte diagonal** aumenta a área de superfície e apresenta o interior **suculento da carne** de forma mais apetitosa.
 
-O corte diagonal aumenta a área de superfície e apresenta o interior suculento da carne de forma mais apetitosa. Disponha as fatias ao lado dos legumes no prato. Para uma refeição visualmente bonita, organize os legumes por cor: cenoura laranja, brócolis verde, abobrinha clara, a variedade de cores indica variedade de nutrientes.
+Disponha as fatias ao lado dos legumes no prato. Para uma refeição visualmente bonita, organize os legumes por cor: **cenoura laranja**, **brócolis verde**, **abobrinha clara** — a variedade de cores indica **variedade de nutrientes**.
 
 > 💡 **Dica:** Um pouco de limão espremido sobre o prato montado na hora de servir brilha os legumes, clareia as cores e adiciona vitamina C que potencializa a absorção do ferro presente no frango.
 

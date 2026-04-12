@@ -43,9 +43,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Pré-aquecer o forno e preparar a assadeira
-Ligue o forno a 200°C pelo menos 15 minutos antes de usar.
+Ligue o forno a **200°C** pelo menos **15 minutos** antes de usar. Um forno bem **pré-aquecido** é fundamental para que o peixe comece a cozinhar imediatamente ao entrar, criando uma **crosta dourada** leve por fora sem ressecar por dentro.
 
-Um forno bem pré-aquecido é fundamental para que o peixe comece a cozinhar imediatamente ao entrar, criando uma crosta dourada leve por fora sem ressecar por dentro. Forre a assadeira com papel-manteiga e, por cima, coloque uma leve camada de azeite. O papel-manteiga evita que os filés grudem (tilápia é muito delicada e pode se partir ao tentar soltar de uma assadeira sem proteção), além de facilitar muito a limpeza.
+Forre a assadeira com **papel-manteiga** e, por cima, coloque uma leve camada de **azeite**. O papel-manteiga evita que os filés grudem (tilápia é muito delicada e pode se partir ao tentar soltar de uma assadeira sem proteção), além de facilitar muito a limpeza.
 
 > 💡 **Dica:** Se quiser uma crosta ainda mais dourada, use papel alumínio no lugar do papel-manteiga e unte bem com azeite. O alumínio reflete mais calor e cria uma superfície inferior mais quente, dourant a parte de baixo do filé também.
 
@@ -54,9 +54,9 @@ Um forno bem pré-aquecido é fundamental para que o peixe comece a cozinhar ime
 ---
 
 ### Passo 2: Preparar a mistura de ervas e limão
-Em um bowl pequeno, misture o azeite, o alho picado finamente, o suco do limão, as raspas da casca do limão, o tomilho, o alecrim picado, sal e pimenta. As raspas de limão são o segredo desta receita.
+Em um bowl pequeno, misture o **azeite**, o **alho picado** finamente, o **suco do limão**, as **raspas da casca do limão**, o **tomilho**, o **alecrim picado**, **sal** e **pimenta**. As **raspas de limão** são o segredo desta receita.
 
-Elas contêm os óleos essenciais da casca, que têm sabor cítrico muito mais intenso e complexo que apenas o suco. Misture tudo vigorosamente para que o alho e as ervas se distribuam uniformemente no azeite.
+Elas contêm os **óleos essenciais** da casca, que têm sabor cítrico muito mais intenso e complexo que apenas o suco. Misture tudo vigorosamente para que o alho e as ervas se distribuam uniformemente no azeite.
 
 > 💡 **Dica:** Use um microplane ou o lado fino do ralador para obter as raspas de limão. Rale apenas a parte amarela da casca, a parte branca (albedo) logo abaixo é amarga e vai comprometer o sabor da mistura.
 
@@ -65,9 +65,9 @@ Elas contêm os óleos essenciais da casca, que têm sabor cítrico muito mais i
 ---
 
 ### Passo 3: Temperar os filés de tilápia
-Seque os filés com papel toalha antes de temperar.
+Seque os **filés** com **papel toalha** antes de temperar. Umidade na superfície impede a formação de **crosta** e cria vapor dentro do forno que "cozinha" o peixe em vez de assá-lo.
 
-Umidade na superfície impede a formação de crosta e cria vapor dentro do forno que "cozinha" o peixe em vez de assá-lo. Disponha os filés na assadeira preparada e espalhe a mistura de ervas sobre toda a superfície superior de cada filé, pressionando levemente com os dedos para que as ervas adiram à carne. Não deixe áreas sem cobertura, cada parte do filé deve estar protegida pela mistura de azeite e ervas.
+Disponha os filés na assadeira preparada e espalhe a **mistura de ervas** sobre toda a superfície superior de cada filé, pressionando levemente com os dedos para que as ervas adiram à carne. Não deixe áreas sem cobertura, cada parte do filé deve estar protegida pela mistura de **azeite** e **ervas**.
 
 > 💡 **Dica:** Para um sabor ainda mais intenso, faça a marinada com 30 minutos de antecedência e deixe os filés já temperados na geladeira cobertos com filme plástico. O ácido do limão começa a trabalhar nas proteínas superficiais e o resultado final é um peixe com sabor muito mais profundo.
 
@@ -76,9 +76,9 @@ Umidade na superfície impede a formação de crosta e cria vapor dentro do forn
 ---
 
 ### Passo 4: Polvilhar a páprica para cor e sabor
-Com os filés já cobertos com a mistura de ervas, polvilhe generosamente páprica sobre toda a superfície.
+Com os filés já cobertos com a mistura de ervas, polvilhe generosamente **páprica** sobre toda a superfície. Doce para um sabor suave, **defumada** para profundidade, ou **picante** para quem gosta de calor.
 
-Doce para um sabor suave, defumada para profundidade, ou picante para quem gosta de calor. A páprica não é apenas estética, ela contém capsantina, um antioxidante carotenoide que resiste ao calor do forno e contribui para aquela cor avermelhada-dourada tão apetitosa. Distribua de forma uniforme para que todos os pedaços fiquem com a mesma coloração ao sair do forno.
+A páprica não é apenas estética: ela contém **capsantina**, um **antioxidante carotenoide** que resiste ao calor do forno e contribui para aquela cor **avermelhada-dourada** tão apetitosa. Distribua de forma uniforme para que todos os pedaços fiquem com a mesma coloração ao sair do forno.
 
 > 💡 **Dica:** Misture páprica defumada com cúrcuma em proporção igual (1:1) para um efeito de cor ainda mais vibrante e com o benefício anti-inflamatório da curcumina. A combinação cria uma crosta dourada que parece profissional.
 
@@ -87,9 +87,9 @@ Doce para um sabor suave, defumada para profundidade, ou picante para quem gosta
 ---
 
 ### Passo 5: Assar no forno no tempo correto
-Coloque a assadeira na grade central do forno a 200°C por 15 a 20 minutos. O tempo exato depende da espessura dos filés.
+Coloque a assadeira na **grade central** do forno a **200°C** por **15 a 20 minutos**. O tempo exato depende da **espessura dos filés**.
 
-Filés de 1,5 cm ficam prontos em 15 minutos; filés mais grossos (2,5 cm) precisam dos 20 minutos completos. O peixe está pronto quando: (1) a carne ficou completamente opaca, sem nenhuma área translúcida rosada ou vidrada; (2) ao inserir um garfo e girar levemente, o peixe se separa em lascas sem resistência; (3) a temperatura interna é de 63°C.
+Filés de **1,5 cm** ficam prontos em **15 minutos**; filés mais grossos (**2,5 cm**) precisam dos **20 minutos** completos. O peixe está pronto quando: (1) a carne ficou completamente **opaca**, sem nenhuma área translúcida; (2) ao inserir um garfo, o peixe se separa em **lascas** sem resistência; (3) a **temperatura interna** é de **63°C**.
 
 > 💡 **Dica:** Não abra o forno nos primeiros 12 minutos. Cada abertura perde cerca de 15°C de temperatura, afetando o cozimento uniforme. Confie no timer e abra apenas para o teste de lascas no tempo estimado.
 
@@ -98,9 +98,9 @@ Filés de 1,5 cm ficam prontos em 15 minutos; filés mais grossos (2,5 cm) preci
 ---
 
 ### Passo 6: Servir imediatamente
-A tilápia assada deve ser servida imediatamente após sair do forno.
+A **tilápia assada** deve ser servida imediatamente após sair do forno. É um dos poucos alimentos que realmente não aguarda.
 
-É um dos poucos alimentos que realmente não aguarda. Transfira os filés com cuidado usando uma espátula larga, pois o peixe é muito delicado e se parte com facilidade quando bem assado. Finalize com um fio de azeite fresco e algumas fatias de limão ao lado para quem quiser adicionar acidez extra na hora de comer.
+Transfira os filés com cuidado usando uma **espátula larga**, pois o peixe é muito delicado e se parte com facilidade quando bem assado. Finalize com um fio de **azeite fresco** e algumas fatias de **limão** ao lado para quem quiser adicionar acidez extra na hora de comer.
 
 > 💡 **Dica:** Aqueça os pratos de servir por 1 a 2 minutos no forno (com calor residual após tirar o peixe), pratos quentes mantêm a temperatura do peixe por muito mais tempo e elevam completamente a experiência da refeição.
 

@@ -40,9 +40,9 @@ featured: true
 ## Passo a Passo Detalhado
 
 ### Passo 1: Prepare os ingredientes congelados
-Retire a polpa de açaí do freezer e deixe em temperatura ambiente por 2 a 3 minutos.
+Retire a **polpa de açaí** do freezer e deixe em temperatura ambiente por **2 a 3 minutos**, apenas o suficiente para que o liquidificador consiga processá-la sem travar, sem descongelar completamente. A **banana congelada** também deve estar bem firme.
 
-Apenas o suficiente para que o liquidificador consiga processá-la sem travar, sem descongelar completamente. A banana congelada também deve estar bem firme. Essa combinação de ingredientes congelados é o que garante a consistência espessa e cremosa do smoothie bowl, se usar ingredientes em temperatura ambiente, o resultado será muito mais líquido e sem a textura característica de bowl.
+Essa combinação de **ingredientes congelados** é o que garante a **consistência espessa e cremosa** do smoothie bowl. Se usar ingredientes em temperatura ambiente, o resultado será muito mais líquido e sem a textura característica de bowl.
 
 > 💡 **Dica:** Congele as bananas maduras (com pintas) fatiadas em saquinhos plásticos para ter sempre disponível, elas adoçam naturalmente o açaí sem açúcar adicionado.
 
@@ -51,9 +51,9 @@ Apenas o suficiente para que o liquidificador consiga processá-la sem travar, s
 ---
 
 ### Passo 2: Bata no liquidificador em potência alta
-Coloque no liquidificador: a polpa de açaí, a banana congelada e o leite de amêndoas. Tampe bem e bata em potência alta por 30 a 40 segundos. A maioria dos liquidificadores domésticos vai precisar de paradas ocasionais para empurrar a mistura de volta para as lâminas com um socador (ou a tampa fechada). O resultado deve ser uma massa densa, roxa e homogênea.
+Coloque no liquidificador: a **polpa de açaí**, a **banana congelada** e o **leite de amêndoas**. Tampe bem e bata em **potência alta** por **30 a 40 segundos**. A maioria dos liquidificadores domésticos vai precisar de paradas ocasionais para empurrar a mistura de volta para as lâminas com um socador (ou a tampa fechada).
 
-Parecida com sorvete batido. Se o liquidificador travar, adicione apenas 1 a 2 colheres de leite por vez.
+O resultado deve ser uma **massa densa, roxa e homogênea**, parecida com sorvete batido. Se o liquidificador travar, adicione apenas **1 a 2 colheres de leite** por vez.
 
 > 💡 **Dica:** Use liquidificador de alta potência (como Vitamix ou similar) para o melhor resultado. Em liquidificadores comuns, corte o açaí em pedaços menores antes de bater.
 
@@ -62,9 +62,9 @@ Parecida com sorvete batido. Se o liquidificador travar, adicione apenas 1 a 2 c
 ---
 
 ### Passo 3: Verifique e ajuste a consistência
-A consistência ideal do smoothie bowl é quando você vira a colher com a mistura e ela não cai.
+A **consistência ideal** do smoothie bowl é quando você vira a colher com a mistura e ela não cai, ou cai muito lentamente. Se ficou muito espesso para transferir facilmente, adicione **1 colher de leite** e bata por **5 segundos**.
 
-Ou cai muito lentamente. Se ficou muito espesso para transferir facilmente, adicione 1 colher de leite e bata por 5 segundos. Se ficou muito líquido, adicione mais açaí ou banana congelada e bata novamente. Não existe segunda chance de consertar após transferir para a tigela, então ajuste sempre no liquidificador.
+Se ficou muito líquido, adicione mais **açaí** ou **banana congelada** e bata novamente. Não existe segunda chance de consertar após transferir para a tigela, então ajuste sempre no liquidificador.
 
 > 💡 **Dica:** Coloque a tigela onde vai montar o bowl no freezer por 5 minutos antes de usar, isso impede que o açaí derreta rapidamente ao contato com a tigela em temperatura ambiente.
 
@@ -73,9 +73,9 @@ Ou cai muito lentamente. Se ficou muito espesso para transferir facilmente, adic
 ---
 
 ### Passo 4: Transfira para a tigela e alise
-Despeje a base de açaí na tigela (preferencialmente gelada) e use a parte de trás de uma colher grande para alisar a superfície com movimentos circulares. A superfície lisa é a "tela" onde você vai montar os toppings.
+Despeje a base de açaí na **tigela** (preferencialmente gelada) e use a parte de trás de uma **colher grande** para alisar a superfície com movimentos circulares. A superfície lisa é a "tela" onde você vai montar os **toppings**.
 
-Quanto mais uniforme, mais bonito e organizado ficará o resultado. Trabalhe rápido, pois o açaí começa a derreter em contato com a tigela em temperatura ambiente.
+Quanto mais uniforme, mais bonito e organizado ficará o resultado. Trabalhe **rápido**, pois o açaí começa a derreter em contato com a tigela em temperatura ambiente.
 
 > 💡 **Dica:** Incline levemente a tigela ao alisar para criar uma leve curvatura na superfície, fica mais fácil de ver todos os toppings de cima.
 
@@ -84,9 +84,9 @@ Quanto mais uniforme, mais bonito e organizado ficará o resultado. Trabalhe rá
 ---
 
 ### Passo 5: Monte os toppings de forma decorativa
-Distribua os toppings de forma organizada e visual: comece pela granola em uma faixa, depois as fatias de banana em outra seção, os morangos fatiados, e por último polvilhe as sementes de chia. A ideia não é apenas nutritiva.
+Distribua os **toppings** de forma organizada e visual: comece pela **granola** em uma faixa, depois as fatias de **banana** em outra seção, os **morangos fatiados**, e por último polvilhe as **sementes de chia**. A ideia não é apenas nutritiva.
 
-A apresentação bonita do bowl também faz parte da experiência e torna o café da manhã mais prazeroso e satisfatório. Regue com a pasta de amendoim aquecida levemente (fica mais fluida) em zigue-zague por cima de tudo.
+A **apresentação bonita** do bowl também faz parte da experiência e torna o café da manhã mais prazeroso e satisfatório. Regue com a **pasta de amendoim** aquecida levemente (fica mais fluida) em zigue-zague por cima de tudo.
 
 > 💡 **Dica:** Use uma régua de cores ao montar: alterne cores contrastantes (amarelo da banana, vermelho do morango, marrom da granola, roxo do açaí) para um visual impactante.
 
@@ -95,9 +95,9 @@ A apresentação bonita do bowl também faz parte da experiência e torna o caf�
 ---
 
 ### Passo 6: Sirva imediatamente
-O smoothie bowl deve ser consumido imediatamente após a montagem.
+O **smoothie bowl** deve ser consumido **imediatamente** após a montagem. Em **5 a 10 minutos** começa a derreter e perder a textura ideal.
 
-Em 5 a 10 minutos começa a derreter e perder a textura ideal. Não funciona como refeição para preparar com antecedência. É uma experiência de café da manhã que valoriza o momento e a qualidade dos ingredientes frescos.
+Não funciona como refeição para preparar com antecedência. É uma experiência de **café da manhã** que valoriza o momento e a **qualidade dos ingredientes frescos**.
 
 > 💡 **Dica:** Coma o bowl sem misturar, pegue cada garfada com um pouco de açaí base e um pouco de cada topping para ter sempre a experiência completa de sabores e texturas.
 

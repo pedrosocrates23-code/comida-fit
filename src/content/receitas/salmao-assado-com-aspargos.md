@@ -43,9 +43,9 @@ featured: true
 ## Passo a Passo Detalhado
 
 ### Passo 1: Pré-aqueça o forno e prepare a assadeira
-Ligue o forno a 200°C com pelo menos 15 minutos de antecedência.
+Ligue o **forno** a **200°C** com pelo menos **15 minutos** de antecedência. Forno totalmente aquecido é fundamental para que o salmão comece a assar imediatamente ao entrar, evitando o cozimento lento que resseca o peixe.
 
-Forno totalmente aquecido é fundamental para que o salmão comece a assar imediatamente ao entrar, evitando o cozimento lento que resseca o peixe. Forre a assadeira com papel-manteiga, que além de facilitar a limpeza, evita que o salmão grude e preserve os sucos naturais do peixe durante o assamento.
+Forre a assadeira com **papel-manteiga**, que além de facilitar a limpeza, evita que o salmão grude e preserva os **sucos naturais** do peixe durante o assamento.
 
 > 💡 **Dica:** Se o seu forno tiver convecção (ventilador interno), reduza a temperatura para 185°C, o ar circulante distribui o calor mais eficientemente e pode ressecar o salmão se a temperatura for muito alta.
 
@@ -54,9 +54,9 @@ Forno totalmente aquecido é fundamental para que o salmão comece a assar imedi
 ---
 
 ### Passo 2: Disponha os aspargos e tempere-os na assadeira
-Prepare os aspargos quebrando a extremidade lenhosa.
+Prepare os **aspargos** quebrando a **extremidade lenhosa**. Segure um aspargo com as duas mãos e dobre: ele vai quebrar naturalmente no ponto exato onde a parte tenra começa, eliminando a textura fibrosa indesejável.
 
-Segure um aspargo com as duas mãos e dobre: ele vai quebrar naturalmente no ponto exato onde a parte tenra começa. Esse truque elimina a textura fibrosa indesejável. Disponha os aspargos em uma única camada na assadeira, regue com metade do azeite e tempere com sal e pimenta. Eles ficarão como "cama" para o salmão, absorvendo os sucos que escorrem durante o assamento.
+Disponha os aspargos em uma **única camada** na assadeira, regue com metade do **azeite** e tempere com sal e pimenta. Eles ficarão como "cama" para o salmão, absorvendo os sucos que escorrem durante o assamento.
 
 > 💡 **Dica:** Se os aspargos forem muito grossos (mais de 1 cm de diâmetro), asse-os por 5 minutos sozinhos antes de colocar o salmão. Aspargos grossos precisam de mais tempo para ficarem al dente.
 
@@ -65,9 +65,9 @@ Segure um aspargo com as duas mãos e dobre: ele vai quebrar naturalmente no pon
 ---
 
 ### Passo 3: Posicione os filés de salmão sobre os aspargos
-Coloque os filés de salmão com a pele para baixo diretamente sobre os aspargos na assadeira. A pele vai proteger a carne delicada durante o assamento, funcionando como uma barreira natural entre a fonte de calor e a proteína. Ao posicionar sobre os aspargos, o salmão assa ligeiramente elevado, permitindo que o calor circule por baixo e a gordura do salmão escorra naturalmente sobre os vegetais.
+Coloque os **filés de salmão** com a **pele para baixo** diretamente sobre os aspargos na assadeira. A pele vai proteger a carne delicada durante o assamento, funcionando como uma barreira natural entre a fonte de calor e a proteína.
 
-Um auto-tempero natural.
+Ao posicionar sobre os aspargos, o salmão assa ligeiramente elevado, permitindo que o calor circule por baixo e a **gordura do salmão** escorra naturalmente sobre os vegetais, criando um auto-tempero natural.
 
 > 💡 **Dica:** Se os filés tiverem tamanhos diferentes, coloque o maior mais ao fundo do forno (onde geralmente o calor é mais intenso) para um cozimento mais uniforme.
 
@@ -76,9 +76,9 @@ Um auto-tempero natural.
 ---
 
 ### Passo 4: Prepare e aplique o tempero de limão siciliano com ervas
-Em uma tigela pequena, misture o restante do azeite com o suco do limão siciliano, as raspas da casca (apenas a parte amarela.
+Em uma tigela pequena, misture o restante do **azeite** com o suco do **limão siciliano**, as **raspas da casca** (apenas a parte amarela, pois a parte branca é amarga), o **alho laminado** e o **endro**. Espalhe essa mistura uniformemente sobre toda a superfície dos filés.
 
-A parte branca é amarga), o alho laminado e o endro. Espalhe essa mistura uniformemente sobre toda a superfície dos filés. O limão siciliano tem sabor mais floral e menos ácido que o limão taiti comum, resultando em um tempero mais elegante e sofisticado. As raspas da casca são o elemento mais aromático, não omita.
+O **limão siciliano** tem sabor mais floral e menos ácido que o limão taiti comum, resultando em um tempero mais elegante e sofisticado. As **raspas da casca** são o elemento mais aromático, não omita.
 
 > 💡 **Dica:** Deixe o salmão temperado descansar por 5 minutos antes de ir ao forno. Isso permite que o limão e o endro comecem a aromatizar a superfície da carne.
 
@@ -87,9 +87,9 @@ A parte branca é amarga), o alho laminado e o endro. Espalhe essa mistura unifo
 ---
 
 ### Passo 5: Asse por 15 a 18 minutos no ponto ideal
-Insira a assadeira no centro do forno pré-aquecido a 200°C. Asse por 15 a 18 minutos, dependendo da espessura dos filés. O salmão está perfeitamente assado quando: a superfície está opaca e levemente dourada nas bordas, e o centro ainda apresenta um tom levemente rosado e translúcido quando você aperta gentilmente com um garfo. Se preferir bem passado, asse por 20 minutos.
+Insira a assadeira no centro do forno pré-aquecido a **200°C**. Asse por **15 a 18 minutos**, dependendo da espessura dos filés. O salmão está perfeitamente assado quando a superfície está **opaca** e levemente dourada nas bordas, e o centro ainda apresenta um tom **levemente rosado** e translúcido ao apertar gentilmente com um garfo.
 
-Mas saiba que o ponto médio (levemente rosado no centro) é considerado o ideal tanto em termos de sabor quanto de nutrição.
+Se preferir bem passado, asse por **20 minutos**, mas saiba que o **ponto médio** (levemente rosado no centro) é considerado o ideal tanto em termos de sabor quanto de **nutrição**.
 
 > 💡 **Dica:** Para verificar o ponto sem termômetro, pressione o centro do filé com o dedo. Ponto cru: muito mole e cede completamente. Ponto ideal: cede mas resiste levemente. Passado demais: firme e sem elasticidade.
 
@@ -98,9 +98,9 @@ Mas saiba que o ponto médio (levemente rosado no centro) é considerado o ideal
 ---
 
 ### Passo 6: Finalize com alcaparras e sirva imediatamente
-Retire do forno e distribua as alcaparras sobre o salmão. As alcaparras adicionam um toque salgado-ácido que equilibra a riqueza do salmão e a doçura do limão siciliano.
+Retire do forno e distribua as **alcaparras** sobre o salmão. As alcaparras adicionam um toque **salgado-ácido** que equilibra a riqueza do salmão e a doçura do limão siciliano, sendo o toque final que eleva este prato de simples a sofisticado.
 
-São o toque final que eleva este prato de simples a sofisticado. Sirva imediatamente: peixe esfria rapidamente e a textura muda drasticamente após 5-10 minutos fora do forno.
+Sirva **imediatamente**: peixe esfria rapidamente e a textura muda drasticamente após **5 a 10 minutos** fora do forno.
 
 > 💡 **Dica:** Se não tiver alcaparras, um fio de azeite extra virgem de alta qualidade e algumas folhas de endro fresco fazem uma finalização igualmente elegante.
 

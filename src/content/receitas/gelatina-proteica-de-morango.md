@@ -39,9 +39,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Dissolver a gelatina corretamente
-Despeje a gelatina em pó na água quente (não fervente.
+Despeje a **gelatina em pó** na **água quente** (não fervente, em torno de **80°C**) e misture vigorosamente com uma colher por **2 minutos completos**. Nenhum grânulo deve permanecer visível.
 
-Em torno de 80°C) e misture vigorosamente com uma colher por 2 minutos completos. Nenhum grânulo deve permanecer visível. A dissolução completa é fundamental: grumos de gelatina não dissolvida criam pontos com textura borrachenta e distribuição irregular na sobremesa final. Se necessário, aqueça brevemente em micro-ondas por 10 segundos e mexa novamente.
+A **dissolução completa** é fundamental: grumos de gelatina não dissolvida criam pontos com textura borrachenta e distribuição irregular na sobremesa final. Se necessário, aqueça brevemente em **micro-ondas por 10 segundos** e mexa novamente.
 
 > 💡 **Dica:** Adicione a gelatina à água (não o contrário) despejando em fio enquanto mexe. Essa técnica evita a formação de grumos e garante dissolução mais uniforme.
 
@@ -50,9 +50,9 @@ Em torno de 80°C) e misture vigorosamente com uma colher por 2 minutos completo
 ---
 
 ### Passo 2: Adicionar água fria e deixar esfriar
-Adicione os 150ml de água fria à gelatina dissolvida e misture bem. Neste momento, a mistura ainda está bastante líquida e quente. Deixe esfriar em temperatura ambiente até atingir temperatura morna.
+Adicione os **150ml de água fria** à gelatina dissolvida e misture bem. Neste momento, a mistura ainda está bastante líquida e quente. Deixe esfriar em **temperatura ambiente** até atingir temperatura morna, aproximadamente **30 a 35°C**.
 
-Aproximadamente 30 a 35°C. Esse resfriamento parcial é essencial antes de adicionar o whey e o iogurte: se a mistura estiver quente, vai desnaturar as proteínas do whey de forma irregular e cozinhar parcialmente o iogurte, resultando em textura granulosa e aspecto pouco apetitoso.
+Esse **resfriamento parcial** é essencial antes de adicionar o **whey** e o **iogurte**: se a mistura estiver quente, vai **desnaturar as proteínas** do whey de forma irregular e cozinhar parcialmente o iogurte, resultando em textura granulosa e aspecto pouco apetitoso.
 
 > 💡 **Dica:** Acelere o resfriamento colocando o bowl em uma tigela maior com gelo. Mexa ocasionalmente, em 5 a 7 minutos a gelatina estará na temperatura ideal para receber o whey.
 
@@ -61,9 +61,9 @@ Aproximadamente 30 a 35°C. Esse resfriamento parcial é essencial antes de adic
 ---
 
 ### Passo 3: Incorporar o whey protein
-Com a gelatina em temperatura morna, adicione o whey protein aos poucos enquanto mistura com um fouet (batedor de arame). Adicione em duas ou três porções para facilitar a dissolução. Bata por 1 a 2 minutos até não haver nenhum grumo visível. O whey de morango reforça o sabor da gelatina; o de baunilha cria uma nota mais suave e cremosa. Ambos funcionam bem.
+Com a gelatina em **temperatura morna**, adicione o **whey protein** aos poucos enquanto mistura com um **fouet (batedor de arame)**. Adicione em **duas ou três porções** para facilitar a dissolução e bata por **1 a 2 minutos** até não haver nenhum grumo visível.
 
-Escolha conforme preferência.
+O whey de **morango** reforça o sabor da gelatina; o de **baunilha** cria uma nota mais suave e cremosa. Ambos funcionam bem, escolha conforme preferência.
 
 > 💡 **Dica:** Dissolva o whey separadamente em 2 a 3 colheres de sopa de água fria antes de adicionar à gelatina. Essa pré-dissolução elimina os grumos antes mesmo de entrar na mistura principal.
 
@@ -72,7 +72,9 @@ Escolha conforme preferência.
 ---
 
 ### Passo 4: Incorporar o iogurte grego
-Adicione o iogurte grego desnatado à mistura de gelatina e whey. Misture com o fouet em movimentos circulares até ficar completamente homogêneo e sem camadas visíveis de iogurte. O resultado deve ser uma mistura levemente opaca (por causa do iogurte) e de cor rosa suave. O iogurte transforma a gelatina de uma sobremesa simples em um mousse mais cremoso, com textura entre gelatina e panna cotta.
+Adicione o **iogurte grego desnatado** à mistura de gelatina e whey. Misture com o **fouet** em movimentos circulares até ficar completamente homogêneo e sem camadas visíveis de iogurte.
+
+O resultado deve ser uma mistura levemente opaca (por causa do iogurte) e de **cor rosa suave**. O **iogurte** transforma a gelatina de uma sobremesa simples em um **mousse mais cremoso**, com textura entre **gelatina e panna cotta**.
 
 > 💡 **Dica:** Para uma versão ainda mais cremosa, use iogurte grego integral em vez de desnatado. As calorias sobem levemente (cerca de 20 calorias por porção), mas a textura final é sensivelmente mais rica e satisfatória.
 
@@ -81,9 +83,9 @@ Adicione o iogurte grego desnatado à mistura de gelatina e whey. Misture com o 
 ---
 
 ### Passo 5: Distribuir nas taças e decorar
-Divida a mistura igualmente entre 4 taças ou potinhos. Adicione morangos frescos fatiados.
+Divida a mistura igualmente entre **4 taças ou potinhos**. Adicione os **morangos frescos fatiados**: parte pode ser afundada na mistura ainda líquida (vão ficar "flutuando" na gelatina quando firmar) e parte reservada para **decoração** na hora de servir.
 
-Parte pode ser afundada na mistura ainda líquida (vão ficar "flutuando" na gelatina quando firmar) e parte reservada para decoração na hora de servir. Cubra cada taça com filme plástico e leve à geladeira.
+Cubra cada taça com **filme plástico** e leve à **geladeira**.
 
 > 💡 **Dica:** Coloque primeiros os morangos no fundo da taça, despeje metade da mistura, adicione mais morangos, e cubra com o restante da mistura. Você terá uma apresentação em camadas lindíssima quando servir.
 
@@ -92,7 +94,9 @@ Parte pode ser afundada na mistura ainda líquida (vão ficar "flutuando" na gel
 ---
 
 ### Passo 6: Aguardar o tempo de gelatinização
-Deixe na geladeira por no mínimo 3 horas. Para o melhor resultado, prepare na véspera e deixe overnight. O tempo completo de gelatinização é o que dá ao iogurte e ao whey tempo para se integrar completamente à estrutura da gelatina, resultando em textura uniforme. Gelatina retirada antes do tempo fica líquida no centro.
+Deixe na geladeira por no mínimo **3 horas**. Para o melhor resultado, prepare na véspera e deixe **overnight**.
+
+O **tempo completo de gelatinização** é o que dá ao iogurte e ao whey tempo para se integrar completamente à estrutura da gelatina, resultando em **textura uniforme**. Gelatina retirada antes do tempo fica líquida no centro.
 
 > 💡 **Dica:** Para verificar se está pronto sem abrir, incline levemente a taça, a gelatina deve se mover como um bloco único, não escorrer como líquido. Se ainda escorrer, precisa de mais tempo.
 

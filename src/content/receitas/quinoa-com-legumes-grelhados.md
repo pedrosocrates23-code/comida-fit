@@ -44,7 +44,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Lavar a quinoa para remover a saponina
-Coloque a quinoa em uma peneira de malha fina e lave sob água corrente por 1 a 2 minutos, esfregando os grãos com os dedos. A saponina é um composto natural que reveste os grãos de quinoa e dá um sabor amargo e levemente ensaboado se não for removida. Você saberá que está limpa quando a água escorrer completamente transparente, sem espuma.
+Coloque a **quinoa** em uma **peneira de malha fina** e lave sob água corrente por **1 a 2 minutos**, esfregando os grãos com os dedos.
+
+A **saponina** é um composto natural que reveste os grãos de quinoa e dá um sabor **amargo** e levemente ensaboado se não for removida. Você saberá que está limpa quando a água escorrer completamente transparente, sem espuma.
 
 > 💡 **Dica:** A maioria das quinoas vendidas no Brasil já vem pré-lavada, mas uma lavagem rápida de 30 segundos nunca faz mal e garante que o sabor amargo não apareça. Vale sempre fazer.
 
@@ -53,9 +55,9 @@ Coloque a quinoa em uma peneira de malha fina e lave sob água corrente por 1 a 
 ---
 
 ### Passo 2: Cozinhar a quinoa no ponto certo
-Use a proporção de 2 xícaras de água para cada 1 xícara de quinoa. Adicione uma pitada de sal, leve à fervura em fogo alto e depois reduza imediatamente para fogo baixo. Cozinhe tampado por exatamente 15 minutos sem abrir. O sinal de que a quinoa está cozida é quando aparecem os "rabinhos" brancos em espiral nos grãos.
+Use a proporção de **2 xícaras de água** para cada **1 xícara de quinoa**. Adicione uma pitada de **sal**, leve à **fervura** em fogo alto e depois reduza imediatamente para **fogo baixo**. Cozinhe **tampado** por exatamente **15 minutos** sem abrir.
 
-São os germes da quinoa se separando, e isso indica que o grão absorveu água suficiente.
+O sinal de que a quinoa está cozida é quando aparecem os **"rabinhos" brancos em espiral** nos grãos. São os **germes da quinoa** se separando, e isso indica que o grão **absorveu água** suficiente.
 
 > 💡 **Dica:** Para quinoa mais saborosa, substitua metade da água por caldo de legumes caseiro ou low sodium. O resultado é um sabor muito mais profundo sem adicionar calorias significativas.
 
@@ -64,9 +66,9 @@ São os germes da quinoa se separando, e isso indica que o grão absorveu água 
 ---
 
 ### Passo 3: Deixar a quinoa descansar tampada
-Após os 15 minutos de cozimento, desligue o fogo e mantenha a panela tampada por mais 5 minutos. Esse descanso é tão importante quanto o próprio cozimento.
+Após os **15 minutos** de cozimento, desligue o fogo e mantenha a panela **tampada** por mais **5 minutos**. Esse **descanso** é tão importante quanto o próprio cozimento.
 
-Ele permite que o vapor residual termine de hidrarar os grãos de forma uniforme e que a textura se estabilize. Sem esse passo, a quinoa fica com textura irregular: grãos moles embaixo e mais firmes em cima.
+Ele permite que o **vapor residual** termine de hidratar os grãos de forma uniforme e que a textura se estabilize. Sem esse passo, a quinoa fica com **textura irregular**: grãos moles embaixo e mais firmes em cima.
 
 > 💡 **Dica:** Se a panela não tiver tampa, cubra a boca com um pano de prato dobrado antes de colocar a tampa ou use papel alumínio moldado, o tecido absorve o excesso de condensação e evita que a água pingue de volta nos grãos.
 
@@ -75,7 +77,9 @@ Ele permite que o vapor residual termine de hidrarar os grãos de forma uniforme
 ---
 
 ### Passo 4: Temperar e preparar os legumes para a grelha
-Corte os legumes em tamanhos semelhantes para garantir que assem uniformemente: pimentão em tiras de 2 cm, abobrinha em rodelas de 1,5 cm, berinjela em fatias de 1 cm e cebola roxa em gomos de 4 partes. Misture tudo em um bowl com azeite, sal, pimenta, orégano e tomilho. O azeite cria uma camada protetora ao redor de cada pedaço que acelera a caramelização e evita que os legumes grudem na grelha.
+Corte os legumes em tamanhos semelhantes para garantir que **assem uniformemente**: pimentão em tiras de **2 cm**, abobrinha em rodelas de **1,5 cm**, berinjela em fatias de **1 cm** e cebola roxa em gomos de 4 partes.
+
+Misture tudo em um bowl com **azeite**, **sal**, **pimenta**, **orégano** e **tomilho**. O azeite cria uma **camada protetora** ao redor de cada pedaço que acelera a **caramelização** e evita que os legumes **grudem na grelha**.
 
 > 💡 **Dica:** Tempere os legumes pelo menos 10 minutos antes de grelhar. O sal vai extrair um pouco de umidade da superfície, o que permite uma caramelização muito mais rápida e intensa quando o legume tocar a grelha quente.
 
@@ -84,9 +88,9 @@ Corte os legumes em tamanhos semelhantes para garantir que assem uniformemente: 
 ---
 
 ### Passo 5: Grelhar os legumes com marcas perfeitas
-Aqueça bem a grelha ou frigideira de ferro em fogo alto por 3 a 4 minutos. Coloque os legumes sem sobrepor.
+Aqueça bem a **grelha** ou **frigideira de ferro** em **fogo alto** por **3 a 4 minutos**. Coloque os legumes sem sobrepor, em **camada única**, e não mexa por **3 a 4 minutos** completos.
 
-Em camada única, e não mexa por 3 a 4 minutos completos. A paciência aqui é essencial: as marcas de grelha bonitas e o sabor caramelizado só se formam quando o legume tem contato direto e ininterrupto com a superfície quente. Vire uma única vez e grelhe por mais 3 a 4 minutos do outro lado.
+A paciência aqui é essencial: as **marcas de grelha** e o sabor **caramelizado** só se formam quando o legume tem **contato direto e ininterrupto** com a superfície quente. Vire uma única vez e grelhe por mais **3 a 4 minutos** do outro lado.
 
 > 💡 **Dica:** Grelhe os legumes em lotes, sem lotarr a grelha. Legumes demais de uma vez baixam a temperatura da superfície, e em vez de grelhar, os legumes ficam na própria vapor e cozinham sem caramelizar.
 
@@ -95,9 +99,9 @@ Em camada única, e não mexa por 3 a 4 minutos completos. A paciência aqui é 
 ---
 
 ### Passo 6: Soltar a quinoa e montar o bowl
-Use um garfo para soltar delicadamente os grãos de quinoa cozidos, quebrando eventuais grumos com movimentos suaves de cima para baixo. Regue com o restante do azeite e o suco de limão e misture. O ácido do limão não apenas adiciona sabor.
+Use um **garfo** para soltar delicadamente os grãos de **quinoa** cozidos, quebrando eventuais grumos com movimentos suaves de cima para baixo. Regue com o restante do **azeite** e o **suco de limão** e misture.
 
-Ele realça as cores vibrantes da quinoa e dos legumes. Monte servindo a quinoa como base no bowl e disponha os legumes grelhados por cima de forma organizada por cor.
+O **ácido do limão** não apenas adiciona sabor. Ele realça as **cores vibrantes** da quinoa e dos legumes. Monte servindo a quinoa como **base no bowl** e disponha os **legumes grelhados** por cima de forma organizada por cor.
 
 > 💡 **Dica:** Uma colher de tahine diluída em água e limão como molho final transforma completamente este prato, adiciona creaminess, proteínas extras e um sabor mediterrâneo irresistível, com menos de 50 calorias.
 

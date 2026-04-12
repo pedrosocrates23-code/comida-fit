@@ -41,9 +41,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Escorrer e preparar o atum corretamente
-Abra a lata de atum e incline-a com a tampa semi-aberta sobre a pia por 2 a 3 minutos para drenar toda a água. Quanto mais completo o escorrimento, mais firme e saboroso fica o recheio.
+Abra a lata de **atum** e incline-a com a tampa semi-aberta sobre a pia por **2 a 3 minutos** para drenar toda a água. Quanto mais completo o **escorrimento**, mais firme e saboroso fica o recheio.
 
-Atum mal escorrido deixa o pão encharcado e o recheio aguado. Transfira para um bowl médio e desfie com um garfo em lascas médias, mantendo alguma textura em vez de transformar em pasta.
+Atum mal escorrido deixa o **pão encharcado** e o recheio aguado. Transfira para um bowl médio e desfie com um **garfo** em lascas médias, mantendo alguma textura em vez de transformar em pasta.
 
 > 💡 **Dica:** Para espremer o máximo de líquido, pressione a tampa da lata sobre o atum e incline sobre a pia com pressão firme por 30 segundos. Esse detalhe faz toda a diferença na textura final do recheio.
 
@@ -52,9 +52,9 @@ Atum mal escorrido deixa o pão encharcado e o recheio aguado. Transfira para um
 ---
 
 ### Passo 2: Preparar o recheio cremoso com ricota e mostarda
-No mesmo bowl do atum, adicione a ricota cremosa e a mostarda Dijon. Misture com um garfo até integrar completamente. A ricota cumpre dois papéis: adiciona proteína extra (aproximadamente 7g de proteína por 2 colheres de sopa) e cria uma textura cremosa que une o recheio, substituindo a maionese com um perfil nutricional muito superior. A mostarda Dijon adiciona acidez e picância leve sem calorias significativas. Tempere com sal, pimenta e um fio de suco de limão.
+No mesmo bowl do atum, adicione a **ricota cremosa** e a **mostarda Dijon**. Misture com um garfo até integrar completamente. A ricota cumpre dois papéis: adiciona **proteína extra** (aproximadamente **7g de proteína** por 2 colheres de sopa) e cria uma textura cremosa que une o recheio, substituindo a maionese com um perfil nutricional muito superior.
 
-O limão equilibra a gordura da ricota e destaca o sabor do atum.
+A **mostarda Dijon** adiciona acidez e picância leve sem calorias significativas. Tempere com **sal**, **pimenta** e um fio de **suco de limão**, pois o limão equilibra a gordura da ricota e destaca o sabor do atum.
 
 > 💡 **Dica:** Adicione uma pitada de páprica defumada ao recheio para um toque defumado sutil que transforma completamente o perfil de sabor do sanduíche, tornando-o mais interessante sem alterar os macros.
 
@@ -63,9 +63,9 @@ O limão equilibra a gordura da ricota e destaca o sabor do atum.
 ---
 
 ### Passo 3: Torrar o pão integral no ponto certo
-Torre as fatias de pão integral em torradeira ou frigideira seca em fogo médio por 1 a 2 minutos de cada lado. O ponto ideal é quando o pão está dourado e crocante na superfície mas ainda ligeiramente macio por dentro.
+Torre as fatias de **pão integral** em torradeira ou frigideira seca em **fogo médio** por **1 a 2 minutos** de cada lado. O ponto ideal é quando o pão está **dourado e crocante** na superfície mas ainda ligeiramente macio por dentro, não completamente seco como uma torrada de café da manhã.
 
-Não completamente seco como uma torrada de café da manhã. A tostagem serve a um propósito prático: cria uma barreira que impede a umidade do recheio de encharcar o pão, mantendo a estrutura intacta por mais tempo.
+A **tostagem** serve a um propósito prático: cria uma barreira que impede a umidade do recheio de encharcar o pão, mantendo a estrutura intacta por mais tempo.
 
 > 💡 **Dica:** Esfregue um dente de alho cortado na superfície do pão quente logo após torrar, o calor extrai os óleos do alho e adiciona uma camada de sabor sutil sem necessidade de manteiga ou azeite.
 
@@ -74,7 +74,9 @@ Não completamente seco como uma torrada de café da manhã. A tostagem serve a 
 ---
 
 ### Passo 4: Montar o sanduíche na ordem correta
-A ordem de montagem importa para a estrutura e a experiência. Na fatia inferior: camada de folhas de alface (formam barreira protetora entre o pão e o recheio úmido). Sobre a alface: o recheio de atum com ricota, espalhado uniformemente até as bordas. Sobre o recheio: fatias de tomate. Feche com a segunda fatia de pão. Essa sequência mantém o pão crocante por mais tempo, pois a alface isola a umidade do recheio.
+A **ordem de montagem** importa para a estrutura e a experiência. Na fatia inferior: camada de folhas de **alface** (formam barreira protetora entre o pão e o recheio úmido). Sobre a alface: o **recheio de atum com ricota**, espalhado uniformemente até as bordas.
+
+Sobre o recheio: fatias de **tomate**. Feche com a segunda fatia de pão. Essa sequência mantém o pão **crocante** por mais tempo, pois a alface isola a umidade do recheio.
 
 > 💡 **Dica:** Seque as folhas de alface com papel toalha antes de usar, alface molhada acelera o amolecimento do pão. Para mais textura e nutrientes, use rúcula ou mix de folhas no lugar da alface comum.
 
@@ -83,9 +85,9 @@ A ordem de montagem importa para a estrutura e a experiência. Na fatia inferior
 ---
 
 ### Passo 5: Cortar e consumir no momento certo
-Corte o sanduíche ao meio na diagonal.
+Corte o sanduíche **ao meio na diagonal**. Além da apresentação mais agradável, o corte diagonal cria uma superfície de mordida maior que facilita comer sem que o recheio escape.
 
-Além da apresentação mais agradável, o corte diagonal cria uma superfície de mordida maior que facilita comer sem que o recheio escape. Consuma em até 1 hora após o treino: esse é o período mais importante para a janela anabólica, quando os músculos estão mais receptivos à absorção de aminoácidos e glicose para iniciar a recuperação e a síntese proteica.
+Consuma em até **1 hora após o treino**: esse é o período mais importante para a **janela anabólica**, quando os músculos estão mais receptivos à absorção de **aminoácidos** e **glicose** para iniciar a recuperação e a **síntese proteica**.
 
 > 💡 **Dica:** Se precisar levar o sanduíche para consumir depois do treino, leve o recheio e os componentes separados em potes e monte na hora de comer. Isso garante pão crocante e vegetais frescos mesmo depois de horas na bolsa.
 

@@ -41,9 +41,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Preparar o forno e a assadeira
-Pré-aqueça o forno a 180°C por pelo menos 10 minutos antes de assar. Forre uma assadeira com papel-manteiga.
+Pré-aqueça o forno a **180°C** por pelo menos **10 minutos** antes de assar. Forre uma assadeira com **papel-manteiga** sem precisar untar.
 
-Não precisa untar. O papel é suficiente para evitar que os biscoitos grudem, pois a banana libera seus açúcares naturais durante o cozimento e pode caramelizar levemente na base. Prepare tudo antes de começar a massa, porque ela vai ficar pronta em menos de 5 minutos.
+O papel é suficiente para evitar que os biscoitos grudem, pois a **banana** libera seus **açúcares naturais** durante o cozimento e pode **caramelizar levemente** na base. Prepare tudo antes de começar a massa, porque ela fica pronta em menos de 5 minutos.
 
 > 💡 **Dica:** Se não tiver papel-manteiga, unte a assadeira com uma fina camada de azeite e polvilhe aveia por cima. Funciona bem e dá uma crocância extra na base.
 
@@ -52,9 +52,9 @@ Não precisa untar. O papel é suficiente para evitar que os biscoitos grudem, p
 ---
 
 ### Passo 2: Amassar as bananas
-Use bananas bem maduras.
+Use **bananas bem maduras**, com a casca bastante amarela e com manchas escuras. Quanto mais madura a banana, mais doce ela é naturalmente, com **menos amido e mais açúcar simples**, o que significa que você pode dispensar o mel opcional.
 
-Com a casca bastante amarela e com manchas escuras. Quanto mais madura a banana, mais doce ela é naturalmente, menos amido e mais açúcar simples, o que significa que você não vai precisar do mel opcional. Amasse com um garfo em um bowl fundo, fazendo movimentos circulares até obter um purê bastante homogêneo. Alguns pequenos grumos são aceitáveis, mas pedaços grandes resultam em biscoitos com textura irregular.
+Amasse com um **garfo** em um bowl fundo, fazendo movimentos circulares até obter um **purê homogêneo**. Alguns pequenos grumos são aceitáveis, mas pedaços grandes resultam em biscoitos com textura irregular.
 
 > 💡 **Dica:** Bata as bananas com um mixer de mão por 30 segundos para um purê completamente liso, isso melhora a textura final e distribui o sabor de forma mais uniforme.
 
@@ -63,9 +63,9 @@ Com a casca bastante amarela e com manchas escuras. Quanto mais madura a banana,
 ---
 
 ### Passo 3: Misturar os ingredientes
-Adicione a xícara de aveia ao purê de banana e misture bem com uma colher ou espátula. Em seguida, acrescente a canela em pó e o mel, se optar por usar. A massa deve ficar firme o suficiente para manter a forma quando colocada na colher, mas ainda úmida. Se parecer muito líquida, adicione mais 2 colheres de sopa de aveia e espere 2 minutos.
+Adicione a **xícara de aveia** ao purê de banana e misture bem com uma colher ou espátula. Em seguida, acrescente a **canela em pó** e o mel, se optar por usar.
 
-A aveia absorve a umidade rapidamente.
+A massa deve ficar **firme o suficiente** para manter a forma quando colocada na colher, mas ainda úmida. Se parecer muito líquida, adicione mais **2 colheres de sopa de aveia** e espere 2 minutos; a aveia absorve a umidade rapidamente.
 
 > 💡 **Dica:** Deixe a massa descansar por 3 a 5 minutos após misturar. A aveia absorve parte da umidade da banana e a massa fica mais fácil de modelar.
 
@@ -74,7 +74,9 @@ A aveia absorve a umidade rapidamente.
 ---
 
 ### Passo 4: Adicionar os ingredientes opcionais
-Se optar por uvas-passas ou gotinhas de chocolate 70%, incorpore-as delicadamente à massa com uma colher. As gotinhas de chocolate amargo 70% são a melhor escolha: além de adicionar sabor, elas trazem flavonoides antioxidantes e o amargor equilibra bem a doçura natural da banana. Distribua os ingredientes de forma uniforme para que cada biscoito tenha um pouco de tudo.
+Se optar por **uvas-passas** ou **gotinhas de chocolate 70%**, incorpore-as delicadamente à massa com uma colher. As gotinhas de **chocolate amargo 70%** são a melhor escolha: trazem **flavonoides antioxidantes** e o amargor equilibra bem a doçura natural da banana.
+
+Distribua os ingredientes de forma **uniforme** para que cada biscoito tenha um pouco de tudo.
 
 > 💡 **Dica:** Nibs de cacau são uma alternativa ainda mais nutritiva às gotinhas de chocolate, têm menos açúcar, mais fibra e uma crocância que contrasta bem com a textura macia do biscoito.
 
@@ -83,9 +85,9 @@ Se optar por uvas-passas ou gotinhas de chocolate 70%, incorpore-as delicadament
 ---
 
 ### Passo 5: Modelar e assar
-Pegue colheradas generosas de massa (aproximadamente 1,5 colher de sopa por biscoito) e distribua na assadeira, deixando 3 cm de espaço entre eles. Com as costas de uma colher umedecida, pressione levemente para formar discos de aproximadamente 1 cm de espessura. Não tente deixar a borda perfeita.
+Pegue **colheradas generosas de massa** (aproximadamente 1,5 colher de sopa por biscoito) e distribua na assadeira, deixando **3 cm de espaço** entre eles. Com as costas de uma **colher umedecida**, pressione levemente para formar **discos de aproximadamente 1 cm** de espessura.
 
-As imperfeições fazem parte do charme artesanal. Leve ao forno por 12 a 15 minutos.
+Não tente deixar a borda perfeita: as imperfeições fazem parte do charme artesanal. Leve ao forno por **12 a 15 minutos**.
 
 > 💡 **Dica:** Para biscoitos mais crocantes, achatе mais fino (0,7 cm). Para mais macios por dentro, deixe na espessura de 1,5 cm.
 
@@ -94,9 +96,9 @@ As imperfeições fazem parte do charme artesanal. Leve ao forno por 12 a 15 min
 ---
 
 ### Passo 6: Resfriamento antes de servir
-Retire do forno quando as bordas estiverem visivelmente douradas.
+Retire do forno quando as **bordas estiverem visivelmente douradas**. O centro pode ainda parecer levemente úmido, mas vai firmar enquanto esfria.
 
-O centro pode ainda parecer levemente úmido, mas vai firmar enquanto esfria. Deixe na própria assadeira por 5 a 8 minutos antes de transferir para uma grade. O biscoito recém-saído do forno é frágil; após o resfriamento, ganha firmeza e a textura característica fica evidente.
+Deixe na **própria assadeira por 5 a 8 minutos** antes de transferir para uma grade. O biscoito recém-saído do forno é frágil; após o **resfriamento completo**, ganha firmeza e a textura característica fica evidente.
 
 > 💡 **Dica:** Se quiser biscoitos mais crocantes ainda, após os 15 minutos de forno, apague o forno e deixe os biscoitos dentro por mais 5 minutos com a porta entreaberta.
 

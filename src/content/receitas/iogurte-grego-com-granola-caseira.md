@@ -41,9 +41,9 @@ featured: true
 ## Passo a Passo Detalhado
 
 ### Passo 1: Prepare a mistura da granola
-Em uma tigela média, combine a aveia em flocos com 1 colher de mel, o azeite de coco (pode derreter ligeiramente se estiver sólido), as castanhas-do-pará picadas grosseiramente e as sementes de girassol. Misture bem com uma colher até que todos os ingredientes estejam cobertos pelo mel e pelo azeite.
+Em uma tigela média, combine a **aveia em flocos** com **1 colher de mel**, o **azeite de coco** (pode derreter ligeiramente se estiver sólido), as **castanhas-do-pará** picadas grosseiramente e as **sementes de girassol**.
 
-Isso é o que vai fazer a granola aglomerar em pequenos grumos crocantes durante o forno, em vez de ficar em flocos soltos.
+Misture bem com uma colher até que todos os ingredientes estejam cobertos pelo **mel** e pelo **azeite**. Isso é o que vai fazer a granola aglomerar em **pequenos grumos crocantes** durante o forno, em vez de ficar em flocos soltos.
 
 > 💡 **Dica:** Pique as castanhas em pedaços irregulares (não muito finos) para ter texturas variadas na granola, alguns pedaços crocantes maiores tornam a experiência muito mais gostosa.
 
@@ -52,7 +52,9 @@ Isso é o que vai fazer a granola aglomerar em pequenos grumos crocantes durante
 ---
 
 ### Passo 2: Toste a granola no forno
-Espalhe a mistura de forma uniforme em uma assadeira forrada com papel manteiga, formando uma camada fina. Leve ao forno preaquecido a 180°C por 10 minutos, mas preste atenção: na metade do tempo (5 minutos), abra o forno e misture com uma espátula para garantir que a granola toste de forma homogênea, já que as bordas da assadeira ficam mais quentes e douraram primeiro. Quando estiver pronta, a granola terá uma cor caramelo dourado e um aroma de nozes tostadas inconfundível.
+Espalhe a mistura de forma uniforme em uma **assadeira forrada com papel manteiga**, formando uma **camada fina**. Leve ao **forno preaquecido a 180°C por 10 minutos**, mas preste atenção: na metade do tempo (**5 minutos**), abra o forno e misture com uma espátula para garantir que a granola toste de forma homogênea, já que as bordas da assadeira ficam mais quentes e douraram primeiro.
+
+Quando estiver pronta, a granola terá uma **cor caramelo dourado** e um **aroma de nozes tostadas** inconfundível.
 
 > 💡 **Dica:** Cada forno é diferente, observe a cor e não o tempo. Se o seu forno for mais forte, talvez 8 minutos já sejam suficientes para evitar queimar.
 
@@ -61,9 +63,9 @@ Espalhe a mistura de forma uniforme em uma assadeira forrada com papel manteiga,
 ---
 
 ### Passo 3: Deixe esfriar completamente
-Retire a assadeira do forno e deixe a granola esfriar em temperatura ambiente por pelo menos 10 a 15 minutos, sem mexer muito. Durante esse resfriamento, o açúcar do mel cristaliza e a granola desenvolve aquela crocância característica que é tão satisfatória. Se guardar quente em pote fechado, o vapor condensa e amolece tudo.
+Retire a assadeira do forno e deixe a granola esfriar em **temperatura ambiente** por pelo menos **10 a 15 minutos**, sem mexer muito. Durante esse resfriamento, o **açúcar do mel cristaliza** e a granola desenvolve aquela **crocância característica** que é tão satisfatória.
 
-Perdendo todo o trabalho.
+Se guardar quente em pote fechado, o vapor condensa e amolece tudo, perdendo todo o trabalho.
 
 > 💡 **Dica:** Faça uma quantidade maior de granola (triplique a receita) e guarde em pote de vidro hermético. Dura até 2 semanas e deixa o café da manhã muito mais rápido nos dias seguintes.
 
@@ -72,9 +74,9 @@ Perdendo todo o trabalho.
 ---
 
 ### Passo 4: Monte o bowl com o iogurte grego
-Divida o iogurte grego entre duas tigelas ou bowls fundos. Use uma colher para alisar levemente a superfície. O iogurte deve estar bem gelado.
+Divida o **iogurte grego** entre duas tigelas ou **bowls fundos**. Use uma colher para alisar levemente a superfície. O iogurte deve estar bem **gelado**, criando o contraste de temperatura ideal com a granola que pode ainda estar levemente morna.
 
-Isso cria o contraste de temperatura ideal com a granola que pode ainda estar levemente morna. Escolha tigelas com bom tamanho para que caiba bem todos os toppings sem transbordar.
+Escolha tigelas com **bom tamanho** para que caibam bem todos os toppings sem transbordar.
 
 > 💡 **Dica:** Se preferir um bowl mais denso e cremoso, use iogurte grego integral e escorra em pano de queijo por 30 minutos para remover o excesso de soro, fica com textura de cream cheese leve.
 
@@ -83,9 +85,9 @@ Isso cria o contraste de temperatura ideal com a granola que pode ainda estar le
 ---
 
 ### Passo 5: Finalize com toppings e sirva
-Por cima do iogurte, distribua a granola caseira, as frutas frescas cortadas (morango, banana em rodelas ou manga em cubinhos) e regue com a segunda colher de mel. Monte de forma atraente.
+Por cima do iogurte, distribua a **granola caseira**, as **frutas frescas** cortadas (morango, banana em rodelas ou manga em cubinhos) e regue com a **segunda colher de mel**.
 
-Não apenas jogue os ingredientes, mas organize-os em seções para criar um visual bonito e apetitoso. Sirva imediatamente para aproveitar o contraste entre o iogurte frio e cremoso e a granola crocante.
+Monte de forma atraente, organizando os ingredientes em seções para criar um visual bonito e apetitoso. Sirva **imediatamente** para aproveitar o contraste entre o **iogurte frio e cremoso** e a **granola crocante**.
 
 > 💡 **Dica:** Adicione um fio de pasta de amendoim natural por cima antes de servir para uma camada extra de gordura boa e sabor mais complexo.
 

@@ -38,9 +38,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Pré-aquecer o forno e selecionar as batatas doces
-Ligue o forno a 200°C com pelo menos 15 minutos de antecedência. Enquanto aquece, selecione batatas doces de tamanho médio e formato uniforme.
+Ligue o forno a **200°C** com pelo menos **15 minutos de antecedência**. Enquanto aquece, selecione **batatas doces de tamanho médio** e formato uniforme, o que garante que ambas assem no mesmo tempo.
 
-Isso garante que ambas assem no mesmo tempo. Evite batatas muito grossas (mais de 7 cm de diâmetro) pois podem levar até 60 minutos; prefira as de espessura entre 5 e 7 cm. Batatas com a pele lisa, sem rachados ou manchas moles, são indicativo de frescor e melhores resultados no forno.
+Evite batatas muito grossas (mais de **7 cm de diâmetro**), pois podem levar até 60 minutos; prefira as de espessura entre **5 e 7 cm**. Batatas com a **pele lisa**, sem rachados ou manchas moles, são indicativo de frescor e melhores resultados no forno.
 
 > 💡 **Dica:** Escolha batatas doces de polpa alaranjada (a variedade mais comum no Brasil). Elas têm maior concentração de betacaroteno e são ligeiramente mais doces que as de polpa branca, resultando em um sabor mais agradável com o mel e a canela.
 
@@ -49,9 +49,9 @@ Isso garante que ambas assem no mesmo tempo. Evite batatas muito grossas (mais d
 ---
 
 ### Passo 2: Lavar e furar as batatas para o vapor escapar
-Lave cada batata sob água corrente esfregando com uma esponja ou escovinha.
+Lave cada batata sob **água corrente** esfregando com uma esponja ou escovinha, pois a **pele vai ser assada junto** e deve estar limpa. Seque com papel toalha.
 
-A pele vai ser assada junto e deve estar limpa. Seque com papel toalha. Use um garfo e fure cada batata em 8 a 10 pontos por toda a superfície, com os furos a uma profundidade de 1 a 2 cm. Os furos criam saídas para que o vapor interno escape durante o assamento, sem eles, a pressão do vapor pode causar rachaduras e até uma pequena explosão da batata dentro do forno.
+Use um garfo e **fure cada batata em 8 a 10 pontos** por toda a superfície, com os furos a uma profundidade de **1 a 2 cm**. Os furos criam saídas para o **vapor interno escapar** durante o assamento; sem eles, a pressão pode causar rachaduras e até uma pequena explosão da batata dentro do forno.
 
 > 💡 **Dica:** Para uma casca ainda mais saborosa e levemente crocante, esfregue um pouco de sal grosso na superfície externa da batata antes de assar. A casca fica com uma textura mais interessante e um sabor levemente defumado que contrasta bem com o mel.
 
@@ -60,7 +60,9 @@ A pele vai ser assada junto e deve estar limpa. Seque com papel toalha. Use um g
 ---
 
 ### Passo 3: Assar diretamente na grelha do forno
-Coloque as batatas diretamente sobre a grelha central do forno (não em assadeira), com papel alumínio na grade inferior para pegar qualquer gotejamento de açúcar caramelizado que possa sujar o forno. Assar na grelha permite que o ar quente circule completamente ao redor de toda a batata, assando uniformemente por todos os lados. Em assadeira, a parte inferior fica em contato direto com o metal e cozinha de forma diferente do restante.
+Coloque as batatas diretamente sobre a **grelha central** do forno (não em assadeira), com **papel alumínio na grade inferior** para pegar qualquer gotejamento de açúcar caramelizado. Assar na grelha permite que o **ar quente circule completamente** ao redor de toda a batata, assando uniformemente por todos os lados.
+
+Em assadeira, a parte inferior fica em contato direto com o metal e cozinha de forma diferente do restante, resultando em **cozimento desigual**.
 
 > 💡 **Dica:** Para verificar sem abrir o forno repetidamente, espete um palito de churrasco ou uma faca fina na parte mais grossa da batata aos 35 minutos, se entrar e sair sem resistência alguma, está pronta.
 
@@ -69,9 +71,9 @@ Coloque as batatas diretamente sobre a grelha central do forno (não em assadeir
 ---
 
 ### Passo 4: Verificar o ponto de cozimento
-Após 35 a 40 minutos, verifique o ponto. A batata doce assada perfeitamente tem: (1) a pele levemente enrugada e com pequenas bolhas de açúcar caramelizado escurecido; (2) cede completamente ao apertar levemente com um pano (proteja a mão!); (3) ao inserir uma faca fina, entra sem nenhuma resistência. Se ainda houver resistência, retorne ao forno por mais 10 minutos. Não há problema em assar por mais tempo.
+Após **35 a 40 minutos**, verifique o ponto. A batata doce assada perfeitamente tem: (1) a pele levemente **enrugada** e com pequenas bolhas de **açúcar caramelizado**; (2) cede completamente ao apertar levemente com um pano; (3) ao inserir uma faca fina, entra **sem nenhuma resistência**.
 
-A batata doce fica ainda mais doce e macia com tempo extra.
+Se ainda houver resistência, retorne ao forno por mais **10 minutos**. Não há problema em assar por mais tempo: a **batata doce** fica ainda mais doce e macia com tempo extra.
 
 > 💡 **Dica:** Quando a batata começa a "transpirar" açúcar pela casca (você vê pequenas gotas viscosas na superfície), é um sinal confiável de que está no ponto, os açúcares internos estão se concentrando e caramelizando, o que indica maturação completa do amido.
 
@@ -80,7 +82,9 @@ A batata doce fica ainda mais doce e macia com tempo extra.
 ---
 
 ### Passo 5: Cortar ao meio e temperar com mel e canela
-Retire as batatas do forno com uma luva (elas estão extremamente quentes). Corte cada uma ao meio no sentido do comprimento com uma faca afiada. A polpa vai aparecer em tom laranja vibrante, fumegante e com textura aveludada. Regue imediatamente com mel (ainda quente, o mel vai fluir para dentro da polpa e se integrar perfeitamente) e polvilhe a canela e a pitada de sal. O sal, mesmo em quantidade mínima, potencializa o sabor do mel e equilibra a doçura.
+Retire as batatas do forno com uma luva e corte cada uma **ao meio no sentido do comprimento** com uma faca afiada. A **polpa laranja vibrante** e aveludada ficará exposta e fumegante.
+
+Regue imediatamente com **mel** enquanto ainda quente (o mel vai fluir para dentro da polpa e se integrar perfeitamente) e polvilhe a **canela** e a pitada de **sal**. O sal, mesmo em quantidade mínima, potencializa o sabor do mel e equilibra a doçura.
 
 > 💡 **Dica:** Use mel de boa qualidade, mel puro de abelha tem compostos antibióticos, antioxidantes e enzimas que mel artificial (xarope de glicose) simplesmente não possui. A diferença de sabor também é marcante: mel puro tem notas florais complexas que o produto artificial nunca alcança.
 
@@ -89,9 +93,9 @@ Retire as batatas do forno com uma luva (elas estão extremamente quentes). Cort
 ---
 
 ### Passo 6: Consumir no timing estratégico para o treino
-Consuma esta batata doce 1 hora antes do início do treino. O tempo maior em relação a outros lanches pré-treino se justifica pelo índice glicêmico mais baixo da batata doce (índice 54).
+Consuma esta **batata doce 1 hora antes** do início do treino. O tempo maior se justifica pelo **índice glicêmico** mais baixo da batata doce (**IG 54**), que torna a digestão e absorção mais graduais.
 
-A digestão e absorção são mais graduais, e a glicose chega na corrente sanguínea de forma mais lenta e sustentada. Começar o treino com os carboidratos já em circulação, mas sem o processo digestivo ainda ativo, é o ideal para máxima performance.
+A **glicose** chega na corrente sanguínea de forma mais lenta e sustentada. Começar o treino com os **carboidratos** já em circulação, mas sem o processo digestivo ainda ativo, é o ideal para **máxima performance**.
 
 > 💡 **Dica:** Se seu treino for antes das 8h da manhã e você não tem 1 hora disponível antes, coma a batata doce imediatamente após acordar e inicie o treino em 30 a 40 minutos, o corpo em jejum absorve carboidratos mais rapidamente, e a janela é suficiente para boa disponibilidade de energia.
 

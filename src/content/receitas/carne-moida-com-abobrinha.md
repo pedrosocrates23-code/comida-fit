@@ -44,7 +44,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Refogue a cebola no azeite até ficar translúcida
-Aqueça o azeite em frigideira grande ou wok em fogo médio. Adicione a cebola picada e refogue mexendo ocasionalmente por cerca de 2 minutos. O sinal de que está pronta: ela muda da cor branca opaca para levemente translúcida e começa a soltar um aroma adocicado. Esse processo libera os açúcares naturais da cebola, criando a base de sabor de todo o prato.
+Aqueça o **azeite** em **frigideira grande ou wok** em **fogo médio**. Adicione a **cebola picada** e refogue mexendo ocasionalmente por cerca de **2 minutos**. O sinal de que está pronta: ela muda da cor branca opaca para levemente translúcida e começa a soltar um aroma adocicado.
+
+Esse processo **libera os açúcares naturais da cebola**, criando a **base de sabor** de todo o prato.
 
 > 💡 **Dica:** Corte a cebola em cubos pequenos e uniformes para que cozinhe por igual. Cebola bem refogada dissolve no prato e distribui sabor de forma harmoniosa, pedaços grandes ficam com textura indesejada.
 
@@ -53,7 +55,9 @@ Aqueça o azeite em frigideira grande ou wok em fogo médio. Adicione a cebola p
 ---
 
 ### Passo 2: Adicione o alho e o cominho para criar a base aromática
-Com a cebola translúcida, adicione o alho picado e o cominho em pó. Refogue por mais 1 minuto em fogo médio, mexendo sempre para evitar que o alho queime. O alho fica pronto quando fica levemente dourado e o aroma intenso se transforma em algo mais suave e adocicado. O cominho aqui é essencial: vai dar ao prato aquele caráter robusto e levemente terroso que diferencia uma carne moída comum de uma refeição realmente saborosa.
+Com a cebola translúcida, adicione o **alho picado** e o **cominho em pó**. Refogue por mais **1 minuto** em **fogo médio**, mexendo sempre para evitar que o alho queime. O alho fica pronto quando fica levemente dourado e o aroma intenso se transforma em algo mais suave e adocicado.
+
+O **cominho** aqui é essencial: vai dar ao prato aquele **caráter robusto e levemente terroso** que diferencia uma carne moída comum de uma refeição realmente saborosa.
 
 > 💡 **Dica:** Amasse levemente o alho com a lateral da faca antes de picar, isso libera os compostos de enxofre que amplificam o sabor e os benefícios para a saúde.
 
@@ -62,7 +66,9 @@ Com a cebola translúcida, adicione o alho picado e o cominho em pó. Refogue po
 ---
 
 ### Passo 3: Cozinhe a carne moída em fogo alto desfazendo os grumos
-Aumente o fogo para alto e adicione a carne moída. Com uma espátula, vá quebrando os grumos e espalhando a carne pela frigideira. Cozinhe por 8 a 10 minutos, mexendo a cada 1-2 minutos. A carne está pronta quando não há mais partes rosadas e começa a aparecer uma leve douração. Fogo alto é fundamental para selar a carne e concentrar o sabor em vez de cozinhá-la no vapor.
+Aumente o fogo para **alto** e adicione a **carne moída**. Com uma espátula, vá quebrando os grumos e espalhando a carne pela frigideira. Cozinhe por **8 a 10 minutos**, mexendo a cada 1-2 minutos.
+
+A carne está pronta quando não há mais partes **rosadas** e começa a aparecer uma **leve douração**. **Fogo alto** é fundamental para selar a carne e concentrar o sabor em vez de cozinhá-la no vapor.
 
 > 💡 **Dica:** Não mexa a carne o tempo todo, deixe-a em contato com a frigideira por 1-2 minutos antes de mexer. Isso cria pequenas crostas douradas que adicionam sabor e textura ao prato.
 
@@ -71,9 +77,9 @@ Aumente o fogo para alto e adicione a carne moída. Com uma espátula, vá quebr
 ---
 
 ### Passo 4: Adicione o tomate e tempere com sal e pimenta
-Após a carne estar bem cozida, adicione o tomate picado, o sal e a pimenta. Misture bem e cozinhe por 3 minutos. O tomate vai soltar seu suco natural, criando um molho leve que vai umedecer a carne. Prove o tempero neste momento.
+Após a carne estar bem cozida, adicione o **tomate picado**, o **sal** e a **pimenta**. Misture bem e cozinhe por **3 minutos**. O tomate vai soltar seu **suco natural**, criando um molho leve que vai umedecer a carne.
 
-É o ponto ideal para ajustar antes de adicionar a abobrinha, que vai absorver os sabores já presentes.
+**Prove o tempero** neste momento: é o ponto ideal para ajustar antes de adicionar a **abobrinha**, que vai absorver os sabores já presentes.
 
 > 💡 **Dica:** Use tomate maduro italiano ou tomate-cereja para melhor resultado. Eles têm mais sabor e menos água do que o tomate salada comum.
 
@@ -82,9 +88,9 @@ Após a carne estar bem cozida, adicione o tomate picado, o sal e a pimenta. Mis
 ---
 
 ### Passo 5: Junte a abobrinha e refogue até ficar al dente
-Adicione os cubos de abobrinha à frigideira e misture tudo. Refogue em fogo médio-alto por 5 a 6 minutos. A abobrinha deve ficar al dente.
+Adicione os **cubos de abobrinha** à frigideira e misture tudo. Refogue em **fogo médio-alto** por **5 a 6 minutos**. A abobrinha deve ficar **al dente**: levemente tenra por fora mas ainda com resistência ao morder.
 
-Levemente tenra por fora mas ainda com resistência ao morder. Ela vai absorver todos os temperos e sucos da carne, ficando extremamente saborosa. Se cozinhar demais, vira uma pasta aguada que prejudica a apresentação e a textura.
+Ela vai absorver todos os **temperos e sucos da carne**, ficando extremamente saborosa. Se cozinhar demais, vira uma **pasta aguada** que prejudica a apresentação e a textura.
 
 > 💡 **Dica:** Corte a abobrinha em cubos de aproximadamente 1,5 cm, tamanho uniforme garante cozimento homogêneo. Cubos grandes ficam crus no centro; pequenos ficam moles demais.
 
@@ -93,7 +99,9 @@ Levemente tenra por fora mas ainda com resistência ao morder. Ela vai absorver 
 ---
 
 ### Passo 6: Finalize com cheiro-verde e sirva quente
-Desligue o fogo e adicione generosa quantidade de salsinha e cebolinha picadas. As ervas frescas adicionadas no final preservam seu aroma intenso e vitaminas (o calor destrói a vitamina C presente nas ervas). Prove o tempero uma última vez e ajuste se necessário. Sirva imediatamente para aproveitar a textura ideal da abobrinha.
+Desligue o fogo e adicione generosa quantidade de **salsinha e cebolinha picadas**. As **ervas frescas** adicionadas no final preservam seu **aroma intenso e vitaminas** (o calor destrói a **vitamina C** presente nas ervas).
+
+**Prove o tempero** uma última vez e ajuste se necessário. Sirva imediatamente para aproveitar a **textura ideal da abobrinha**.
 
 > 💡 **Dica:** Reserve um pouco do cheiro-verde para decorar o prato na hora de servir. A cor verde viva sobre o marrom da carne cria uma apresentação muito mais apetitosa.
 

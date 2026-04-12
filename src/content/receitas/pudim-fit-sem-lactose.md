@@ -39,7 +39,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Preparar a calda de tâmaras
-Retire os caroços das 6 tâmaras (se não estiverem sem caroço) e mergulhe-as em 4 colheres de sopa de água quente por 5 minutos para amolecer. Bata no liquidificador ou processador até obter uma pasta completamente lisa, sem pedaços. A consistência deve ser de mel espesso. Espalhe a calda de tâmaras no fundo da forma de pudim (forma com furo no meio, de aproximadamente 20 cm de diâmetro) com a ajuda de uma colher, cobrindo todo o fundo em camada uniforme.
+Retire os caroços das **6 tâmaras** e mergulhe-as em **4 colheres de sopa de água quente** por **5 minutos** para amolecer. Bata no liquidificador ou processador até obter uma **pasta completamente lisa**, sem pedaços.
+
+A consistência deve ser de **mel espesso**. Espalhe a **calda de tâmaras** no fundo da **forma de pudim** (forma com furo no meio, de aproximadamente 20 cm de diâmetro) com a ajuda de uma colher, cobrindo todo o fundo em **camada uniforme**.
 
 > 💡 **Dica:** Aqueça a forma vazia no forno por 5 minutos antes de adicionar a calda de tâmaras. A forma quente facilita a distribuição da calda e ela adere melhor ao fundo, criando uma "caramelização" natural quando o pudim for desenformado.
 
@@ -48,9 +50,9 @@ Retire os caroços das 6 tâmaras (se não estiverem sem caroço) e mergulhe-as 
 ---
 
 ### Passo 2: Preparar a mistura do pudim
-No liquidificador, coloque os 4 ovos inteiros em temperatura ambiente, o leite de coco light, o mel (ou xilitol) e o extrato de baunilha. Bata por 2 minutos em velocidade média-alta. A mistura deve ficar completamente homogênea e levemente espumosa na superfície. Não bata em velocidade máxima por muito tempo.
+No **liquidificador**, coloque os **4 ovos inteiros** em temperatura ambiente, o **leite de coco light**, o **mel** (ou **xilitol**) e o **extrato de baunilha**. Bata por **2 minutos** em velocidade média-alta.
 
-Excesso de incorporação de ar cria bolhas que resultam em pudim com superfície irregular e textura menos sedosa.
+A mistura deve ficar completamente homogênea e levemente espumosa na superfície. Não bata em velocidade máxima por muito tempo, pois o **excesso de incorporação de ar** cria bolhas que resultam em pudim com **superfície irregular** e textura menos sedosa.
 
 > 💡 **Dica:** Para um pudim com sabor mais rico e textura mais cremosa, use leite de coco integral em vez de light. As calorias sobem para aproximadamente 180 por porção, mas a textura se aproxima mais do pudim tradicional de leite condensado.
 
@@ -59,9 +61,9 @@ Excesso de incorporação de ar cria bolhas que resultam em pudim com superfíci
 ---
 
 ### Passo 3: Montar e preparar o banho-maria
-Despeje a mistura batida sobre a calda de tâmaras na forma, com cuidado para não deslocar a calda do fundo. Para o banho-maria: coloque a forma do pudim dentro de uma assadeira maior e adicione água quente na assadeira até atingir 2/3 da altura da forma do pudim. O banho-maria é fundamental para o cozimento suave e uniforme.
+Despeje a mistura batida sobre a **calda de tâmaras** na forma, com cuidado para não deslocar a calda do fundo. Para o **banho-maria**: coloque a forma do pudim dentro de uma assadeira maior e adicione **água quente** na assadeira até atingir **2/3 da altura** da forma do pudim.
 
-É o que dá ao pudim aquela textura sedosa que caracteriza o clássico brasileiro.
+O **banho-maria** é fundamental para o **cozimento suave e uniforme**. É o que dá ao pudim aquela **textura sedosa** que caracteriza o clássico brasileiro.
 
 > 💡 **Dica:** Cubra a forma do pudim com papel-alumínio antes de colocar no banho-maria. Isso evita que a superfície do pudim resseque e forme uma película, resultando em superfície perfeitamente lisa quando desenformado.
 
@@ -70,9 +72,9 @@ Despeje a mistura batida sobre a calda de tâmaras na forma, com cuidado para n�
 ---
 
 ### Passo 4: Assar a temperatura correta e tempo certo
-Asse em forno pré-aquecido a 160°C por 45 a 50 minutos. Temperatura baixa é a chave do pudim perfeito.
+Asse em forno pré-aquecido a **160°C** por **45 a 50 minutos**. **Temperatura baixa** é a chave do pudim perfeito.
 
-Acima de 170°C, o pudim "ferveria" dentro da forma, criando bolhas e textura esponjosa ao invés de sedosa. Após 40 minutos, faça o teste de balanceamento: segure a assadeira e mova levemente. O pudim está pronto quando apenas o centro apresenta um leve tremor, como gelatina firme.
+Acima de **170°C**, o pudim "ferveria" dentro da forma, criando bolhas e **textura esponjosa** ao invés de sedosa. Após **40 minutos**, faça o **teste de balanceamento**: segure a assadeira e mova levemente. O pudim está pronto quando apenas o centro apresenta um **leve tremor**, como gelatina firme.
 
 > 💡 **Dica:** Insira um palito na borda do pudim (não no centro), deve sair limpo. O centro pode ainda estar levemente trêmulo, pois continuará cozinhando com o calor residual dentro da forma fechada.
 
@@ -81,9 +83,9 @@ Acima de 170°C, o pudim "ferveria" dentro da forma, criando bolhas e textura es
 ---
 
 ### Passo 5: Resfriar com paciência
-Retire o pudim do forno e retire a forma do banho-maria com cuidado. Deixe esfriar completamente em temperatura ambiente.
+Retire o pudim do forno e retire a forma do banho-maria com cuidado. Deixe esfriar completamente em **temperatura ambiente**, o que leva aproximadamente **1 hora**.
 
-Isso leva aproximadamente 1 hora. Depois, leve à geladeira coberto por no mínimo 4 horas, idealmente overnight. O resfriamento lento e gradual é o que permite que o pudim firme corretamente em toda a sua extensão, especialmente no centro.
+Depois, leve à **geladeira** coberto por no mínimo **4 horas**, idealmente overnight. O **resfriamento lento e gradual** é o que permite que o pudim firme corretamente em toda a sua extensão, especialmente no **centro**.
 
 > 💡 **Dica:** Prepare o pudim no dia anterior e deixe na geladeira overnight. A textura no dia seguinte é significativamente superior, o pudim fica mais firme, os sabores se integram e ele desenforma com muito mais facilidade.
 
@@ -92,7 +94,9 @@ Isso leva aproximadamente 1 hora. Depois, leve à geladeira coberto por no míni
 ---
 
 ### Passo 6: Desenformar com técnica
-Retire o pudim da geladeira 10 minutos antes de desenformar (o ligeiro aquecimento facilita o processo). Passe uma faca de lâmina fina cuidadosamente pelas laterais internas da forma, soltando o pudim da borda. Coloque um prato fundo ou de servir levemente maior que a forma sobre o topo da forma. Com um movimento único e confiante, vire o conjunto de uma vez. Bata levemente o fundo da forma e aguarde o pudim descer por gravidade. Não sacuda ou force.
+Retire o pudim da geladeira **10 minutos** antes de desenformar (o ligeiro aquecimento facilita o processo). Passe uma **faca de lâmina fina** cuidadosamente pelas laterais internas da forma, soltando o pudim da borda.
+
+Coloque um prato fundo ou de servir sobre o topo da forma. Com um **movimento único e confiante**, vire o conjunto de uma vez. Bata levemente o fundo da forma e aguarde o pudim descer por **gravidade**. Não sacuda ou force.
 
 > 💡 **Dica:** Se o pudim resistir a desenfomar, coloque a forma em banho-maria morno por 30 segundos, o calor sutil faz a calda de tâmaras soltar do fundo mais facilmente.
 

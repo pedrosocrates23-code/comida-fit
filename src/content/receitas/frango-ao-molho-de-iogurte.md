@@ -44,9 +44,9 @@ featured: true
 ## Passo a Passo Detalhado
 
 ### Passo 1: Prepare a marinada de iogurte com especiarias
-Em uma tigela, combine o iogurte grego com o alho amassado, o azeite, a cúrcuma, o cominho, o suco de limão, o sal e a pimenta. Misture bem até obter uma pasta uniforme de cor amarelada intensa. Essa marinada não é apenas para sabor.
+Em uma tigela, combine o **iogurte grego** com o **alho amassado**, o **azeite**, a **cúrcuma**, o **cominho**, o **suco de limão**, o **sal** e a **pimenta**. Misture bem até obter uma pasta uniforme de cor amarelada intensa.
 
-O ácido lático do iogurte age como amaciante natural, quebrando as fibras da proteína do frango e resultando em uma carne incrivelmente macia mesmo sem nenhum processamento adicional.
+O **ácido lático do iogurte** age como **amaciante natural**, quebrando as fibras da proteína do frango e resultando em uma carne incrivelmente macia mesmo sem nenhum processamento adicional.
 
 > 💡 **Dica:** Use iogurte grego integral (não desnatado) para a marinada mais eficaz. A gordura do iogurte integral ajuda a carregar os compostos aromáticos da cúrcuma e do cominho para dentro das fibras da carne.
 
@@ -55,9 +55,9 @@ O ácido lático do iogurte age como amaciante natural, quebrando as fibras da p
 ---
 
 ### Passo 2: Marine o frango por pelo menos 30 minutos
-Coloque os filés de frango em um saco zip ou recipiente hermético e despeje a marinada sobre eles. Certifique-se de que todos os lados do frango estejam cobertos. Marine na geladeira por no mínimo 30 minutos.
+Coloque os **filés de frango** em um **saco zip ou recipiente hermético** e despeje a marinada sobre eles. Certifique-se de que todos os lados do frango estejam cobertos.
 
-Quanto mais tempo, mais saboroso e macio ficará o resultado. A marinada overnight (8-12 horas) produz um frango com sabor excepcionalmente profundo e textura quase derretendo.
+Marine na **geladeira por no mínimo 30 minutos**. Quanto mais tempo, mais saboroso e macio ficará o resultado. A **marinada overnight (8-12 horas)** produz um frango com sabor excepcionalmente profundo e textura quase derretendo.
 
 > 💡 **Dica:** Se marinar por mais de 2 horas, faça cortes rasos na superfície do frango com uma faca. Isso permite que a marinada penetre mais profundamente nas fibras internas da carne.
 
@@ -66,9 +66,9 @@ Quanto mais tempo, mais saboroso e macio ficará o resultado. A marinada overnig
 ---
 
 ### Passo 3: Aqueça a frigideira antiaderente em fogo médio-alto
-Retire o frango da marinada reservando o líquido sobrante. Aqueça a frigideira antiaderente seca em fogo médio-alto por 2 minutos. Não é necessário adicionar óleo extra, pois a marinada já contém azeite suficiente para o cozimento. A frigideira no ponto certo garantirá uma crosta levemente dourada na superfície do frango.
+Retire o frango da marinada **reservando o líquido sobrante**. Aqueça a **frigideira antiaderente** seca em **fogo médio-alto** por 2 minutos. Não é necessário adicionar óleo extra, pois a marinada já contém azeite suficiente para o cozimento.
 
-O iogurte carameliza lindamente quando em contato com o calor alto.
+A frigideira no ponto certo garantirá uma **crosta levemente dourada** na superfície do frango. O **iogurte carameliza** lindamente quando em contato com o calor alto.
 
 > 💡 **Dica:** Retire o excesso de marinada antes de colocar o frango na frigideira, um pouco de cobertura é ideal, mas excesso pode fazer o frango cozinhar no vapor em vez de selar.
 
@@ -77,9 +77,9 @@ O iogurte carameliza lindamente quando em contato com o calor alto.
 ---
 
 ### Passo 4: Grelhe o frango por 6 a 8 minutos de cada lado
-Coloque os filés na frigideira quente e não mexa por pelo menos 6 minutos.
+Coloque os filés na frigideira quente e **não mexa** por pelo menos **6 minutos**. Essa paciência é fundamental para a **crosta se formar**. O frango estará pronto para virar quando ele soltar naturalmente da frigideira (se estiver grudando, precisa de mais tempo).
 
-Essa paciência é fundamental para a crosta se formar. O frango estará pronto para virar quando ele soltar naturalmente da frigideira (se estiver grudando, precisa de mais tempo). Grelhe o outro lado por mais 6 a 8 minutos. O frango está completamente cozido quando a temperatura interna atingir 74°C ou quando o suco que sair ao pressionar for completamente transparente, sem rosa.
+Grelhe o outro lado por mais **6 a 8 minutos**. O frango está completamente cozido quando a **temperatura interna atingir 74°C** ou quando o suco que sair ao pressionar for completamente **transparente, sem rosa**.
 
 > 💡 **Dica:** Use um termômetro culinário para garantir o ponto perfeito. 74°C interno garante segurança sem ressecar o frango. Acima de 82°C, o peito começa a ficar seco.
 
@@ -88,9 +88,9 @@ Essa paciência é fundamental para a crosta se formar. O frango estará pronto 
 ---
 
 ### Passo 5: Adicione a marinada reservada e finalize o molho
-Com o frango completamente cozido, reduza o fogo para médio-baixo e despeje a marinada reservada sobre ele. O iogurte vai aquecer e engrossar levemente, criando um molho cremoso e aromático em apenas 2 minutos. Não deixe ferver em fogo alto.
+Com o frango completamente cozido, reduza o fogo para **médio-baixo** e despeje a **marinada reservada** sobre ele. O **iogurte** vai aquecer e engrossar levemente, criando um **molho cremoso e aromático** em apenas 2 minutos.
 
-O iogurte pode talhar e a aparência do molho fica comprometida.
+Não deixe **ferver em fogo alto**: o iogurte pode **talhar** e a aparência do molho fica comprometida.
 
 > 💡 **Dica:** Adicione 1 colher de sopa de água ao molho se quiser uma consistência mais fluida. Para um molho mais espesso, deixe reduzir por 1-2 minutos a mais em fogo baixo.
 
@@ -99,9 +99,9 @@ O iogurte pode talhar e a aparência do molho fica comprometida.
 ---
 
 ### Passo 6: Finalize com endro fresco e sirva
-Desligue o fogo e adicione o endro (dill) fresco rasgado grosseiramente sobre o frango e o molho. O endro tem um sabor refrescante e levemente anisado que equilibra a riqueza cremosa do molho de iogurte.
+Desligue o fogo e adicione o **endro (dill) fresco** rasgado grosseiramente sobre o frango e o molho. O endro tem um sabor **refrescante e levemente anisado** que equilibra a riqueza cremosa do **molho de iogurte**.
 
-É uma combinação clássica da culinária mediterrânea e do Oriente Médio. Sirva imediatamente acompanhado de salada verde ou legumes no vapor.
+É uma combinação clássica da **culinária mediterrânea e do Oriente Médio**. Sirva imediatamente acompanhado de **salada verde** ou **legumes no vapor**.
 
 > 💡 **Dica:** Se não encontrar endro, substitua por hortelã fresca ou salsinha, ambos combinam muito bem com iogurte. A hortelã dá um toque refrescante especialmente agradável no verão.
 

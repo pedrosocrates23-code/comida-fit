@@ -39,9 +39,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Descasque e pique os vegetais
-Descasque as 2 beterrabas médias usando um descascador de legumes (mais eficiente e menos desperdiçador do que faca). Atenção: o suco de beterraba mancha intensamente.
+Descasque as **2 beterrabas médias** usando um **descascador de legumes** (mais eficiente e menos desperdiçador do que faca). Atenção: o **suco de beterraba** mancha intensamente.
 
-Use avental ou roupa que não se importe de manchar, e trabalhe sobre uma superfície que você possa lavar facilmente. Corte cada beterraba em cubos de 3 a 4 cm para facilitar o liquidificador. Faça o mesmo com a cenoura. Para o gengibre (3cm de comprimento), descasque com a colher e corte em rodelas.
+Use avental ou roupa que não se importe de manchar, e trabalhe sobre uma superfície que você possa lavar facilmente. Corte cada beterraba em **cubos de 3 a 4 cm** para facilitar o liquidificador. Faça o mesmo com a **cenoura**. Para o **gengibre** (3cm de comprimento), descasque com a colher e corte em rodelas.
 
 > 💡 **Dica:** Use luvas descartáveis ao manusear a beterraba crua, o pigmento betalaína mancha as mãos por horas e é muito difícil de remover apenas com sabão.
 
@@ -50,9 +50,9 @@ Use avental ou roupa que não se importe de manchar, e trabalhe sobre uma superf
 ---
 
 ### Passo 2: Bata os ingredientes sólidos com a água
-No liquidificador, coloque primeiro a água (200ml), depois os cubos de beterraba, a cenoura e o gengibre. Bata em potência alta por 1 a 2 minutos. A beterraba crua é densa e firme.
+No **liquidificador**, coloque primeiro a **água (200ml)**, depois os **cubos de beterraba**, a **cenoura** e o **gengibre**. Bata em **potência alta** por **1 a 2 minutos**. A beterraba crua é densa e firme, o processo leva mais tempo do que frutas moles.
 
-O processo leva mais tempo do que frutas moles. Pause o liquidificador a cada 30 segundos para verificar o processamento e empurrar os pedaços que subiram de volta para as lâminas com uma espátula (com o liquidificador desligado). A mistura ficará grossa e com bagaço visível, é esperado.
+Pause o liquidificador a cada **30 segundos** para verificar o processamento e empurrar os pedaços que subiram de volta para as lâminas com uma espátula (com o liquidificador desligado). A mistura ficará grossa e com **bagaço visível**, é esperado.
 
 > 💡 **Dica:** Se tiver extrator de suco (centrífuga ou mastigador), prefira esse método, extrai mais nutrientes, menos oxidação e não precisa coar. O resultado é mais concentrado e de cor mais vibrante.
 
@@ -61,9 +61,9 @@ O processo leva mais tempo do que frutas moles. Pause o liquidificador a cada 30
 ---
 
 ### Passo 3: Coe o suco (opcional mas recomendado)
-Despeje a mistura batida sobre uma peneira fina posicionada sobre uma tigela grande. Com uma colher, pressione o bagaço contra a peneira para extrair o máximo de líquido. O suco coado terá cor rubi intensa, textura lisa e sabor mais concentrado do que se bebido com o bagaço. Se preferir manter as fibras (recomendado para maior saciedade e benefícios digestivos), pule este passo e beba o suco com o bagaço.
+Despeje a mistura batida sobre uma **peneira fina** posicionada sobre uma tigela grande. Com uma colher, pressione o bagaço contra a peneira para extrair o máximo de líquido. O suco coado terá **cor rubi intensa**, textura lisa e sabor mais concentrado do que se bebido com o bagaço.
 
-Tecnicamente se torna um "smoothie" de beterraba.
+Se preferir manter as **fibras** (recomendado para maior **saciedade** e **benefícios digestivos**), pule este passo e beba o suco com o bagaço. Tecnicamente se torna um "smoothie" de beterraba.
 
 > 💡 **Dica:** O bagaço da beterraba coado pode ser usado em outras preparações: adicione em bolos, hambúrgueres vegetarianos ou refogue como acompanhamento temperado com azeite e alho.
 
@@ -72,9 +72,9 @@ Tecnicamente se torna um "smoothie" de beterraba.
 ---
 
 ### Passo 4: Adicione o suco de laranja
-Esprema as 2 laranjas e adicione o suco fresco ao suco de beterraba coado. Misture bem. A laranja faz muito mais do que adoçar: ela fornece vitamina C que potencializa a absorção do ferro da beterraba, suaviza o sabor terroso característico da beterraba crua e adiciona um perfume cítrico que transforma completamente a bebida. Sempre use laranja espremida na hora.
+Esprema as **2 laranjas** e adicione o **suco fresco** ao suco de beterraba coado. Misture bem. A laranja faz muito mais do que adoçar: ela fornece **vitamina C** que potencializa a **absorção do ferro** da beterraba, suaviza o **sabor terroso** característico da beterraba crua e adiciona um perfume cítrico que transforma completamente a bebida.
 
-O suco industrializado tem menos vitamina C (degradada pelo processamento térmico) e muito mais açúcar.
+Sempre use **laranja espremida na hora**. O suco industrializado tem menos vitamina C (degradada pelo processamento térmico) e muito mais **açúcar**.
 
 > 💡 **Dica:** Experimente usar laranja-pera para um suco mais doce e suave, ou laranja-lima para uma versão mais perfumada e levemente diferente.
 
@@ -83,9 +83,9 @@ O suco industrializado tem menos vitamina C (degradada pelo processamento térmi
 ---
 
 ### Passo 5: Sirva com gelo e consuma imediatamente
-Divida o suco entre 2 copos com gelo e sirva imediatamente. A vitamina C e os nitratos da beterraba começam a se degradar em contato com o ar e com a luz.
+Divida o suco entre **2 copos com gelo** e sirva imediatamente. A **vitamina C** e os **nitratos** da beterraba começam a se degradar em contato com o ar e com a luz.
 
-Quanto mais rápido consumir após o preparo, mais nutrientes preservados. Para uso pré-treino, o ideal é consumir 60 a 90 minutos antes do exercício para que os nitratos sejam convertidos em óxido nítrico e tenham tempo de atuar na vasodilatação.
+Quanto mais rápido consumir após o preparo, mais **nutrientes preservados**. Para uso **pré-treino**, o ideal é consumir **60 a 90 minutos** antes do exercício para que os nitratos sejam convertidos em **óxido nítrico** e tenham tempo de atuar na **vasodilatação**.
 
 > 💡 **Dica:** Para intensificar a cor e o sabor, adicione 1 colher de sopa de suco de limão, o ácido cítrico aviva a cor vermelha da betalaína e equilibra a doçura da laranja.
 

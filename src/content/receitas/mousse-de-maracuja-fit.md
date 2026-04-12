@@ -39,9 +39,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Hidrate e dissolva a gelatina corretamente
-Despeje as 3 colheres de sopa de água fria em uma tigelinha pequena e polvilhe o envelope de gelatina em pó por cima, de forma uniforme. Aguarde exatamente 5 minutos.
+Despeje as **3 colheres de sopa de água fria** em uma tigelinha pequena e polvilhe o **envelope de gelatina em pó** por cima, de forma uniforme. Aguarde exatamente **5 minutos** para que a gelatina absorva a água e inche (processo chamado de **hidratação**).
 
-Nesse tempo a gelatina absorve a água e incha (processo chamado de hidratação). Depois leve ao micro-ondas por 15 segundos em potência média, ou em banho-maria por 2 minutos, mexendo até a mistura ficar completamente transparente e líquida, sem nenhum grânulo visível.
+Depois leve ao **micro-ondas por 15 segundos** em potência média, ou em **banho-maria por 2 minutos**, mexendo até a mistura ficar completamente transparente e líquida, sem nenhum grânulo visível.
 
 > 💡 **Dica:** Verifique a temperatura da gelatina dissolvida antes de adicionar ao creme: ela deve estar morna, não quente. Gelatina quente pode "talhar" o iogurte grego ao entrar em contato, criando grumos indesejados na textura final.
 
@@ -50,9 +50,9 @@ Nesse tempo a gelatina absorve a água e incha (processo chamado de hidratação
 ---
 
 ### Passo 2: Bata a polpa de maracujá com o mel
-Corte os 3 maracujás ao meio e retire a polpa com sementes para um liquidificador. Adicione as 3 colheres de sopa de mel. Bata em velocidade média por 1 minuto.
+Corte os **3 maracujás** ao meio e retire a **polpa com sementes** para um liquidificador. Adicione as **3 colheres de sopa de mel** e bata em **velocidade média por 1 minuto**. As sementes não se dissolvem, mas o processo libera os aromas e homogeneíza o mel à polpa.
 
-As sementes não se dissolvem, mas o processo libera os aromas e homogeneíza o mel à polpa. Se preferir mousse sem sementes, passe a polpa batida por uma peneira fina, pressionando com uma colher para extrair o máximo de suco e sabor.
+Se preferir mousse sem sementes, passe a polpa batida por uma **peneira fina**, pressionando com uma colher para extrair o máximo de suco e sabor.
 
 > 💡 **Dica:** Maracujás maduros têm a casca levemente enrugada e são mais pesados, isso indica polpa abundante e mais doce. Maracujás lisos e muito firmes tendem a ser mais ácidos e com menos polpa. Escolha os enrugados para uma mousse naturalmente mais adocicada.
 
@@ -61,7 +61,9 @@ As sementes não se dissolvem, mas o processo libera os aromas e homogeneíza o 
 ---
 
 ### Passo 3: Misture o iogurte grego com a polpa batida
-Transfira o iogurte grego natural desnatado para uma tigela grande. Adicione a polpa de maracujá com mel em fio, mexendo com um fouet (batedor de arame) em movimentos suaves e circulares. O objetivo é incorporar a polpa ao iogurte sem perder a cremosidade densa do iogurte grego. A mistura deve ficar cor amarela pálida, aromática e completamente lisa.
+Transfira o **iogurte grego natural desnatado** para uma tigela grande. Adicione a **polpa de maracujá com mel** em fio, mexendo com um **fouet (batedor de arame)** em movimentos suaves e circulares.
+
+O objetivo é incorporar a polpa ao iogurte sem perder a **cremosidade densa** do iogurte grego. A mistura deve ficar de **cor amarela pálida**, aromática e completamente lisa.
 
 > 💡 **Dica:** Se quiser uma mousse mais aerada e leve, bata as claras dos 2 ovos em neve firme separadamente e incorpore ao creme em dois movimentos, de baixo para cima. Isso adiciona volume sem calorias extras.
 
@@ -70,7 +72,9 @@ Transfira o iogurte grego natural desnatado para uma tigela grande. Adicione a p
 ---
 
 ### Passo 4: Incorpore a gelatina dissolvida rapidamente
-Com a gelatina morna (não quente) e completamente líquida, despeje-a em fio contínuo sobre o creme de iogurte com maracujá, mexendo simultaneamente com o fouet em movimentos rápidos. Esse passo é crítico: a gelatina começa a gelificar conforme esfria, então a incorporação deve ser feita em menos de 30 segundos. Se a gelatina endurecer antes de ser incorporada, terá pedaços de gelatina solidificada no mousse.
+Com a **gelatina morna** (não quente) e completamente líquida, despeje-a em **fio contínuo** sobre o creme de iogurte com maracujá, mexendo simultaneamente com o **fouet** em movimentos rápidos.
+
+Esse passo é **crítico**: a gelatina começa a **gelificar** conforme esfria, então a incorporação deve ser feita em **menos de 30 segundos**. Se a gelatina endurecer antes de ser incorporada, terá pedaços de gelatina solidificada no mousse.
 
 > 💡 **Dica:** Para garantir que não haja grumos de gelatina, despeje a mistura de iogurte+maracujá em fio na gelatina (e não o contrário). Dessa forma, a gelatina fica rodeada de creme imediatamente e se distribui de forma mais homogênea.
 
@@ -79,9 +83,9 @@ Com a gelatina morna (não quente) e completamente líquida, despeje-a em fio co
 ---
 
 ### Passo 5: Distribua nas taças e leve à geladeira
-Divida o creme igualmente em 4 taças de sobremesa ou potinhos individuais. Use uma colher para nivelar a superfície de cada porção. Cubra com filme plástico encostado diretamente na superfície do creme.
+Divida o creme igualmente em **4 taças de sobremesa** ou potinhos individuais. Use uma colher para nivelar a superfície de cada porção. Cubra com **filme plástico encostado diretamente na superfície** do creme para evitar a formação de película ressecada por cima.
 
-Isso evita a formação de película ressecada por cima. Leve à geladeira por no mínimo 2 horas, ou de preferência durante a noite, para que a gelatina firme completamente e a mousse adquira textura cremosa e consistente.
+Leve à **geladeira por no mínimo 2 horas**, ou de preferência durante a noite, para que a **gelatina firme completamente** e a mousse adquira **textura cremosa e consistente**.
 
 > 💡 **Dica:** Na hora de servir, decore com 1 colher de chá de polpa fresca de maracujá por cima e algumas raspas de limão-siciliano. O contraste entre a mousse gelada e a polpa fresca com sementes crocantes eleva visualmente e sensorialmente a sobremesa.
 

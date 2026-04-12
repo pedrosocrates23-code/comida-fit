@@ -42,9 +42,9 @@ featured: true
 ## Passo a Passo Detalhado
 
 ### Passo 1: Prepare e tempere o frango desfiado
-Em um bowl médio, coloque o peito de frango já cozido e desfiado. Adicione o suco de 1/2 limão, o sal, a pimenta-do-reino, a cebola picada bem fininha e o coentro ou salsinha picado. Misture com um garfo incorporando todos os temperos uniformemente. Prove e ajuste o sal.
+Em um bowl médio, coloque o **peito de frango** já cozido e desfiado. Adicione o **suco de 1/2 limão**, o **sal**, a **pimenta-do-reino**, a **cebola picada** bem fininha e o **coentro** ou **salsinha picado**. Misture com um garfo incorporando todos os temperos uniformemente.
 
-O recheio deve ser levemente temperado, pois a tapioca em si não tem sabor. Deixe descansar por 2 a 3 minutos para os sabores se integrarem enquanto prepara a frigideira.
+Prove e ajuste o sal. O recheio deve ser **levemente temperado**, pois a tapioca em si não tem sabor. Deixe descansar por **2 a 3 minutos** para os sabores se integrarem enquanto prepara a frigideira.
 
 > 💡 **Dica:** Para frango ainda mais suculento e saboroso, cozinhe o peito com ervas (louro, alho, cebola) e desfie enquanto ainda quente, absorve os temperos muito melhor do que quando já resfriado.
 
@@ -53,9 +53,9 @@ O recheio deve ser levemente temperado, pois a tapioca em si não tem sabor. Dei
 ---
 
 ### Passo 2: Aqueça a frigideira sem untar
-Coloque uma frigideira antiaderente de 20 a 22 cm em fogo médio e aguarde 1 a 2 minutos até aquecer bem. A tapioca não precisa de gordura nenhuma.
+Coloque uma **frigideira antiaderente** de **20 a 22 cm** em **fogo médio** e aguarde **1 a 2 minutos** até aquecer bem. A tapioca não precisa de **gordura** nenhuma.
 
-A goma de tapioca tem propriedades únicas que fazem com que ela grude brevemente e depois se solte sozinha quando aquecida. Se adicionar azeite ou manteiga, a tapioca ficará oleosa e de textura muito diferente da autêntica. A frigideira seca em temperatura média é a combinação perfeita.
+A **goma de tapioca** tem propriedades únicas que fazem com que ela grude brevemente e depois se solte sozinha quando aquecida. Se adicionar **azeite** ou **manteiga**, a tapioca ficará oleosa e de textura muito diferente da autêntica. A frigideira seca em temperatura média é a combinação perfeita.
 
 > 💡 **Dica:** Teste a temperatura passando a palma da mão a 5 cm da frigideira, deve sentir calor intenso mas não extremo. Ou pingue uma gota d'água que deve evaporar em 2 a 3 segundos.
 
@@ -64,9 +64,9 @@ A goma de tapioca tem propriedades únicas que fazem com que ela grude brevement
 ---
 
 ### Passo 3: Espalhe a goma de tapioca em disco uniforme
-Coloque 3 colheres de sopa de goma de tapioca hidratada no centro da frigideira e, com as costas da colher ou com movimentos de inclinação da frigideira, espalhe em um disco fino e uniforme de cerca de 18 a 20 cm de diâmetro. A espessura ideal é de 2 a 3 mm.
+Coloque **3 colheres de sopa** de **goma de tapioca hidratada** no centro da frigideira e, com as costas da colher ou com movimentos de inclinação da frigideira, espalhe em um **disco fino e uniforme** de cerca de **18 a 20 cm** de diâmetro.
 
-Nem tão fina que quebre facilmente, nem tão grossa que fique com interior mal cozido. As bordas devem ser arredondadas e uniformes.
+A **espessura ideal** é de **2 a 3 mm**. Nem tão fina que quebre facilmente, nem tão grossa que fique com interior mal cozido. As bordas devem ser arredondadas e uniformes.
 
 > 💡 **Dica:** Se a goma estiver com grumos ou muito seca, peneire-a antes de usar, isso garante uma distribuição mais uniforme e uma tapioca mais lisa.
 
@@ -75,9 +75,9 @@ Nem tão fina que quebre facilmente, nem tão grossa que fique com interior mal 
 ---
 
 ### Passo 4: Cozinhe até firmar e soltar
-Aguarde cerca de 2 minutos sem tocar na tapioca. Você saberá que está pronta quando: (1) as bordas ficarem levemente elevadas e com aspecto seco; (2) a superfície perder o brilho úmido da goma crua; (3) ao inclinar levemente a frigideira, a tapioca deslizar livremente. A base deve estar opaca e firme.
+Aguarde cerca de **2 minutos** sem tocar na tapioca. Você saberá que está pronta quando: (1) as **bordas** ficarem levemente elevadas e com aspecto seco; (2) a superfície perder o **brilho úmido** da goma crua; (3) ao inclinar levemente a frigideira, a tapioca **deslizar livremente**.
 
-Não tente mover antes desses sinais ou a tapioca vai rasgar no meio.
+A base deve estar **opaca e firme**. Não tente mover antes desses sinais ou a tapioca vai **rasgar** no meio.
 
 > 💡 **Dica:** Para uma tapioca levemente dourada por baixo (textura mais crocante nas bordas), deixe em fogo médio-alto por mais 30 a 60 segundos após firmar. É uma variação deliciosa.
 
@@ -86,9 +86,9 @@ Não tente mover antes desses sinais ou a tapioca vai rasgar no meio.
 ---
 
 ### Passo 5: Recheie e dobre
-Com a tapioca pronta e ainda na frigideira, coloque metade do frango temperado sobre um lado (deixando a outra metade livre para dobrar). Não sobrecarregue com recheio demais.
+Com a tapioca pronta e ainda na frigideira, coloque metade do **frango temperado** sobre um lado (deixando a outra metade livre para dobrar). Não sobrecarregue com recheio demais.
 
-Uma camada de 1 a 1,5 cm de espessura é o ideal para que a tapioca feche e não transborde. Com uma espátula, dobre a metade vazia sobre o recheio formando a meia-lua característica.
+Uma camada de **1 a 1,5 cm** de espessura é o ideal para que a tapioca feche e não transborde. Com uma **espátula**, dobre a metade vazia sobre o recheio formando a **meia-lua** característica.
 
 > 💡 **Dica:** Adicione uma fatia de queijo branco ou uma colher de cottage junto com o frango antes de dobrar, o calor derrete levemente o queijo criando uma camada cremosa irresistível.
 
@@ -97,9 +97,9 @@ Uma camada de 1 a 1,5 cm de espessura é o ideal para que a tapioca feche e não
 ---
 
 ### Passo 6: Sirva quente e prepare a segunda tapioca
-Transfira a primeira tapioca para o prato e sirva quente. Repita todo o processo para a segunda (as 3 colheres restantes de goma e o restante do frango). A tapioca esfria rápido.
+Transfira a primeira tapioca para o prato e sirva **quente**. Repita todo o processo para a segunda (as **3 colheres restantes** de goma e o restante do frango).
 
-Sirva imediatamente ou mantenha coberta com pano de prato limpo enquanto prepara a segunda.
+A tapioca **esfria rápido**. Sirva imediatamente ou mantenha coberta com pano de prato limpo enquanto prepara a segunda.
 
 > 💡 **Dica:** Se fizer para mais pessoas, mantenha as tapiocas prontas cobertas com papel alumínio no forno a 80°C enquanto prepara as demais, ficam quentes sem continuar cozinhando.
 

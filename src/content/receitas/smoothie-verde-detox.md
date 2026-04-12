@@ -36,9 +36,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Higienize o espinafre e a maçã cuidadosamente
-Separe as folhas de espinafre e mergulhe em uma tigela com água fria por 2 minutos para soltar qualquer resíduo de terra ou areia. Retire e enxágue sob água corrente. A maçã verde deve ser lavada com escovinha e água corrente.
+Separe as folhas de **espinafre** e mergulhe em uma tigela com **água fria** por **2 minutos** para soltar qualquer resíduo de terra ou areia. Retire e enxágue sob **água corrente**. A **maçã verde** deve ser lavada com escovinha e água corrente.
 
-Como será usada com casca (onde estão a maior parte das fibras e os flavonoides), a higienização adequada é essencial. Se quiser garantia extra contra agrotóxicos, deixe a maçã de molho em solução de vinagre por 10 minutos e enxágue.
+Como será usada com casca (onde estão a maior parte das **fibras** e os **flavonoides**), a **higienização adequada** é essencial. Se quiser garantia extra contra **agrotóxicos**, deixe a maçã de molho em solução de **vinagre** por **10 minutos** e enxágue.
 
 > 💡 **Dica:** Use espinafre baby (folhas menores e mais tenras) para um sabor mais suave, as folhas grandes e velhas têm sabor mais pronunciado de terra que pode dominar o smoothie para quem não está acostumado.
 
@@ -47,9 +47,9 @@ Como será usada com casca (onde estão a maior parte das fibras e os flavonoide
 ---
 
 ### Passo 2: Prepare o gengibre e a maçã
-Descasque o pedaço de gengibre (cerca de 1 a 2 cm para sabor médio) com uma colher de chá.
+Descasque o pedaço de **gengibre** (cerca de **1 a 2 cm** para sabor médio) com uma colher de chá. O cabo arredondado raspa a casca facilmente sem desperdiçar a polpa.
 
-O cabo arredondado raspa a casca facilmente sem desperdiçar a polpa. Para quem está começando a consumir smoothies verdes, use apenas 1 cm de gengibre; para paladares mais experientes, 2 cm dão um toque mais picante e aquecido. Corte a maçã verde em quartos, remova o miolo e as sementes, e corte cada quarto em pedaços menores para facilitar o liquidificador.
+Para quem está começando a consumir **smoothies verdes**, use apenas **1 cm** de gengibre; para paladares mais experientes, **2 cm** dão um toque mais **picante** e aquecido. Corte a **maçã verde** em quartos, remova o miolo e as sementes, e corte cada quarto em **pedaços menores** para facilitar o liquidificador.
 
 > 💡 **Dica:** Congele o gengibre inteiro descascado e rale na hora de usar, fica mais fácil de ralar e dura meses sem perder potência.
 
@@ -58,9 +58,9 @@ O cabo arredondado raspa a casca facilmente sem desperdiçar a polpa. Para quem 
 ---
 
 ### Passo 3: Adicione os ingredientes ao liquidificador em ordem
-Coloque no liquidificador na seguinte sequência: a água de coco (líquido base), depois o espinafre, a maçã picada, o gengibre e por último o suco de limão. Essa ordem garante que o líquido fique próximo às lâminas para começar o processamento imediatamente, e os ingredientes mais sólidos sejam triturados de cima para baixo com mais eficiência. Não adicione gelo antes de bater.
+Coloque no **liquidificador** na seguinte sequência: a **água de coco** (líquido base), depois o **espinafre**, a **maçã picada**, o **gengibre** e por último o **suco de limão**. Essa ordem garante que o líquido fique próximo às lâminas para começar o processamento imediatamente, e os ingredientes mais sólidos sejam triturados de cima para baixo com mais eficiência.
 
-Ele dificulta o processamento dos vegetais.
+Não adicione **gelo** antes de bater. Ele dificulta o processamento dos vegetais.
 
 > 💡 **Dica:** Adicione uma colher de sopa de pasta de amêndoas ou manteiga de castanha para um smoothie mais saciante e com gorduras boas que ajudam na absorção dos carotenoides lipossolúveis do espinafre.
 
@@ -69,9 +69,9 @@ Ele dificulta o processamento dos vegetais.
 ---
 
 ### Passo 4: Bata até textura completamente homogênea
-Bata em potência alta por 60 a 90 segundos. O smoothie verde está pronto quando a cor for verde vibrante e uniforme (sem listras ou pontos escuros de espinafre não batido) e a textura for completamente lisa. Interrompa o liquidificador e verifique nas paredes.
+Bata em **potência alta** por **60 a 90 segundos**. O **smoothie verde** está pronto quando a cor for **verde vibrante** e uniforme (sem listras ou pontos escuros de espinafre não batido) e a textura for completamente lisa.
 
-Se houver pedaços de espinafre ou maçã aderidos, raspe com uma espátula e bata por mais 15 a 20 segundos. A textura final deve fluir suavemente ao inclinar o liquidificador.
+Interrompa o liquidificador e verifique nas paredes. Se houver pedaços de **espinafre** ou **maçã** aderidos, raspe com uma espátula e bata por mais **15 a 20 segundos**. A **textura final** deve fluir suavemente ao inclinar o liquidificador.
 
 > 💡 **Dica:** Se o seu liquidificador não é potente, bata o espinafre com a água de coco sozinhos primeiro por 30 segundos, depois adicione os demais ingredientes e bata por mais 45 segundos, resultado muito mais homogêneo.
 
@@ -80,9 +80,9 @@ Se houver pedaços de espinafre ou maçã aderidos, raspe com uma espátula e ba
 ---
 
 ### Passo 5: Sirva imediatamente com gelo
-Transfira para um copo alto, adicione cubos de gelo e sirva imediatamente. O smoothie verde começa a se oxidar (escurecer levemente) em contato com o ar após alguns minutos.
+Transfira para um copo alto, adicione **cubos de gelo** e sirva imediatamente. O **smoothie verde** começa a se **oxidar** (escurecer levemente) em contato com o ar após alguns minutos.
 
-Isso não é problema de segurança alimentar, apenas estético. O suco de limão já age como antioxidante para retardar esse processo. Para consumo imediato, o smoothie terá sua cor mais vibrante, sabor mais fresco e maior concentração de vitaminas sensíveis ao calor e à oxidação.
+Isso não é problema de segurança alimentar, apenas estético. O **suco de limão** já age como **antioxidante** para retardar esse processo. Para consumo imediato, o smoothie terá sua cor mais vibrante, sabor mais fresco e maior concentração de **vitaminas** sensíveis ao calor e à oxidação.
 
 > 💡 **Dica:** Decore com uma folha de hortelã ou uma rodela de limão na borda do copo, o visual verde e fresco torna a bebida muito mais apetitosa, especialmente para quem está se acostumando ao sabor.
 

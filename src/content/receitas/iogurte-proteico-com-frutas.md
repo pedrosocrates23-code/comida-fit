@@ -39,9 +39,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Misture o iogurte grego com o whey protein
-Em uma tigela média, adicione o iogurte grego natural desnatado (frio da geladeira). Se usar o whey protein, polvilhe o scoop sobre o iogurte e mexa vigorosamente com uma colher por 30-40 segundos até a mistura ficar completamente homogênea, sem grumos de pó. O whey protein baunilha complementa naturalmente o sabor neutro do iogurte grego e eleva o teor proteico da refeição de 16g para 22g.
+Em uma tigela média, adicione o **iogurte grego natural desnatado** (frio da geladeira). Se usar o **whey protein**, polvilhe o scoop sobre o iogurte e mexa vigorosamente com uma colher por **30 a 40 segundos** até a mistura ficar completamente homogênea, sem grumos de pó.
 
-Um aumento significativo para a recuperação muscular.
+O **whey protein baunilha** complementa naturalmente o sabor neutro do iogurte grego e eleva o **teor proteico** da refeição de **16g para 22g**, um aumento significativo para a **recuperação muscular**.
 
 > 💡 **Dica:** Se o whey protein formar grumos ao misturar, adicione 1 colher de sopa de leite desnatado antes de incorporar ao iogurte, o leite facilita a dissolução e garante uma textura mais cremosa.
 
@@ -50,9 +50,9 @@ Um aumento significativo para a recuperação muscular.
 ---
 
 ### Passo 2: Transfira para a tigela de servir
-Despeje a mistura de iogurte em uma tigela bonita. Nesta etapa simples está um segredo importante: a apresentação influencia diretamente a satisfação com a refeição. Uma tigela bonita com apresentação cuidada faz com que você aprecie mais o que está comendo.
+Despeje a mistura de iogurte em uma **tigela bonita**. Nesta etapa simples está um segredo importante: a **apresentação** influencia diretamente a satisfação com a refeição, contribuindo para a **saciedade** e a relação positiva com a alimentação saudável.
 
-O que contribui para a saciedade e a relação positiva com a alimentação saudável. Alise levemente a superfície com a colher para criar uma base uniforme para as frutas e granola.
+Alise levemente a superfície com a colher para criar uma **base uniforme** para as frutas e granola.
 
 > 💡 **Dica:** Esfrie a tigela de servir no freezer por 2-3 minutos antes de montar o bowl. O iogurte em contato com uma tigela fria mantém a textura cremosa por mais tempo, especialmente em dias quentes.
 
@@ -61,9 +61,9 @@ O que contribui para a saciedade e a relação positiva com a alimentação saud
 ---
 
 ### Passo 3: Distribua as frutas vermelhas por cima do iogurte
-Disponha o mix de frutas vermelhas (morangos fatiados, mirtilos inteiros, framboesas) sobre a superfície do iogurte. Para melhor apresentação, comece com os mirtilos e framboesas (menores) e posicione as fatias de morango de forma decorativa. Se usar frutas congeladas, descongele brevemente no micro-ondas por 30 segundos ou em temperatura ambiente.
+Disponha o **mix de frutas vermelhas** (morangos fatiados, mirtilos inteiros, framboesas) sobre a superfície do iogurte. Para melhor apresentação, comece com os **mirtilos e framboesas** (menores) e posicione as **fatias de morango** de forma decorativa.
 
-O suco que se forma ao descongelar cria um molho natural vermelho que deixa o bowl ainda mais apetitoso.
+Se usar **frutas congeladas**, descongele brevemente no micro-ondas por **30 segundos** ou em temperatura ambiente. O suco que se forma ao descongelar cria um **molho natural vermelho** que deixa o bowl ainda mais apetitoso.
 
 > 💡 **Dica:** Use frutas vermelhas congeladas quando não estiver na época, elas são colhidas no pico da maturidade e congeladas imediatamente, preservando mais nutrientes do que frutas frescas que viajaram por dias.
 
@@ -72,9 +72,9 @@ O suco que se forma ao descongelar cria um molho natural vermelho que deixa o bo
 ---
 
 ### Passo 4: Adicione a granola sem açúcar e o fio de mel
-Polvilhe a granola uniformemente sobre as frutas.
+Polvilhe a **granola** uniformemente sobre as frutas. Ela vai criar uma **camada crocante** que contrasta com a cremosidade do iogurte e a suculência das frutas.
 
-Ela vai criar uma camada crocante que contrasta com a cremosidade do iogurte e a suculência das frutas. Em seguida, regue com o fio de mel em movimentos circulares ou em zigue-zague para uma apresentação mais elaborada. O mel adiciona não apenas adoçante natural, mas também frutose que ajuda a repor o glicogênio hepático mais rapidamente que a glicose do arroz ou batata.
+Em seguida, regue com o **fio de mel** em movimentos circulares ou em zigue-zague para uma apresentação mais elaborada. O **mel** adiciona não apenas adoçante natural, mas também **frutose** que ajuda a repor o **glicogênio hepático** mais rapidamente que a glicose do arroz ou batata.
 
 > 💡 **Dica:** Use granola caseira sem açúcar (aveia + castanhas + canela torrados no forno a 160°C) em vez de industrializada. A granola caseira tem menos de metade do açúcar da industrializada e muito mais controle sobre os ingredientes.
 
@@ -83,7 +83,9 @@ Ela vai criar uma camada crocante que contrasta com a cremosidade do iogurte e a
 ---
 
 ### Passo 5: Consuma dentro de 1 hora após o treino
-Este bowl é especificamente formulado para o pós-treino e deve ser consumido dentro de 1 hora após o exercício para aproveitar ao máximo a resposta anabólica aumentada. A combinação de proteína rápida (whey) + proteína moderada (iogurte grego) + carboidratos simples (mel, frutas) + carboidratos complexos (granola) cria um perfil de nutrientes que sustenta tanto a recuperação imediata quanto a síntese proteica prolongada.
+Este bowl é especificamente formulado para o **pós-treino** e deve ser consumido dentro de **1 hora após o exercício** para aproveitar ao máximo a **resposta anabólica aumentada**.
+
+A combinação de **proteína rápida (whey)** + **proteína moderada (iogurte grego)** + **carboidratos simples (mel, frutas)** + **carboidratos complexos (granola)** cria um perfil de nutrientes que sustenta tanto a **recuperação imediata** quanto a **síntese proteica prolongada**.
 
 > 💡 **Dica:** Se não tiver apetite imediatamente após treinos intensos, espere 20-30 minutos (quando o apetite normalmente retorna) e então consuma. Forçar a ingestão quando sem apetite reduz a absorção e o aproveitamento.
 

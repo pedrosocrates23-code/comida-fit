@@ -43,9 +43,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Preparar a forma e o forno
-Pré-aqueça o forno a 170°C.
+Pré-aqueça o forno a **170°C**, temperatura propositalmente mais baixa que o usual, porque o **mel queima facilmente** em temperaturas altas e deixaria as barrinhas amargas.
 
-Uma temperatura mais baixa do que o usual é proposital aqui, porque o mel queima facilmente em temperaturas altas e deixaria as barrinhas amargas. Forre uma forma retangular pequena (aproximadamente 20 x 15 cm) com papel-manteiga deixando sobra nas bordas para facilitar na hora de retirar. Essa sobra funciona como uma "alça" e evita que as barrinhas quebrem ao serem removidas.
+Forre uma **forma retangular pequena** (aproximadamente **20 x 15 cm**) com **papel-manteiga** deixando sobra nas bordas para facilitar na hora de retirar. Essa sobra funciona como uma "alça" e evita que as barrinhas quebrem ao serem removidas.
 
 > 💡 **Dica:** Unte levemente o papel-manteiga com um fio de azeite ou spray antiaderente para garantir que nada grude, especialmente nas laterais.
 
@@ -54,9 +54,9 @@ Uma temperatura mais baixa do que o usual é proposital aqui, porque o mel queim
 ---
 
 ### Passo 2: Tostar a aveia
-Coloque os flocos de aveia em uma frigideira seca (sem óleo) em fogo médio e mexa constantemente por cerca de 3 minutos. Você vai perceber a mudança: a aveia vai escurecer levemente e liberar um aroma de noz tostada. Esse passo transforma completamente o sabor final da barrinha.
+Coloque os **flocos de aveia** em uma **frigideira seca** (sem óleo) em **fogo médio** e mexa constantemente por cerca de **3 minutos**, até a aveia escurecer levemente e liberar um **aroma de noz tostada**.
 
-A aveia crua tem um gosto neutro e farinhento, enquanto a tostada traz profundidade e crocância real.
+Esse passo transforma completamente o sabor final da barrinha: a aveia crua tem gosto neutro e farinhento, enquanto a **aveia tostada** traz profundidade e **crocância real**.
 
 > 💡 **Dica:** Se sua frigideira for de aço inox, mantenha o fogo médio-baixo. Em frigideiras de teflon, médio já é suficiente. O objetivo é tostar, não queimar.
 
@@ -65,9 +65,9 @@ A aveia crua tem um gosto neutro e farinhento, enquanto a tostada traz profundid
 ---
 
 ### Passo 3: Preparar a liga de mel e manteiga de amendoim
-Em uma panela pequena, misture o mel e a manteiga de amendoim em fogo baixo. Mexa com uma colher de silicone até os dois ingredientes se unirem em uma calda homogênea e levemente borbulhante. Isso leva cerca de 2 minutos. Essa mistura é a cola que vai manter a barrinha unida.
+Em uma panela pequena, misture o **mel** e a **manteiga de amendoim** em **fogo baixo**. Mexa com uma **colher de silicone** até os dois ingredientes se unirem em uma **calda homogênea** e levemente borbulhante, o que leva cerca de **2 minutos**.
 
-Ela precisa estar bem derretida e misturada para distribuir uniformemente por todos os ingredientes secos.
+Essa mistura é a **cola que vai manter a barrinha unida**; ela precisa estar bem derretida e homogênea para distribuir uniformemente por todos os ingredientes secos.
 
 > 💡 **Dica:** Use manteiga de amendoim integral (aquela com a camada de óleo por cima) para um sabor mais rico e uma liga mais eficiente do que as versões cremosas industriais.
 
@@ -76,9 +76,9 @@ Ela precisa estar bem derretida e misturada para distribuir uniformemente por to
 ---
 
 ### Passo 4: Combinar os ingredientes
-Em um bowl grande, coloque a aveia tostada ainda morna, as castanhas picadas, as sementes de girassol, as uvas-passas e o sal marinho. Despeje a calda de mel e amendoim por cima imediatamente.
+Em um bowl grande, coloque a **aveia tostada** ainda morna, as **castanhas picadas**, as **sementes de girassol**, as **uvas-passas** e o **sal marinho**. Despeje a **calda de mel e amendoim** por cima imediatamente, enquanto ainda está quente, para cobrir tudo de forma uniforme.
 
-A mistura precisa estar quente para cobrir tudo de forma uniforme. Mexa com uma espátula de forma rápida e enérgica, garantindo que cada floco de aveia seja coberto pela calda. Você tem cerca de 2 minutos antes de a mistura começar a firmar.
+Mexa com uma **espátula** de forma rápida e enérgica, garantindo que cada floco de aveia seja coberto pela calda. Você tem cerca de **2 minutos** antes de a mistura começar a firmar.
 
 > 💡 **Dica:** Adicione sementes de chia, coco ralado sem açúcar ou nibs de cacau nesse momento para variar a receita sem comprometer a estrutura.
 
@@ -87,9 +87,9 @@ A mistura precisa estar quente para cobrir tudo de forma uniforme. Mexa com uma 
 ---
 
 ### Passo 5: Pressionar e assar
-Transfira a mistura para a forma preparada e pressione com força usando o fundo de um copo ou as costas de uma colher úmida. A compressão é o segredo para barrinhas que não se esfareiam.
+Transfira a mistura para a forma preparada e **pressione com força** usando o fundo de um copo ou as costas de uma colher úmida. A **compressão** é o segredo para barrinhas que não se esfareiam: quanto mais firme você pressionar, melhor a **estrutura final**.
 
-Quanto mais firme você pressionar, melhor a estrutura final. A camada deve ficar uniforme. Leve ao forno a 170°C por 20 minutos, ou até as bordas dourarem levemente.
+A camada deve ficar **uniforme**. Leve ao forno a **170°C por 20 minutos**, ou até as bordas dourarem levemente.
 
 > 💡 **Dica:** Depois de pressionar na forma, coloque um pedaço extra de papel-manteiga por cima e pressione novamente com outra forma menor. Isso garante superfície completamente plana.
 
@@ -98,7 +98,9 @@ Quanto mais firme você pressionar, melhor a estrutura final. A camada deve fica
 ---
 
 ### Passo 6: Esfriar e cortar
-Esse passo exige paciência: retire do forno e deixe esfriar completamente na forma, em temperatura ambiente, por pelo menos 30 minutos. Só então leve à geladeira por mais 15 minutos antes de cortar. Use uma faca afiada e um único movimento para baixo (sem serrar) para obter cortes limpos. Rende aproximadamente 8 barrinhas.
+Esse passo exige paciência: retire do forno e deixe **esfriar completamente** na forma, em temperatura ambiente, por pelo menos **30 minutos**. Só então leve à **geladeira por mais 15 minutos** antes de cortar.
+
+Use uma **faca afiada** e um único movimento para baixo (sem serrar) para obter **cortes limpos**. Rende aproximadamente **8 barrinhas**.
 
 > 💡 **Dica:** Marque as linhas de corte com a faca antes de levar à geladeira, isso facilita muito e evita que as bordas quebrem.
 

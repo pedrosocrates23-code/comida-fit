@@ -35,9 +35,9 @@ featured: true
 ## Passo a Passo Detalhado
 
 ### Passo 1: Escolher a banana no ponto certo de maturação
-Para pré-treino, o ponto de maturação da banana muda tudo. Uma banana com a casca predominantemente amarela, com pequenas manchas marrons (os "pontinhos"), está no ponto ideal.
+Para **pré-treino**, o **ponto de maturação da banana** muda tudo. Uma banana com a casca predominantemente amarela, com pequenas manchas marrons (os "pontinhos"), está no **ponto ideal**.
 
-Os amidos foram convertidos em açúcares simples (glicose e frutose) que são absorvidos rapidamente pelo intestino, chegando na corrente sanguínea em 20 a 30 minutos. Bananas ainda verdes têm amido resistente de absorção mais lenta, e bananas muito maduras (casca toda escura) têm concentração muito alta de açúcar e menos nutrientes úteis.
+Nesse estágio, os **amidos foram convertidos em açúcares simples** (glicose e frutose) absorvidos rapidamente pelo intestino, chegando na corrente sanguínea em **20 a 30 minutos**. Bananas verdes têm **amido resistente** de absorção mais lenta; bananas muito maduras (casca toda escura) têm concentração muito alta de açúcar e menos nutrientes úteis.
 
 > 💡 **Dica:** Se sua banana está um pouco verde e você precisa usá-la hoje, coloque-a em um saco de papel fechado com uma maçã por 12 a 24 horas. O etileno liberado pela maçã acelera o amadurecimento da banana de forma natural e controlada.
 
@@ -46,9 +46,9 @@ Os amidos foram convertidos em açúcares simples (glicose e frutose) que são a
 ---
 
 ### Passo 2: Cortar a banana em rodelas diagonais
-Descasque a banana e corte em rodelas com corte diagonal de 45 graus.
+Descasque a banana e corte em **rodelas com corte diagonal de 45 graus**, resultando em formato oval mais elegante e prático para comer. A **espessura ideal é de 1 a 1,5 cm**.
 
-Cada rodela fica com formato oval, que é mais elegante e mais prático para comer. A espessura ideal é de 1 a 1,5 cm. Disponha as rodelas em um prato ou diretamente em um pote com tampa se for consumir no caminho para a academia. O corte diagonal não é só visual: cria uma área de superfície maior em cada rodela, que recebe mais pasta de amendoim por mordida.
+Disponha as rodelas em um prato ou em um **pote com tampa** se for consumir no caminho para a academia. O corte diagonal não é só visual: cria uma **área de superfície maior** em cada rodela, que recebe mais **pasta de amendoim** por mordida.
 
 > 💡 **Dica:** Para levar como lanche fora de casa, corte a banana mas deixe-a ainda dentro da casca parcialmente, remove uma metade da casca e come diretamente, sem prato ou talheres necessários.
 
@@ -57,9 +57,9 @@ Cada rodela fica com formato oval, que é mais elegante e mais prático para com
 ---
 
 ### Passo 3: Medir e servir a pasta de amendoim
-Meça 2 colheres de sopa bem cheias de pasta de amendoim integral (cerca de 32g). Coloque por cima das rodelas de banana ou em uma lateral do prato para mergulhar. Se a pasta estiver muito espessa (normal nas versões sem aditivos), mexa bem o pote antes de usar.
+Meça **2 colheres de sopa** bem cheias de **pasta de amendoim integral** (cerca de 32g). Coloque por cima das rodelas de banana ou em uma lateral do prato para mergulhar.
 
-O óleo natural do amendoim separa do sólido quando o pote fica parado. Uma pasta bem homogeneizada é muito mais fácil de trabalhar e tem sabor mais uniforme.
+Se a pasta estiver muito espessa (normal nas versões **sem aditivos**), mexa bem o pote antes de usar: o **óleo natural do amendoim** separa do sólido quando o pote fica parado. Uma pasta bem homogeneizada tem **sabor mais uniforme** e é mais fácil de trabalhar.
 
 > 💡 **Dica:** Aqueça a pasta de amendoim por 10 a 15 segundos no micro-ondas antes de usar. Quando aquecida, fica mais líquida e fluida, escorre melhor sobre a banana e o sabor do amendoim tostado fica mais pronunciado e irresistível.
 
@@ -68,9 +68,9 @@ O óleo natural do amendoim separa do sólido quando o pote fica parado. Uma pas
 ---
 
 ### Passo 4: Polvilhar canela e finalizar
-Se desejar, polvilhe canela em pó sobre o conjunto. A canela não é apenas aromatizante.
+Se desejar, polvilhe **canela em pó** sobre o conjunto. A canela não é apenas aromatizante: contém **cinamaldeído**, composto que melhora a **sensibilidade à insulina** e a forma como as células utilizam a **glicose** da banana.
 
-Contém cinamaldeído, um composto que melhora a sensibilidade à insulina e a forma como as células utilizam a glicose da banana. Uma pitada leve (menos de 1/4 de colher de chá) é suficiente para o benefício e para o sabor sem dominar o gosto natural da combinação.
+Uma pitada leve (menos de **1/4 de colher de chá**) é suficiente para o benefício e para o sabor sem dominar o gosto natural da combinação.
 
 > 💡 **Dica:** Experimente adicionar uma pitada de cardamomo junto com a canela, a combinação cria um perfil de sabor exótico e muito sofisticado neste lanche simples. O cardamomo também tem propriedades digestivas que podem ser úteis antes do treino.
 
@@ -79,7 +79,9 @@ Contém cinamaldeído, um composto que melhora a sensibilidade à insulina e a f
 ---
 
 ### Passo 5: Consumir no momento estratégico
-Consuma este lanche 30 a 45 minutos antes do início do aquecimento. Esse timing é calculado para que a glicose da banana esteja na corrente sanguínea e disponível para os músculos no momento de maior demanda de energia. Os ácidos graxos da pasta de amendoim têm digestão mais lenta, o que garante que a energia seja sustentada ao longo de todo o treino, não apenas nos primeiros minutos.
+Consuma este lanche **30 a 45 minutos** antes do início do aquecimento. Esse **timing estratégico** é calculado para que a **glicose da banana** esteja na corrente sanguínea e disponível para os músculos no momento de maior demanda de energia.
+
+Os **ácidos graxos da pasta de amendoim** têm digestão mais lenta, garantindo que a energia seja sustentada ao longo de todo o **treino**, não apenas nos primeiros minutos.
 
 > 💡 **Dica:** Beba 200 a 300 ml de água com este lanche, a hidratação antes do treino é tão importante quanto a nutrição. Especialmente se o treino for cardio de alta intensidade ou longa duração.
 

@@ -38,9 +38,9 @@ featured: true
 ## Passo a Passo Detalhado
 
 ### Passo 1: Separe e meça todos os ingredientes
-Antes de começar, tenha todos os ingredientes medidos e prontos: 1 scoop (30g) de whey protein, 250ml de leite de amêndoas, 1 colher de sopa cheia de cacau em pó 100%, a banana congelada, 1 colher de sopa de pasta de amendoim e o gelo. Ter tudo preparado antes torna o processo de bater no liquidificador muito mais rápido e garante que as proporções estejam certas.
+Antes de começar, tenha todos os ingredientes medidos e prontos: **1 scoop (30g) de whey protein**, **250ml de leite de amêndoas**, **1 colher de sopa de cacau em pó 100%**, a **banana congelada**, **1 colher de sopa de pasta de amendoim** e o **gelo**. Ter tudo preparado antes torna o processo de bater no liquidificador muito mais rápido e garante que as proporções estejam certas.
 
-Especialmente importante para o whey protein, que deve ser medido com a colher dosadora que acompanha o produto (ou em balança digital para precisão).
+Especialmente importante para o **whey protein**, que deve ser medido com a **colher dosadora** que acompanha o produto (ou em balança digital para precisão).
 
 > 💡 **Dica:** Congele a banana em fatias de 1 a 2 cm de espessura em vez de inteira, o liquidificador processa muito mais facilmente e o shake fica mais cremoso e frio sem precisar de muito gelo.
 
@@ -49,7 +49,9 @@ Especialmente importante para o whey protein, que deve ser medido com a colher d
 ---
 
 ### Passo 2: Adicione os ingredientes no liquidificador na ordem certa
-A ordem de adição faz diferença: coloque primeiro os líquidos (leite de amêndoas), depois os sólidos mais suaves (cacau em pó, whey protein), depois a pasta de amendoim e por último os sólidos congelados e o gelo. Essa sequência garante que os líquidos envolvam os pós e evitem que o whey protein e o cacau formem grumos nas paredes do liquidificador. O gelo por cima também ajuda a empurrar tudo para as lâminas.
+A **ordem de adição** faz diferença: coloque primeiro os líquidos (**leite de amêndoas**), depois os sólidos mais suaves (**cacau em pó**, **whey protein**), depois a **pasta de amendoim** e por último os sólidos congelados e o **gelo**. Essa sequência garante que os líquidos envolvam os pós e evitem que o whey protein e o cacau formem **grumos** nas paredes do liquidificador.
+
+O gelo por cima também ajuda a empurrar tudo para as lâminas, garantindo uma **liquidificação uniforme**.
 
 > 💡 **Dica:** Se o seu liquidificador tem dificuldade com ingredientes congelados, adicione o gelo e a banana congelada em último lugar e use a função "pulso" por 3 a 5 vezes antes de bater continuamente.
 
@@ -58,9 +60,9 @@ A ordem de adição faz diferença: coloque primeiro os líquidos (leite de amê
 ---
 
 ### Passo 3: Bata por 1 minuto em potência alta
-Com a tampa bem travada, bata em potência alta por 1 minuto contínuo. O shake está pronto quando o som do liquidificador mudar de "irregular" (processando pedaços sólidos) para "suave e uniforme" (mistura homogênea). A cor deve ser marrom chocolatada intensa e uniforme, sem listras de banana ou pontos brancos de proteína não dissolvida. A consistência ideal é similar à de um milk-shake espesso.
+Com a tampa bem travada, bata em **potência alta** por **1 minuto** contínuo. O shake está pronto quando o som do liquidificador mudar de "irregular" (processando pedaços sólidos) para "suave e uniforme" (mistura homogênea).
 
-Flui ao inclinar o liquidificador mas não é completamente líquido.
+A cor deve ser **marrom chocolatada intensa** e uniforme, sem listras de banana ou pontos brancos de proteína não dissolvida. A **consistência ideal** é similar à de um milk-shake espesso: flui ao inclinar o liquidificador mas não é completamente líquido.
 
 > 💡 **Dica:** Para um shake ainda mais cremoso, adicione 1 colher de sopa de iogurte grego natural ao liquidificador, adiciona probióticos e uma textura de sorvete derretido.
 
@@ -69,9 +71,9 @@ Flui ao inclinar o liquidificador mas não é completamente líquido.
 ---
 
 ### Passo 4: Ajuste a consistência se necessário
-Após bater, verifique a consistência: se quiser mais espesso (para usar como refeição), está pronto. Se quiser mais fluido (para beber rapidamente após o treino), adicione 50ml a mais de leite de amêndoas e bata por mais 10 a 15 segundos. Se ficou muito fluido, adicione mais gelo ou meia banana congelada e bata novamente. O ajuste de consistência é totalmente pessoal.
+Após bater, verifique a **consistência**: se quiser mais espesso (para usar como refeição), está pronto. Se quiser mais fluido (para beber rapidamente após o treino), adicione **50ml a mais de leite de amêndoas** e bata por mais **10 a 15 segundos**.
 
-Não existe certo ou errado, apenas preferência.
+Se ficou muito fluido, adicione mais **gelo** ou meia **banana congelada** e bata novamente. O ajuste de consistência é totalmente pessoal, não existe certo ou errado, apenas preferência.
 
 > 💡 **Dica:** Para uma versão mais caloríca (em fase de ganho de massa), substitua o leite de amêndoas por leite integral ou adicione 1 colher de sopa extra de pasta de amendoim.
 
@@ -80,9 +82,9 @@ Não existe certo ou errado, apenas preferência.
 ---
 
 ### Passo 5: Sirva imediatamente em copo gelado
-Despeje o shake em um copo alto previamente resfriado (coloque no congelador por 5 minutos antes) e sirva imediatamente. O shake proteico é mais eficiente nutricionalmente quando consumido logo após o treino.
+Despeje o shake em um **copo alto** previamente resfriado (coloque no congelador por **5 minutos** antes) e sirva **imediatamente**. O shake proteico é mais eficiente nutricionalmente quando consumido logo após o treino.
 
-A janela de recuperação de 30 a 60 minutos pós-exercício é o melhor momento para ingestão de proteínas de absorção rápida como o whey. Para finalizar, polvilhe uma pitada de cacau em pó ou canela por cima.
+A **janela de recuperação de 30 a 60 minutos** pós-exercício é o melhor momento para ingestão de **proteínas de absorção rápida** como o whey. Para finalizar, polvilhe uma pitada de **cacau em pó** ou **canela** por cima.
 
 > 💡 **Dica:** Se levar o shake para a academia, coloque em garrafa térmica bem gelada e consuma em no máximo 2 horas, a proteína começa a se degradar em temperatura ambiente após esse tempo.
 

@@ -45,9 +45,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Criar a base aromática com cebola e alho
-Em uma panela grande de fundo grosso (pelo menos 4 litros de capacidade), aqueça uma pitada de azeite em fogo médio. Adicione a cebola picada e refogue por 2 minutos mexendo sempre, até ficar transparente. Adicione o alho picado e refogue por mais 1 minuto até perfumar. Esta base aromática é o fundamento do sabor de toda a sopa.
+Em uma **panela grande de fundo grosso** (pelo menos 4 litros de capacidade), aqueça uma pitada de **azeite** em **fogo médio**. Adicione a **cebola picada** e refogue por **2 minutos** mexendo sempre, até ficar transparente.
 
-Mesmo que pareça pouca coisa, é o que diferencia uma sopa insossa de uma sopa deliciosa.
+Adicione o **alho picado** e refogue por mais **1 minuto** até perfumar. Esta **base aromática** é o fundamento do sabor de toda a sopa. Mesmo que pareça pouca coisa, é o que diferencia uma sopa insossa de uma sopa deliciosa.
 
 > 💡 **Dica:** Adicione uma pitada de sal na cebola logo no início do refogado. O sal acelera a liberação de umidade da cebola (processo chamado de osmose), o que acelera o douramento sem necessidade de mais gordura ou temperatura mais alta.
 
@@ -56,9 +56,9 @@ Mesmo que pareça pouca coisa, é o que diferencia uma sopa insossa de uma sopa 
 ---
 
 ### Passo 2: Selar o frango para criar sabor profundo
-Aumente ligeiramente o fogo e adicione os cubos de frango de uma vez à panela. Não mexa imediatamente.
+Aumente ligeiramente o fogo e adicione os **cubos de frango** de uma vez à panela. Não mexa imediatamente. Deixe o frango em contato com o **fundo quente** por **1 a 2 minutos** antes de virar.
 
-Deixe o frango em contato com o fundo quente por 1 a 2 minutos antes de virar. Você quer que cada cubo doure levemente na superfície. Esse processo (chamado de selagem) cria uma crosta com dezenas de compostos de sabor que vão se dissolver no caldo e criar uma sopa muito mais complexa e saborosa.
+Você quer que cada cubo **doure levemente** na superfície. Esse processo (chamado de **selagem**) cria uma crosta com dezenas de **compostos de sabor** que vão se dissolver no caldo e criar uma sopa muito mais complexa e saborosa.
 
 > 💡 **Dica:** Corte os cubos de frango todos no mesmo tamanho, entre 2 e 3 cm. Tamanhos uniformes garantem que todos cozinhem ao mesmo tempo, sem alguns ficando secos enquanto outros ainda estão crus.
 
@@ -67,9 +67,9 @@ Deixe o frango em contato com o fundo quente por 1 a 2 minutos antes de virar. V
 ---
 
 ### Passo 3: Adicionar o caldo e levar à fervura
-Despeje o caldo de legumes sobre o frango selado e a base aromática. Aumente o fogo para alto e leve à fervura completa. Assim que ferver, uma espuma branco-acinzentada vai aparecer na superfície.
+Despeje o **caldo de legumes** sobre o frango selado e a base aromática. Aumente o fogo para **alto** e leve à **fervura completa**. Assim que ferver, uma espuma branco-acinzentada vai aparecer na superfície.
 
-São proteínas coaguladas do frango. Use uma colher ou concha para retirar toda essa espuma antes de continuar. Esse passo garante um caldo limpo, transparente e com sabor mais puro.
+São **proteínas coaguladas** do frango. Use uma colher ou concha para retirar toda essa **espuma** antes de continuar. Esse passo garante um **caldo limpo**, transparente e com sabor mais puro.
 
 > 💡 **Dica:** Use caldo de legumes caseiro ou low sodium para controlar o sódio total da receita. Caldos industriais comuns têm até 700mg de sódio por xícara, com 1,5 litro de caldo, isso seria quase 4.000mg de sódio no prato inteiro, muito acima do recomendado.
 
@@ -78,9 +78,9 @@ São proteínas coaguladas do frango. Use uma colher ou concha para retirar toda
 ---
 
 ### Passo 4: Cozinhar os legumes em ordem de tempo
-Adicione primeiro as cenouras (mais densas, precisam de mais tempo), depois o salsão e por último o chuchu. Baixe o fogo para médio e cozinhe por 20 minutos com a panela semitampada. Cada legume tem um tempo de cozimento diferente.
+Adicione primeiro as **cenouras** (mais densas, precisam de mais tempo), depois o **salsão** e por último o **chuchu**. Baixe o fogo para **médio** e cozinhe por **20 minutos** com a panela semitampada.
 
-Cenoura precisa de cerca de 20 minutos, salsão de 15 e chuchu de 12. Adicionando em ordem, todos chegam ao ponto simultaneamente.
+Cada legume tem um **tempo de cozimento** diferente. Cenoura precisa de cerca de **20 minutos**, salsão de **15** e chuchu de **12**. Adicionando em ordem, todos chegam ao ponto simultaneamente.
 
 > 💡 **Dica:** Corte os legumes mais duros (cenoura) em rodelas mais finas e os mais moles (chuchu) em cubos maiores. Isso compensa as diferenças de tempo de cozimento mesmo quando adicionados ao mesmo tempo, se quiser simplificar o processo.
 
@@ -89,7 +89,9 @@ Cenoura precisa de cerca de 20 minutos, salsão de 15 e chuchu de 12. Adicionand
 ---
 
 ### Passo 5: Adicionar o grão-de-bico e ajustar o tempero
-Após 20 minutos, adicione o grão-de-bico cozido à sopa. O grão-de-bico já está cozido e precisa apenas de 10 minutos adicionais para absorver os sabores do caldo e completar a integração dos ingredientes. Aproveite este momento para provar o caldo e ajustar o sal, a pimenta e, se desejar, adicionar ervas adicionais como tomilho ou alecrim.
+Após **20 minutos**, adicione o **grão-de-bico cozido** à sopa. O grão-de-bico já está cozido e precisa apenas de **10 minutos** adicionais para absorver os sabores do caldo e completar a integração dos ingredientes.
+
+Aproveite este momento para provar o caldo e ajustar o **sal**, a **pimenta** e, se desejar, adicionar ervas adicionais como **tomilho** ou **alecrim**.
 
 > 💡 **Dica:** Para uma sopa mais espessa e cremosa, retire cerca de 1/3 dos grãos-de-bico junto com um pouco do caldo, bata no liquidificador e devolva à panela. Isso cria uma textura cremosa natural sem necessidade de amido ou creme.
 
@@ -98,9 +100,9 @@ Após 20 minutos, adicione o grão-de-bico cozido à sopa. O grão-de-bico já e
 ---
 
 ### Passo 6: Finalizar com cheiro-verde e servir
-Com o fogo desligado, adicione o cheiro-verde picado finamente (salsinha e cebolinha) e mexa. O fogo apagado preserva a cor vibrante verde e os óleos essenciais das ervas frescas.
+Com o **fogo desligado**, adicione o **cheiro-verde** picado finamente (**salsinha** e **cebolinha**) e mexa. O fogo apagado preserva a cor vibrante verde e os **óleos essenciais** das ervas frescas.
 
-Calor excessivo torna as ervas amareladas e sem aroma. Sirva imediatamente em tigelas fundas bem quentes, aqueça as tigelas com água quente por 1 minuto antes de servir para que a sopa não esfrie rápido.
+**Calor excessivo** torna as ervas amareladas e sem aroma. Sirva imediatamente em **tigelas fundas** bem quentes, aqueça as tigelas com água quente por **1 minuto** antes de servir para que a sopa não esfrie rápido.
 
 > 💡 **Dica:** Uma colher de sopa de suco de limão espremido fresco na hora de servir, diretamente na tigela individual, eleva completamente o sabor da sopa, o ácido realça todos os outros sabores e adiciona frescor ao prato reconfortante.
 

@@ -43,9 +43,9 @@ featured: true
 ## Passo a Passo Detalhado
 
 ### Passo 1: Marine o camarão com temperos aromáticos
-Combine em uma tigela o alho picado, o suco de limão, a páprica, o sal, a pimenta e metade do azeite. Adicione o camarão limpo e misture bem para que todos os pedaços fiquem envolvidos. Deixe marinar por 10 minutos em temperatura ambiente.
+Combine em uma tigela o **alho picado**, o **suco de limão**, a **páprica**, o **sal**, a **pimenta** e metade do **azeite**. Adicione o **camarão limpo** e misture bem para que todos os pedaços fiquem envolvidos.
 
-Esse tempo é suficiente para o ácido do limão começar a realçar o sabor sem "cozinhar" o camarão antes de grelhar.
+Deixe **marinar por 10 minutos em temperatura ambiente**. Esse tempo é suficiente para o **ácido do limão** começar a realçar o sabor sem "cozinhar" o camarão antes de grelhar.
 
 > 💡 **Dica:** Se tiver mais tempo, marine na geladeira por até 30 minutos. A páprica vai colorir lindamente o camarão e adicionar uma leve defumação ao sabor.
 
@@ -54,9 +54,9 @@ Esse tempo é suficiente para o ácido do limão começar a realçar o sabor sem
 ---
 
 ### Passo 2: Grelhe o camarão em frigideira bem quente
-Aqueça a frigideira em fogo alto por 2 minutos antes de adicionar o camarão.
+Aqueça a **frigideira** em **fogo alto por 2 minutos** antes de adicionar o camarão. Ela deve estar realmente quente para **selar rapidamente** e criar aquela cor dourada irresistível.
 
-Ela deve estar realmente quente para selar rapidamente e criar aquela cor dourada irresistível. Distribua os camarões em uma única camada, sem sobrepor, e grelhe por 2 a 3 minutos de cada lado. O sinal de que estão prontos: o camarão muda de cinza translúcido para branco-rosado opaco e fica ligeiramente enrolado em forma de "C".
+Distribua os camarões em uma **única camada, sem sobrepor**, e grelhe por **2 a 3 minutos de cada lado**. O sinal de que estão prontos: o camarão muda de **cinza translúcido** para **branco-rosado opaco** e fica ligeiramente enrolado em forma de "C".
 
 > 💡 **Dica:** Use frigideira de ferro fundido ou antiaderente pesada. Quanto mais quente a superfície, melhor o selamento e menos umidade liberada, o resultado é um camarão suculento, não cozido no próprio líquido.
 
@@ -65,9 +65,9 @@ Ela deve estar realmente quente para selar rapidamente e criar aquela cor dourad
 ---
 
 ### Passo 3: Monte a salada fresca
-Distribua as folhas verdes em uma travessa ou prato grande. Adicione as fatias de pepino (de preferência cortadas em meias-luas para mais elegância) e os tomates-cereja cortados ao meio. A combinação de texturas.
+Distribua as **folhas verdes** em uma travessa ou prato grande. Adicione as fatias de **pepino** (de preferência cortadas em meias-luas para mais elegância) e os **tomates-cereja** cortados ao meio.
 
-Folhas delicadas, pepino crocante e tomates suculentos, cria o contraponto perfeito para o camarão quente.
+A combinação de texturas: folhas delicadas, **pepino crocante** e **tomates suculentos**, cria o contraponto perfeito para o camarão quente.
 
 > 💡 **Dica:** Seque bem as folhas com centrifugador de salada ou papel toalha antes de montar. Folhas molhadas diluem o tempero e deixam a salada aguada.
 
@@ -76,9 +76,9 @@ Folhas delicadas, pepino crocante e tomates suculentos, cria o contraponto perfe
 ---
 
 ### Passo 4: Tempere a salada com azeite e pimenta
-Regue as folhas com o restante do azeite em fio, distribuindo uniformemente. Tempere com sal e pimenta a gosto. Se quiser uma camada extra de sabor, adicione algumas gotas de limão sobre as folhas.
+Regue as folhas com o restante do **azeite em fio**, distribuindo uniformemente. Tempere com **sal e pimenta** a gosto.
 
-Isso funciona como um tempero leve sem precisar de vinagrete elaborado.
+Se quiser uma camada extra de sabor, adicione algumas gotas de **limão** sobre as folhas. Isso funciona como um **tempero leve** sem precisar de vinagrete elaborado.
 
 > 💡 **Dica:** Use azeite extra virgem de qualidade nesta etapa, pois ele não vai ao fogo e seu sabor frutado vai brilhar na salada crua.
 
@@ -87,9 +87,9 @@ Isso funciona como um tempero leve sem precisar de vinagrete elaborado.
 ---
 
 ### Passo 5: Sirva o camarão quente sobre a salada imediatamente
-Disponha os camarões grelhados sobre a salada montada logo após sair da frigideira. O contraste entre o camarão quente e as folhas frescas é parte da experiência deste prato.
+Disponha os **camarões grelhados** sobre a salada montada logo após sair da frigideira. O **contraste entre o camarão quente e as folhas frescas** é parte da experiência deste prato.
 
-O calor do camarão levemente murcha as folhas mais próximas, criando uma textura agradável que mistura cru e levemente aquecido.
+O calor do camarão **levemente murcha as folhas** mais próximas, criando uma textura agradável que mistura cru e levemente aquecido.
 
 > 💡 **Dica:** Sirva em pratos aquecidos (passe água quente no prato antes de montar) para que o camarão não esfrie tão rapidamente.
 

@@ -43,9 +43,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Preparar o atum para a salada
-Abra a lata de atum e incline-a sobre a pia com a tampa semi-aberta por 1 a 2 minutos para escorrer completamente toda a água. Quanto mais líquido você remover, mais o sabor do atum se concentra e menos a salada fica aguada. Transfira para um bowl grande e desfie com um garfo em lascas médias.
+Abra a lata de **atum** e incline-a sobre a pia com a tampa semi-aberta por **1 a 2 minutos** para escorrer completamente toda a água. Quanto mais **líquido** você remover, mais o sabor do atum se concentra e menos a salada fica aguada.
 
-Não muito pequenas, para manter textura agradável, e não muito grandes, para que o atum se distribua por toda a salada.
+Transfira para um **bowl grande** e desfie com um **garfo** em lascas médias, não muito pequenas, para manter **textura agradável**, e não muito grandes, para que o atum se distribua por toda a salada.
 
 > 💡 **Dica:** Para atum com sabor mais suave e textura mais macia, escolha sempre atum em água. O atum em óleo tem mais gordura e as fibras ficam mais úmidas, mas o molho de azeite que usaremos já fornece a gordura ideal, não é necessário o óleo extra da lata.
 
@@ -54,9 +54,9 @@ Não muito pequenas, para manter textura agradável, e não muito grandes, para 
 ---
 
 ### Passo 2: Preparar os vegetais no corte correto
-O tamanho dos cortes define a experiência de comer esta salada. Corte o tomate em cubos médios de 1,5 cm, removendo as sementes para evitar excesso de líquido. Corte o pepino em cubos do mesmo tamanho, mantendo ou não a casca (a casca adiciona crocância e fibras). Fatie a cebola roxa em meias-luas bem finas com uma faca bem afiada.
+O **tamanho dos cortes** define a experiência de comer esta salada. Corte o **tomate** em cubos médios de **1,5 cm**, removendo as sementes para evitar excesso de líquido. Corte o **pepino** em cubos do mesmo tamanho, mantendo ou não a casca (a casca adiciona **crocância** e **fibras**).
 
-Cebola grossa tem sabor muito forte e pode dominar toda a salada.
+Fatie a **cebola roxa** em meias-luas bem finas com uma **faca bem afiada**, pois cebola grossa tem sabor muito forte e pode dominar toda a salada.
 
 > 💡 **Dica:** Para suavizar o sabor pungente da cebola roxa sem perder a cor e o crocante, coloque as fatias em uma tigela com água gelada e uma pitada de sal por 5 minutos antes de usar. Isso remove parte dos compostos sulfurosos e deixa a cebola mais delicada e agradável.
 
@@ -65,9 +65,9 @@ Cebola grossa tem sabor muito forte e pode dominar toda a salada.
 ---
 
 ### Passo 3: Preparar o molho de limão e azeite
-Em um bowl pequeno ou diretamente em uma xícara, misture o azeite de oliva extravirgem, o suco de limão siciliano, sal e pimenta-do-reino moída na hora. Misture vigorosamente com um garfo por 30 segundos até emulsificar levemente.
+Em um bowl pequeno ou diretamente em uma xícara, misture o **azeite de oliva extravirgem**, o **suco de limão siciliano**, sal e **pimenta-do-reino moída na hora**. Misture vigorosamente com um garfo por **30 segundos** até **emulsificar** levemente.
 
-O molho ficará levemente cremoso e não separado em camadas de gordura e ácido. O limão siciliano é preferível ao tahiti nesta receita porque tem acidez mais suave e perfume cítrico mais complexo.
+O molho ficará levemente cremoso e não separado em camadas de gordura e ácido. O **limão siciliano** é preferível ao tahiti nesta receita porque tem **acidez mais suave** e perfume cítrico mais complexo.
 
 > 💡 **Dica:** Adicione 1/2 colher de chá de mostarda Dijon ao molho e bata bem, a mostarda age como emulsificante natural e mantém o molho homogêneo por mais tempo, além de adicionar um toque de sabor que eleva o prato.
 
@@ -76,9 +76,9 @@ O molho ficará levemente cremoso e não separado em camadas de gordura e ácido
 ---
 
 ### Passo 4: Montar a salada com o grão-de-bico
-Adicione o grão-de-bico cozido ao bowl com o atum desfiado. Se usar grão-de-bico de lata, lave em água corrente e escorra bem para remover o líquido de conserva, que tem sabor metálico e textura pegajosa. Em seguida, adicione o tomate, pepino e cebola roxa. Misture delicadamente, com uma espátula de silicone ou dois garfos, para não esmagar os ingredientes.
+Adicione o **grão-de-bico cozido** ao bowl com o atum desfiado. Se usar grão-de-bico de lata, lave em água corrente e escorra bem para remover o **líquido de conserva**, que tem sabor metálico e textura pegajosa.
 
-Especialmente o grão-de-bico, que se desmancha facilmente se misturado com força.
+Em seguida, adicione o **tomate**, **pepino** e **cebola roxa**. Misture delicadamente, com uma **espátula de silicone** ou dois garfos, para não esmagar os ingredientes, especialmente o grão-de-bico, que se desmancha facilmente se misturado com força.
 
 > 💡 **Dica:** Reserve alguns grãos-de-bico inteiros para colocar por cima como finalização, cria uma apresentação mais bonita e permite que as pessoas identifiquem os ingredientes ao olhar para o prato.
 
@@ -87,9 +87,9 @@ Especialmente o grão-de-bico, que se desmancha facilmente se misturado com for�
 ---
 
 ### Passo 5: Temperar e ajustar o sabor
-Despeje o molho sobre a salada e misture delicadamente. Prove e ajuste: se precisar de mais acidez, adicione mais limão; se precisar de mais profundidade, um fio a mais de azeite. Sal na quantidade certa é fundamental.
+Despeje o **molho** sobre a salada e misture delicadamente. Prove e ajuste: se precisar de mais acidez, adicione mais **limão**; se precisar de mais profundidade, um fio a mais de **azeite**. **Sal** na quantidade certa é fundamental.
 
-O atum já tem sódio natural, então vá com cuidado. Finalize com salsinha picada fresca, ela não é decoração, adiciona vitamina C, frescor e contraste visual.
+O atum já tem **sódio** natural, então vá com cuidado. Finalize com **salsinha picada fresca**, ela não é decoração e adiciona **vitamina C**, frescor e contraste visual.
 
 > 💡 **Dica:** Uma pitada de páprica defumada ou curry em pó transforma completamente o perfil de sabor desta salada, trazendo uma dimensão exótica e surpreendente sem adicionar calorias significativas.
 
@@ -98,9 +98,9 @@ O atum já tem sódio natural, então vá com cuidado. Finalize com salsinha pic
 ---
 
 ### Passo 6: Servir ou descansar na geladeira
-Esta salada pode ser servida imediatamente ou descansar por até 1 hora na geladeira coberta com filme plástico. O descanso faz os sabores se integrarem e o grão-de-bico absorver o molho de limão e azeite, ficando mais saboroso. Após 1 hora, os vegetais começam a soltar água demais.
+Esta salada pode ser servida imediatamente ou descansar por até **1 hora na geladeira** coberta com **filme plástico**. O descanso faz os sabores se integrarem e o **grão-de-bico** absorver o molho de limão e azeite, ficando mais saboroso.
 
-Sirva dentro desse intervalo para a melhor experiência.
+Após **1 hora**, os vegetais começam a soltar água demais, por isso sirva dentro desse intervalo para a melhor experiência.
 
 > 💡 **Dica:** Se for levar para o trabalho (marmita), armazene os vegetais e o molho separados do atum e grão-de-bico e monte na hora de comer. Isso mantém a salada fresca e sem excesso de líquido por até 4 horas fora da geladeira.
 

@@ -41,9 +41,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Preparar a pasta de tâmaras
-Se as tâmaras estiverem secas e rígidas, hidrate-as em água quente por 10 minutos antes de processar. Retire os caroços (se não forem descaroçadas) e coloque no processador. Processe por 1 a 2 minutos, raspando as bordas periodicamente, até obter uma pasta completamente lisa e homogênea, com textura de caramelo denso. Nenhum pedaço deve permanecer visível.
+Se as **tâmaras** estiverem secas e rígidas, **hidrate-as em água quente por 10 minutos** antes de processar. Retire os **caroços** (se não forem descaroçadas) e coloque no **processador**.
 
-A textura irregular comprometeria a consistência final das trufas.
+Processe por **1 a 2 minutos**, raspando as bordas periodicamente, até obter uma pasta completamente **lisa e homogênea**, com textura de **caramelo denso**. Nenhum pedaço deve permanecer visível, pois a textura irregular comprometeria a consistência final das trufas.
 
 > 💡 **Dica:** Adicione 1 colher de sopa da água de hidratação ao processar as tâmaras. Isso facilita muito a formação da pasta e torna o processamento mais eficiente. Não adicione mais do que isso para não deixar a pasta úmida demais.
 
@@ -52,7 +52,9 @@ A textura irregular comprometeria a consistência final das trufas.
 ---
 
 ### Passo 2: Derreter o chocolate com o óleo de coco
-Pique o chocolate amargo 70% em pedaços pequenos e uniformes para facilitar o derretimento. Em banho-maria: coloque o chocolate e o óleo de coco em um bowl de metal ou vidro sobre uma panela com água quente (não fervente), mexendo constantemente com espátula até derreter completamente. Isso leva 2 a 3 minutos. No micro-ondas: aqueça em potência média por 30 segundos, mexa, e repita em intervalos de 15 segundos até derreter completamente.
+Pique o **chocolate amargo 70%** em pedaços pequenos e uniformes para facilitar o **derretimento**. Em **banho-maria**: coloque o chocolate e o **óleo de coco** em um bowl de metal ou vidro sobre uma panela com água quente (não fervente), mexendo constantemente com espátula até derreter completamente, o que leva **2 a 3 minutos**.
+
+No **micro-ondas**: aqueça em **potência média por 30 segundos**, mexa, e repita em **intervalos de 15 segundos** até derreter completamente.
 
 > 💡 **Dica:** O óleo de coco derrete junto com o chocolate e atua como emulsificante natural, resultando em ganache mais lisa e brilhante, além de contribuir com a firmeza na temperatura da geladeira, facilitando a modelagem.
 
@@ -61,9 +63,9 @@ Pique o chocolate amargo 70% em pedaços pequenos e uniformes para facilitar o d
 ---
 
 ### Passo 3: Combinar todos os ingredientes
-Adicione a pasta de tâmaras ao chocolate derretido e misture com a espátula em movimentos circulares vigorosos. A mistura vai resistir um pouco no início.
+Adicione a **pasta de tâmaras** ao **chocolate derretido** e misture com a espátula em **movimentos circulares vigorosos**. A mistura vai resistir um pouco no início, mas continue mexendo por **1 a 2 minutos** até os ingredientes se integrarem completamente.
 
-Continue mexendo por 1 a 2 minutos até os ingredientes se integrarem completamente em uma massa homogênea e brilhante. Adicione o cacau em pó e o extrato de baunilha e misture por mais 30 segundos. A massa deve ficar espessa, brilhante e com aroma intenso de chocolate.
+Adicione o **cacau em pó** e o **extrato de baunilha** e misture por mais **30 segundos**. A massa deve ficar **espessa, brilhante** e com **aroma intenso de chocolate**.
 
 > 💡 **Dica:** Adicione 1 pitada de flor de sal à massa, o contraste de sal com o chocolate amargo é clássico da confeitaria francesa e eleva enormemente a percepção do sabor de cacau.
 
@@ -72,7 +74,9 @@ Continue mexendo por 1 a 2 minutos até os ingredientes se integrarem completame
 ---
 
 ### Passo 4: Refrigerar para firmar
-Transfira a massa para um bowl coberto com filme plástico e leve à geladeira por 30 minutos. A massa deve firmar até o ponto em que é possível moldá-la sem que grude excessivamente nas mãos. Se após 30 minutos ainda estiver muito mole, deixe por mais 15 minutos. Se estiver muito dura para modelar, deixe em temperatura ambiente por 5 minutos antes de começar.
+Transfira a **massa** para um bowl coberto com **filme plástico** e leve à **geladeira por 30 minutos**. A massa deve firmar até o ponto em que é possível **moldá-la** sem que grude excessivamente nas mãos.
+
+Se após **30 minutos** ainda estiver muito mole, deixe por mais **15 minutos**. Se estiver muito dura para modelar, deixe em **temperatura ambiente por 5 minutos** antes de começar.
 
 > 💡 **Dica:** Para acelerar o processo, coloque no freezer por 15 minutos em vez de 30 minutos na geladeira. A textura fica igualmente boa para modelagem.
 
@@ -81,9 +85,9 @@ Transfira a massa para um bowl coberto com filme plástico e leve à geladeira p
 ---
 
 ### Passo 5: Modelar as trufas
-Prepare uma bandeja ou prato coberto com papel-manteiga e o cacau em pó (ou castanha triturada) em um prato raso. Com uma colher de chá, retire porções iguais de massa.
+Prepare uma bandeja ou prato coberto com **papel-manteiga** e o **cacau em pó** (ou castanha triturada) em um prato raso. Com uma **colher de chá**, retire porções iguais de massa, aproximadamente **15g cada** (para 16 trufas de 150g de chocolate).
 
-Aproximadamente 15g cada (para 16 trufas de 150g de chocolate). Modele rapidamente em bolinhas usando as palmas das mãos em movimentos circulares. Mãos frias ajudam muito, passe as mãos sob água fria entre cada trufa.
+Modele rapidamente em **bolinhas** usando as palmas das mãos em movimentos circulares. **Mãos frias** ajudam muito: passe as mãos sob água fria entre cada trufa.
 
 > 💡 **Dica:** Use luvas descartáveis de latex para modelar. Além de mais higiênico, o latex não aquece a massa tanto quanto a pele, resultando em trufas mais lisas e bolinhas mais perfeitas.
 
@@ -92,7 +96,9 @@ Aproximadamente 15g cada (para 16 trufas de 150g de chocolate). Modele rapidamen
 ---
 
 ### Passo 6: Enrolar no acabamento e refrigerar
-Imediatamente após modelar cada bolinha, role-a no cacau em pó ou na castanha triturada no prato raso, girando para cobrir completamente. Transfira para a bandeja com papel-manteiga. Quando todas as trufas estiverem prontas, leve à geladeira por 15 minutos para firmar completamente. Conserve em pote hermético na geladeira.
+Imediatamente após modelar cada bolinha, role-a no **cacau em pó** ou na **castanha triturada** no prato raso, girando para cobrir completamente. Transfira para a bandeja com **papel-manteiga**.
+
+Quando todas as trufas estiverem prontas, leve à **geladeira por 15 minutos** para firmar completamente. Conserve em **pote hermético na geladeira**.
 
 > 💡 **Dica:** Para uma versão mais sofisticada, mergulhe as trufas modeladas em chocolate amargo derretido (temperado) em vez de enrolar no cacau. Isso cria a casquinha crocante característica das trufas de confeitaria fina.
 

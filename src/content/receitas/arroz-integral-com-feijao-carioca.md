@@ -44,9 +44,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Cozinhar o arroz integral corretamente
-Lave o arroz integral em água corrente até a água sair clara.
+Lave o **arroz integral** em **água corrente** até a água sair clara, removendo o excesso de **amido**.
 
-Isso remove o excesso de amido. Use a proporção de 2 xícaras de água para cada 1 xícara de arroz e adicione uma pitada de sal. Cozinhe tampado em fogo baixo por 40 minutos sem abrir a panela; o vapor retido é o responsável por deixar os grãos soltinhos. Ao final, desligue e deixe repousar por 5 minutos antes de soltar com um garfo.
+Use a proporção de **2 xícaras de água** para cada 1 xícara de arroz e adicione uma pitada de sal. Cozinhe **tampado em fogo baixo** por **40 minutos** sem abrir a panela; o vapor retido é o responsável por deixar os grãos soltinhos. Ao final, desligue e deixe **repousar por 5 minutos** antes de soltar com um garfo.
 
 > 💡 **Dica:** Se tiver tempo, deixe o arroz integral de molho em água fria por 4 a 8 horas antes de cozinhar, isso reduz o tempo de cocção para cerca de 25 minutos e melhora a textura dos grãos.
 
@@ -55,9 +55,9 @@ Isso remove o excesso de amido. Use a proporção de 2 xícaras de água para ca
 ---
 
 ### Passo 2: Refogar a cebola até dourar
-Em uma panela de fundo grosso, aqueça o azeite em fogo médio. Adicione a cebola picada e mexa de vez em quando por 4 a 6 minutos até ela ficar translúcida e começar a dourar nas bordas. Esse passo cria a base de sabor do feijão.
+Em uma **panela de fundo grosso**, aqueça o **azeite** em fogo médio. Adicione a **cebola picada** e mexa de vez em quando por **4 a 6 minutos** até ela ficar translúcida e começar a dourar nas bordas.
 
-A cebola caramelizada libera açúcares naturais que deixam o caldo mais saboroso e profundo.
+Esse passo cria a **base de sabor do feijão**: a cebola caramelizada libera **açúcares naturais** que deixam o caldo mais saboroso e profundo.
 
 > 💡 **Dica:** Adicione uma pitada de sal na cebola no início do refogado. O sal ajuda a extrair a umidade e acelera o processo de dourar sem precisar de mais gordura.
 
@@ -66,9 +66,9 @@ A cebola caramelizada libera açúcares naturais que deixam o caldo mais saboros
 ---
 
 ### Passo 3: Adicionar o alho e perfumar o refogado
-Com a cebola já dourada, reduza o fogo para médio-baixo e adicione o alho picado. Mexa continuamente por apenas 1 minuto.
+Com a **cebola** já dourada, reduza o fogo para médio-baixo e adicione o **alho picado**. Mexa continuamente por apenas **1 minuto**.
 
-O alho está pronto quando liberar aquele aroma inconfundível e a cor mudar levemente para dourado claro. Tempo demais transforma o alho em amargo, arruinando toda a base do prato.
+O alho está pronto quando liberar aquele **aroma inconfundível** e a cor mudar levemente para **dourado claro**. Tempo demais transforma o alho em amargo, arruinando toda a base do prato.
 
 > 💡 **Dica:** Para um sabor ainda mais intenso, esmague levemente os dentes de alho com as costas da faca antes de picar. Isso libera mais alicina, o composto responsável pelo sabor marcante.
 
@@ -77,7 +77,9 @@ O alho está pronto quando liberar aquele aroma inconfundível e a cor mudar lev
 ---
 
 ### Passo 4: Incorporar o feijão e criar o caldo
-Adicione o feijão já cozido junto com cerca de 1/2 xícara do caldo de cozimento, as folhas de louro, sal e pimenta-do-reino. O caldo de feijão é ouro: concentrado de sabor e nutrientes, ele vai engrossar naturalmente conforme o feijão cozinha. Mexa delicadamente para não amassar os grãos inteiros.
+Adicione o **feijão já cozido** junto com cerca de **1/2 xícara do caldo de cozimento**, as **folhas de louro**, sal e **pimenta-do-reino**.
+
+O caldo de feijão é ouro: concentrado de sabor e nutrientes, vai engrossar naturalmente conforme o feijão cozinha. Mexa delicadamente para não amassar os **grãos inteiros**.
 
 > 💡 **Dica:** Se usar feijão de lata, guarde a água da lata e use no lugar do caldo de cozimento, ela tem sabor concentrado e funciona muito bem.
 
@@ -86,7 +88,9 @@ Adicione o feijão já cozido junto com cerca de 1/2 xícara do caldo de cozimen
 ---
 
 ### Passo 5: Cozinhar em fogo baixo para encorpar
-Deixe o feijão cozinhando em fogo baixo por 10 a 15 minutos com a panela semitampada. Esse tempo é fundamental para o caldo engrossar naturalmente e os sabores do refogado se integrarem ao feijão. A textura ideal é cremosa, mas ainda com os grãos inteiros e firmes. Se quiser um caldo mais espesso, amasse alguns grãos contra a lateral da panela com uma colher.
+Deixe o feijão cozinhando em **fogo baixo** por **10 a 15 minutos** com a panela semitampada, tempo fundamental para o **caldo engrossar naturalmente** e os sabores do refogado se integrarem.
+
+A **textura ideal** é cremosa, mas ainda com os grãos inteiros e firmes. Se quiser um caldo mais espesso, amasse alguns grãos contra a lateral da panela com uma colher.
 
 > 💡 **Dica:** Para acelerar o encorpamento, retire cerca de 1/4 dos grãos, amasse bem e devolva à panela. O resultado é um caldo naturalmente cremoso sem precisar de amido.
 
@@ -95,9 +99,9 @@ Deixe o feijão cozinhando em fogo baixo por 10 a 15 minutos com a panela semita
 ---
 
 ### Passo 6: Finalizar e servir
-Retire as folhas de louro, ajuste o sal e sirva o feijão cremoso sobre o arroz integral quente. Finalize com salsinha picada fresca.
+Retire as **folhas de louro**, ajuste o sal e sirva o **feijão cremoso** sobre o **arroz integral quente**. Finalize com **salsinha picada fresca**, que não é só decoração: adiciona frescor, **vitamina C** e contrasta com a riqueza do feijão.
 
-Ela não é só decoração, adiciona frescor, vitamina C e ajuda a contrastar com a riqueza do feijão. Para uma apresentação mais bonita, sirva o arroz em um lado do prato e o feijão ao lado, não por cima, para manter as texturas separadas.
+Para uma apresentação mais bonita, sirva o arroz em um lado do prato e o feijão ao lado, não por cima, para **manter as texturas separadas**.
 
 > 💡 **Dica:** Um fio de azeite extravirgem por cima na hora de servir eleva o prato a outro nível, a gordura boa potencializa a absorção dos nutrientes lipossolúveis do feijão.
 

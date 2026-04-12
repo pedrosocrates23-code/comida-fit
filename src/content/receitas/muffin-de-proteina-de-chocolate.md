@@ -44,9 +44,9 @@ featured: true
 ## Passo a Passo Detalhado
 
 ### Passo 1: Preparar o forno e as forminhas
-Pré-aqueça o forno a 180°C por pelo menos 10 minutos. Unte 6 forminhas individuais de muffin com spray antiaderente ou forre com forminhas de papel. Se optar pela forma de silicone, não é necessário untar. A uniformidade das forminhas importa.
+Pré-aqueça o **forno a 180°C** por pelo menos **10 minutos**. Unte **6 forminhas individuais de muffin** com **spray antiaderente** ou forre com forminhas de papel. Se optar pela **forma de silicone**, não é necessário untar.
 
-Formas muito grandes produzem muffins baixos e secos, enquanto formas muito pequenas podem transbordar.
+A uniformidade das forminhas importa: formas muito grandes produzem muffins baixos e secos, enquanto formas muito pequenas podem transbordar.
 
 > 💡 **Dica:** Para muffins com topo mais alto e arredondado (aquele visual bonito de padaria), encha cada forminha até 3/4 da capacidade e inicie o forno a 200°C pelos primeiros 5 minutos, depois reduza para 180°C. O calor inicial forte cria o efeito de expansão rápida no topo.
 
@@ -55,9 +55,9 @@ Formas muito grandes produzem muffins baixos e secos, enquanto formas muito pequ
 ---
 
 ### Passo 2: Misturar os ingredientes secos
-Em um bowl médio, misture a farinha de aveia, o whey protein de chocolate, o cacau em pó sem açúcar, o fermento em pó e a pitada de sal. Use um fouet para distribuir bem o fermento.
+Em um bowl médio, misture a **farinha de aveia**, o **whey protein de chocolate**, o **cacau em pó sem açúcar**, o **fermento em pó** e a **pitada de sal**. Use um **fouet** para distribuir bem o fermento, pois grumos de fermento concentrado em um ponto criam buracos irregulares na massa.
 
-Grumos de fermento concentrado em um ponto criam buracos irregulares na massa. O whey e o cacau juntos garantem o sabor intenso de chocolate sem nenhum açúcar refinado.
+O **whey** e o **cacau** juntos garantem o sabor intenso de **chocolate** sem nenhum açúcar refinado.
 
 > 💡 **Dica:** Peneire o cacau antes de misturar, ele tem tendência a formar grumos que são difíceis de desfazer depois da massa montada, resultando em pontos amargos no muffin final.
 
@@ -66,9 +66,9 @@ Grumos de fermento concentrado em um ponto criam buracos irregulares na massa. O
 ---
 
 ### Passo 3: Misturar os ingredientes úmidos
-Em outro bowl, misture as 3 claras de ovo (temperatura ambiente.
+Em outro bowl, misture as **3 claras de ovo** (em temperatura ambiente, pois claras frias não incorporam tão bem), a **banana amassada** em purê fino e o **leite desnatado ou de amêndoas**. Misture com **fouet por 30 segundos** até ficar homogêneo.
 
-Claras frias não incorporam tão bem), a banana amassada em purê fino e o leite desnatado ou de amêndoas. Misture com fouet por 30 segundos até ficar homogêneo. A banana é o adoçante natural desta receita, quanto mais madura, mais doce o muffin final. Uma banana bem escura (quase preta) pode tornar o mel ou adoçante extras completamente desnecessários.
+A **banana** é o **adoçante natural** desta receita: quanto mais madura, mais doce o muffin final. Uma **banana bem escura** (quase preta) pode tornar o mel ou adoçante extras completamente desnecessários.
 
 > 💡 **Dica:** Se preferir uma textura mais leve, bata as claras em neve leve (não ponto de neve firme) antes de adicionar à banana. O resultado é um muffin mais aerado e com textura mais similar ao muffin convencional.
 
@@ -77,9 +77,9 @@ Claras frias não incorporam tão bem), a banana amassada em purê fino e o leit
 ---
 
 ### Passo 4: Unir úmidos e secos sem sobremisturar
-Despeje os ingredientes úmidos sobre os secos de uma vez e misture com uma espátula em movimentos suaves de dobrar.
+Despeje os **ingredientes úmidos** sobre os secos de uma vez e misture com uma **espátula** em movimentos suaves de **dobrar**, não de bater. O objetivo é incorporar tudo até não haver mais rastros de farinha seca, mas parar por aí.
 
-Não de bater. O objetivo é incorporar tudo até não haver mais rastros de farinha seca, mas parar por aí. Sobremisturar ativa o glúten residual da aveia e o whey protein, resultando em muffins densos, borrachudos e com textura de borracha em vez de macia e úmida. Alguns pequenos grumos na massa são aceitáveis e preferíveis.
+**Sobremisturar** ativa o glúten residual da aveia e o **whey protein**, resultando em muffins **densos e borrachudos** em vez de macios e úmidos. Alguns pequenos grumos na massa são aceitáveis e preferíveis.
 
 > 💡 **Dica:** Adicione 2 colheres de sopa de gotinhas de chocolate 70% à massa nesse momento para pontos de chocolate derretido que elevam muito o nível da receita.
 
@@ -88,7 +88,9 @@ Não de bater. O objetivo é incorporar tudo até não haver mais rastros de far
 ---
 
 ### Passo 5: Distribuir nas forminhas
-Com uma colher de sorvete ou colher de sopa, distribua a massa igualmente entre as 6 forminhas, preenchendo até 3/4 de cada uma. Essa divisão igual garante que todos os muffins assem no mesmo tempo. Bata levemente a forma contra a bancada para eliminar bolhas de ar grandes.
+Com uma **colher de sorvete** ou colher de sopa, distribua a massa igualmente entre as **6 forminhas**, preenchendo até **3/4 de cada uma**.
+
+Essa divisão igual garante que todos os muffins assem no **mesmo tempo**. Bata levemente a forma contra a bancada para eliminar **bolhas de ar** grandes.
 
 > 💡 **Dica:** Para um visual caprichado, polvilhe cacau em pó ou coloque uma gotinha de chocolate no topo de cada muffin antes de levar ao forno.
 
@@ -97,9 +99,9 @@ Com uma colher de sorvete ou colher de sopa, distribua a massa igualmente entre 
 ---
 
 ### Passo 6: Assar e testar o ponto
-Asse a 180°C por 18 a 20 minutos. Faça o teste do palito inserido no centro do muffin: o palito deve sair com algumas migalhas úmidas, mas sem massa crua. Se o palito sair completamente limpo, o muffin já passou do ponto ideal e ficará seco. O whey protein resseca mais rapidamente do que a farinha convencional.
+Asse a **180°C por 18 a 20 minutos**. Faça o **teste do palito** inserido no centro do muffin: o palito deve sair com algumas **migalhas úmidas**, mas sem massa crua. Se o palito sair completamente limpo, o muffin já passou do ponto ideal e ficará seco.
 
-O ponto úmido é fundamental para a textura perfeita.
+O **whey protein** resseca mais rapidamente do que a farinha convencional, por isso o **ponto úmido** é fundamental para a textura perfeita.
 
 > 💡 **Dica:** Comece a verificar com 16 minutos de forno. Cada forno é diferente e muffins proteicos passam do ponto mais rápido do que os convencionais.
 

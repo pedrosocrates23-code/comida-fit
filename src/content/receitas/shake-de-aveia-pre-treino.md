@@ -39,9 +39,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Hidratar a aveia no leite por 5 minutos
-Coloque os 40g de aveia em flocos finos diretamente no copo do liquidificador e despeje os 250 ml de leite por cima. Deixe repousar por 5 minutos. Esse passo de hidratação não é opcional.
+Coloque os **40g de aveia em flocos finos** diretamente no copo do liquidificador e despeje os **250 ml de leite** por cima. Deixe repousar por **5 minutos**, pois esse passo de **hidratação** não é opcional.
 
-A aveia seca no liquidificador resulta em uma textura granulosa e com pedaços que não se dissolvem completamente, especialmente com liquidificadores domésticos comuns. Após 5 minutos de contato com o leite, a aveia absorve líquido e amolece, permitindo que seja batida até uma textura completamente lisa e cremosa.
+A aveia seca no liquidificador resulta em uma textura granulosa e com pedaços que não se dissolvem completamente, especialmente com liquidificadores domésticos comuns. Após 5 minutos de contato com o leite, a aveia absorve líquido e amolece, permitindo que seja batida até uma **textura completamente lisa e cremosa**.
 
 > 💡 **Dica:** Se quiser uma textura ainda mais suave, hidrate a aveia por 10 minutos no leite morno (não quente), a aveia absorve melhor em temperatura levemente elevada e o resultado final é um shake com textura de smoothie premium, sem nenhum rastro de grão.
 
@@ -50,7 +50,9 @@ A aveia seca no liquidificador resulta em uma textura granulosa e com pedaços q
 ---
 
 ### Passo 2: Adicionar os ingredientes ao liquidificador
-Após os 5 minutos de hidratação, adicione a banana madura cortada em pedaços (para facilitar o trabalho do liquidificador), o scoop de whey protein baunilha, o mel e a canela em pó. A ordem de adição importa: ingredientes líquidos e moles na base (leite + aveia hidratada) criam um vórtice que puxa os ingredientes sólidos de cima para baixo com mais eficiência. Adicionar o whey primeiro, no fundo, pode fazer com que ele grude nas paredes do copo sem se misturar.
+Após os 5 minutos de hidratação, adicione a **banana madura** cortada em pedaços (para facilitar o trabalho do liquidificador), o **scoop de whey protein baunilha**, o **mel** e a **canela em pó**. A ordem de adição importa: ingredientes líquidos e moles na base (leite + aveia hidratada) criam um vórtice que puxa os ingredientes sólidos de cima para baixo com mais eficiência.
+
+Adicionar o **whey** primeiro, no fundo, pode fazer com que ele grude nas paredes do copo sem se misturar, comprometendo a uniformidade do shake.
 
 > 💡 **Dica:** Quebre a banana em pedaços de 3 a 4 cm antes de adicionar, em vez de colocar inteira. Pedaços menores se trituram mais rapidamente, reduzindo o tempo de liquidificação e o calor gerado pelo atrito, calor excessivo pode desnaturar parcialmente as proteínas do whey.
 
@@ -59,7 +61,9 @@ Após os 5 minutos de hidratação, adicione a banana madura cortada em pedaços
 ---
 
 ### Passo 3: Bater no liquidificador pelo tempo certo
-Tampe o liquidificador e bata em velocidade alta por 1 minuto completo. Esse tempo é o mínimo para que a aveia hidratada seja completamente triturada, a banana se integre e o whey se dissolva uniformemente. O shake pronto deve ter cor creme-dourada uniforme, textura lisa sem pedaços visíveis e espuma na superfície (sinal de boa incorporação de ar, o que deixa o shake mais encorpado e palatável).
+Tampe o liquidificador e bata em **velocidade alta** por **1 minuto** completo. Esse tempo é o mínimo para que a aveia hidratada seja completamente triturada, a banana se integre e o **whey** se dissolva uniformemente.
+
+O shake pronto deve ter **cor creme-dourada uniforme**, textura lisa sem pedaços visíveis e **espuma na superfície** (sinal de boa incorporação de ar, o que deixa o shake mais encorpado e palatável).
 
 > 💡 **Dica:** Bata por 30 segundos, abra e raspe as bordas com uma espátula, depois bata por mais 30 segundos. Esse processo garante que não haja aveia ou proteína grudada nas paredes do copo que não foi incorporada ao shake.
 
@@ -68,7 +72,9 @@ Tampe o liquidificador e bata em velocidade alta por 1 minuto completo. Esse tem
 ---
 
 ### Passo 4: Adicionar gelo se desejar
-Se preferir o shake gelado e mais encorpado, adicione 4 a 6 cubos de gelo após o primeiro minuto de liquidificação e bata por mais 30 segundos. O gelo não dilui o shake de forma significativa (leva tempo para derreter), mas reduz a temperatura imediatamente e cria uma textura mais densa e cremosa, similar a um smoothie espesso. Para dias quentes ou treinos no verão, a versão gelada é muito mais palatável e refrescante.
+Se preferir o shake gelado e mais encorpado, adicione **4 a 6 cubos de gelo** após o primeiro minuto de liquidificação e bata por mais **30 segundos**. O gelo não dilui o shake de forma significativa, mas reduz a temperatura imediatamente e cria uma **textura mais densa e cremosa**, similar a um smoothie espesso.
+
+Para dias quentes ou **treinos no verão**, a versão gelada é muito mais palatável e refrescante.
 
 > 💡 **Dica:** Congele banana madura em pedaços e use no lugar do gelo. Banana congelada não dilui o shake como o gelo faz quando derrete, cria uma textura ainda mais cremosa (similar a sorvete), adiciona mais carboidratos e sabor natural, uma atualização simples que melhora muito o shake.
 
@@ -77,9 +83,9 @@ Se preferir o shake gelado e mais encorpado, adicione 4 a 6 cubos de gelo após 
 ---
 
 ### Passo 5: Consumir no timing estratégico
-Consuma o shake 45 a 60 minutos antes do início do treino. Esse intervalo é maior que o recomendado para lanches sólidos porque o shake é líquido.
+Consuma o shake **45 a 60 minutos** antes do início do treino. Esse intervalo é maior que o recomendado para lanches sólidos porque o shake é líquido e a digestão é mais rápida, mas o **whey protein** precisa de tempo para ser absorvido e os **aminoácidos** chegarem na corrente sanguínea.
 
-A digestão é mais rápida, mas o whey protein precisa de tempo para ser absorvido e os aminoácidos chegarem na corrente sanguínea. Com 45 a 60 minutos, você tem aveia fornecendo carboidratos complexos em circulação gradualmente, banana e mel com energia rápida disponível nos primeiros momentos do treino, e whey protein com aminoácidos circulando e reduzindo a degradação muscular durante o exercício.
+Com 45 a 60 minutos, você tem **aveia** fornecendo **carboidratos complexos** em circulação gradualmente, **banana** e **mel** com energia rápida disponível nos primeiros momentos do treino, e whey protein com aminoácidos circulando e reduzindo a **degradação muscular** durante o exercício.
 
 > 💡 **Dica:** Beba o shake lentamente, em 5 a 10 minutos, em vez de tomar de uma vez. Ingestão rápida de líquido em grande volume pode causar desconforto gástrico durante o exercício. Consumo gradual facilita a digestão e absorção.
 

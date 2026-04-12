@@ -40,9 +40,9 @@ featured: true
 ## Passo a Passo Detalhado
 
 ### Passo 1: Amasse as bananas até virarem pasta
-Descasque as 2 bananas e coloque-as em um bowl médio. Com um garfo, amasse com movimentos firmes fazendo pressão de baixo para cima, girando o bowl enquanto trabalha. O objetivo é uma pasta o mais homogênea possível, sem pedaços grandes de banana que criariam pontos de inconsistência na massa. Quanto mais madura a banana (com pintas pretas na casca), mais fácil de amassar e mais doce e perfumada ficará a panqueca.
+Descasque as **2 bananas** e coloque-as em um bowl médio. Com um garfo, amasse com movimentos firmes fazendo pressão de baixo para cima, girando o bowl enquanto trabalha. O objetivo é uma **pasta homogênea**, sem pedaços grandes de banana que criariam pontos de inconsistência na massa.
 
-Ideal para esta receita.
+Quanto mais **madura** a banana (com **pintas pretas** na casca), mais fácil de amassar e mais **doce e perfumada** ficará a panqueca. Ideal para esta receita.
 
 > 💡 **Dica:** Para uma textura ainda mais lisinha, use o liquidificador ou um mixer de mão por 10 segundos em vez do garfo, a massa fica completamente homogênea e as panquecas ficam mais uniformes.
 
@@ -51,9 +51,9 @@ Ideal para esta receita.
 ---
 
 ### Passo 2: Incorpore os ovos e a baunilha
-Quebre os 3 ovos diretamente no bowl com a pasta de banana, adicione o extrato de baunilha e a canela. Misture vigorosamente com um fouet (ou garfo) por 30 a 45 segundos até que a mistura esteja completamente uniforme. A massa ficará mais líquida do que uma massa de panqueca convencional.
+Quebre os **3 ovos** diretamente no bowl com a pasta de banana, adicione o **extrato de baunilha** e a **canela**. Misture vigorosamente com um **fouet** (ou garfo) por **30 a 45 segundos** até que a mistura esteja completamente uniforme.
 
-Isso é normal. A consistência certa é similar a um iogurte líquido: flui facilmente mas não é completamente aquosa.
+A massa ficará **mais líquida** do que uma massa de panqueca convencional. Isso é normal. A consistência certa é similar a um **iogurte líquido**: flui facilmente mas não é completamente aquosa.
 
 > 💡 **Dica:** Adicione 1 colher de sopa de farinha de amêndoas ou coco à massa para aumentar o teor de proteínas e gorduras boas, além de dar um pouco mais de estrutura à panqueca.
 
@@ -62,9 +62,9 @@ Isso é normal. A consistência certa é similar a um iogurte líquido: flui fac
 ---
 
 ### Passo 3: Aqueça a frigideira e unte levemente
-Leve uma frigideira antiaderente pequena (de 18 a 20 cm) ao fogo médio e espere aquecer por 1 minuto. Borrife levemente com spray de coco.
+Leve uma **frigideira antiaderente** pequena (de **18 a 20 cm**) ao **fogo médio** e espere aquecer por **1 minuto**. Borrife levemente com **spray de coco**.
 
-Apenas uma borrifada de 1 a 2 segundos é suficiente para a frigideira toda. Essa camada mínima de gordura garante que as panquecas se soltem facilmente sem aderir, sem adicionar calorias ou sabor significativo. Evite usar muito óleo pois a panqueca ficará gordurosa e escorregadia.
+Apenas uma borrifada de **1 a 2 segundos** é suficiente para a frigideira toda. Essa camada mínima de gordura garante que as panquecas se soltem facilmente sem aderir, sem adicionar **calorias** ou sabor significativo. Evite usar muito óleo pois a panqueca ficará **gordurosa e escorregadia**.
 
 > 💡 **Dica:** Faça o teste da gota: pingue uma gota d'água na frigideira, se evaporar em 2 a 3 segundos, está na temperatura ideal para começar.
 
@@ -73,9 +73,9 @@ Apenas uma borrifada de 1 a 2 segundos é suficiente para a frigideira toda. Ess
 ---
 
 ### Passo 4: Despeje pequenas porções e aguarde
-Usando uma concha pequena ou duas colheres de sopa, despeje porções de cerca de 3 colheres de sopa de massa de forma circular na frigideira. As panquecas devem ter cerca de 8 a 10 cm de diâmetro.
+Usando uma concha pequena ou duas colheres de sopa, despeje porções de cerca de **3 colheres de sopa** de massa de forma circular na frigideira. As panquecas devem ter cerca de **8 a 10 cm** de diâmetro.
 
-Menores são muito mais fáceis de virar do que panquecas grandes, que tendem a quebrar por serem delicadas. Cozinhe por 2 minutos sem tocar, o sinal para virar é quando as bordas ficam opaques e pequenas bolhas aparecem na superfície.
+Menores são muito mais fáceis de virar do que panquecas grandes, que tendem a quebrar por serem delicadas. Cozinhe por **2 minutos** sem tocar. O sinal para virar é quando as **bordas ficam opacas** e pequenas **bolhas aparecem** na superfície.
 
 > 💡 **Dica:** Você pode cozinhar 2 a 3 panquecas ao mesmo tempo se a frigideira for maior, apenas deixe espaço suficiente entre elas para virar com a espátula.
 
@@ -84,9 +84,9 @@ Menores são muito mais fáceis de virar do que panquecas grandes, que tendem a 
 ---
 
 ### Passo 5: Vire com cuidado e finalize o cozimento
-Com uma espátula fina e larga, deslize cuidadosamente por baixo de toda a panqueca em um único movimento antes de virar.
+Com uma **espátula fina e larga**, deslize cuidadosamente por baixo de toda a panqueca em um único movimento antes de virar. Não tente virar se a espátula não deslizou com facilidade (não está pronto ainda).
 
-Não tente virar se a espátula não deslizou com facilidade (não está pronto ainda). Vire com um movimento rápido e confiante. Cozinhe por 1 a 2 minutos no segundo lado até uma cor dourada uniforme aparecer. Não pressione com a espátula, deixe a gravidade e o calor fazerem o trabalho.
+Vire com um **movimento rápido e confiante**. Cozinhe por **1 a 2 minutos** no segundo lado até uma **cor dourada uniforme** aparecer. Não pressione com a espátula, deixe a gravidade e o calor fazerem o trabalho.
 
 > 💡 **Dica:** Se a panqueca quebrar ao virar, não se preocupe, o sabor é exatamente o mesmo. Junte os pedaços no prato e cubra com frutas e mel que ninguém vai notar.
 
@@ -95,9 +95,9 @@ Não tente virar se a espátula não deslizou com facilidade (não está pronto 
 ---
 
 ### Passo 6: Sirva polvilhado com canela e frutas
-Empilhe as panquecas no prato (rendimento: 6 a 8 panquecas pequenas), polvilhe generosamente com canela em pó e acompanhe com frutas frescas de sua preferência.
+Empilhe as panquecas no prato (rendimento: **6 a 8 panquecas** pequenas), polvilhe generosamente com **canela em pó** e acompanhe com **frutas frescas** de sua preferência.
 
-Morangos, mirtilo, banana fatiada ou manga funcionam muito bem. Um fio de mel ou xarope de agave completa o prato de forma elegante e saborosa.
+**Morangos**, **mirtilo**, banana fatiada ou manga funcionam muito bem. Um fio de **mel** ou **xarope de agave** completa o prato de forma elegante e saborosa.
 
 > 💡 **Dica:** Pasta de amendoim natural por cima das panquecas quentes derrete levemente e cria uma cobertura deliciosa que também aumenta o teor de proteínas e gorduras boas.
 

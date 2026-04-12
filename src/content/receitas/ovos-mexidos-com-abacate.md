@@ -42,9 +42,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Prepare os ovos para cozinhar
-Quebre os 3 ovos caipiras em um bowl pequeno, tempere com sal marinho e pimenta-do-reino a gosto e bata muito levemente com um garfo.
+Quebre os **3 ovos caipiras** em um bowl pequeno, tempere com **sal marinho** e **pimenta-do-reino** a gosto e bata muito levemente com um garfo.
 
-Apenas o suficiente para misturar as claras e as gemas sem incorporar ar em excesso. Para ovos mexidos cremosos, a textura da mistura crua não precisa ser completamente homogênea: pequenas estrias de clara e gema criam aquelas manchas cremosas características dos melhores ovos mexidos. Menos batida = mais cremoso.
+Apenas o suficiente para misturar as claras e as gemas sem incorporar ar em excesso. Para **ovos mexidos cremosos**, a textura da mistura crua não precisa ser completamente homogênea: pequenas estrias de clara e gema criam aquelas manchas cremosas características dos melhores ovos mexidos. **Menos batida = mais cremoso.**
 
 > 💡 **Dica:** Ovos caipiras ou orgânicos têm gema mais laranja e sabor muito mais rico do que os convencionais. O resultado final é visivelmente e saborosamente superior.
 
@@ -53,9 +53,9 @@ Apenas o suficiente para misturar as claras e as gemas sem incorporar ar em exce
 ---
 
 ### Passo 2: Aqueça a gordura em fogo BAIXO
-Esse é o passo mais importante da receita: coloque a manteiga ghee (ou azeite) em uma frigideira antiaderente pequena e leve ao fogo BAIXO.
+Esse é o passo mais importante da receita: coloque a **manteiga ghee** (ou azeite) em uma **frigideira antiaderente** pequena e leve ao **fogo BAIXO**.
 
-Não médio, não médio-baixo, mas o fogo mais baixo possível do seu fogão. Espere a manteiga derreter completamente e começar a borbulhar muito levemente, sem nenhuma fumaça. O segredo dos ovos mexidos perfeitos é a temperatura baixa e o tempo lento, exatamente o oposto do que a maioria das pessoas faz.
+Não médio, não médio-baixo, mas o **fogo mais baixo possível** do seu fogão. Espere a manteiga derreter completamente e começar a borbulhar muito levemente, sem nenhuma fumaça. O segredo dos **ovos mexidos perfeitos** é a **temperatura baixa** e o **tempo lento**, exatamente o oposto do que a maioria das pessoas faz.
 
 > 💡 **Dica:** Se tiver dúvida sobre a temperatura, tire a frigideira do fogo por alguns segundos e volte, esse controle fino faz toda a diferença no resultado final.
 
@@ -64,9 +64,9 @@ Não médio, não médio-baixo, mas o fogo mais baixo possível do seu fogão. E
 ---
 
 ### Passo 3: Mexa lentamente em movimentos circulares
-Despeje os ovos na frigideira com manteiga já derretida e comece a mexer imediatamente com uma espátula de silicone (nunca de metal, que arranha a antiaderente) em movimentos lentos, largos e circulares do fundo para as bordas. O processo leva de 3 a 5 minutos.
+Despeje os ovos na frigideira com manteiga já derretida e comece a mexer imediatamente com uma **espátula de silicone** (nunca de metal, que arranha a antiaderente) em movimentos **lentos, largos e circulares** do fundo para as bordas. O processo leva de **3 a 5 minutos**.
 
-Muito mais do que parece necessário, mas esse tempo é o que cria a textura de creme aveludado. Você verá a mistura ir coagulando gradualmente em pedaços macios e brilhantes.
+Muito mais do que parece necessário, mas esse tempo é o que cria a textura de **creme aveludado**. Você verá a mistura ir **coagulando** gradualmente em pedaços macios e brilhantes.
 
 > 💡 **Dica:** Retire a frigideira do fogo por 10 a 15 segundos a cada minuto, continuando a mexer, isso desacelera o cozimento e garante o máximo de cremosidade.
 
@@ -75,9 +75,9 @@ Muito mais do que parece necessário, mas esse tempo é o que cria a textura de 
 ---
 
 ### Passo 4: Retire do fogo antes do ponto final
-Este passo é o segredo que separa ovos mexidos mediocres dos excepcionais: retire a frigideira do fogo enquanto os ovos ainda parecem levemente sub-cozidos, brilhantes e com aspecto cremoso.
+Este passo é o segredo que separa ovos mexidos mediocres dos excepcionais: retire a frigideira do fogo enquanto os ovos ainda parecem levemente **sub-cozidos**, brilhantes e com **aspecto cremoso**.
 
-Não secos e opacos. O calor residual da frigideira vai continuar cozinhando por mais 30 a 60 segundos. Se esperar até parecerem "prontos" na frigideira, vão ficar cozidos demais no prato.
+Não secos e opacos. O **calor residual** da frigideira vai continuar cozinhando por mais **30 a 60 segundos**. Se esperar até parecerem "prontos" na frigideira, vão ficar **cozidos demais** no prato.
 
 > 💡 **Dica:** Adicione uma colher de queijo cottage ou cream cheese light no final do cozimento para uma camada extra de cremosidade e proteínas.
 
@@ -86,7 +86,9 @@ Não secos e opacos. O calor residual da frigideira vai continuar cozinhando por
 ---
 
 ### Passo 5: Prepare e tempere o abacate
-Enquanto os ovos cozinham (são lentos o suficiente para você fazer isso ao mesmo tempo), corte o meio abacate ao meio no sentido do comprimento e retire o caroço. Com uma colher grande, retire a polpa inteira de uma vez e fatie no sentido da largura em fatias de 0,5 cm de espessura. Tempere com uma pitada de sal marinho, pimenta-do-reino e, se quiser, algumas gotas de limão para evitar oxidação e adicionar frescor.
+Enquanto os ovos cozinham, corte o **meio abacate** ao meio no sentido do comprimento e retire o **caroço**. Com uma colher grande, retire a polpa inteira de uma vez e fatie no sentido da largura em fatias de **0,5 cm** de espessura.
+
+Tempere com uma pitada de **sal marinho**, **pimenta-do-reino** e, se quiser, algumas gotas de **limão** para evitar **oxidação** e adicionar frescor.
 
 > 💡 **Dica:** Um abacate maduro cede levemente ao pressionar com o polegar. Se ainda estiver muito firme, deixe em temperatura ambiente por 1 a 2 dias para amadurecer.
 
@@ -95,9 +97,9 @@ Enquanto os ovos cozinham (são lentos o suficiente para você fazer isso ao mes
 ---
 
 ### Passo 6: Monte o prato e finalize
-Disponha os ovos mexidos cremosos em um dos lados do prato e as fatias de abacate no outro, de forma visualmente atraente. Finalize com a cebolinha picada fresca (que adiciona frescor e um leve picante), a páprica defumada (que dá cor e aroma) e mais uma pitada de sal marinho. Sirva imediatamente.
+Disponha os **ovos mexidos cremosos** em um dos lados do prato e as fatias de **abacate** no outro, de forma visualmente atraente. Finalize com a **cebolinha** picada fresca (que adiciona frescor e um leve picante), a **páprica defumada** (que dá cor e aroma) e mais uma pitada de **sal marinho**.
 
-Tanto os ovos quanto o abacate são melhores fresquinhos.
+Sirva imediatamente. Tanto os ovos quanto o abacate são melhores **fresquinhos**.
 
 > 💡 **Dica:** Adicione sementes de gergelim preto sobre o abacate para uma combinação bonita visualmente e nutritiva, o gergelim é rico em cálcio e gorduras boas.
 

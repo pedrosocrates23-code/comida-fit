@@ -39,9 +39,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Lave e prepare os morangos
-Coloque os morangos em uma peneira e lave sob água corrente fria, movendo delicadamente para remover toda a terra e resíduos sem machucar a polpa. Retire o cabinho verde de cada morango com os dedos ou com uma faquinha pequena. Se usar morangos frescos grandes, corte ao meio para facilitar o trabalho do liquidificador. Se usar congelados, não precisa descongelar.
+Coloque os **morangos** em uma peneira e lave sob **água corrente fria**, movendo delicadamente para remover toda a terra e resíduos sem machucar a polpa. Retire o **cabinho verde** de cada morango com os dedos ou com uma faquinha pequena.
 
-Vão diretamente para o liquidificador e deixam o smoothie mais frio e cremoso.
+Se usar morangos frescos grandes, corte ao meio para facilitar o trabalho do liquidificador. Se usar **congelados**, não precisa descongelar, vão diretamente para o liquidificador e deixam o smoothie mais **frio e cremoso**.
 
 > 💡 **Dica:** Para morangos fora de temporada com sabor menos intenso, adicione 1/2 colher de chá de extrato de baunilha, realça naturalmente o sabor da fruta sem adicionar açúcar.
 
@@ -50,7 +50,9 @@ Vão diretamente para o liquidificador e deixam o smoothie mais frio e cremoso.
 ---
 
 ### Passo 2: Adicione todos os ingredientes ao liquidificador
-Coloque no liquidificador, nesta ordem: o leite (para ajudar as lâminas a girar), os morangos, o iogurte grego, as sementes de chia e o mel. Finalize com o gelo por cima. Essa sequência coloca os líquidos próximos às lâminas, facilitando o início do processamento e evitando que os ingredientes mais sólidos fiquem presos no fundo sem contato com o líquido.
+Coloque no liquidificador, nesta ordem: o **leite** (para ajudar as lâminas a girar), os **morangos**, o **iogurte grego**, as **sementes de chia** e o **mel**. Finalize com o **gelo** por cima.
+
+Essa sequência coloca os líquidos próximos às lâminas, facilitando o início do processamento e evitando que os ingredientes mais sólidos fiquem presos no fundo sem contato com o líquido.
 
 > 💡 **Dica:** Adicione as sementes de chia antes de bater (não depois) para que elas sejam moídas junto com os demais ingredientes, liberando seus ácidos graxos ômega-3 de forma mais biodisponível.
 
@@ -59,7 +61,9 @@ Coloque no liquidificador, nesta ordem: o leite (para ajudar as lâminas a girar
 ---
 
 ### Passo 3: Bata por 1 minuto até textura cremosa
-Com a tampa bem travada, bata em potência alta por 1 minuto contínuo. O smoothie está pronto quando a cor for rosa uniforme e intensa (sem manchas vermelhas de morango não processado), a textura for completamente lisa e cremosa, e nenhum pedaço sólido for perceptível. Se ouvir o som do liquidificador ficando suave e constante, é sinal de que tudo foi processado corretamente.
+Com a tampa bem travada, bata em **potência alta** por **1 minuto** contínuo. O smoothie está pronto quando a cor for **rosa uniforme e intensa** (sem manchas vermelhas de morango não processado) e a textura for completamente **lisa e cremosa**, sem nenhum pedaço sólido perceptível.
+
+Se ouvir o som do liquidificador ficando suave e constante, é sinal de que tudo foi **processado corretamente**.
 
 > 💡 **Dica:** Para textura ainda mais cremosa (quase de milkshake), substitua 50ml do leite por 50g de banana congelada, adiciona corpo e dulçor natural.
 
@@ -68,7 +72,9 @@ Com a tampa bem travada, bata em potência alta por 1 minuto contínuo. O smooth
 ---
 
 ### Passo 4: Prove e ajuste a doçura
-Antes de servir, prove o smoothie com uma colher pequena. Se estiver ácido demais (morangos fora de temporada são naturalmente mais ácidos), adicione mais mel ou 1/4 de banana madura e bata por mais 10 segundos. Se estiver muito doce, adicione mais suco de limão ou mais iogurte e bata brevemente. O ajuste de doçura é sempre pessoal e depende muito da doçura natural dos morangos do dia.
+Antes de servir, prove o smoothie com uma colher pequena. Se estiver **ácido demais** (morangos fora de temporada são naturalmente mais ácidos), adicione mais **mel** ou 1/4 de **banana madura** e bata por mais **10 segundos**.
+
+Se estiver muito doce, adicione mais **suco de limão** ou mais **iogurte** e bata brevemente. O ajuste de **doçura** é sempre pessoal e depende muito da doçura natural dos morangos do dia.
 
 > 💡 **Dica:** Uma pitada de sal (micro-quantidade, quase imperceptível) realça o sabor do morango e equilibra a acidez, técnica usada por chefs profissionais em sobremesas de fruta.
 
@@ -77,9 +83,9 @@ Antes de servir, prove o smoothie com uma colher pequena. Se estiver ácido dema
 ---
 
 ### Passo 5: Sirva imediatamente com decoração
-Despeje o smoothie em um copo alto e decorado com um morango fresco na borda (faça um pequeno corte na base do morango e encaixe na borda do copo). Sirva imediatamente.
+Despeje o smoothie em um **copo alto** decorado com um **morango fresco** na borda (faça um pequeno corte na base do morango e encaixe na borda do copo). Sirva **imediatamente**.
 
-O smoothie com chia começa a engrossar após alguns minutos conforme a chia hidrata. Se quiser mais espesso, espere 3 a 5 minutos antes de servir; se quiser mais fluido, sirva na hora.
+O smoothie com **chia** começa a engrossar após alguns minutos conforme a chia hidrata. Se quiser mais espesso, espere **3 a 5 minutos** antes de servir; se quiser mais fluido, sirva na hora.
 
 > 💡 **Dica:** Polvilhe algumas sementes de chia inteiras por cima como decoração, fica visualmente bonito e lembra a textura interna do smoothie.
 

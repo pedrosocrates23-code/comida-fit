@@ -42,9 +42,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Preparar o forno e as assadeiras
-Pré-aqueça o forno a 190°C com ventilação (função turbo ou convecção), se disponível. O ar circulante remove a umidade de forma mais eficiente, resultando em chips significativamente mais crocantes. Prepare duas assadeiras forradas com papel-manteiga.
+**Pré-aqueça o forno a 190°C** com ventilação (**função turbo ou convecção**), se disponível. O ar circulante **remove a umidade** de forma mais eficiente, resultando em chips significativamente mais crocantes.
 
-Você vai precisar das duas porque os chips precisam de espaço para assar em camada única, e 400g de batata-doce fatiada ocupa bastante área.
+Prepare **duas assadeiras forradas com papel-manteiga**. Você vai precisar das duas porque os chips precisam de espaço para assar em **camada única**, e 400g de batata-doce fatiada ocupa bastante área.
 
 > 💡 **Dica:** Se seu forno não tem função convecção, deixe a porta levemente entreaberta (uns 2 cm) com uma colher de pau nos últimos 10 minutos de cozimento. Isso permite que o vapor escape e os chips fiquem mais secos e crocantes.
 
@@ -53,9 +53,9 @@ Você vai precisar das duas porque os chips precisam de espaço para assar em ca
 ---
 
 ### Passo 2: Fatiar com espessura uniforme
-Essa é a etapa mais crítica da receita. Lave bem as batatas-doces e fatie com casca (a casca adiciona fibra e fica crocante) em rodelas de exatamente 2mm de espessura. Um mandoline de cozinha é ideal e transforma esse processo em algo rápido e preciso. Com faca, use movimentos lentos e controlados, e tente manter a consistência entre os cortes. Fatias desiguais assam em tempos diferentes.
+Essa é a **etapa mais crítica** da receita. Lave bem as **batatas-doces** e fatie com casca (a casca adiciona **fibra** e fica crocante) em rodelas de exatamente **2mm de espessura**. Um **mandoline de cozinha** é ideal e transforma esse processo em algo rápido e preciso.
 
-As finas queimam antes das grossas ficarem prontas.
+Com faca, use movimentos lentos e controlados, tentando manter a consistência entre os cortes. **Fatias desiguais assam em tempos diferentes**: as finas queimam antes das grossas ficarem prontas.
 
 > 💡 **Dica:** Corte as batatas ao meio no sentido do comprimento antes de fatiar. Metades são mais estáveis na tábua e mais fáceis de fatiar com espessura uniforme do que rodelas de tubérculos redondos.
 
@@ -64,7 +64,9 @@ As finas queimam antes das grossas ficarem prontas.
 ---
 
 ### Passo 3: Secar as fatias: o passo mais importante
-Distribua as fatias sobre papel toalha em uma única camada e cubra com mais papel toalha por cima. Pressione levemente e deixe por 2 a 3 minutos. A batata-doce tem alto teor de umidade e, se não for seca antes de assar, o vapor interno vai fazer os chips ficarem moles em vez de crocantes. Esse passo simples faz uma diferença enorme no resultado final.
+Distribua as fatias sobre **papel toalha** em uma única camada e cubra com mais papel toalha por cima. Pressione levemente e deixe por **2 a 3 minutos**.
+
+A **batata-doce** tem alto teor de **umidade** e, se não for seca antes de assar, o vapor interno vai fazer os chips ficarem moles em vez de **crocantes**. Esse passo simples faz uma diferença enorme no resultado final.
 
 > 💡 **Dica:** Para remoção de umidade ainda mais eficiente, salgue levemente as fatias, deixe por 10 minutos sobre papel toalha, enxágue em água fria e seque bem. O sal extrai água por osmose, mas só use essa técnica se tiver tempo extra.
 
@@ -73,9 +75,9 @@ Distribua as fatias sobre papel toalha em uma única camada e cubra com mais pap
 ---
 
 ### Passo 4: Temperar uniformemente
-Coloque as fatias secas em um bowl grande, adicione o azeite e misture com as mãos para cobrir cada fatia com uma película fina de gordura. Em seguida, adicione o sal, a páprica defumada, o alho em pó e a pimenta-do-reino e misture novamente. O objetivo é cobrir todas as fatias de forma uniforme.
+Coloque as fatias secas em um **bowl grande**, adicione o **azeite** e misture com as mãos para cobrir cada fatia com uma **película fina de gordura**. Em seguida, adicione o **sal**, a **páprica defumada**, o **alho em pó** e a **pimenta-do-reino** e misture novamente.
 
-Temperos concentrados em algumas fatias e ausentes em outras resultam em sabor inconsistente.
+O objetivo é cobrir **todas as fatias de forma uniforme**: temperos concentrados em algumas fatias e ausentes em outras resultam em sabor inconsistente.
 
 > 💡 **Dica:** Use apenas 1 colher de sopa de azeite para as 400g de batata-doce, parece pouco, mas é suficiente. Excesso de gordura impede a evaporação da umidade e deixa os chips encharcados em vez de crocantes.
 
@@ -84,9 +86,9 @@ Temperos concentrados em algumas fatias e ausentes em outras resultam em sabor i
 ---
 
 ### Passo 5: Distribuir em camada única e assar
-Disponha as fatias nas assadeiras sem sobrepor, deixando pequenos espaços entre elas. Leve ao forno a 190°C por 10 minutos, depois vire cada fatia com uma espátula e continue assando por mais 10 a 15 minutos. Nos últimos minutos, fique bem atento.
+Disponha as fatias nas assadeiras **sem sobrepor**, deixando pequenos espaços entre elas. Leve ao **forno a 190°C** por **10 minutos**, depois vire cada fatia com uma espátula e continue assando por mais **10 a 15 minutos**.
 
-Os chips passam de dourados para queimados muito rapidamente. Retire os chips que já estiverem prontos individualmente, pois os de borda ficam prontos antes dos do centro.
+Nos últimos minutos, fique bem atento: os chips passam de **dourados para queimados muito rapidamente**. Retire os chips que já estiverem prontos individualmente, pois os de borda ficam prontos antes dos do centro.
 
 > 💡 **Dica:** Assadeiras diferentes no mesmo forno podem ter tempos diferentes. Troque as posições das assadeiras na virada para garantir cozimento mais uniforme.
 
@@ -95,7 +97,9 @@ Os chips passam de dourados para queimados muito rapidamente. Retire os chips qu
 ---
 
 ### Passo 6: Resfriamento para crocância máxima
-Retire os chips do forno e deixe esfriar na própria assadeira por 5 minutos antes de servir. Os chips ficam levemente moles quando saem do forno, mas firmarão e ficarão mais crocantes à medida que esfriam. Se ainda parecerem moles após 5 minutos, volte ao forno por mais 3 a 5 minutos com a temperatura reduzida para 160°C.
+Retire os chips do forno e deixe esfriar na própria assadeira por **5 minutos** antes de servir. Os chips ficam levemente moles quando saem do forno, mas **firmarão e ficarão mais crocantes** à medida que esfriam.
+
+Se ainda parecerem moles após 5 minutos, volte ao forno por mais **3 a 5 minutos** com a **temperatura reduzida para 160°C**.
 
 > 💡 **Dica:** Chips que esfriaram completamente e ainda estão moles podem ser "ressuscitados" colocando-os em forno a 150°C por 8 a 10 minutos. O calor baixo remove a umidade residual sem queimar.
 

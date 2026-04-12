@@ -43,9 +43,9 @@ featured: true
 ## Passo a Passo Detalhado
 
 ### Passo 1: Tempere e doure o frango em cubos em fogo alto
-Corte o peito de frango em cubos de aproximadamente 3 cm.
+Corte o **peito de frango** em cubos de aproximadamente **3 cm**. Tamanho uniforme garante **cozimento por igual**.
 
-Tamanho uniforme garante cozimento por igual. Tempere com sal, pimenta e o alho picado, misturando bem. Aqueça o azeite em uma panela ou frigideira funda em fogo alto e adicione o frango em camada única (trabalhe em duas levas se necessário). Doure por 3-4 minutos sem mexer, depois vire e doure o outro lado. O frango dourado forma uma crosta que vai adicionar sabor profundo e cor ao molho.
+Tempere com **sal**, **pimenta** e o **alho picado**, misturando bem. Aqueça o **azeite** em uma panela ou frigideira funda em **fogo alto** e adicione o frango em camada única (trabalhe em duas levas se necessário). Doure por **3-4 minutos** sem mexer, depois vire e doure o outro lado. O frango dourado forma uma **crosta** que vai adicionar sabor profundo e cor ao molho.
 
 > 💡 **Dica:** Seque os cubos de frango com papel toalha antes de temperar. Frango úmido não doura, cozinha no vapor e fica cinzento. A secagem é crucial para obter aquela crosta dourada apetitosa.
 
@@ -54,9 +54,9 @@ Tamanho uniforme garante cozimento por igual. Tempere com sal, pimenta e o alho 
 ---
 
 ### Passo 2: Refogue a cebola e os cogumelos até dourar
-Com o frango dourado, adicione a cebola picada e os cogumelos Paris fatiados. Reduza o fogo para médio-alto e refogue por 5 minutos, mexendo ocasionalmente. A cebola vai caramelizar levemente e os cogumelos vão murchar, liberando seu líquido natural e depois começar a dourar. Esse processo de evaporação do líquido dos cogumelos concentra o sabor umami.
+Com o frango dourado, adicione a **cebola picada** e os **cogumelos Paris fatiados**. Reduza o fogo para **médio-alto** e refogue por **5 minutos**, mexendo ocasionalmente.
 
-Não apresse essa etapa.
+A cebola vai **caramelizar** levemente e os cogumelos vão murchar, liberando seu líquido natural e depois começar a dourar. Esse processo de evaporação concentra o **sabor umami**. Não apresse essa etapa.
 
 > 💡 **Dica:** Adicione os cogumelos sem sal neste momento, o sal extrai a água dos cogumelos rapidamente, fazendo-os cozinhar no próprio líquido em vez de dourar. Tempere os cogumelos apenas ao final da receita.
 
@@ -65,9 +65,9 @@ Não apresse essa etapa.
 ---
 
 ### Passo 3: Adicione o caldo e a mostarda: crie o fundo do molho
-Despeje o caldo de frango sobre a carne e os legumes e adicione a mostarda. Raspe bem o fundo da panela com uma espátula.
+Despeje o **caldo de frango** sobre a carne e os legumes e adicione a **mostarda**. Raspe bem o fundo da panela com uma espátula.
 
-Os pedaços dourados grudados no fundo (chamados de "fond") vão se dissolver no caldo e criar a base de sabor complexo do molho. Cozinhe em fogo médio por 10 minutos com a panela parcialmente tampada, permitindo alguma evaporação para que o molho concentre e reduza levemente.
+Os pedaços dourados grudados no fundo (chamados de **"fond"**) vão se dissolver no caldo e criar a **base de sabor complexo** do molho. Cozinhe em **fogo médio** por **10 minutos** com a panela parcialmente tampada, permitindo alguma evaporação para que o molho **concentre** e reduza levemente.
 
 > 💡 **Dica:** Use mostarda Dijon para o strogonoff mais sofisticado. A mostarda tem a função de emulsionar o molho (ajuda a ligar a gordura do frango com a água do caldo) além de adicionar sabor único.
 
@@ -76,9 +76,9 @@ Os pedaços dourados grudados no fundo (chamados de "fond") vão se dissolver no
 ---
 
 ### Passo 4: Adicione a ricota cremosa e finalize o molho
-Reduza o fogo para baixo-médio. Adicione a ricota cremosa em colheradas e misture vigorosamente com uma espátula ou fouet. A ricota vai se integrar ao caldo quente, criando um molho cremoso e homogêneo. O processo leva 1-2 minutos de meximento constante. A temperatura baixa é essencial.
+Reduza o fogo para **baixo-médio**. Adicione a **ricota cremosa** em colheradas e misture vigorosamente com uma espátula ou fouet. A ricota vai se integrar ao caldo quente, criando um **molho cremoso e homogêneo** em **1-2 minutos** de meximento constante.
 
-Ricota em fogo alto cozinha demais e forma grânulos no molho em vez de criar cremosidade.
+A **temperatura baixa** é essencial. Ricota em **fogo alto** cozinha demais e forma grânulos no molho em vez de criar cremosidade.
 
 > 💡 **Dica:** Se a ricota estiver muito espessa, dissolva-a em 2 colheres de sopa do próprio caldo quente da panela antes de adicionar ao restante. Isso facilita a incorporação e evita grumos.
 
@@ -87,9 +87,9 @@ Ricota em fogo alto cozinha demais e forma grânulos no molho em vez de criar cr
 ---
 
 ### Passo 5: Ajuste o tempero, finalize com salsinha e sirva
-Prove o molho e ajuste o sal e a pimenta. Se quiser um molho mais cremoso, adicione mais 1 colher de ricota. Se preferir mais líquido, adicione um fio de caldo. Desligue o fogo e adicione a salsinha picada generosamente.
+Prove o molho e ajuste o **sal** e a **pimenta**. Se quiser um molho mais cremoso, adicione mais 1 colher de **ricota**. Se preferir mais líquido, adicione um fio de **caldo**.
 
-Ela vai contrastar o verde vivo com o marrom-creme do molho. Sirva imediatamente, pois o strogonoff fica mais espesso conforme resfria.
+Desligue o fogo e adicione a **salsinha picada** generosamente. Ela vai contrastar o verde vivo com o marrom-creme do molho. Sirva imediatamente, pois o **strogonoff** fica mais espesso conforme resfria.
 
 > 💡 **Dica:** Uma pitada de noz-moscada no final eleva completamente o sabor do molho cremoso de ricota, é um toque clássico que faz toda a diferença.
 

@@ -44,9 +44,9 @@ featured: true
 ## Passo a Passo Detalhado
 
 ### Passo 1: Preparar a batata doce
-Cozinhe a batata doce com casca em água fervente por 25 a 30 minutos, até que um garfo entre sem resistência no centro. Retire a casca ainda quente.
+Cozinhe a **batata doce** com casca em **água fervente** por **25 a 30 minutos**, até que um garfo entre sem resistência no centro. Retire a casca ainda quente, pois ela sai facilmente quando a batata está bem cozida.
 
-Ela sai facilmente quando a batata está bem cozida, e amasse em purê completamente liso. Não deve haver grumos: pedaços de batata inteiros criam pontos com textura irregular no brownie. Pese 300g após o cozimento e deixe esfriar até temperatura morna antes de usar.
+Amasse em **purê completamente liso**, sem grumos: pedaços de batata inteiros criam pontos com textura irregular no **brownie**. Pese **300g** após o cozimento e deixe esfriar até **temperatura morna** antes de usar.
 
 > 💡 **Dica:** Asse a batata doce no forno (200°C por 45 minutos inteira com casca) em vez de cozinhar na água. A batata assada concentra os açúcares naturais, fica mais doce, e o purê fica muito mais saboroso, quase como toffee.
 
@@ -55,7 +55,9 @@ Ela sai facilmente quando a batata está bem cozida, e amasse em purê completam
 ---
 
 ### Passo 2: Preparar a forma e o forno
-Pré-aqueça o forno a 180°C. Use uma forma pequena (aproximadamente 20 x 15 cm ou uma forma redonda de 20 cm) e unte bem com manteiga de coco ou spray antiaderente, forrando o fundo com papel-manteiga. O brownie de batata doce tem uma consistência mais úmida que o convencional, e a combinação de untado + papel garante que ele saia inteiro da forma.
+Pré-aqueça o forno a **180°C**. Use uma **forma pequena** (aproximadamente **20 x 15 cm** ou forma redonda de 20 cm) e unte bem com **manteiga de coco** ou spray antiaderente, forrando o fundo com **papel-manteiga**.
+
+O **brownie de batata doce** tem consistência mais úmida que o convencional, e a combinação de untado com papel garante que ele saia **inteiro da forma** sem quebrar.
 
 > 💡 **Dica:** Unte as laterais da forma além do fundo. Brownie molhado que gruda nas laterais se parte ao ser retirado, mesmo com papel no fundo.
 
@@ -64,9 +66,9 @@ Pré-aqueça o forno a 180°C. Use uma forma pequena (aproximadamente 20 x 15 cm
 ---
 
 ### Passo 3: Misturar a base úmida
-Em um bowl grande, misture o purê de batata doce morno com os 2 ovos batidos, o mel (ou tâmaras trituradas) e a pasta de amendoim. Use uma espátula e misture com vigor por 1 a 2 minutos até os ingredientes estarem completamente incorporados e a mistura parecer uniforme e brilhante. A pasta de amendoim pode ser difícil de incorporar.
+Em um bowl grande, misture o **purê de batata doce** morno com os **2 ovos batidos**, o **mel** (ou tâmaras trituradas) e a **pasta de amendoim**. Use uma espátula e misture com vigor por **1 a 2 minutos** até a mistura ficar uniforme e brilhante.
 
-Se necessário, aqueça-a por 15 segundos no micro-ondas para ficar mais fluida.
+A **pasta de amendoim** pode ser difícil de incorporar: se necessário, aqueça-a por **15 segundos no micro-ondas** para ficar mais fluida e se integrar melhor à massa.
 
 > 💡 **Dica:** Se usar tâmaras trituradas no lugar do mel, hidrate-as em água quente por 10 minutos antes de processar. Tâmaras hidratadas formam uma pasta mais suave e se incorporam melhor à massa.
 
@@ -75,9 +77,9 @@ Se necessário, aqueça-a por 15 segundos no micro-ondas para ficar mais fluida.
 ---
 
 ### Passo 4: Incorporar os ingredientes secos
-Adicione o cacau em pó 100%, a baunilha, o fermento em pó e a pitada de sal à mistura úmida. Misture com a espátula até o cacau estar completamente incorporado e a massa ganhar uma cor uniforme de chocolate escuro. Não bata demais.
+Adicione o **cacau em pó 100%**, a **baunilha**, o **fermento em pó** e a pitada de sal à mistura úmida. Misture com a espátula até o cacau estar completamente incorporado e a massa ganhar uma **cor uniforme de chocolate escuro**.
 
-Apenas misture até não haver mais traços de cacau em pó seco visíveis. A massa deve ser espessa e brilhante, com consistência de brigadeiro grosso.
+Não bata demais: misture apenas até não haver traços de **cacau seco** visíveis. A massa deve ser **espessa e brilhante**, com consistência de brigadeiro grosso.
 
 > 💡 **Dica:** Peneire o cacau antes de adicionar para evitar grumos. Grumos de cacau seco resultam em pontos amargos no brownie, desagradáveis ao comer.
 
@@ -86,9 +88,9 @@ Apenas misture até não haver mais traços de cacau em pó seco visíveis. A ma
 ---
 
 ### Passo 5: Assar com atenção ao ponto
-Despeje a massa na forma preparada e alise a superfície com uma espátula úmida. Leve ao forno a 180°C por 22 a 25 minutos. O brownie de batata doce tem um ponto de cozimento específico: está pronto quando as bordas estiverem firmes e levemente retraídas da forma, mas o centro ainda apresentar um leve balanço quando a forma for movimentada. Isso é intencional.
+Despeje a massa na forma preparada e alise a superfície com uma **espátula úmida**. Leve ao forno a **180°C por 22 a 25 minutos**.
 
-O centro completa o cozimento com o calor residual da forma.
+O **brownie de batata doce** está pronto quando as bordas estiverem firmes e levemente retraídas da forma, mas o centro ainda apresentar um **leve balanço** ao mover a forma. Isso é intencional: o centro completa o cozimento com o **calor residual** da forma.
 
 > 💡 **Dica:** Aos 20 minutos, faça o teste do palito: deve sair com algumas migalhas úmidas (não massa crua) para o brownie fudgy ideal. Se sair completamente limpo, já assou demais.
 

@@ -41,9 +41,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Bata a mistura de ovos com tapioca
-Quebre os dois ovos em uma tigela e acrescente as 2 colheres de sopa de goma de tapioca, o sal e a cúrcuma se desejar. Bata com um garfo ou fouet por cerca de 30 segundos até que não restem grumos de tapioca visíveis.
+Quebre os **dois ovos** em uma tigela e acrescente as **2 colheres de sopa de goma de tapioca**, o **sal** e a **cúrcuma** se desejar. Bata com um **garfo ou fouet** por cerca de **30 segundos** até que não restem grumos de tapioca visíveis.
 
-A mistura deve ficar uniforme e levemente amarelada. Esse processo de incorporação é fundamental: a goma de tapioca precisa se distribuir de forma homogênea na massa para garantir uma textura firme e sem buracos depois de cozida.
+A mistura deve ficar **uniforme e levemente amarelada**. Esse processo de incorporação é fundamental: a **goma de tapioca** precisa se distribuir de forma homogênea na massa para garantir uma **textura firme e sem buracos** depois de cozida.
 
 > 💡 **Dica:** Use ovos em temperatura ambiente, eles se misturam com a goma mais facilmente do que ovos gelados direto da geladeira.
 
@@ -52,9 +52,9 @@ A mistura deve ficar uniforme e levemente amarelada. Esse processo de incorpora�
 ---
 
 ### Passo 2: Aqueça a frigideira sem óleo
-Coloque uma frigideira antiaderente pequena (de 18 a 20 cm de diâmetro) em fogo médio e aguarde cerca de 1 minuto até que ela aqueça. Para testar se está na temperatura certa, passe a palma da mão a alguns centímetros da superfície.
+Coloque uma **frigideira antiaderente pequena** (de 18 a 20 cm de diâmetro) em **fogo médio** e aguarde cerca de **1 minuto** até que ela aqueça. Para testar se está na temperatura certa, passe a palma da mão a alguns centímetros da superfície — deve sentir **calor uniforme**.
 
-Deve sentir calor uniforme. A crepioca não precisa de nenhuma gordura adicional porque os ovos já contêm gordura suficiente para evitar que grude, e a goma de tapioca também ajuda a soltar naturalmente.
+A crepioca não precisa de **nenhuma gordura adicional** porque os ovos já contêm gordura suficiente para evitar que grude, e a **goma de tapioca** também ajuda a soltar naturalmente.
 
 > 💡 **Dica:** A frigideira antiaderente de qualidade é indispensável aqui. Se a sua for velha e arranhada, passe um fio muito fino de azeite com papel toalha para garantir.
 
@@ -63,9 +63,9 @@ Deve sentir calor uniforme. A crepioca não precisa de nenhuma gordura adicional
 ---
 
 ### Passo 3: Despeje e espalhe a massa
-Com a frigideira aquecida, despeje a mistura de uma só vez e incline rapidamente a frigideira em movimentos circulares para espalhar de forma uniforme até as bordas. A camada deve ficar fina e sem pontos espessos. Esse gesto precisa ser rápido porque a massa começa a cozinhar imediatamente.
+Com a frigideira aquecida, despeje a mistura de **uma só vez** e incline rapidamente a frigideira em **movimentos circulares** para espalhar de forma uniforme até as bordas. A camada deve ficar **fina e sem pontos espessos**.
 
-Você tem cerca de 5 a 8 segundos para distribuí-la bem antes de assentar.
+Esse gesto precisa ser **rápido** porque a massa começa a cozinhar imediatamente: você tem cerca de **5 a 8 segundos** para distribuí-la bem antes de assentar.
 
 > 💡 **Dica:** Se quiser uma crepioca mais espessa e fofa, não espalhe tanto e deixe a massa mais concentrada no centro.
 
@@ -74,9 +74,9 @@ Você tem cerca de 5 a 8 segundos para distribuí-la bem antes de assentar.
 ---
 
 ### Passo 4: Cozinhe até as bordas soltarem
-Deixe cozinhar em fogo médio por 2 a 3 minutos sem mexer. Os sinais de que está pronto para virar (ou dobrar) são claros: as bordas ficarão opaques e levemente douradas, a superfície central perderá o brilho cru e, ao inclinar levemente a frigideira, a crepioca se moverá livremente sem grudar. Não tente forçar antes desses sinais.
+Deixe cozinhar em **fogo médio** por **2 a 3 minutos** sem mexer. Os sinais de que está pronto para virar são claros: as bordas ficarão **opaques e levemente douradas**, a superfície central perderá o brilho cru e, ao inclinar levemente a frigideira, a crepioca se moverá livremente sem grudar.
 
-Ela soltará sozinha no momento certo.
+Não tente forçar antes desses sinais: ela **soltará sozinha no momento certo**.
 
 > 💡 **Dica:** Reduza o fogo para médio-baixo se as bordas estiverem dourando muito rápido enquanto o centro ainda está cru.
 
@@ -85,9 +85,9 @@ Ela soltará sozinha no momento certo.
 ---
 
 ### Passo 5: Adicione o recheio e dobre
-Com a crepioca ainda na frigideira, distribua o recheio escolhido.
+Com a crepioca ainda na frigideira, distribua o **recheio escolhido** (**queijo branco**, **cottage**, **peito de peru** ou qualquer combinação) sobre apenas uma metade.
 
-Queijo branco, cottage, peito de peru ou qualquer combinação, sobre apenas uma metade. Use uma espátula larga para dobrar a outra metade por cima, formando uma meia-lua. O recheio quente e o calor residual da frigideira serão suficientes para amolecer o queijo e integrar os sabores sem precisar de mais tempo de cozimento.
+Use uma **espátula larga** para dobrar a outra metade por cima, formando uma **meia-lua**. O calor residual da frigideira será suficiente para amolecer o queijo e **integrar os sabores** sem precisar de mais tempo de cozimento.
 
 > 💡 **Dica:** Recheios frios (como cottage tirado direto da geladeira) podem precisar de 1 a 2 minutos extras para aquecer por dentro depois de dobrar.
 
@@ -96,9 +96,9 @@ Queijo branco, cottage, peito de peru ou qualquer combinação, sobre apenas uma
 ---
 
 ### Passo 6: Finalize e sirva quente
-Deixe a crepioca dobrada por mais 1 minuto em fogo baixo, depois transfira para o prato com a espátula. Sirva imediatamente, pois a textura ideal é quando está quentinha.
+Deixe a crepioca dobrada por mais **1 minuto em fogo baixo**, depois transfira para o prato com a espátula. Sirva imediatamente, pois a **textura ideal** é quando está quentinha.
 
-A massa amolece rapidamente ao esfriar. Se quiser, finalize com uma pitada de ervas frescas, tomate cereja ou um fio de azeite.
+A massa **amolece rapidamente ao esfriar**. Se quiser, finalize com uma pitada de **ervas frescas**, **tomate cereja** ou um **fio de azeite**.
 
 > 💡 **Dica:** Prepare os acompanhamentos antes de iniciar a crepioca, ela é tão rápida que não sobra tempo para organizar o restante depois.
 

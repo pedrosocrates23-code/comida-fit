@@ -39,9 +39,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Torrar o pão integral no ponto certo
-Coloque as fatias de pão integral na torradeira ou em frigideira seca em fogo médio-alto. O ponto ideal de torrada para pré-treino é dourado claro.
+Coloque as fatias de **pão integral** na torradeira ou em frigideira seca em **fogo médio-alto**. O ponto ideal de torrada para **pré-treino** é **dourado claro**, não marrom escuro.
 
-Não marrom escuro. Uma torrada levemente dourada tem crosta crocante suficiente para suportar o peso do abacate e dos ovos, mas mantém a parte interna úmida e macia. Torradas muito escuras têm acrilamida em concentrações maiores (formada pela reação de Maillard em temperaturas altas com carboidratos), dourado claro é sempre a escolha mais saudável.
+Uma torrada levemente dourada tem **crosta crocante** suficiente para suportar o peso do abacate e dos ovos, mas mantém a parte interna úmida e macia. Torradas muito escuras têm **acrilamida** em concentrações maiores (formada pela **reação de Maillard** em temperaturas altas com carboidratos), dourado claro é sempre a escolha mais saudável.
 
 > 💡 **Dica:** Use o modo de temperatura mais baixa da torradeira se ela tiver essa opção, ou toste na frigideira em fogo médio por 2 minutos de cada lado sem pressionar. Isso cria uma crosta uniforme e dourada sem queimar as bordas antes do centro estar pronto.
 
@@ -50,9 +50,9 @@ Não marrom escuro. Uma torrada levemente dourada tem crosta crocante suficiente
 ---
 
 ### Passo 2: Preparar os ovos mexidos cremosos e macios
-Quebre os 2 ovos em uma tigela, adicione sal e pimenta e bata vigorosamente com um garfo por 30 segundos até que clara e gema estejam completamente integradas. Unte levemente uma frigideira antiaderente pequena com spray de azeite e leve ao fogo mais baixo possível. Despeje os ovos batidos e, com uma espátula de silicone, faça movimentos lentos e contínuos do centro para as bordas. Ovos mexidos perfeitos são feitos em fogo baixo, com paciência.
+Quebre os **2 ovos** em uma tigela, adicione **sal** e **pimenta** e bata vigorosamente com um garfo por **30 segundos** até que **clara** e **gema** estejam completamente integradas. Unte levemente uma **frigideira antiaderente** pequena com **spray de azeite** e leve ao **fogo mais baixo** possível.
 
-O resultado são pedaços suaves, cremosos e úmidos, não pedaços secos e borrachudos.
+Despeje os ovos batidos e, com uma **espátula de silicone**, faça movimentos lentos e contínuos do centro para as bordas. **Ovos mexidos perfeitos** são feitos em **fogo baixo**, com paciência. O resultado são pedaços **suaves, cremosos e úmidos**, não pedaços secos e borrachudos.
 
 > 💡 **Dica:** Retire a frigideira do fogo antes dos ovos parecerem completamente prontos, eles continuam cozinhando pelo calor residual da frigideira por 30 a 60 segundos após sair do fogo. Esse ponto ligeiramente antes de pronto é o segredo dos ovos mexidos perfeitos da gastronomia profissional.
 
@@ -61,9 +61,9 @@ O resultado são pedaços suaves, cremosos e úmidos, não pedaços secos e borr
 ---
 
 ### Passo 3: Preparar o abacate temperado
-Corte o abacate ao meio, retire o caroço e tire a polpa com uma colher grande. Coloque em uma tigela pequena e amasse com um garfo até obter uma pasta levemente rústica.
+Corte o **abacate** ao meio, retire o caroço e tire a polpa com uma colher grande. Coloque em uma tigela pequena e amasse com um garfo até obter uma **pasta levemente rústica**.
 
-Não completamente lisa, pois alguns pedaços menores criam uma textura mais interessante. Tempere com sal, uma pitada de pimenta e algumas gotas de suco de limão. O limão é fundamental: além do sabor, o ácido cítrico retarda a oxidação (escurecimento) do abacate.
+Não completamente lisa, pois alguns pedaços menores criam uma textura mais interessante. Tempere com **sal**, uma pitada de **pimenta** e algumas gotas de **suco de limão**. O limão é fundamental: além do sabor, o **ácido cítrico** retarda a **oxidação** (escurecimento) do abacate.
 
 > 💡 **Dica:** Para uma versão mais elaborada, adicione uma pitada de alho em pó, algumas gotas de Tabasco e um pouco de coentro fresco picado, transforma o abacate amassado em um guacamole simplificado que eleva completamente o prato.
 
@@ -72,9 +72,9 @@ Não completamente lisa, pois alguns pedaços menores criam uma textura mais int
 ---
 
 ### Passo 4: Montar as torradas na ordem certa
-Espalhe o abacate amassado generosamente sobre as torradas ainda quentes.
+Espalhe o **abacate amassado** generosamente sobre as torradas ainda **quentes**. A temperatura da torrada aquece levemente o abacate e melhora a distribuição.
 
-A temperatura da torrada aquece levemente o abacate e melhora a distribuição. Cubra toda a superfície da torrada de borda a borda, criando uma camada uniforme de 3 a 5 mm. Em seguida, distribua os ovos mexidos por cima do abacate de forma equilibrada entre as duas torradas. Os ovos por cima do abacate (e não o contrário) garantem que você sinta o sabor de ambos em cada mordida.
+Cubra toda a superfície da torrada de borda a borda, criando uma **camada uniforme de 3 a 5 mm**. Em seguida, distribua os **ovos mexidos** por cima do abacate de forma equilibrada entre as duas torradas. Os ovos por cima do abacate garantem que você sinta o sabor de ambos em cada mordida.
 
 > 💡 **Dica:** Acrescente uma fatia fina de tomate entre o abacate e os ovos para adicionar frescor, vitamina C e licopeno com praticamente zero impacto calórico, além de deixar as torradas visualmente mais coloridas e atrativas.
 
@@ -83,9 +83,9 @@ A temperatura da torrada aquece levemente o abacate e melhora a distribuição. 
 ---
 
 ### Passo 5: Finalizar com cebolinha e consumir no tempo certo
-Pique a cebolinha finamente e espalhe sobre os ovos mexidos. A cebolinha adiciona frescor, vitamina K, compostos sulfurosos anti-inflamatórios e um contraste de cor vibrante que torna o prato visualmente muito mais apetitoso. Consuma as torradas imediatamente.
+Pique a **cebolinha** finamente e espalhe sobre os ovos mexidos. A cebolinha adiciona **frescor**, **vitamina K**, **compostos sulfurosos anti-inflamatórios** e um contraste de cor vibrante que torna o prato visualmente muito mais apetitoso.
 
-A torrada vai perdendo a crocância à medida que o abacate e os ovos transferem umidade para ela. Para máximo aproveitamento do pré-treino, consuma 45 minutos antes do início do treino.
+Consuma as torradas **imediatamente**. A torrada vai perdendo a **crocância** à medida que o abacate e os ovos transferem umidade para ela. Para máximo aproveitamento do **pré-treino**, consuma **45 minutos** antes do início do treino.
 
 > 💡 **Dica:** Se for consumir fora de casa, mantenha os componentes separados: torradas em um saco zip, abacate e ovos em pote hermético. Monte na hora de comer para preservar a crocância da torrada até o último momento.
 

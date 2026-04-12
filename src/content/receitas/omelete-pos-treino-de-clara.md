@@ -42,9 +42,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Bata as claras com o ovo inteiro até homogeneizar
-Quebre 5 ovos e separe as claras em uma tigela, descartando as gemas ou guardando-as para outra preparação. Adicione 1 ovo inteiro às claras.
+Quebre **5 ovos** e separe as **claras** em uma tigela, descartando as gemas ou guardando-as para outra preparação. Adicione **1 ovo inteiro** às claras.
 
-A gema do ovo inteiro contribui com lecitina, que ajuda a emulsificar a mistura, além de adicionar gorduras saudáveis essenciais para absorver as vitaminas lipossolúveis do espinafre. Tempere com sal e pimenta-do-reino e bata com um garfo por 30-40 segundos até a mistura ficar completamente homogênea e levemente espumosa.
+A **gema do ovo inteiro** contribui com **lecitina**, que ajuda a **emulsificar** a mistura, além de adicionar **gorduras saudáveis** essenciais para absorver as **vitaminas lipossolúveis** do espinafre. Tempere com **sal** e **pimenta-do-reino** e bata com um garfo por **30-40 segundos** até a mistura ficar completamente homogênea e levemente espumosa.
 
 > 💡 **Dica:** Adicione 1 colher de sopa de água fria à mistura de claras antes de bater. A água vira vapor durante o cozimento e cria uma textura mais aerada e leve. Essa técnica simples é usada por cozinheiros profissionais para omoletes perfeitas.
 
@@ -53,9 +53,9 @@ A gema do ovo inteiro contribui com lecitina, que ajuda a emulsificar a mistura,
 ---
 
 ### Passo 2: Aqueça a frigideira e aplique o spray de azeite
-Coloque a frigideira antiaderente em fogo médio por 1 a 2 minutos até aquecer. Faça o teste da gota: pingue uma gota de água na frigideira.
+Coloque a **frigideira antiaderente** em **fogo médio** por **1 a 2 minutos** até aquecer. Faça o **teste da gota**: pingue uma gota de água na frigideira.
 
-Se evaporar imediatamente com som de chiado, está na temperatura certa. Aplique o spray de azeite de forma uniforme por toda a superfície, inclusive nas bordas. O spray usa quantidades mínimas de gordura (aproximadamente 1g por segundo de spray), o que mantém as calorias baixíssimas sem comprometer o antiaderente natural do azeite.
+Se evaporar imediatamente com **som de chiado**, está na **temperatura certa**. Aplique o **spray de azeite** de forma uniforme por toda a superfície, inclusive nas bordas. O spray usa quantidades mínimas de gordura (aproximadamente **1g por segundo** de spray), o que mantém as **calorias baixíssimas** sem comprometer o antiaderente natural do azeite.
 
 > 💡 **Dica:** Se não tiver spray de azeite, unte com um pedaço de papel toalha dobrado levemente untado com meia colher de chá de azeite. Espalhe em camada finíssima. Gordura demais deixa a omelete encharcada; gordura de menos faz grudar.
 
@@ -64,9 +64,9 @@ Se evaporar imediatamente com som de chiado, está na temperatura certa. Aplique
 ---
 
 ### Passo 3: Cozinhe a omelete em fogo médio-baixo sem mexer
-Despeje a mistura de claras e ovo na frigideira quente. Reduza o fogo imediatamente para médio-baixo. Não mexa.
+Despeje a mistura de claras e ovo na frigideira quente. Reduza o fogo imediatamente para **médio-baixo**. **Não mexa.**
 
-Omoletes pedem paciência. O calor uniforme da frigideira vai coagulando os ovos de baixo para cima. Observe as bordas: quando estiverem firmes e o centro ainda levemente brilhante (cerca de 2 a 3 minutos), a omelete está pronta para receber o recheio. Claras cozinham mais rápido que ovos inteiros pela ausência de gordura da gema.
+Omoletes pedem paciência. O **calor uniforme** da frigideira vai **coagulando** os ovos de baixo para cima. Observe as bordas: quando estiverem **firmes** e o centro ainda levemente brilhante (cerca de **2 a 3 minutos**), a omelete está pronta para receber o recheio. **Claras** cozinham mais rápido que ovos inteiros pela ausência de **gordura da gema**.
 
 > 💡 **Dica:** Para uma omelete mais firme (ideal para embalar e levar ao trabalho), tampe a frigideira por 1 minuto durante o cozimento. O vapor finaliza o cozimento da superfície sem precisar virar, criando textura uniforme do topo ao fundo.
 
@@ -75,9 +75,9 @@ Omoletes pedem paciência. O calor uniforme da frigideira vai coagulando os ovos
 ---
 
 ### Passo 4: Adicione espinafre, tomate e cottage sobre metade da omelete
-Quando as bordas estiverem firmes, distribua 1 xícara de espinafre fresco sobre metade da omelete. O calor residual vai murchar levemente as folhas.
+Quando as bordas estiverem firmes, distribua **1 xícara de espinafre fresco** sobre metade da omelete. O **calor residual** vai murchar levemente as folhas.
 
-Não é necessário pré-cozinhar o espinafre. Adicione o tomate picado e as 2 colheres de queijo cottage por cima. O cottage funciona como um substituto cremoso e proteico do queijo convencional: tem 1/3 das calorias e praticamente o dobro de proteína por grama que a mussarela.
+Não é necessário **pré-cozinhar** o espinafre. Adicione o **tomate picado** e as **2 colheres de queijo cottage** por cima. O **cottage** funciona como um substituto cremoso e proteico do queijo convencional: tem **1/3 das calorias** e praticamente o **dobro de proteína** por grama que a mussarela.
 
 > 💡 **Dica:** Se quiser um recheio mais quente e integrado, adicione o espinafre 30 segundos antes de estar no ponto de rechear, mexendo levemente com um garfo para incorporá-lo à omelete durante o cozimento. Isso cria uma omelete estilo scrambled com espinafre distribuído, em vez de recheio dobrado.
 
@@ -86,9 +86,9 @@ Não é necessário pré-cozinhar o espinafre. Adicione o tomate picado e as 2 c
 ---
 
 ### Passo 5: Dobre ao meio e finalize por 1 minuto
-Com uma espátula larga, dobre a metade sem recheio sobre a metade com recheio em um movimento único e decidido. Pressione levemente com a espátula para selar as bordas. Deixe cozinhar por mais 1 minuto em fogo baixo.
+Com uma **espátula larga**, dobre a metade sem recheio sobre a metade com recheio em um **movimento único e decidido**. Pressione levemente com a espátula para selar as bordas. Deixe cozinhar por mais **1 minuto** em **fogo baixo**.
 
-Esse tempo derrete ligeiramente o cottage e termina de cozinhar o interior. Transfira imediatamente para o prato e consuma logo após o treino, enquanto a janela anabólica está aberta.
+Esse tempo **derrete** ligeiramente o cottage e termina de cozinhar o interior. Transfira imediatamente para o prato e consuma logo após o **treino**, enquanto a **janela anabólica** está aberta.
 
 > 💡 **Dica:** Para uma apresentação mais sofisticada, dobre a omelete diretamente no prato: incline a frigideira sobre o prato em ângulo de 45° e, com a espátula, guie a omelete enquanto desliza, dobrando-a sobre si mesma no movimento.
 

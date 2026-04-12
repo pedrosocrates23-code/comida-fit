@@ -41,9 +41,9 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Combine a aveia com o leite na panela
-Meça 1/2 xícara de flocos de aveia grossos e coloque em uma panela pequena de fundo grosso. Adicione 1 xícara de leite (desnatado ou vegetal) e misture brevemente com uma colher. A proporção de 1 parte de aveia para 2 de leite é o ponto de partida para uma textura cremosa.
+Meça **1/2 xícara de flocos de aveia grossos** e coloque em uma **panela pequena de fundo grosso**. Adicione **1 xícara de leite** (desnatado ou vegetal) e misture brevemente com uma colher. A proporção de **1 parte de aveia para 2 de leite** é o ponto de partida para uma **textura cremosa**.
 
-Se gostar mais espesso, use menos leite; se gostar mais fluido, adicione um pouquinho a mais. Leve ao fogo médio sem pressa.
+Se gostar mais espesso, use menos leite; se gostar mais fluido, adicione um pouquinho a mais. Leve ao **fogo médio** sem pressa.
 
 > 💡 **Dica:** Use flocos de aveia grossos (não instantânea) para um mingau com mais textura, maior saciedade e menor índice glicêmico. A aveia instantânea deixa o mingau pastoso e com menos corpo.
 
@@ -52,9 +52,9 @@ Se gostar mais espesso, use menos leite; se gostar mais fluido, adicione um pouq
 ---
 
 ### Passo 2: Mexa constantemente até engrossar
-Com a panela em fogo médio, comece a mexer com uma colher de pau ou espátula de silicone em movimentos circulares lentos e constantes. Esse processo de mexer é fundamental: a aveia libera amido enquanto cozinha, e sem mexer ele se deposita no fundo e queima. Após 3 a 4 minutos, você notará que a mistura começa a borbulhar levemente nas bordas e a engrossar visivelmente.
+Com a panela em **fogo médio**, comece a mexer com uma **colher de pau** ou **espátula de silicone** em movimentos circulares lentos e constantes. Esse processo de mexer é fundamental: a aveia libera **amido** enquanto cozinha, e sem mexer ele se deposita no fundo e queima.
 
-Continue mexendo por mais 2 a 3 minutos até chegar na consistência cremosa desejada.
+Após **3 a 4 minutos**, você notará que a mistura começa a borbulhar levemente nas bordas e a engrossar visivelmente. Continue mexendo por mais **2 a 3 minutos** até chegar na **consistência cremosa** desejada.
 
 > 💡 **Dica:** O mingau continua engrossando depois que sai do fogo. Tire do calor quando ainda estiver um pouco mais fluido do que você quer, a consistência final na tigela será perfeita.
 
@@ -63,9 +63,9 @@ Continue mexendo por mais 2 a 3 minutos até chegar na consistência cremosa des
 ---
 
 ### Passo 3: Tempere com canela e mel
-Com o fogo desligado (ou no mínimo), adicione a 1/2 colher de chá de canela e a colher de mel ao mingau quente. Misture bem por 20 a 30 segundos para distribuir os sabores uniformemente. A canela quente libera os óleos essenciais com muito mais intensidade do que adicionada fria, perfumando todo o mingau. Prove antes de adicionar mel.
+Com o **fogo desligado** (ou no mínimo), adicione a **1/2 colher de chá de canela** e a **colher de mel** ao mingau quente. Misture bem por **20 a 30 segundos** para distribuir os sabores uniformemente. A **canela quente** libera os **óleos essenciais** com muito mais intensidade do que adicionada fria, perfumando todo o mingau.
 
-Muitas vezes a doçura natural da aveia e da canela já é suficiente.
+Prove antes de adicionar mel. Muitas vezes a **doçura natural** da aveia e da canela já é suficiente.
 
 > 💡 **Dica:** Experimente usar canela do Ceilão (canela verdadeira) em vez da canela cassia comum, ela tem sabor mais suave, delicado e é mais benéfica para o controle glicêmico.
 
@@ -74,9 +74,9 @@ Muitas vezes a doçura natural da aveia e da canela já é suficiente.
 ---
 
 ### Passo 4: Transfira para a tigela e cubra com frutas
-Despeje o mingau quente em uma tigela funda. Por cima, distribua o mix de frutas vermelhas.
+Despeje o **mingau quente** em uma tigela funda. Por cima, distribua o **mix de frutas vermelhas**: morango fatiado, mirtilo inteiro e framboesa formam uma combinação excelente tanto em sabor quanto em **cores vibrantes**.
 
-Morango fatiado, mirtilo inteiro e framboesa formam uma combinação excelente tanto em sabor quanto em cores vibrantes. As frutas devem ser adicionadas frescas (não cozidas) para preservar seus antioxidantes e vitaminas, além de criar o contraste de temperatura e textura entre o mingau quente e cremoso e as frutas frias e levemente ácidas.
+As frutas devem ser adicionadas **frescas** (não cozidas) para preservar seus **antioxidantes** e vitaminas, além de criar o contraste de temperatura e textura entre o **mingau quente e cremoso** e as **frutas frias e levemente ácidas**.
 
 > 💡 **Dica:** Se usar frutas congeladas, descongele-as levemente antes de usar ou deixe-as naturalmente em temperatura ambiente enquanto prepara o mingau.
 
@@ -85,9 +85,9 @@ Morango fatiado, mirtilo inteiro e framboesa formam uma combinação excelente t
 ---
 
 ### Passo 5: Finalize com chia e sirva
-Polvilhe as sementes de chia por cima do mingau já montado com as frutas. A chia não precisa ser hidratada previamente neste caso.
+Polvilhe as **sementes de chia** por cima do mingau já montado com as frutas. A chia não precisa ser **hidratada previamente** neste caso: ela vai absorver a umidade do mingau quente e das frutas nos primeiros minutos enquanto você come.
 
-Ela vai absorver a umidade do mingau quente e das frutas nos primeiros minutos enquanto você come. Sirva imediatamente para aproveitar o contraste de temperaturas e texturas no ponto ideal.
+Sirva **imediatamente** para aproveitar o **contraste de temperaturas e texturas** no ponto ideal.
 
 > 💡 **Dica:** Adicione também uma colher de pasta de amendoim ou sementes de abóbora para aumentar as gorduras boas e deixar o café da manhã ainda mais saciante.
 

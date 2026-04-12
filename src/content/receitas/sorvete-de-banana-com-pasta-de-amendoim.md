@@ -38,34 +38,36 @@ featured: true
 ## Passo a Passo Detalhado
 
 ### Passo 1: Preparar e congelar as bananas corretamente
-Escolha bananas bem maduras.
+Escolha **bananas bem maduras**, com muitas **pintas pretas** na casca. Descasque, fatie em rodelas de **1,5 cm** e disponha em uma única camada sobre uma assadeira forrada com **papel-manteiga**.
 
-Com muitas pintas pretas na casca. Descasque, fatie em rodelas de 1,5 cm e disponha em uma única camada sobre uma assadeira forrada com papel-manteiga. Leve ao freezer por pelo menos 4 horas (de um dia para o outro é o ideal). Fatiar antes de congelar é fundamental: bananas congeladas inteiras são impossíveis de processar adequadamente sem sobrecarregar o motor do equipamento.
+Leve ao **freezer** por pelo menos **4 horas** (de um dia para o outro é o ideal). Fatiar antes de congelar é fundamental: bananas congeladas inteiras são impossíveis de processar adequadamente sem sobrecarregar o motor do equipamento.
 
 > 💡 **Dica:** Congele bananas maduras toda vez que sobrar em casa, elas podem ficar no freezer por até 3 meses. Guarde as fatias em sacos ziplock removendo o máximo de ar possível para evitar cristais de gelo.
 
 > ⚠️ **Erro comum:** Usar bananas verdes ou apenas amarelas. Bananas verdes têm amido resistente que não vira açúcar ainda, resultando em sorvete sem doçura natural e com sabor amargo. Só funciona com bananas bem maduras, pintadas ou quase passando.
 
 ### Passo 2: Processar as bananas congeladas até cremoso
-Coloque as fatias de banana congelada no processador de alimentos ou liquidificador de alta potência. Pulse em intervalos de 5 segundos, raspando as laterais do copo entre cada pulso. No início vai parecer uma farofa granulada.
+Coloque as fatias de **banana congelada** no **processador de alimentos** ou **liquidificador de alta potência**. Pulse em intervalos de **5 segundos**, raspando as laterais do copo entre cada pulso.
 
-Não se preocupe, é o processo normal. Após 2 a 3 minutos de pulsação, a mistura vai virar um creme sedoso e branco, semelhante ao sorvete soft serve.
+No início vai parecer uma farofa granulada. Não se preocupe, é o processo normal. Após **2 a 3 minutos** de pulsação, a mistura vai virar um **creme sedoso e branco**, semelhante ao **sorvete soft serve**.
 
 > 💡 **Dica:** Processador de alimentos funciona melhor que liquidificador para esta receita, pois trabalha com menos líquido. Se usar liquidificador, pode precisar adicionar 1 a 2 colheres de sopa de leite vegetal para ajudar a bater.
 
 > ⚠️ **Erro comum:** Ligar o equipamento no máximo e deixar bater continuamente. O calor gerado pelo motor pode começar a derreter o sorvete antes de ficar cremoso. Use pulsos curtos e pause entre eles para controlar a temperatura.
 
 ### Passo 3: Incorporar a pasta de amendoim e a baunilha
-Com a banana já cremosa, adicione a pasta de amendoim integral e o extrato de baunilha. Pulse por mais 10 a 15 segundos apenas para incorporar.
+Com a banana já cremosa, adicione a **pasta de amendoim integral** e o **extrato de baunilha**. Pulse por mais **10 a 15 segundos** apenas para incorporar.
 
-Não bata demais, ou o sorvete vai aquecer e perder a textura. Se quiser a versão com cacau, adicione o cacau em pó junto com a pasta de amendoim.
+Não bata demais, ou o sorvete vai aquecer e perder a **textura**. Se quiser a versão com **cacau**, adicione o **cacau em pó** junto com a pasta de amendoim.
 
 > 💡 **Dica:** Use pasta de amendoim integral (apenas amendoim, sem açúcar nem óleo de palma adicionado). Além de mais saudável, o sabor é mais intenso e o resultado final é mais cremoso, pois o óleo natural do amendoim se integra perfeitamente.
 
 > ⚠️ **Erro comum:** Usar pasta de amendoim gelada direto da geladeira. Pasta gelada fica dura e não incorpora bem ao sorvete. Deixe a pasta de amendoim em temperatura ambiente por 10 minutos antes de usar para que fique mais fluida.
 
 ### Passo 4: Servir ou firmar no freezer
-Para servir imediatamente como soft serve, transfira para copos e finalize com um fio extra de pasta de amendoim. Para uma textura mais firme, semelhante ao sorvete tradicional, transfira para um recipiente hermético, cubra com plástico filme em contato direto com o sorvete (evita cristais) e congele por 1 hora. Retire do freezer 5 minutos antes de servir para amolecer levemente.
+Para servir imediatamente como **soft serve**, transfira para copos e finalize com um fio extra de **pasta de amendoim**. Para uma **textura mais firme**, semelhante ao sorvete tradicional, transfira para um **recipiente hermético**, cubra com **plástico filme** em contato direto com o sorvete (evita cristais) e congele por **1 hora**.
+
+Retire do **freezer** **5 minutos** antes de servir para amolecer levemente.
 
 > 💡 **Dica:** Finalize com granola, frutas vermelhas frescas, raspas de chocolate amargo ou coco ralado para adicionar textura e nutrientes ao sorvete. Cada topping aumenta levemente as calorias, mas também melhora o valor nutricional.
 

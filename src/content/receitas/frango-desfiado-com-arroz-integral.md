@@ -42,7 +42,9 @@ featured: true
 ## Passo a Passo Detalhado
 
 ### Passo 1: Cozinhe o peito de frango até ficar bem macio
-Coloque o peito de frango em uma panela e cubra com água fria. Adicione sal, 1 folha de louro e 1 dente de alho (opcionais mas fazem diferença no sabor). Leve ao fogo alto até ferver, reduza para médio e cozinhe por 25 minutos com a tampa entreaberta. O frango está macio o suficiente para desfiares quando você consegue pressionar com um garfo e ele se separa facilmente em fibras. Se resistir, cozinhe mais 5 minutos.
+Coloque o **peito de frango** em uma panela e cubra com **água fria**. Adicione **sal**, **1 folha de louro** e **1 dente de alho** (opcionais mas fazem diferença no sabor). Leve ao **fogo alto** até ferver, reduza para **médio** e cozinhe por **25 minutos** com a tampa entreaberta.
+
+O frango está **macio o suficiente para desfiar** quando você consegue pressionar com um garfo e ele se separa facilmente em fibras. Se resistir, cozinhe mais **5 minutos**.
 
 > 💡 **Dica:** Para um frango ainda mais suculento, cozinhe em caldo de legumes ou caldo de frango caseiro em vez de água pura. O frango absorve parte do líquido de cozimento e fica mais saboroso.
 
@@ -51,9 +53,9 @@ Coloque o peito de frango em uma panela e cubra com água fria. Adicione sal, 1 
 ---
 
 ### Passo 2: Desfie o frango enquanto ainda quente
-Retire o frango da água com uma espátula ou pinça e coloque sobre uma tábua. Não espere esfriar completamente.
+Retire o frango da água com uma espátula ou pinça e coloque sobre uma **tábua**. Não espere esfriar completamente: **frango quente desfía muito mais facilmente** do que frio.
 
-Frango quente desfía muito mais facilmente do que frio. Use dois garfos em movimentos opostos para puxar as fibras da carne longitudinalmente. O resultado deve ser fios longos e uniformes, não pedaços irregulares. O frango bem desfiado tem mais superfície de contato com o tempero, cada fio absorve sabor.
+Use **dois garfos em movimentos opostos** para puxar as fibras da carne longitudinalmente. O resultado deve ser **fios longos e uniformes**, não pedaços irregulares. O frango bem desfiado tem mais superfície de contato com o tempero, e **cada fio absorve sabor**.
 
 > 💡 **Dica:** Se tiver batedeira planetária, coloque o frango quente no bowl e bata na velocidade baixa por 20-30 segundos, desfía rapidamente e de forma mais uniforme do que com garfos. Lave bem o acessório depois.
 
@@ -62,9 +64,9 @@ Frango quente desfía muito mais facilmente do que frio. Use dois garfos em movi
 ---
 
 ### Passo 3: Refogue a cebola e o alho, adicione tomate e frango
-Aqueça o azeite em frigideira média em fogo médio. Refogue a cebola por 2 minutos até ficar translúcida. Adicione o alho e refogue por mais 1 minuto. Acrescente o tomate picado e cozinhe por 2 minutos.
+Aqueça o **azeite** em frigideira média em **fogo médio**. Refogue a **cebola** por **2 minutos** até ficar translúcida. Adicione o **alho** e refogue por mais **1 minuto**. Acrescente o **tomate picado** e cozinhe por 2 minutos, ele vai soltar seu suco e criar um **molho leve**.
 
-Ele vai soltar seu suco e criar um molho leve. Por fim, adicione o frango desfiado e misture bem para que todos os fios se envolvam com o refogado. O frango vai absorver os sabores da base aromática.
+Por fim, adicione o **frango desfiado** e misture bem para que todos os fios se envolvam com o refogado. O frango vai absorver os **sabores da base aromática**.
 
 > 💡 **Dica:** Para um frango desfiado mais suculento, adicione 2-3 colheres de sopa da água do cozimento do frango ao refogado, esse caldo concentrado adiciona sabor sem adicionar calorias.
 
@@ -73,9 +75,9 @@ Ele vai soltar seu suco e criar um molho leve. Por fim, adicione o frango desfia
 ---
 
 ### Passo 4: Tempere e refogue por 5 minutos para integrar os sabores
-Com o frango na frigideira, adicione o suco de limão, sal, pimenta e as ervas frescas (reserve um pouco para finalizar). Refogue em fogo médio por 5 minutos, mexendo ocasionalmente. Esse tempo de refogado é fundamental para que o frango absorva completamente os temperos e fique com uma textura levemente crocante nas bordas.
+Com o frango na frigideira, adicione o **suco de limão**, **sal**, **pimenta** e as **ervas frescas** (reserve um pouco para finalizar). Refogue em **fogo médio** por **5 minutos**, mexendo ocasionalmente.
 
-Diferente do frango meramente cozido. Prove e ajuste o tempero.
+Esse tempo de refogado é fundamental para que o frango absorva completamente os temperos e fique com uma **textura levemente crocante nas bordas**, diferente do frango meramente cozido. **Prove e ajuste o tempero**.
 
 > 💡 **Dica:** Neste passo, você pode adicionar 1 colher de chá de páprica defumada para um frango desfiado com sabor mais rico e coloração mais apetitosa. A páprica não adiciona calorias significativas mas transforma completamente o visual.
 
@@ -84,9 +86,9 @@ Diferente do frango meramente cozido. Prove e ajuste o tempero.
 ---
 
 ### Passo 5: Monte sobre o arroz integral e consuma dentro de 1 hora após o treino
-Distribua o arroz integral cozido no prato e coloque o frango desfiado temperado por cima. Finalize com cheiro-verde fresco e uma rodela de limão para decorar. O ideal é consumir esta refeição dentro de 1 hora após o treino.
+Distribua o **arroz integral cozido** no prato e coloque o **frango desfiado temperado** por cima. Finalize com **cheiro-verde fresco** e uma rodela de limão para decorar.
 
-Este é o período onde a absorção de proteínas e carboidratos para síntese muscular é mais eficiente (a chamada "janela anabólica", embora pesquisas recentes mostrem que essa janela seja mais longa do que o que se pensava, até 2-3 horas).
+O ideal é consumir esta refeição dentro de **1 hora após o treino**, o período de maior eficiência na absorção de **proteínas e carboidratos** para síntese muscular (a chamada "**janela anabólica**", embora pesquisas recentes mostrem que essa janela se estenda até 2-3 horas).
 
 > 💡 **Dica:** Se estiver com pressa pós-treino, prepare o arroz com antecedência e deixe na geladeira. O frango desfiado cozido também pode estar pronto, basta aquecer o frango rapidamente na frigideira e servir sobre o arroz morno.
 
