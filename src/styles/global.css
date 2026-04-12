@@ -11,7 +11,9 @@
   /* Palette */
   --color-canvas:    #FFFDF5;
   --color-primary:   #FF4D00;
+  --color-primary-aa: #C43D00;   /* versão WCAG AA (5.3:1 em branco) */
   --color-secondary: #00C896;
+  --color-secondary-aa: #006B4A; /* versão WCAG AA (6.4:1 em branco) */
   --color-accent:    #FFD000;
   --color-ink:       #1A1A1A;
   --color-surface:   #FFFFFF;
@@ -204,12 +206,12 @@ p { max-width: 65ch; }
 }
 
 .btn-primary {
-  background: var(--color-primary);
+  background: var(--color-primary-aa);
   color: var(--color-surface);
   box-shadow: var(--shadow);
 }
 .btn-primary:hover {
-  background: #e04400;
+  background: #a33300;
 }
 
 .btn-secondary {
@@ -247,10 +249,10 @@ p { max-width: 65ch; }
   border: 2px solid var(--color-ink);
 }
 
-.badge-primary   { background: var(--color-primary);   color: var(--color-surface); }
-.badge-secondary { background: var(--color-secondary); color: var(--color-surface); }
-.badge-accent    { background: var(--color-accent);    color: var(--color-ink); }
-.badge-outline   { background: transparent;            color: var(--color-ink); }
+.badge-primary   { background: var(--color-primary-aa);   color: var(--color-surface); }
+.badge-secondary { background: var(--color-secondary-aa); color: var(--color-surface); }
+.badge-accent    { background: var(--color-accent);        color: var(--color-ink); }
+.badge-outline   { background: transparent;                color: var(--color-ink); }
 
 .chip {
   display: inline-flex;
@@ -701,7 +703,7 @@ p { max-width: 65ch; }
   font-size: var(--text-xs);
   font-weight: 700;
   padding: 2px var(--space-3);
-  background: var(--color-secondary);
+  background: var(--color-secondary-aa);
   color: var(--color-surface);
   border: 2px solid var(--color-ink);
 }
