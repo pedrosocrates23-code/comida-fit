@@ -1,12 +1,12 @@
 User-agent: *
 Allow: /
-Disallow: /drafts/
 Disallow: /_astro/
 Disallow: /api/
 
 # Permitir imagens para indexação
 User-agent: Googlebot-Image
 Allow: /images/
+Allow: /afiliados/images/
 
 # LLM crawlers — permitidos
 User-agent: GPTBot
@@ -29,4 +29,3 @@ Allow: /
 
 # Sitemaps
 Sitemap: https://melhoresreceitasfit.com.br/sitemap.xml
-Sitemap: https://melhoresreceitasfit.com.br/sitemap-index.xml

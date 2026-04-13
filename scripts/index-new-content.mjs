@@ -1,7 +1,7 @@
 /**
  * Auto-indexer para conteúdo novo
  * Detecta arquivos .md novos em src/content/receitas/ e src/content/blog/
- * e submete as URLs correspondentes para o GSC Indexing API.
+ * e páginas de produto geradas (/produtos/), submetendo ao GSC Indexing API.
  *
  * Uso:
  *   node scripts/index-new-content.mjs           → detecta e indexa novos
@@ -19,6 +19,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const KEY_FILE    = join(__dirname, 'gsc-service-account.json');
 const LOG_FILE    = join(__dirname, 'indexing-log.json');
 const CONTENT_LOG = join(__dirname, 'content-index-state.json');
+const SITEMAP     = join(__dirname, '..', 'dist', 'sitemap.xml');
 const SITE_URL    = 'https://melhoresreceitasfit.com.br';
 const DRY_RUN     = process.argv.includes('--dry-run');
 
@@ -45,6 +46,14 @@ function saveJson(path, data) {
 
 function slugFromFilename(filename) {
   return basename(filename, '.md');
+}
+
+/** Extrai todas as URLs de /produtos/ do sitemap compilado */
+function getProdutoUrlsFromSitemap() {
+  if (!existsSync(SITEMAP)) return [];
+  const xml = readFileSync(SITEMAP, 'utf8');
+  const matches = xml.matchAll(/<loc>(https?:\/\/[^<]+\/produtos\/[^<]+)<\/loc>/g);
+  return [...matches].map(m => m[1].trim()).filter(u => !u.endsWith('/produtos/'));
 }
 
 async function getContentFiles(contentType) {
@@ -83,21 +92,43 @@ async function main() {
   console.log('\n🚀  Auto-indexer — Conteúdo Novo');
   if (DRY_RUN) console.log('   (DRY RUN — nenhuma requisição será enviada)\n');
 
-  const state  = loadJson(CONTENT_LOG); // { url: { mtime, indexed } }
+  const state  = loadJson(CONTENT_LOG);
   const log    = loadJson(LOG_FILE);
   const client = DRY_RUN ? null : await auth.getClient();
 
   let toIndex = [];
 
-  // Varre todos os tipos de conteúdo
+  // 1. Receitas e blog (por arquivo .md)
   for (const [type] of Object.entries(CONTENT_MAP)) {
     const files = await getContentFiles(type);
     for (const { file, url, mtime } of files) {
       const prev = state[url];
-      // Novo arquivo ou modificado após última indexação
       if (!prev || prev.mtime < mtime || !prev.indexed) {
         toIndex.push({ url, mtime, type, file });
       }
+    }
+  }
+
+  // 2. Páginas de produto (geradas do sitemap compilado)
+  const produtoUrls = getProdutoUrlsFromSitemap();
+  for (const url of produtoUrls) {
+    const prev = state[url];
+    if (!prev || !prev.indexed) {
+      toIndex.push({ url, mtime: Date.now(), type: 'produto', file: url });
+    }
+  }
+
+  // 3. Páginas estáticas importantes (index, blog, produtos)
+  const staticUrls = [
+    `${SITE_URL}/`,
+    `${SITE_URL}/blog/`,
+    `${SITE_URL}/produtos/`,
+    `${SITE_URL}/receitas/`,
+  ];
+  for (const url of staticUrls) {
+    const prev = state[url];
+    if (!prev || !prev.indexed) {
+      toIndex.push({ url, mtime: Date.now(), type: 'static', file: url });
     }
   }
 
@@ -123,7 +154,7 @@ async function main() {
     } else {
       fail++;
       state[url] = { mtime, indexed: false, ts, file, error: result.msg };
-      console.log(`  ❌  [${result.status}] ${result.msg?.slice(0,60)} → ${url}`);
+      console.log(`  ❌  [${result.status}] ${result.msg?.slice(0, 60)} → ${url}`);
 
       if (result.status === 403) {
         const key = JSON.parse(readFileSync(KEY_FILE, 'utf8'));
