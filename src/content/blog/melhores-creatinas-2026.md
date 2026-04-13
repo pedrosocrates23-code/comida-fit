@@ -21,7 +21,7 @@ produtos:
     preco: 35.15
     rating: 4.7
     ratingCount: 34603
-    link: "https://amzn.to/4tMiYvj"
+    link: "https://amzn.to/4dLgQiS"
     vendedor: "Dark Lab."
     destaque: true
   - asin: "B0CF71CJ2L"
@@ -30,7 +30,7 @@ produtos:
     preco: 44.9
     rating: 4.8
     ratingCount: 35635
-    link: "https://amzn.to/4tMiYvj"
+    link: "https://amzn.to/48uLHwo"
     vendedor: "Dark Lab."
     destaque: false
   - asin: "B089PGDWG5"
@@ -39,7 +39,7 @@ produtos:
     preco: 38.51
     rating: 4.6
     ratingCount: 143
-    link: "https://amzn.to/4tMiYvj"
+    link: "https://amzn.to/4vpDXpm"
     vendedor: "Loja FTW"
     destaque: false
   - asin: "B0D9MPQ9CP"
@@ -48,7 +48,7 @@ produtos:
     preco: 138.9
     rating: 4.8
     ratingCount: 176
-    link: "https://amzn.to/4tMiYvj"
+    link: "https://amzn.to/4mqeMPz"
     vendedor: ""
     destaque: false
   - asin: "B00TF3XT4M"
@@ -57,7 +57,7 @@ produtos:
     preco: 170.0
     rating: 4.5
     ratingCount: 226
-    link: "https://amzn.to/4tMiYvj"
+    link: "https://www.amazon.com.br/dp/B00TF3XT4M?tag=fits000-20"
     vendedor: "4CBOX"
     destaque: false
   - asin: "B0F2NBXXRS"
@@ -66,7 +66,7 @@ produtos:
     preco: 194.0
     rating: null
     ratingCount: null
-    link: "https://amzn.to/4tMiYvj"
+    link: "https://amzn.to/3Ql9w3w"
     vendedor: "THE ONE SUPPS OFICIAL"
     destaque: false
 ---
@@ -89,7 +89,7 @@ A **Dark Lab 500g** é a creatina mais avaliada e mais bem pontuada desta lista.
 **Monohidratada 100% pura**, sem glúten, sem sabor, sem adicionados.
 O pote maior entrega melhor custo por grama vs a versão 300g.
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/48uLHwo" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 </div>
 
@@ -113,12 +113,12 @@ O pote maior entrega melhor custo por grama vs a versão 300g.
 
 | # | Produto | Preço | Avaliação | |
 |---|---------|-------|-----------|--|
-| 1 | Dark Lab 500g Monohidratada | **R$ 44,90** | ★★★★★ 4.8 (35.635) | [Comprar →](https://amzn.to/4tMiYvj |
-| 2 | Dark Lab 300g Monohidratada | **R$ 35,15** | ★★★★★ 4.7 (34.603) | [Comprar →](https://amzn.to/4tMiYvj |
-| 3 | FTW Creatina 100% Pura | **R$ 38,51** | ★★★★☆ 4.6 (143) | [Comprar →](https://amzn.to/4tMiYvj |
-| 4 | Creapure Nutrends Elite 300g | **R$ 138,90** | ★★★★★ 4.8 (176) | [Comprar →](https://amzn.to/4tMiYvj |
-| 5 | Creapure Optimum Nutrition 300g | **R$ 170,00** | ★★★★☆ 4.5 (226) | [Comprar →](https://amzn.to/4tMiYvj |
-| 6 | Creapure Go More Kosher Vegan | **R$ 194,00** | sem avaliação | [Comprar →](https://amzn.to/4tMiYvj |
+| 1 | Dark Lab 500g Monohidratada | **R$ 44,90** | ★★★★★ 4.8 (35.635) | [Comprar →](https://amzn.to/48uLHwo |
+| 2 | Dark Lab 300g Monohidratada | **R$ 35,15** | ★★★★★ 4.7 (34.603) | [Comprar →](https://amzn.to/4dLgQiS |
+| 3 | FTW Creatina 100% Pura | **R$ 38,51** | ★★★★☆ 4.6 (143) | [Comprar →](https://amzn.to/4vpDXpm |
+| 4 | Creapure Nutrends Elite 300g | **R$ 138,90** | ★★★★★ 4.8 (176) | [Comprar →](https://amzn.to/4mqeMPz |
+| 5 | Creapure Optimum Nutrition 300g | **R$ 170,00** | ★★★★☆ 4.5 (226) | [Comprar →](https://amzn.to/4mqeMPz |
+| 6 | Creapure Go More Kosher Vegan | **R$ 194,00** | sem avaliação | [Comprar →](https://amzn.to/3Ql9w3w |
 
 ---
 
@@ -144,7 +144,7 @@ Com 35 mil avaliações, é a creatina mais testada do mercado nacional.
 </tbody>
 </table>
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/48uLHwo" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -164,7 +164,7 @@ A R$ 35,15 é a mais barata da lista por pote.
 </tbody>
 </table>
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4dLgQiS" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -184,7 +184,7 @@ A R$ 38,51, posiciona bem entre as opções nacionais acessíveis.
 </tbody>
 </table>
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4vpDXpm" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -204,7 +204,7 @@ Para quem exige **certificação e rastreabilidade** da matéria-prima.
 </tbody>
 </table>
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4mqeMPz" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -224,7 +224,7 @@ A R$ 170,00, é a opção para quem prioriza **marca internacional** reconhecida
 </tbody>
 </table>
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4mqeMPz" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -242,7 +242,7 @@ A R$ 194,00 é a mais cara da lista, ainda sem avaliações suficientes para ran
 </tbody>
 </table>
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/3Ql9w3w" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -276,6 +276,6 @@ A **Dark Lab 500g** é nossa escolha principal: a nota 4.8 com mais de 35 mil av
 
 Para quem quer o **padrão ouro em pureza**, as opções com **Creapure** (Nutrends ou Optimum Nutrition) são a escolha certa, com certificação alemã verificável. Todos os produtos estão disponíveis com entrega Prime pela Amazon.
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver os 6 Melhores na Amazon</a>
+<a href="https://amzn.to/48uLHwo" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver os 6 Melhores na Amazon</a>
 
 *Links com tag de afiliado `fits000-20`: ao comprar pelos links você apoia o blog sem pagar nada a mais.*

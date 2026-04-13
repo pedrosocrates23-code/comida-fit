@@ -21,7 +21,7 @@ produtos:
     preco: 206.0
     rating: 4.7
     ratingCount: 9982
-    link: "https://www.amazon.com.br/dp/B0CLTNBWFL?tag=fits000-20"
+    link: "https://amzn.to/4eqsMqe"
     vendedor: "Suplementsfort"
     destaque: true
   - asin: "B07L5WJPXR"
@@ -30,7 +30,7 @@ produtos:
     preco: 155.65
     rating: 4.4
     ratingCount: 1346
-    link: "https://www.amazon.com.br/dp/B07L5WJPXR?tag=fits000-20"
+    link: "https://amzn.to/3Q9bd47"
     vendedor: "Atacadista Suplementos"
     destaque: false
   - asin: "B07MFM36QT"
@@ -39,7 +39,7 @@ produtos:
     preco: 169.55
     rating: 4.1
     ratingCount: 134
-    link: "https://amzn.to/4tMiYvj"
+    link: "https://www.amazon.com.br/dp/B07MFM36QT?tag=fits000-20"
     vendedor: "Atacadista Suplementos"
     destaque: false
   - asin: "B0DFQN5MT4"
@@ -48,7 +48,7 @@ produtos:
     preco: 129.9
     rating: 4.7
     ratingCount: 837
-    link: "https://amzn.to/4tMiYvj"
+    link: "https://amzn.to/4tJESiW"
     vendedor: "Dark Lab."
     destaque: false
   - asin: "B07MC12N2N"
@@ -57,7 +57,7 @@ produtos:
     preco: 119.9
     rating: 4.7
     ratingCount: 11592
-    link: "https://amzn.to/4tMiYvj"
+    link: "https://amzn.to/3OwWFe9"
     vendedor: "G7 Nutrição Esportiva"
     destaque: false
   - asin: "B08525PHGW"
@@ -66,7 +66,7 @@ produtos:
     preco: 119.9
     rating: 4.7
     ratingCount: 2292
-    link: "https://amzn.to/4tMiYvj"
+    link: "https://amzn.to/3Q9sdan"
     vendedor: "G7 Nutrição Esportiva"
     destaque: false
   - asin: "B0DFQM2GJZ"
@@ -75,7 +75,7 @@ produtos:
     preco: 129.9
     rating: 4.7
     ratingCount: 837
-    link: "https://amzn.to/4tMiYvj"
+    link: "https://amzn.to/48uLFog"
     vendedor: "Dark Lab."
     destaque: false
 ---
@@ -100,7 +100,7 @@ O **Integralmédica 100% Pure** é o whey com mais avaliações positivas desta 
 **21g de proteína por scoop**, custo inferior a R$ 0,67 por grama, entrega Prime.
 Para 90% dos praticantes, é a escolha certa.
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/3OwWFe9" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 </div>
 
@@ -124,13 +124,13 @@ Para 90% dos praticantes, é a escolha certa.
 
 | # | Produto | Preço | Avaliação | |
 |---|---------|-------|-----------|--|
-| 1 | Integralmédica Concentrado Morango 900g | **R$ 119,90** | ★★★★★ 4.7 (11.592) | [Comprar →](https://amzn.to/4tMiYvj |
-| 2 | Dark Lab Concentrado 1kg Chocolate | **R$ 129,90** | ★★★★★ 4.7 (837) | [Comprar →](https://amzn.to/4tMiYvj |
-| 3 | Integralmédica Concentrado Cookies 900g | **R$ 119,90** | ★★★★★ 4.7 (2.292) | [Comprar →](https://amzn.to/4tMiYvj |
-| 4 | Bodyaction Isolado 1,8kg Chocolate | **R$ 155,65** | ★★★★☆ 4.4 (1.346) | [Comprar →](https://www.amazon.com.br/dp/B07L5WJPXR?tag=fits000-20 |
-| 5 | Dark Lab Concentrado 1kg Morango | **R$ 129,90** | ★★★★★ 4.7 (837) | [Comprar →](https://amzn.to/4tMiYvj |
-| 6 | Bodyaction Isolado 1,8kg Morango | **R$ 169,55** | ★★★★☆ 4.1 (134) | [Comprar →](https://amzn.to/4tMiYvj |
-| 7 | Whey Isolado Cookies 450g | **R$ 206,00** | ★★★★★ 4.7 (9.982) | [Comprar →](https://www.amazon.com.br/dp/B0CLTNBWFL?tag=fits000-20 |
+| 1 | Integralmédica Concentrado Morango 900g | **R$ 119,90** | ★★★★★ 4.7 (11.592) | [Comprar →](https://amzn.to/3OwWFe9 |
+| 2 | Dark Lab Concentrado 1kg Chocolate | **R$ 129,90** | ★★★★★ 4.7 (837) | [Comprar →](https://amzn.to/4tJESiW |
+| 3 | Integralmédica Concentrado Cookies 900g | **R$ 119,90** | ★★★★★ 4.7 (2.292) | [Comprar →](https://amzn.to/3Q9sdan |
+| 4 | Bodyaction Isolado 1,8kg Chocolate | **R$ 155,65** | ★★★★☆ 4.4 (1.346) | [Comprar →](https://amzn.to/3Q9bd47 |
+| 5 | Dark Lab Concentrado 1kg Morango | **R$ 129,90** | ★★★★★ 4.7 (837) | [Comprar →](https://amzn.to/48uLFog |
+| 6 | Bodyaction Isolado 1,8kg Morango | **R$ 169,55** | ★★★★☆ 4.1 (134) | [Comprar →](https://amzn.to/4mpsHVU |
+| 7 | Whey Isolado Cookies 450g | **R$ 206,00** | ★★★★★ 4.7 (9.982) | [Comprar →](https://amzn.to/4eqsMqe |
 
 ---
 
@@ -157,7 +157,7 @@ Dissolve bem, sabor aprovado pela maioria dos compradores.
 </tbody>
 </table>
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/3OwWFe9" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -180,7 +180,7 @@ A linha Dark Lab se consolidou como referência no segmento nacional.
 </tbody>
 </table>
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4tJESiW" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -200,7 +200,7 @@ Boa opção para quem quer variar o sabor sem mudar de marca.
 </tbody>
 </table>
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/3Q9sdan" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -224,7 +224,7 @@ A nota 4.4 com mais de 1.346 avaliações confirma boa aceitação no mercado.
 </tbody>
 </table>
 
-<a href="https://www.amazon.com.br/dp/B07L5WJPXR?tag=fits000-20" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/3Q9bd47" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -244,7 +244,7 @@ Boa opção para quem prefere o sabor e quer explorar a linha.
 </tbody>
 </table>
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/48uLFog" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -264,7 +264,7 @@ Para quem já usa o chocolate e quer variar.
 </tbody>
 </table>
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4mpsHVU" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -288,7 +288,7 @@ O tamanho menor é vantajoso para testar o produto antes de comprar um volume ma
 </tbody>
 </table>
 
-<a href="https://www.amazon.com.br/dp/B0CLTNBWFL?tag=fits000-20" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4eqsMqe" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -326,6 +326,6 @@ O **Whey Concentrado Integralmédica Morango** é nossa primeira indicação pel
 
 Para quem tem **intolerância à lactose** ou busca perfil mais limpo de macros, o **Bodyaction Isolado 1,8kg** é a escolha certa. E se quiser o isolado mais avaliado com quase 10 mil reviews, o **Cookies 450g** não decepciona. Todos com entrega Prime pela Amazon.
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver os 7 Melhores Wheys na Amazon</a>
+<a href="https://amzn.to/3OwWFe9" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver os 7 Melhores Wheys na Amazon</a>
 
 *Links com tag de afiliado `fits000-20` — ao comprar pelos links você apoia o blog sem pagar nada a mais.*

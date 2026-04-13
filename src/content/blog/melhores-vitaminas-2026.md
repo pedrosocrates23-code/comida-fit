@@ -21,7 +21,7 @@ produtos:
     preco: 49.59
     rating: 4.3
     ratingCount: 6
-    link: "https://amzn.to/4tMiYvj"
+    link: "https://amzn.to/4clYNgN"
     vendedor: "LIfe Seeds"
     destaque: true
   - asin: "B09XJMX44T"
@@ -30,7 +30,7 @@ produtos:
     preco: 69.0
     rating: 4.7
     ratingCount: 775
-    link: "https://amzn.to/4tMiYvj"
+    link: "https://amzn.to/3ODcQXi"
     vendedor: ""
     destaque: false
   - asin: "B0FGFQM6QM"
@@ -39,7 +39,7 @@ produtos:
     preco: 98.88
     rating: 4.8
     ratingCount: 28
-    link: "https://amzn.to/4tMiYvj"
+    link: "https://amzn.to/4t9hhYS"
     vendedor: "PURO NUTRITION"
     destaque: false
   - asin: "B0D5FM7B2D"
@@ -48,7 +48,7 @@ produtos:
     preco: 47.99
     rating: 4.5
     ratingCount: 289
-    link: "https://amzn.to/4tMiYvj"
+    link: "https://amzn.to/480WeiR"
     vendedor: "SCMF GROUP"
     destaque: false
   - asin: "B0CZ2JQY3W"
@@ -57,7 +57,7 @@ produtos:
     preco: 59.99
     rating: 4.6
     ratingCount: 72
-    link: "https://amzn.to/4tMiYvj"
+    link: "https://amzn.to/3OG0nlH"
     vendedor: "SCMF GROUP"
     destaque: false
   - asin: "B0DHWFK43F"
@@ -66,7 +66,7 @@ produtos:
     preco: 94.9
     rating: 4.5
     ratingCount: 29
-    link: "https://amzn.to/4tMiYvj"
+    link: "https://amzn.to/4tCcMWw"
     vendedor: "DYNAMO LABZ"
     destaque: false
   - asin: "B0FQHLZZF3"
@@ -98,7 +98,7 @@ O **Vhita D3 K2** é o produto mais avaliado desta lista com a fórmula completa
 D3, K2 e TCM em uma cápsula: absorção otimizada, direcionamento do cálcio para os ossos.
 Compradores relatam elevação dos níveis de vitamina D nos exames após 2 a 3 meses.
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/3ODcQXi" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 </div>
 
@@ -122,13 +122,13 @@ Compradores relatam elevação dos níveis de vitamina D nos exames após 2 a 3 
 
 | # | Produto | Preço | Avaliação | |
 |---|---------|-------|-----------|--|
-| 1 | Vhita D3 K2 TCM 60 cáps | **R$ 69,00** | ★★★★★ 4.7 (775) | [Comprar →](https://amzn.to/4tMiYvj |
-| 2 | ELLYM D3 K2 Gotas Sublingual 30mL | **R$ 47,99** | ★★★★☆ 4.5 (289) | [Comprar →](https://amzn.to/4tMiYvj |
+| 1 | Vhita D3 K2 TCM 60 cáps | **R$ 69,00** | ★★★★★ 4.7 (775) | [Comprar →](https://amzn.to/3ODcQXi |
+| 2 | ELLYM D3 K2 Gotas Sublingual 30mL | **R$ 47,99** | ★★★★☆ 4.5 (289) | [Comprar →](https://amzn.to/480WeiR |
 | 3 | Multivit Puro Nutrition 120 cáps | **R$ 65,90** | ★★★★★ 4.7 (101) | [Comprar →](https://amzn.to/4tMiYvj |
-| 4 | Ellym D3 K2 Cápsulas 60 caps | **R$ 59,99** | ★★★★☆ 4.6 (72) | [Comprar →](https://amzn.to/4tMiYvj |
-| 5 | D3 K2 Gotas LIfe Seeds 80 doses | **R$ 49,59** | ★★★★☆ 4.3 (6) | [Comprar →](https://amzn.to/4tMiYvj |
-| 6 | Ultra Men Multivit 180 tabs | **R$ 94,90** | ★★★★☆ 4.5 (29) | [Comprar →](https://amzn.to/4tMiYvj |
-| 7 | Kit 2x D3 K2 Puro Nutrition | **R$ 98,88** | ★★★★★ 4.8 (28) | [Comprar →](https://amzn.to/4tMiYvj |
+| 4 | Ellym D3 K2 Cápsulas 60 caps | **R$ 59,99** | ★★★★☆ 4.6 (72) | [Comprar →](https://amzn.to/3OG0nlH |
+| 5 | D3 K2 Gotas LIfe Seeds 80 doses | **R$ 49,59** | ★★★★☆ 4.3 (6) | [Comprar →](https://amzn.to/4clYNgN |
+| 6 | Ultra Men Multivit 180 tabs | **R$ 94,90** | ★★★★☆ 4.5 (29) | [Comprar →](https://amzn.to/4tCcMWw |
+| 7 | Kit 2x D3 K2 Puro Nutrition | **R$ 98,88** | ★★★★★ 4.8 (28) | [Comprar →](https://amzn.to/4t9hhYS |
 
 ---
 
@@ -154,7 +154,7 @@ A escolha mais segura para quem quer resultado comprovado por exame.
 </tbody>
 </table>
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/3ODcQXi" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -178,7 +178,7 @@ Compradores descrevem o sabor morango como agradável e discreto.
 </tbody>
 </table>
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/480WeiR" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -222,7 +222,7 @@ Ideal para quem usa doses altas de D3 há muito tempo e precisa garantir que o c
 </tbody>
 </table>
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/3OG0nlH" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -242,7 +242,7 @@ Frasco conta-gotas com controle preciso da quantidade diária.
 </tbody>
 </table>
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4clYNgN" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -262,7 +262,7 @@ R$ 94,90 por 3 meses: menos de **R$ 1,06 por dia** de cobertura completa A-Z.
 </tbody>
 </table>
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4tCcMWw" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -283,7 +283,7 @@ Indicado para correção acelerada de deficiência severa com **dose terapêutic
 </tbody>
 </table>
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4t9hhYS" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -322,6 +322,6 @@ O **Vhita D3 K2 TCM** é nossa principal recomendação pelo volume de 775 avali
 
 Para **cobertura micronutricional completa** além da D3, o **Multivitamínico Puro Nutrition** (22 nutrientes, R$ 65,90) é a escolha mais versátil e econômica da lista. Todos com entrega Prime pela Amazon.
 
-<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver os 7 Melhores na Amazon</a>
+<a href="https://amzn.to/3ODcQXi" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver os 7 Melhores na Amazon</a>
 
 *Links com tag de afiliado `fits000-20` — ao comprar pelos links você apoia o blog sem pagar nada a mais.*

@@ -11,8 +11,8 @@ const BLOG_DIR  = join(__dirname, '..', 'src', 'content', 'blog');
 
 // Mapa ASIN → novo link (conforme planilha)
 const LINKS = {
-  B0CLTNBWFL: 'https://www.amazon.com.br/dp/B0CLTNBWFL?tag=fits000-20',
-  B07L5WJPXR: 'https://www.amazon.com.br/dp/B07L5WJPXR?tag=fits000-20',
+  B0CLTNBWFL: 'https://amzn.to/4eqsMqe',
+  B07L5WJPXR: 'https://amzn.to/3Q9bd47',
   B07MFM36QT: 'https://amzn.to/4mpsHVU',
   B0DFQN5MT4: 'https://amzn.to/4tJESiW',
   B07MC12N2N: 'https://amzn.to/3OwWFe9',
@@ -64,7 +64,7 @@ for (const file of FILES) {
     // Substitui qualquer link amazon antigo que contenha o ASIN
     // tanto no frontmatter (link: "...") quanto no body (href="...")
     const pattern = new RegExp(
-      `https?://(?:www\\.amazon\\.com\\.br/dp/${asin}[^"'\\s]*|amzn\\.to/[A-Za-z0-9]+)(?=[\\s"'])`,
+      `https?://www\\.amazon\\.com\\.br/dp/${asin}[^"'\\s]*`,
       'g'
     );
 
