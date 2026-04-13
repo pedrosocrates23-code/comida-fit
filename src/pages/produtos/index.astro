@@ -330,9 +330,86 @@ const breadcrumbs = [
     transform: translate(-1px, -1px);
   }
 
-  @media (max-width: 480px) {
-    .page-title { font-size: var(--text-3xl); }
-    .produtos-grid { grid-template-columns: repeat(2, 1fr); gap: var(--space-4); }
-    .card-info { padding: var(--space-3); }
+  /* ── Mobile ─────────────────────────────────────────────── */
+  @media (max-width: 640px) {
+    .page-header { padding-block: var(--space-5); }
+    .page-title { font-size: var(--text-2xl); margin-bottom: var(--space-1); }
+    .page-desc { font-size: var(--text-base); }
+
+    /* 1 coluna em telas até 400px, 2 colunas acima */
+    .produtos-grid {
+      grid-template-columns: 1fr;
+      gap: var(--space-3);
+    }
+
+    /* Card horizontal em 1 coluna: imagem à esquerda, info à direita */
+    .card-produto {
+      flex-direction: row;
+    }
+
+    .card-link {
+      flex-shrink: 0;
+      width: 120px;
+    }
+
+    .card-imagem-wrapper {
+      width: 120px;
+      height: 120px;
+      aspect-ratio: unset;
+      border-bottom: none;
+      border-right: var(--border);
+    }
+
+    .card-imagem { padding: var(--space-2); }
+
+    .card-info {
+      padding: var(--space-3);
+      gap: var(--space-1);
+      min-width: 0; /* permite text-overflow funcionar */
+    }
+
+    .card-vendedor { font-size: 0.6rem; }
+
+    .card-titulo {
+      font-size: var(--text-sm);
+      -webkit-line-clamp: 2;
+    }
+
+    .card-rating { margin-top: var(--space-1); }
+    .card-stars { font-size: 0.75rem; }
+
+    .card-footer {
+      padding-top: var(--space-2);
+      margin-top: var(--space-1);
+      flex-direction: column;
+      align-items: stretch;
+      gap: var(--space-2);
+    }
+
+    .card-preco { font-size: var(--text-base); }
+
+    .btn-card {
+      text-align: center;
+      padding: 0.5rem;
+      width: 100%;
+    }
+
+    .badge-destaque { font-size: 0.55rem; padding: 0.15rem 0.4rem; }
+  }
+
+  /* 2 colunas compactas entre 400-640px */
+  @media (min-width: 400px) and (max-width: 640px) {
+    .produtos-grid { grid-template-columns: repeat(2, 1fr); gap: var(--space-3); }
+    .card-produto { flex-direction: column; }
+    .card-link { width: auto; }
+    .card-imagem-wrapper {
+      width: auto;
+      height: auto;
+      aspect-ratio: 1 / 1;
+      border-right: none;
+      border-bottom: var(--border);
+    }
+    .card-footer { flex-direction: row; align-items: center; }
+    .btn-card { width: auto; }
   }
 </style>

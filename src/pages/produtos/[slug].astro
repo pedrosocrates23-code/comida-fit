@@ -418,7 +418,7 @@ const breadcrumbSchema = {
   }
 
   @media (max-width: 640px) {
-    .produto-titulo { font-size: var(--text-xl); }
+    .produto-titulo { font-size: var(--text-lg); }
   }
 
   /* Rating */
@@ -463,7 +463,7 @@ const breadcrumbSchema = {
   }
 
   @media (max-width: 640px) {
-    .preco-value { font-size: var(--text-4xl); }
+    .preco-value { font-size: var(--text-3xl); }
   }
 
   .preco-parcelas {
@@ -692,4 +692,82 @@ const breadcrumbSchema = {
   }
 
   .link-comparativo:hover { color: var(--color-ink); }
+
+  /* ── Mobile Produto Detalhe ─────────────────────────────── */
+  @media (max-width: 640px) {
+    /* Hero: imagem compacta + info abaixo */
+    .produto-hero {
+      gap: var(--space-4);
+      margin-block: var(--space-4) var(--space-6);
+    }
+
+    /* Imagem menor no mobile — não precisa ser 1:1 enorme */
+    .produto-imagem-wrapper {
+      max-height: 260px;
+    }
+
+    .produto-imagem { padding: var(--space-3); }
+
+    /* Badge de avaliação ao lado da imagem, compacta */
+    .badge-avaliacao {
+      font-size: var(--text-xs);
+      padding: var(--space-1) var(--space-2);
+    }
+
+    /* Info */
+    .produto-info { gap: var(--space-3); }
+
+    .produto-vendedor { font-size: var(--text-xs); }
+
+    /* Rating inline compacto */
+    .produto-rating { gap: var(--space-1); }
+    .stars { font-size: var(--text-base); }
+    .rating-count { display: none; } /* sem espaço — aparece na tabela abaixo */
+
+    /* Preco */
+    .preco-currency { font-size: var(--text-base); }
+    .preco-parcelas { font-size: var(--text-xs); }
+
+    /* Disponibilidade: mostrar só 1 item */
+    .produto-disponibilidade li:not(:first-child) { display: none; }
+
+    /* CTAs: botão primário gigante, secundário menor */
+    .btn-comprar {
+      padding: 1.1rem;
+      font-size: var(--text-base);
+    }
+
+    .btn-ver-preco {
+      padding: 0.75rem;
+      font-size: var(--text-sm);
+    }
+
+    /* Trust badges: compactos */
+    .trust-badges {
+      gap: var(--space-2);
+      font-size: 0.65rem;
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      padding-bottom: var(--space-1);
+    }
+
+    /* Secoes */
+    .produto-secao { margin-top: var(--space-6); padding-top: var(--space-5); }
+    .produto-secao h2 { font-size: var(--text-xl); }
+
+    /* Specs table */
+    .specs-table th { width: 45%; font-size: var(--text-xs); }
+    .specs-table td { font-size: var(--text-xs); }
+    .specs-table th,
+    .specs-table td { padding: var(--space-2) var(--space-3); }
+
+    /* Rating summary */
+    .produto-avaliacoes .rating-summary { padding: var(--space-5); }
+    .rating-big-num { font-size: 3.5rem; }
+    .rating-big-stars { font-size: 1.5rem; }
+
+    /* Comparativo */
+    .produto-comparativo { padding: var(--space-4); }
+    .link-comparativo { font-size: var(--text-base); }
+  }
 </style>
