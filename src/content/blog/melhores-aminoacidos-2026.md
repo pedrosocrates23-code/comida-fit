@@ -21,7 +21,7 @@ produtos:
     preco: 26.99
     rating: 5.0
     ratingCount: 2
-    link: "https://www.amazon.com.br/dp/B0CLB2QLZ2?tag=fits000-20"
+    link: "https://amzn.to/4tMiYvj"
     vendedor: "Trends Nutrition"
     destaque: true
   - asin: "B07NF8X53B"
@@ -30,7 +30,7 @@ produtos:
     preco: 52.9
     rating: 4.6
     ratingCount: 316
-    link: "https://www.amazon.com.br/dp/B07NF8X53B?tag=fits000-20"
+    link: "https://amzn.to/4tMiYvj"
     vendedor: "ABE America"
     destaque: false
   - asin: "B082XF3PMP"
@@ -39,7 +39,7 @@ produtos:
     preco: 42.9
     rating: 4.6
     ratingCount: 148
-    link: "https://www.amazon.com.br/dp/B082XF3PMP?tag=fits000-20"
+    link: "https://amzn.to/4tMiYvj"
     vendedor: "ABE America"
     destaque: false
   - asin: "B0DLB9H9MD"
@@ -48,7 +48,7 @@ produtos:
     preco: 68.39
     rating: 4.5
     ratingCount: 8
-    link: "https://www.amazon.com.br/dp/B0DLB9H9MD?tag=fits000-20"
+    link: "https://amzn.to/4tMiYvj"
     vendedor: "NUTRI-Saúde"
     destaque: false
   - asin: "B0FY8HCG1V"
@@ -57,7 +57,7 @@ produtos:
     preco: 83.8
     rating: 5.0
     ratingCount: 1
-    link: "https://www.amazon.com.br/dp/B0FY8HCG1V?tag=fits000-20"
+    link: "https://amzn.to/4tMiYvj"
     vendedor: "Vittal Nutrition"
     destaque: false
 ---
@@ -82,7 +82,7 @@ O **3VS BCAA 10:1:1** tem a proporção mais eficaz desta lista para síntese mu
 Leucina em 10 partes, o "gatilho" anabólico mais importante dos BCAAs.
 316 compradores confirmam eficácia real no pós-treino.
 
-<a href="https://www.amazon.com.br/dp/B07NF8X53B?tag=fits000-20" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 </div>
 
@@ -106,11 +106,11 @@ Leucina em 10 partes, o "gatilho" anabólico mais importante dos BCAAs.
 
 | # | Produto | Preço | Avaliação | |
 |---|---------|-------|-----------|--|
-| 1 | 3VS BCAA 10:1:1 250g Uva Verde | **R$ 52,90** | ★★★★☆ 4.6 (316) | [Comprar →](https://www.amazon.com.br/dp/B07NF8X53B?tag=fits000-20) |
-| 2 | BCAA Hydro 300g Laranja | **R$ 42,90** | ★★★★☆ 4.6 (148) | [Comprar →](https://www.amazon.com.br/dp/B082XF3PMP?tag=fits000-20) |
-| 3 | BCAA Trends Nutrition 100g | **R$ 26,99** | ★★★★★ 5.0 (2) | [Comprar →](https://www.amazon.com.br/dp/B0CLB2QLZ2?tag=fits000-20) |
-| 4 | Glutamina NUTRI-LEAF 1000mg | **R$ 68,39** | ★★★★☆ 4.5 (8) | [Comprar →](https://www.amazon.com.br/dp/B0DLB9H9MD?tag=fits000-20) |
-| 5 | Kit 3x Glutamina Qnutri 180 cáps | **R$ 83,80** | ★★★★★ 5.0 (1) | [Comprar →](https://www.amazon.com.br/dp/B0FY8HCG1V?tag=fits000-20) |
+| 1 | 3VS BCAA 10:1:1 250g Uva Verde | **R$ 52,90** | ★★★★☆ 4.6 (316) | [Comprar →](https://amzn.to/4tMiYvj |
+| 2 | BCAA Hydro 300g Laranja | **R$ 42,90** | ★★★★☆ 4.6 (148) | [Comprar →](https://amzn.to/4tMiYvj |
+| 3 | BCAA Trends Nutrition 100g | **R$ 26,99** | ★★★★★ 5.0 (2) | [Comprar →](https://amzn.to/4tMiYvj |
+| 4 | Glutamina NUTRI-LEAF 1000mg | **R$ 68,39** | ★★★★☆ 4.5 (8) | [Comprar →](https://amzn.to/4tMiYvj |
+| 5 | Kit 3x Glutamina Qnutri 180 cáps | **R$ 83,80** | ★★★★★ 5.0 (1) | [Comprar →](https://amzn.to/4tMiYvj |
 
 ---
 
@@ -136,7 +136,7 @@ O padrão 10:1:1 é adotado por atletas avançados que querem o melhor retorno d
 </tbody>
 </table>
 
-<a href="https://www.amazon.com.br/dp/B07NF8X53B?tag=fits000-20" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -160,7 +160,7 @@ A R$ 42,90 com 300g, é uma das melhores relações custo-benefício desta lista
 </tbody>
 </table>
 
-<a href="https://www.amazon.com.br/dp/B082XF3PMP?tag=fits000-20" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -183,7 +183,7 @@ Custo de menos de R$ 2,70 por dose: o mais econômico da lista.
 </tbody>
 </table>
 
-<a href="https://www.amazon.com.br/dp/B0CLB2QLZ2?tag=fits000-20" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -206,7 +206,7 @@ O formato cápsula facilita a dosagem precisa e o transporte.
 </tbody>
 </table>
 
-<a href="https://www.amazon.com.br/dp/B0DLB9H9MD?tag=fits000-20" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -229,7 +229,7 @@ Produto novo com nota máxima, ainda com avaliações iniciais.
 </tbody>
 </table>
 
-<a href="https://www.amazon.com.br/dp/B0FY8HCG1V?tag=fits000-20" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -266,6 +266,6 @@ O **3VS BCAA 10:1:1** é nossa indicação principal pela proporção avançada 
 
 Se o foco for **recuperação e imunidade**, adicione a **Glutamina NUTRI-LEAF** à rotina. O **Kit Qnutri** é a escolha mais econômica para uso contínuo. Todos com entrega Prime pela Amazon.
 
-<a href="https://www.amazon.com.br/dp/B07NF8X53B?tag=fits000-20" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver os 5 Melhores na Amazon</a>
+<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver os 5 Melhores na Amazon</a>
 
 *Links com tag de afiliado `fits000-20` — ao comprar pelos links você apoia o blog sem pagar nada a mais.*

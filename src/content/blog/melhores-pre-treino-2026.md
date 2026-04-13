@@ -21,7 +21,7 @@ produtos:
     preco: 86.0
     rating: 4.7
     ratingCount: 83
-    link: "https://www.amazon.com.br/dp/B0FJTCRZNK?tag=fits000-20"
+    link: "https://amzn.to/4tMiYvj"
     vendedor: "CELEBRATION STORE"
     destaque: true
   - asin: "B0DTV6JSNK"
@@ -30,7 +30,7 @@ produtos:
     preco: 72.9
     rating: 4.4
     ratingCount: 73
-    link: "https://www.amazon.com.br/dp/B0DTV6JSNK?tag=fits000-20"
+    link: "https://amzn.to/4tMiYvj"
     vendedor: "FortalVit.V3r"
     destaque: false
   - asin: "B0DV788XG4"
@@ -39,7 +39,7 @@ produtos:
     preco: 199.0
     rating: null
     ratingCount: null
-    link: "https://www.amazon.com.br/dp/B0DV788XG4?tag=fits000-20"
+    link: "https://amzn.to/4tMiYvj"
     vendedor: "Hot Body Suplementos"
     destaque: false
   - asin: "B09SJT7751"
@@ -48,7 +48,7 @@ produtos:
     preco: 39.99
     rating: 4.4
     ratingCount: 840
-    link: "https://www.amazon.com.br/dp/B09SJT7751?tag=fits000-20"
+    link: "https://amzn.to/4tMiYvj"
     vendedor: "Loja FTW"
     destaque: false
   - asin: "B0FTGBXH71"
@@ -57,7 +57,7 @@ produtos:
     preco: 69.99
     rating: 4.3
     ratingCount: 37
-    link: "https://www.amazon.com.br/dp/B0FTGBXH71?tag=fits000-20"
+    link: "https://amzn.to/4tMiYvj"
     vendedor: "Loja FTW"
     destaque: false
   - asin: "B0GS7JG1P5"
@@ -66,7 +66,7 @@ produtos:
     preco: 89.99
     rating: 4.5
     ratingCount: 4582
-    link: "https://www.amazon.com.br/dp/B0GS7JG1P5?tag=fits000-20"
+    link: "https://amzn.to/4tMiYvj"
     vendedor: "Loja FTW"
     destaque: false
   - asin: "B0FY3Z98MM"
@@ -75,7 +75,7 @@ produtos:
     preco: 78.99
     rating: null
     ratingCount: null
-    link: "https://www.amazon.com.br/dp/B0FY3Z98MM?tag=fits000-20"
+    link: "https://amzn.to/4tMiYvj"
     vendedor: "Majoris Store"
     destaque: false
 ---
@@ -98,7 +98,7 @@ O **FTW Inferno** é o pré-treino mais avaliado desta lista, com cafeína, beta
 Sabor Tangerina Fire, energia real para treinos de alta intensidade, controle total da dose.
 Comprovado por mais de 4.500 compradores.
 
-<a href="https://www.amazon.com.br/dp/B0GS7JG1P5?tag=fits000-20" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 </div>
 
@@ -122,13 +122,13 @@ Comprovado por mais de 4.500 compradores.
 
 | # | Produto | Preço | Avaliação | |
 |---|---------|-------|-----------|--|
-| 1 | FTW Inferno 300g | **R$ 89,99** | ★★★★☆ 4.5 (4.582) | [Comprar →](https://www.amazon.com.br/dp/B0GS7JG1P5?tag=fits000-20) |
-| 2 | FTW Diabo Verde Cereja 150g | **R$ 39,99** | ★★★★☆ 4.4 (840) | [Comprar →](https://www.amazon.com.br/dp/B09SJT7751?tag=fits000-20) |
-| 3 | Rapid Fuse Foguinho 60 cáps | **R$ 86,00** | ★★★★★ 4.7 (83) | [Comprar →](https://www.amazon.com.br/dp/B0FJTCRZNK?tag=fits000-20) |
-| 4 | Thermo Muscle 90 cáps | **R$ 72,90** | ★★★★☆ 4.4 (73) | [Comprar →](https://www.amazon.com.br/dp/B0DTV6JSNK?tag=fits000-20) |
-| 5 | Easy Boost Caffeine Free 300g | **R$ 78,99** | sem avaliação | [Comprar →](https://www.amazon.com.br/dp/B0FY3Z98MM?tag=fits000-20) |
-| 6 | FTW Dilabol Pump 300g s/ cafeína | **R$ 69,99** | ★★★★☆ 4.3 (37) | [Comprar →](https://www.amazon.com.br/dp/B0FTGBXH71?tag=fits000-20) |
-| 7 | Combo Insane 400g + Garrafa | **R$ 199,00** | sem avaliação | [Comprar →](https://www.amazon.com.br/dp/B0DV788XG4?tag=fits000-20) |
+| 1 | FTW Inferno 300g | **R$ 89,99** | ★★★★☆ 4.5 (4.582) | [Comprar →](https://amzn.to/4tMiYvj |
+| 2 | FTW Diabo Verde Cereja 150g | **R$ 39,99** | ★★★★☆ 4.4 (840) | [Comprar →](https://amzn.to/4tMiYvj |
+| 3 | Rapid Fuse Foguinho 60 cáps | **R$ 86,00** | ★★★★★ 4.7 (83) | [Comprar →](https://amzn.to/4tMiYvj |
+| 4 | Thermo Muscle 90 cáps | **R$ 72,90** | ★★★★☆ 4.4 (73) | [Comprar →](https://amzn.to/4tMiYvj |
+| 5 | Easy Boost Caffeine Free 300g | **R$ 78,99** | sem avaliação | [Comprar →](https://amzn.to/4tMiYvj |
+| 6 | FTW Dilabol Pump 300g s/ cafeína | **R$ 69,99** | ★★★★☆ 4.3 (37) | [Comprar →](https://amzn.to/4tMiYvj |
+| 7 | Combo Insane 400g + Garrafa | **R$ 199,00** | sem avaliação | [Comprar →](https://amzn.to/4tMiYvj |
 
 ---
 
@@ -154,7 +154,7 @@ Com 4.582 compradores satisfeitos, é o mais testado desta lista.
 </tbody>
 </table>
 
-<a href="https://www.amazon.com.br/dp/B0GS7JG1P5?tag=fits000-20" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -177,7 +177,7 @@ Perfeito para **iniciantes** ou quem quer testar pré-treino sem gastar muito.
 </tbody>
 </table>
 
-<a href="https://www.amazon.com.br/dp/B09SJT7751?tag=fits000-20" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -201,7 +201,7 @@ Para quem alia treino à **perda de peso**, o combo cafeína mais cromo é um di
 </tbody>
 </table>
 
-<a href="https://www.amazon.com.br/dp/B0FJTCRZNK?tag=fits000-20" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -225,7 +225,7 @@ Indicado para atletas que querem cápsula com **fórmula robusta** e doses efeti
 </tbody>
 </table>
 
-<a href="https://www.amazon.com.br/dp/B0DTV6JSNK?tag=fits000-20" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -243,7 +243,7 @@ Sem avaliações suficientes ainda, mas a fórmula é transparente e honesta.
 </tbody>
 </table>
 
-<a href="https://www.amazon.com.br/dp/B0FY3Z98MM?tag=fits000-20" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -263,7 +263,7 @@ Combina bem com café ou chá pré-treino para quem quiser adicionar cafeína se
 </tbody>
 </table>
 
-<a href="https://www.amazon.com.br/dp/B0FTGBXH71?tag=fits000-20" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -281,7 +281,7 @@ A R$ 199,00 é o mais caro da lista, mas o valor agregado da garrafa é real.
 </tbody>
 </table>
 
-<a href="https://www.amazon.com.br/dp/B0DV788XG4?tag=fits000-20" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
 
 ---
 
@@ -318,6 +318,6 @@ O **FTW Inferno 300g** é nossa principal indicação: 4.582 avaliações, nota 
 
 Quem treina à noite ou tem sensibilidade a estimulantes deve olhar para o **Easy Boost** ou o **Dilabol Pump**. Seja qual for o seu perfil, todos estão disponíveis via Amazon Prime com entrega rápida.
 
-<a href="https://www.amazon.com.br/dp/B0GS7JG1P5?tag=fits000-20" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver os 7 Melhores Pré-Treinos na Amazon</a>
+<a href="https://amzn.to/4tMiYvj" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver os 7 Melhores Pré-Treinos na Amazon</a>
 
 *Links com tag de afiliado `fits000-20` — ao comprar pelos links você apoia o blog sem pagar nada a mais.*
