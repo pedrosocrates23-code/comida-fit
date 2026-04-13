@@ -4,6 +4,7 @@ import { getCollection } from 'astro:content';
 
 export const GET: APIRoute = async () => {
   const receitas = await getCollection('receitas');
+  const blogPosts = await getCollection('blog');
 
   const categorias = [
     'cafe-da-manha', 'almoco-fit', 'lanches-saudaveis',
@@ -11,9 +12,35 @@ export const GET: APIRoute = async () => {
     'smoothies-e-sucos', 'pre-treino', 'pos-treino',
   ];
 
+  // Produtos (extraidos dos posts do blog)
+  const seenAsins = new Set<string>();
+  const produtoPages: Array<{ url: string; priority: string; changefreq: string; lastmod: string }> = [];
+  for (const post of blogPosts) {
+    if (!post.data.produtos?.length) continue;
+    for (const produto of post.data.produtos) {
+      if (seenAsins.has(produto.asin)) continue;
+      seenAsins.add(produto.asin);
+      produtoPages.push({
+        url:        `/produtos/${produto.asin}/`,
+        priority:   '0.8',
+        changefreq: 'weekly',
+        lastmod:    post.data.publishDate.toISOString().split('T')[0],
+      });
+    }
+  }
+
+  const blogPages = blogPosts.map((p) => ({
+    url:        `/blog/${p.slug}/`,
+    priority:   '0.8',
+    changefreq: 'weekly',
+    lastmod:    p.data.publishDate.toISOString().split('T')[0],
+  }));
+
   const staticPages = [
     { url: '/',          priority: '1.0', changefreq: 'weekly',  lastmod: '' },
     { url: '/receitas/', priority: '0.9', changefreq: 'weekly',  lastmod: '' },
+    { url: '/blog/',     priority: '0.9', changefreq: 'weekly',  lastmod: '' },
+    { url: '/produtos/', priority: '0.9', changefreq: 'weekly',  lastmod: '' },
     { url: '/sobre/',    priority: '0.5', changefreq: 'monthly', lastmod: '' },
   ];
 
@@ -31,7 +58,7 @@ export const GET: APIRoute = async () => {
     lastmod:    r.data.publishDate.toISOString().split('T')[0],
   }));
 
-  const allPages = [...staticPages, ...categoriaPages, ...receitaPages];
+  const allPages = [...staticPages, ...categoriaPages, ...receitaPages, ...blogPages, ...produtoPages];
   const base     = 'https://melhoresreceitasfit.com.br';
   const today    = new Date().toISOString().split('T')[0];
 

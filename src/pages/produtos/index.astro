@@ -1,0 +1,331 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@layouts/BaseLayout.astro';
+import Header from '@components/Header.astro';
+import Footer from '@components/Footer.astro';
+import Breadcrumb from '@components/Breadcrumb.astro';
+
+const posts = await getCollection('blog');
+const seen  = new Set<string>();
+const allProdutos: Array<{ produto: any; post: any }> = [];
+
+for (const post of posts) {
+  if (!post.data.produtos?.length) continue;
+  for (const produto of post.data.produtos) {
+    if (seen.has(produto.asin)) continue;
+    seen.add(produto.asin);
+    allProdutos.push({ produto, post });
+  }
+}
+
+// Ordena: mais avaliados primeiro, depois por nota
+allProdutos.sort((a, b) => {
+  const rA = (a.produto.rating ?? 0) * Math.log10((a.produto.ratingCount ?? 1) + 1);
+  const rB = (b.produto.rating ?? 0) * Math.log10((b.produto.ratingCount ?? 1) + 1);
+  return rB - rA;
+});
+
+function renderStars(r: number) {
+  const filled = Math.round(r);
+  return '★'.repeat(filled) + '☆'.repeat(5 - filled);
+}
+function fmtNum(n: number | null | undefined) {
+  if (!n) return null;
+  return n.toLocaleString('pt-BR');
+}
+function fmtPrice(n: number | null | undefined) {
+  if (!n) return null;
+  return 'R$ ' + n.toFixed(2).replace('.', ',');
+}
+
+const breadcrumbs = [
+  { name: 'Home',        url: 'https://melhoresreceitasfit.com.br/' },
+  { name: 'Suplementos', url: 'https://melhoresreceitasfit.com.br/produtos/' },
+];
+---
+
+<BaseLayout
+  title="Melhores Suplementos Fitness — Comparativos e Avaliacoes"
+  description="Compare os melhores suplementos fitness com avaliacoes reais, precos atualizados e entrega rapida. Creatina, Whey, BCAA, Pre-treino, Vitaminas e mais."
+  type="website"
+  canonicalUrl="https://melhoresreceitasfit.com.br/produtos/"
+>
+  <Header />
+
+  <main id="main-content">
+    <div class="container">
+      <Breadcrumb items={breadcrumbs} />
+
+      <header class="page-header">
+        <h1 class="page-title">Suplementos Fitness</h1>
+        <p class="page-desc">
+          <strong>{allProdutos.length} produtos</strong> avaliados com dados reais de compradores.
+          Clique em qualquer produto para ver especificacoes completas e o melhor preco.
+        </p>
+      </header>
+
+      <div class="produtos-grid">
+        {allProdutos.map(({ produto, post }) => (
+          <article class="card-produto">
+            <a href={`/produtos/${produto.asin}/`} class="card-link" aria-label={produto.titulo}>
+              <div class="card-imagem-wrapper">
+                {produto.imagem ? (
+                  <img
+                    src={produto.imagem}
+                    alt={produto.titulo}
+                    width="300"
+                    height="300"
+                    loading="lazy"
+                    decoding="async"
+                    class="card-imagem"
+                  />
+                ) : (
+                  <div class="card-imagem-placeholder">Sem imagem</div>
+                )}
+                {produto.destaque && (
+                  <span class="badge-destaque">Top Pick</span>
+                )}
+              </div>
+            </a>
+
+            <div class="card-info">
+              <p class="card-vendedor">{produto.vendedor || post.data.categoria}</p>
+
+              <a href={`/produtos/${produto.asin}/`} class="card-titulo-link">
+                <h2 class="card-titulo">{produto.titulo}</h2>
+              </a>
+
+              {produto.rating && (
+                <div class="card-rating">
+                  <span class="card-stars">{renderStars(produto.rating)}</span>
+                  <span class="card-rating-num">{produto.rating}/5</span>
+                  {produto.ratingCount && (
+                    <span class="card-rating-count">({fmtNum(produto.ratingCount)})</span>
+                  )}
+                </div>
+              )}
+
+              <div class="card-footer">
+                {produto.preco != null ? (
+                  <span class="card-preco">{fmtPrice(produto.preco)}</span>
+                ) : (
+                  <span class="card-preco card-preco--indisponivel">Consulte o preco</span>
+                )}
+
+                <a
+                  href={`/produtos/${produto.asin}/`}
+                  class="btn-card"
+                >
+                  Ver Produto
+                </a>
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  /* ── Page Header ──────────────────────────────────────── */
+  .page-header {
+    padding-block: var(--space-8);
+    border-bottom: var(--border);
+    margin-bottom: var(--space-8);
+  }
+
+  .page-title {
+    font-family: var(--font-display);
+    font-size: var(--text-4xl);
+    margin-bottom: var(--space-2);
+  }
+
+  .page-desc {
+    font-size: var(--text-lg);
+    color: var(--color-muted);
+    line-height: 1.6;
+    max-width: 65ch;
+  }
+
+  /* ── Grid ─────────────────────────────────────────────── */
+  .produtos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: var(--space-6);
+    padding-bottom: var(--space-16);
+  }
+
+  /* ── Card ─────────────────────────────────────────────── */
+  .card-produto {
+    display: flex;
+    flex-direction: column;
+    border: var(--border-thick);
+    box-shadow: var(--shadow);
+    background: var(--color-canvas);
+    transition: box-shadow var(--transition), transform var(--transition);
+  }
+
+  .card-produto:hover {
+    box-shadow: var(--shadow-hover);
+    transform: translate(-2px, -2px);
+  }
+
+  /* Image */
+  .card-link { display: block; }
+
+  .card-imagem-wrapper {
+    position: relative;
+    aspect-ratio: 1 / 1;
+    background: #fff;
+    border-bottom: var(--border);
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .card-imagem {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    padding: var(--space-4);
+    transition: transform 0.3s ease;
+  }
+
+  .card-produto:hover .card-imagem {
+    transform: scale(1.04);
+  }
+
+  .card-imagem-placeholder {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-muted);
+    font-size: var(--text-sm);
+    background: var(--color-surface);
+  }
+
+  .badge-destaque {
+    position: absolute;
+    top: var(--space-2);
+    left: var(--space-2);
+    background: var(--color-primary);
+    color: #fff;
+    font-size: 0.65rem;
+    font-weight: 700;
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 0.2rem 0.5rem;
+    border: 2px solid #1a1a1a;
+  }
+
+  /* Content */
+  .card-info {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: var(--space-4);
+    gap: var(--space-2);
+  }
+
+  .card-vendedor {
+    font-size: var(--text-xs);
+    color: var(--color-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: 600;
+    margin: 0;
+  }
+
+  .card-titulo-link {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .card-titulo {
+    font-size: var(--text-sm);
+    font-weight: 700;
+    line-height: 1.4;
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .card-titulo-link:hover .card-titulo {
+    color: var(--color-primary);
+  }
+
+  /* Stars */
+  .card-rating {
+    display: flex;
+    align-items: center;
+    gap: var(--space-1);
+    flex-wrap: wrap;
+    margin-top: auto;
+  }
+
+  .card-stars { color: #d97706; font-size: 0.85rem; letter-spacing: 0.02em; }
+  .card-rating-num { font-size: var(--text-xs); font-weight: 700; }
+  .card-rating-count { font-size: var(--text-xs); color: var(--color-muted); }
+
+  /* Footer */
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-2);
+    padding-top: var(--space-3);
+    border-top: var(--border);
+    margin-top: var(--space-2);
+  }
+
+  .card-preco {
+    font-family: var(--font-display);
+    font-size: var(--text-lg);
+    font-weight: 900;
+    color: var(--color-ink);
+    white-space: nowrap;
+  }
+
+  .card-preco--indisponivel {
+    font-size: var(--text-xs);
+    font-weight: 500;
+    color: var(--color-muted);
+  }
+
+  .btn-card {
+    flex-shrink: 0;
+    padding: 0.4rem 0.75rem;
+    background: var(--color-secondary);
+    color: #fff !important;
+    font-size: var(--text-xs);
+    font-weight: 700;
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    text-decoration: none !important;
+    border: 2px solid #1a1a1a;
+    box-shadow: 2px 2px 0 #1a1a1a;
+    transition: box-shadow var(--transition), transform var(--transition);
+    white-space: nowrap;
+  }
+
+  .btn-card:hover {
+    box-shadow: 4px 4px 0 #1a1a1a;
+    transform: translate(-1px, -1px);
+  }
+
+  @media (max-width: 480px) {
+    .page-title { font-size: var(--text-3xl); }
+    .produtos-grid { grid-template-columns: repeat(2, 1fr); gap: var(--space-4); }
+    .card-info { padding: var(--space-3); }
+  }
+</style>
