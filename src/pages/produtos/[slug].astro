@@ -69,11 +69,32 @@ const { slug } = Astro.params;
 const canonical = `https://melhoresreceitasfit.com.br/produtos/${slug}/`;
 const imageUrl  = imagem ? `https://melhoresreceitasfit.com.br${imagem}` : undefined;
 
-// Meta description
-const rawDesc = rating && ratingCount
-  ? `${titulo} — nota ${rating}/5 com ${fmtNum(ratingCount)} avaliacoes verificadas. Confira especificacoes e o melhor preco.`
-  : `${titulo} — confira especificacoes e o melhor preco disponivel.`;
-const metaDescription = rawDesc.length > 160 ? rawDesc.slice(0, 157) + '...' : rawDesc;
+// SEO title: produto parte deve caber em 46 chars (+ " | Melhores Receitas Fit" = 70 total)
+function makeSeoTitle(t: string, max = 46): string {
+  if (t.length <= max) return t;
+  const cut = t.slice(0, max);
+  const lastSpace = cut.lastIndexOf(' ');
+  return lastSpace > max * 0.6 ? cut.slice(0, lastSpace) : cut;
+}
+const seoTitle = makeSeoTitle(titulo);
+
+// Meta description: 80-155 chars
+const shortName = makeSeoTitle(titulo, 40); // versao curta para a desc
+const descParts: string[] = [shortName];
+if (rating && ratingCount) {
+  descParts.push(`— nota ${rating}/5 com ${fmtNum(ratingCount)} avaliacoes verificadas.`);
+}
+if (preco) {
+  descParts.push(`Preco: R$ ${preco}.`);
+}
+descParts.push('Confira especificacoes completas e o melhor preco disponivel.');
+let metaDescription = descParts.join(' ');
+if (metaDescription.length < 80) {
+  metaDescription += ' Entrega rapida em todo o Brasil.';
+}
+if (metaDescription.length > 155) {
+  metaDescription = metaDescription.slice(0, 152) + '...';
+}
 
 // Sobre o produto
 const descricaoLonga = [
@@ -136,7 +157,7 @@ const breadcrumbSchema = {
 ---
 
 <BaseLayout
-  title={titulo}
+  title={seoTitle}
   description={metaDescription}
   image={imagem}
   imageAlt={titulo}
