@@ -4,17 +4,24 @@ import BaseLayout from '@layouts/BaseLayout.astro';
 import Header from '@components/Header.astro';
 import Footer from '@components/Footer.astro';
 import Breadcrumb from '@components/Breadcrumb.astro';
+import { slugify } from '@utils/slugify';
 
 const posts = await getCollection('blog');
-const seen  = new Set<string>();
-const allProdutos: Array<{ produto: any; post: any }> = [];
+const seenAsins = new Set<string>();
+const seenSlugs = new Set<string>();
+const allProdutos: Array<{ produto: any; post: any; slug: string }> = [];
 
 for (const post of posts) {
   if (!post.data.produtos?.length) continue;
   for (const produto of post.data.produtos) {
-    if (seen.has(produto.asin)) continue;
-    seen.add(produto.asin);
-    allProdutos.push({ produto, post });
+    if (seenAsins.has(produto.asin)) continue;
+    seenAsins.add(produto.asin);
+
+    let slug = slugify(produto.titulo);
+    if (seenSlugs.has(slug)) slug = `${slug}-${produto.asin.slice(-6).toLowerCase()}`;
+    seenSlugs.add(slug);
+
+    allProdutos.push({ produto, post, slug });
   }
 }
 
@@ -65,9 +72,9 @@ const breadcrumbs = [
       </header>
 
       <div class="produtos-grid">
-        {allProdutos.map(({ produto, post }) => (
+        {allProdutos.map(({ produto, post, slug }) => (
           <article class="card-produto">
-            <a href={`/produtos/${produto.asin}/`} class="card-link" aria-label={produto.titulo}>
+            <a href={`/produtos/${slug}/`} class="card-link" aria-label={produto.titulo}>
               <div class="card-imagem-wrapper">
                 {produto.imagem ? (
                   <img
@@ -91,7 +98,7 @@ const breadcrumbs = [
             <div class="card-info">
               <p class="card-vendedor">{produto.vendedor || post.data.categoria}</p>
 
-              <a href={`/produtos/${produto.asin}/`} class="card-titulo-link">
+              <a href={`/produtos/${slug}/`} class="card-titulo-link">
                 <h2 class="card-titulo">{produto.titulo}</h2>
               </a>
 
@@ -113,7 +120,7 @@ const breadcrumbs = [
                 )}
 
                 <a
-                  href={`/produtos/${produto.asin}/`}
+                  href={`/produtos/${slug}/`}
                   class="btn-card"
                 >
                   Ver Produto

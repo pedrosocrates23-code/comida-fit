@@ -1,0 +1,674 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@layouts/BaseLayout.astro';
+import Header from '@components/Header.astro';
+import Footer from '@components/Footer.astro';
+import Breadcrumb from '@components/Breadcrumb.astro';
+import { slugify } from '@utils/slugify';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  const seenAsins = new Set<string>();
+  const seenSlugs = new Set<string>();
+  const paths: Array<{ params: { slug: string }; props: { produto: any; post: any } }> = [];
+
+  for (const post of posts) {
+    if (!post.data.produtos?.length) continue;
+    for (const produto of post.data.produtos) {
+      if (seenAsins.has(produto.asin)) continue;
+      seenAsins.add(produto.asin);
+
+      // Gera slug long-tail a partir do titulo; fallback com ASIN se colidir
+      let slug = slugify(produto.titulo);
+      if (seenSlugs.has(slug)) slug = `${slug}-${produto.asin.slice(-6).toLowerCase()}`;
+      seenSlugs.add(slug);
+
+      paths.push({ params: { slug }, props: { produto, post } });
+    }
+  }
+  return paths;
+}
+
+const { produto, post } = Astro.props;
+
+// --- helpers ---
+function renderStars(r: number) {
+  const filled = Math.round(r);
+  return '★'.repeat(filled) + '☆'.repeat(5 - filled);
+}
+function fmtNum(n: number | null | undefined) {
+  if (!n) return '0';
+  return n.toLocaleString('pt-BR');
+}
+function fmtPrice(n: number | null | undefined) {
+  if (!n) return null;
+  return n.toFixed(2).replace('.', ',');
+}
+
+const titulo    = produto.titulo as string;
+const asin      = produto.asin as string;
+const imagem    = produto.imagem ?? null;
+const preco     = fmtPrice(produto.preco);
+const parcela   = produto.preco && produto.preco > 60 ? fmtPrice(produto.preco / 12) : null;
+const rating    = produto.rating as number | null;
+const ratingCount = produto.ratingCount as number | null;
+const vendedor  = produto.vendedor || null;
+const link      = produto.link as string;
+
+const categoriaLabel: Record<string, string> = {
+  suplementos:    'Suplementos',
+  nutricao:       'Nutrição',
+  treino:         'Treino',
+  emagrecimento:  'Emagrecimento',
+  saude:          'Saúde',
+  'dicas-fit':    'Dicas Fit',
+};
+const catLabel = categoriaLabel[post.data.categoria] ?? 'Suplementos';
+
+const { slug } = Astro.params;
+const canonical = `https://melhoresreceitasfit.com.br/produtos/${slug}/`;
+const imageUrl  = imagem ? `https://melhoresreceitasfit.com.br${imagem}` : undefined;
+
+// Meta description
+const rawDesc = rating && ratingCount
+  ? `${titulo} — nota ${rating}/5 com ${fmtNum(ratingCount)} avaliacoes verificadas. Confira especificacoes e o melhor preco.`
+  : `${titulo} — confira especificacoes e o melhor preco disponivel.`;
+const metaDescription = rawDesc.length > 160 ? rawDesc.slice(0, 157) + '...' : rawDesc;
+
+// Sobre o produto
+const descricaoLonga = [
+  `${titulo}${vendedor ? `, produzido por ${vendedor},` : ''}`,
+  rating && ratingCount
+    ? ` e avaliado com nota ${rating}/5 por ${fmtNum(ratingCount)} compradores verificados.`
+    : ' esta disponivel para compra online.',
+  ' Produto da categoria suplementos fitness, indicado para praticantes de atividade fisica',
+  ' que buscam melhor desempenho e recuperacao muscular.',
+  ' Clique em "Comprar Agora" para conferir o preco atualizado e disponibilidade de estoque.',
+].join('');
+
+// Schema
+const productSchema: Record<string, unknown> = {
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  name: titulo,
+  image: imageUrl,
+  description: metaDescription,
+  ...(vendedor ? { brand: { '@type': 'Brand', name: vendedor } } : {}),
+  offers: {
+    '@type': 'Offer',
+    ...(produto.preco != null ? { price: produto.preco } : {}),
+    priceCurrency: 'BRL',
+    availability: 'https://schema.org/InStock',
+    url: link,
+    ...(vendedor ? { seller: { '@type': 'Organization', name: vendedor } } : {}),
+  },
+  ...(rating && ratingCount
+    ? {
+        aggregateRating: {
+          '@type': 'AggregateRating',
+          ratingValue: rating,
+          reviewCount: ratingCount,
+          bestRating: 5,
+          worstRating: 1,
+        },
+      }
+    : {}),
+};
+
+const tituloShort = titulo.length > 50 ? titulo.slice(0, 50) + '...' : titulo;
+
+const breadcrumbs = [
+  { name: 'Home',       url: 'https://melhoresreceitasfit.com.br/' },
+  { name: catLabel,     url: 'https://melhoresreceitasfit.com.br/blog/' },
+  { name: tituloShort,  url: canonical },
+];
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: breadcrumbs.map((item, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: item.name,
+    item: item.url,
+  })),
+};
+---
+
+<BaseLayout
+  title={titulo}
+  description={metaDescription}
+  image={imagem}
+  imageAlt={titulo}
+  type="website"
+  canonicalUrl={canonical}
+  schema={[productSchema, breadcrumbSchema]}
+>
+  <Header />
+
+  <main id="main-content">
+    <div class="container">
+      <Breadcrumb items={breadcrumbs} />
+
+      <!-- HERO -->
+      <div class="produto-hero">
+
+        <!-- Galeria -->
+        <div class="produto-galeria">
+          {imagem ? (
+            <div class="produto-imagem-wrapper">
+              <img
+                src={imagem}
+                alt={titulo}
+                width="500"
+                height="500"
+                loading="eager"
+                fetchpriority="high"
+                decoding="sync"
+                class="produto-imagem"
+              />
+            </div>
+          ) : (
+            <div class="produto-imagem-placeholder">
+              <span>Imagem indisponivel</span>
+            </div>
+          )}
+
+          {rating && (
+            <div class="badge-avaliacao">
+              <span class="badge-stars">{renderStars(rating)}</span>
+              <span class="badge-num">{rating}/5</span>
+            </div>
+          )}
+        </div>
+
+        <!-- Detalhes -->
+        <div class="produto-info">
+          {vendedor && (
+            <p class="produto-vendedor">
+              Vendido por <strong>{vendedor}</strong>
+            </p>
+          )}
+
+          <h1 class="produto-titulo">{titulo}</h1>
+
+          {rating && (
+            <div class="produto-rating">
+              <span class="stars" aria-hidden="true">{renderStars(rating)}</span>
+              <span class="rating-num">{rating}/5</span>
+              {ratingCount && (
+                <span class="rating-count">({fmtNum(ratingCount)} avaliacoes)</span>
+              )}
+            </div>
+          )}
+
+          <hr class="produto-divider" />
+
+          {preco && (
+            <div class="produto-preco-bloco">
+              <div class="preco-principal">
+                <span class="preco-currency">R$</span>
+                <span class="preco-value">{preco}</span>
+              </div>
+              {parcela && (
+                <p class="preco-parcelas">
+                  ou 12x de <strong>R$ {parcela}</strong> sem juros
+                </p>
+              )}
+            </div>
+          )}
+
+          <ul class="produto-disponibilidade">
+            <li class="dispo-ok">Em estoque</li>
+            <li class="dispo-ok">Entrega disponivel em todo o Brasil</li>
+            <li class="dispo-ok">Produto com avaliacoes verificadas</li>
+          </ul>
+
+          <div class="produto-cta">
+            <a
+              href={link}
+              target="_blank"
+              rel="noopener sponsored"
+              class="btn-comprar"
+            >
+              🛒 Comprar Agora
+            </a>
+            <a
+              href={link}
+              target="_blank"
+              rel="noopener sponsored"
+              class="btn-ver-preco"
+            >
+              Ver Melhor Preco
+            </a>
+          </div>
+
+          <div class="trust-badges">
+            <span>🔒 Compra segura</span>
+            <span>📦 Envio rapido</span>
+            <span>↩ Devolucao facilitada</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Sobre o Produto -->
+      <section class="produto-secao">
+        <h2>Sobre o Produto</h2>
+        <p>{descricaoLonga}</p>
+      </section>
+
+      <!-- Informacoes tecnicas -->
+      <section class="produto-secao">
+        <h2>Informacoes do Produto</h2>
+        <table class="specs-table">
+          <tbody>
+            {vendedor && (
+              <tr><th>Vendedor</th><td>{vendedor}</td></tr>
+            )}
+            {rating && (
+              <tr>
+                <th>Avaliacao media</th>
+                <td><span class="specs-stars">{renderStars(rating)}</span> {rating}/5</td>
+              </tr>
+            )}
+            {ratingCount && (
+              <tr><th>Total de avaliacoes</th><td>{fmtNum(ratingCount)}</td></tr>
+            )}
+            {produto.preco != null && (
+              <tr><th>Preco</th><td>R$ {preco}</td></tr>
+            )}
+            <tr><th>Disponibilidade</th><td>Em estoque</td></tr>
+            <tr><th>Categoria</th><td>{catLabel}</td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <!-- Avaliacoes -->
+      {rating && ratingCount && (
+        <section class="produto-secao produto-avaliacoes">
+          <h2>Avaliacoes dos Compradores</h2>
+          <div class="rating-summary">
+            <div class="rating-big-num">{rating}</div>
+            <div class="rating-big-stars">{renderStars(rating)}</div>
+            <div class="rating-big-label">{fmtNum(ratingCount)} avaliacoes verificadas</div>
+          </div>
+          <a href={link} target="_blank" rel="noopener sponsored" class="btn-avaliacoes">
+            Ver todas as avaliacoes
+          </a>
+        </section>
+      )}
+
+      <!-- Link ao comparativo -->
+      <section class="produto-comparativo">
+        <p>Quer comparar este produto com outras opcoes da categoria?</p>
+        <a href={`/blog/${post.slug}/`} class="link-comparativo">
+          Ver Comparativo Completo &rarr;
+        </a>
+      </section>
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  /* ── Hero ──────────────────────────────────────────────── */
+  .produto-hero {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--space-8);
+    margin-block: var(--space-6) var(--space-10);
+  }
+
+  @media (min-width: 768px) {
+    .produto-hero {
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+      align-items: start;
+      gap: var(--space-12);
+    }
+  }
+
+  /* ── Galeria ────────────────────────────────────────────── */
+  @media (min-width: 768px) {
+    .produto-galeria { position: sticky; top: var(--space-6); }
+  }
+
+  .produto-imagem-wrapper {
+    border: var(--border-thick);
+    box-shadow: var(--shadow);
+    background: #fff;
+    aspect-ratio: 1 / 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  .produto-imagem {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    padding: var(--space-6);
+  }
+
+  .produto-imagem-placeholder {
+    border: var(--border-thick);
+    aspect-ratio: 1 / 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--color-surface);
+    color: var(--color-muted);
+    font-size: var(--text-sm);
+  }
+
+  .badge-avaliacao {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+    margin-top: var(--space-3);
+    padding: var(--space-2) var(--space-3);
+    background: #fefce8;
+    border: var(--border);
+    font-size: var(--text-sm);
+    font-weight: 600;
+  }
+
+  .badge-stars { color: #d97706; }
+
+  /* ── Info ───────────────────────────────────────────────── */
+  .produto-info {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-4);
+  }
+
+  .produto-vendedor {
+    font-size: var(--text-sm);
+    color: var(--color-muted);
+    margin: 0;
+  }
+
+  .produto-titulo {
+    font-family: var(--font-display);
+    font-size: var(--text-2xl);
+    line-height: 1.25;
+    margin: 0;
+  }
+
+  @media (max-width: 640px) {
+    .produto-titulo { font-size: var(--text-xl); }
+  }
+
+  /* Rating */
+  .produto-rating {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    flex-wrap: wrap;
+  }
+
+  .stars { color: #d97706; font-size: var(--text-lg); letter-spacing: 0.03em; }
+  .rating-num { font-weight: 700; font-size: var(--text-sm); }
+  .rating-count { font-size: var(--text-sm); color: var(--color-muted); }
+
+  .produto-divider { border: none; border-top: var(--border); margin: 0; }
+
+  /* Preco */
+  .produto-preco-bloco {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-1);
+  }
+
+  .preco-principal {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--space-1);
+    line-height: 1;
+  }
+
+  .preco-currency {
+    font-size: var(--text-xl);
+    font-weight: 700;
+    padding-top: 0.3em;
+  }
+
+  .preco-value {
+    font-family: var(--font-display);
+    font-size: var(--text-5xl, 3rem);
+    font-weight: 900;
+    line-height: 1;
+  }
+
+  @media (max-width: 640px) {
+    .preco-value { font-size: var(--text-4xl); }
+  }
+
+  .preco-parcelas {
+    font-size: var(--text-sm);
+    color: var(--color-muted);
+    margin: 0;
+  }
+
+  /* Disponibilidade */
+  .produto-disponibilidade {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-1);
+  }
+
+  .dispo-ok {
+    font-size: var(--text-sm);
+    font-weight: 500;
+    color: #16a34a;
+  }
+
+  .dispo-ok::before { content: '✓ '; }
+
+  /* CTAs */
+  .produto-cta {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+  }
+
+  .btn-comprar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-2);
+    padding: 1rem 1.5rem;
+    background: var(--color-primary);
+    color: #fff !important;
+    font-family: var(--font-display);
+    font-size: var(--text-lg);
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none !important;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    border: var(--border-thick);
+    box-shadow: var(--shadow);
+    border-radius: var(--radius-sm);
+    transition: box-shadow var(--transition), transform var(--transition);
+    cursor: pointer;
+  }
+
+  .btn-comprar:hover {
+    box-shadow: var(--shadow-hover);
+    transform: translate(-2px, -2px);
+  }
+
+  .btn-comprar:active {
+    box-shadow: 2px 2px 0 #1a1a1a;
+    transform: translate(3px, 3px);
+  }
+
+  .btn-ver-preco {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.875rem 1.5rem;
+    background: var(--color-canvas);
+    color: var(--color-ink) !important;
+    font-family: var(--font-display);
+    font-size: var(--text-base);
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none !important;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    border: var(--border-thick);
+    box-shadow: 4px 4px 0 var(--color-ink);
+    border-radius: var(--radius-sm);
+    transition: box-shadow var(--transition), transform var(--transition);
+  }
+
+  .btn-ver-preco:hover {
+    box-shadow: 6px 6px 0 var(--color-ink);
+    transform: translate(-2px, -2px);
+  }
+
+  /* Trust */
+  .trust-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-4);
+    font-size: var(--text-xs);
+    color: var(--color-muted);
+    padding-top: var(--space-2);
+    border-top: var(--border);
+  }
+
+  /* ── Secoes ─────────────────────────────────────────────── */
+  .produto-secao {
+    margin-top: var(--space-10);
+    padding-top: var(--space-8);
+    border-top: var(--border);
+  }
+
+  .produto-secao h2 {
+    font-family: var(--font-display);
+    font-size: var(--text-2xl);
+    margin-bottom: var(--space-5);
+    padding-bottom: var(--space-2);
+    border-bottom: 3px solid var(--color-accent);
+  }
+
+  .produto-secao p {
+    font-size: var(--text-base);
+    line-height: 1.8;
+    color: var(--color-ink);
+  }
+
+  /* Specs table */
+  .specs-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: var(--border);
+    box-shadow: var(--shadow-sm);
+    font-size: var(--text-sm);
+  }
+
+  .specs-table th,
+  .specs-table td {
+    padding: var(--space-3) var(--space-4);
+    text-align: left;
+    border-bottom: var(--border);
+    vertical-align: middle;
+  }
+
+  .specs-table th {
+    background: var(--color-surface);
+    font-weight: 600;
+    width: 40%;
+  }
+
+  .specs-table tr:last-child th,
+  .specs-table tr:last-child td {
+    border-bottom: none;
+  }
+
+  .specs-stars { color: #d97706; }
+
+  /* Rating summary */
+  .produto-avaliacoes .rating-summary {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-2);
+    padding: var(--space-8);
+    background: #fefce8;
+    border: var(--border-thick);
+    box-shadow: var(--shadow);
+    margin-bottom: var(--space-5);
+    text-align: center;
+  }
+
+  .rating-big-num {
+    font-family: var(--font-display);
+    font-size: 4.5rem;
+    font-weight: 900;
+    line-height: 1;
+  }
+
+  .rating-big-stars {
+    font-size: 2rem;
+    color: #d97706;
+    letter-spacing: 0.1em;
+  }
+
+  .rating-big-label {
+    font-size: var(--text-sm);
+    color: var(--color-muted);
+  }
+
+  .btn-avaliacoes {
+    display: inline-block;
+    padding: 0.625rem 1.25rem;
+    border: var(--border);
+    font-size: var(--text-sm);
+    font-weight: 600;
+    color: var(--color-ink);
+    text-decoration: none;
+    box-shadow: 3px 3px 0 var(--color-ink);
+    transition: box-shadow var(--transition), transform var(--transition);
+  }
+
+  .btn-avaliacoes:hover {
+    box-shadow: 5px 5px 0 var(--color-ink);
+    transform: translate(-2px, -2px);
+    text-decoration: none;
+  }
+
+  /* Comparativo */
+  .produto-comparativo {
+    margin-block: var(--space-10) var(--space-8);
+    padding: var(--space-6) var(--space-8);
+    background: color-mix(in srgb, var(--color-primary) 8%, var(--color-canvas));
+    border: var(--border-thick);
+    box-shadow: var(--shadow);
+    text-align: center;
+  }
+
+  .produto-comparativo p {
+    margin: 0 0 var(--space-3);
+    color: var(--color-muted);
+    font-size: var(--text-base);
+  }
+
+  .link-comparativo {
+    font-family: var(--font-display);
+    font-size: var(--text-lg);
+    font-weight: 700;
+    color: var(--color-primary);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .link-comparativo:hover { color: var(--color-ink); }
+</style>

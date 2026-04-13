@@ -1,6 +1,7 @@
 // @uraume - Dynamic sitemap endpoint
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
+import { slugify } from '../utils/slugify';
 
 export const GET: APIRoute = async () => {
   const receitas = await getCollection('receitas');
@@ -14,14 +15,18 @@ export const GET: APIRoute = async () => {
 
   // Produtos (extraidos dos posts do blog)
   const seenAsins = new Set<string>();
+  const seenSlugs = new Set<string>();
   const produtoPages: Array<{ url: string; priority: string; changefreq: string; lastmod: string }> = [];
   for (const post of blogPosts) {
     if (!post.data.produtos?.length) continue;
     for (const produto of post.data.produtos) {
       if (seenAsins.has(produto.asin)) continue;
       seenAsins.add(produto.asin);
+      let slug = slugify(produto.titulo);
+      if (seenSlugs.has(slug)) slug = `${slug}-${produto.asin.slice(-6).toLowerCase()}`;
+      seenSlugs.add(slug);
       produtoPages.push({
-        url:        `/produtos/${produto.asin}/`,
+        url:        `/produtos/${slug}/`,
         priority:   '0.8',
         changefreq: 'weekly',
         lastmod:    post.data.publishDate.toISOString().split('T')[0],
