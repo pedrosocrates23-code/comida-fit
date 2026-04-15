@@ -278,7 +278,28 @@ const breadcrumbSchema = {
   .blog-prose :global(td) {
     padding: var(--space-3) var(--space-4);
     border-bottom: 1px solid color-mix(in srgb, var(--color-ink) 15%, transparent);
-    vertical-align: top;
+    vertical-align: middle;
+  }
+
+  /* Botão vermelho de afiliado nas tabelas comparativas */
+  .blog-prose :global(td a) {
+    display: inline-block;
+    padding: 0.4rem 0.85rem;
+    background: #dc2626;
+    color: #fff !important;
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-decoration: none !important;
+    border-radius: 4px;
+    white-space: nowrap;
+    transition: background 0.15s, transform 0.1s;
+    line-height: 1.4;
+  }
+
+  .blog-prose :global(td a:hover) {
+    background: #b91c1c;
+    transform: translateY(-1px);
+    color: #fff !important;
   }
 
   .blog-prose :global(tr:nth-child(even) td) {

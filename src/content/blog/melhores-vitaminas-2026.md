@@ -122,13 +122,13 @@ Compradores relatam elevação dos níveis de vitamina D nos exames após 2 a 3 
 
 | # | Produto | Preço | Avaliação | |
 |---|---------|-------|-----------|--|
-| 1 | Vhita D3 K2 TCM 60 cáps | **R$ 69,00** | ★★★★★ 4.7 (775) | [Comprar →](https://amzn.to/3ODcQXi) |
-| 2 | ELLYM D3 K2 Gotas Sublingual 30mL | **R$ 47,99** | ★★★★☆ 4.5 (289) | [Comprar →](https://amzn.to/480WeiR) |
-| 3 | Multivit Puro Nutrition 120 cáps | **R$ 65,90** | ★★★★★ 4.7 (101) | [Comprar →](https://amzn.to/4tMiYvj) |
-| 4 | Ellym D3 K2 Cápsulas 60 caps | **R$ 59,99** | ★★★★☆ 4.6 (72) | [Comprar →](https://amzn.to/3OG0nlH) |
-| 5 | D3 K2 Gotas LIfe Seeds 80 doses | **R$ 49,59** | ★★★★☆ 4.3 (6) | [Comprar →](https://amzn.to/4clYNgN) |
-| 6 | Ultra Men Multivit 180 tabs | **R$ 94,90** | ★★★★☆ 4.5 (29) | [Comprar →](https://amzn.to/4tCcMWw) |
-| 7 | Kit 2x D3 K2 Puro Nutrition | **R$ 98,88** | ★★★★★ 4.8 (28) | [Comprar →](https://amzn.to/4t9hhYS) |
+| 1 | Vhita D3 K2 TCM 60 cáps | **R$ 69,00** | ★★★★★ 4.7 (775) | [Veja o melhor preço](https://amzn.to/3ODcQXi) |
+| 2 | ELLYM D3 K2 Gotas Sublingual 30mL | **R$ 47,99** | ★★★★☆ 4.5 (289) | [Veja o melhor preço](https://amzn.to/480WeiR) |
+| 3 | Multivit Puro Nutrition 120 cáps | **R$ 65,90** | ★★★★★ 4.7 (101) | [Veja o melhor preço](https://amzn.to/4tMiYvj) |
+| 4 | Ellym D3 K2 Cápsulas 60 caps | **R$ 59,99** | ★★★★☆ 4.6 (72) | [Veja o melhor preço](https://amzn.to/3OG0nlH) |
+| 5 | D3 K2 Gotas LIfe Seeds 80 doses | **R$ 49,59** | ★★★★☆ 4.3 (6) | [Veja o melhor preço](https://amzn.to/4clYNgN) |
+| 6 | Ultra Men Multivit 180 tabs | **R$ 94,90** | ★★★★☆ 4.5 (29) | [Veja o melhor preço](https://amzn.to/4tCcMWw) |
+| 7 | Kit 2x D3 K2 Puro Nutrition | **R$ 98,88** | ★★★★★ 4.8 (28) | [Veja o melhor preço](https://amzn.to/4t9hhYS) |
 
 ---
 
