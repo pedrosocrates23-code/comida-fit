@@ -55,6 +55,103 @@ const schemas = [
   buildCollectionPageSchema(categoria.slug, receitasDaCategoria.length),
   buildBreadcrumbSchema(breadcrumbs),
 ];
+
+const seoTextos: Record<string, { intro: string; dicas: string[]; conclusao: string }> = {
+  'cafe-da-manha': {
+    intro: `O café da manhã é considerada a refeição mais importante do dia, especialmente para quem pratica atividade física. Um café da manhã fit e bem planejado fornece energia, melhora a concentração e prepara o organismo para os desafios da rotina. Priorizar alimentos ricos em proteínas, fibras e gorduras saudáveis logo pela manhã ajuda a controlar o apetite, estabilizar o nível de açúcar no sangue e manter o metabolismo ativo.`,
+    dicas: [
+      'Inclua uma fonte de proteína (ovos, iogurte grego, whey) para aumentar a saciedade',
+      'Prefira carboidratos complexos (aveia, tapioca, pão integral) para energia duradoura',
+      'Adicione frutas frescas para obter vitaminas, minerais e fibras naturais',
+      'Hidrate-se bem logo ao acordar antes de qualquer refeição',
+      'Prepare opções com antecedência para não pular o café da manhã em dias corridos',
+    ],
+    conclusao: `Receitas de café da manhã fit podem ser saborosas, rápidas e altamente nutritivas. Explore as opções desta categoria e encontre combinações que se encaixem nos seus objetivos — seja ganho de massa muscular, emagrecimento ou simplesmente manter uma alimentação equilibrada.`,
+  },
+  'almoco-fit': {
+    intro: `O almoço é o momento central da alimentação diária e deve oferecer nutrientes suficientes para sustentar a energia e a produtividade da tarde. Uma proposta de almoço fit não significa abrir mão do sabor, mas sim fazer escolhas mais conscientes: mais proteínas magras, carboidratos de qualidade, vegetais variados e gorduras saudáveis. Montar um prato colorido é uma das formas mais simples de garantir diversidade nutricional.`,
+    dicas: [
+      'Ocupe metade do prato com vegetais e folhas variadas',
+      'Escolha proteínas magras como frango grelhado, peixe, ovos ou leguminosas',
+      'Prefira arroz integral, batata-doce ou quinoa como fonte de carboidratos',
+      'Use temperos naturais como ervas, alho e limão para realçar o sabor sem calorias extras',
+      'Controle as porções e evite frituras e molhos industrializados',
+    ],
+    conclusao: `Incorporar receitas de almoço fit na sua rotina é um passo fundamental para alcançar resultados duradouros. Confira as receitas desta categoria e descubra como comer bem e com saúde pode ser simples e delicioso.`,
+  },
+  'lanches-saudaveis': {
+    intro: `Os lanches intermediários são aliados importantes para manter o metabolismo ativo e evitar o excesso de fome nas principais refeições. Um lanche saudável deve combinar proteínas, fibras e gorduras boas para garantir saciedade e energia sustentada. Evitar longos períodos em jejum também ajuda a preservar a massa muscular e a melhorar o foco e o humor ao longo do dia.`,
+    dicas: [
+      'Combine proteína e fibra para um lanche mais saciante e nutritivo',
+      'Frutas com pasta de amendoim ou iogurte grego são opções práticas e completas',
+      'Evite ultraprocessados e opte por ingredientes naturais sempre que possível',
+      'Prepare lanchinhos com antecedência para não ceder a opções pouco saudáveis',
+      'Atenção ao tamanho das porções — mesmo alimentos saudáveis têm calorias',
+    ],
+    conclusao: `Os lanches saudáveis desta categoria foram pensados para serem práticos, nutritivos e saborosos. Explore as receitas e encontre opções ideais para o seu estilo de vida e objetivos.`,
+  },
+  'jantar-low-carb': {
+    intro: `O jantar low carb é uma estratégia popular entre quem busca emagrecer, controlar o nível de insulina ou melhorar a composição corporal. Ao reduzir carboidratos no período noturno e priorizar proteínas e gorduras saudáveis, o organismo tende a utilizar as reservas de gordura como fonte de energia durante o sono. Além disso, jantares mais leves facilitam a digestão e contribuem para uma noite de descanso mais reparador.`,
+    dicas: [
+      'Priorize proteínas de alta qualidade: peixe, frango, ovos e carnes magras',
+      'Vegetais não-amiláceos são ótimas opções low carb e ricas em fibras',
+      'Use azeite de oliva, abacate e sementes como fontes de gorduras saudáveis',
+      'Evite pães, massas, arroz e doces à noite para manter os carboidratos baixos',
+      'Jantar pelo menos 2 horas antes de dormir melhora a qualidade do sono',
+    ],
+    conclusao: `As receitas de jantar low carb desta categoria combinam sabor, praticidade e eficiência nutricional. Experimente diferentes opções e veja quais se encaixam melhor na sua rotina e preferências.`,
+  },
+  'sobremesas-fit': {
+    intro: `Ter uma alimentação saudável não significa abrir mão de momentos de prazer. As sobremesas fit surgem como alternativas inteligentes às versões tradicionais, reduzindo açúcares refinados, gorduras saturadas e ingredientes ultraprocessados sem sacrificar o sabor. Com substituições criativas, é possível manter a rotina alimentar equilibrada e ainda satisfazer a vontade de algo doce.`,
+    dicas: [
+      'Substitua açúcar refinado por adoçantes naturais como mel, tâmaras ou stevia',
+      'Use farinha de amêndoas ou aveia no lugar de farinhas refinadas',
+      'Chocolate amargo acima de 70% cacau é uma opção mais saudável e saborosa',
+      'Frutas maduras naturalmente adoçam receitas sem necessidade de açúcar adicional',
+      'Controle as porções mesmo em sobremesas fit — o equilíbrio é a chave',
+    ],
+    conclusao: `Descubra como é possível ter prazer na alimentação sem culpa. As receitas de sobremesas fit desta categoria vão surpreender você com sabores incríveis e ingredientes que fazem bem à saúde.`,
+  },
+  'smoothies-e-sucos': {
+    intro: `Smoothies e sucos naturais são formas práticas e deliciosas de consumir frutas, vegetais e outros nutrientes de forma rápida. Ricos em vitaminas, minerais, antioxidantes e fibras, essas bebidas podem ser consumidas no café da manhã, antes ou depois dos treinos, ou como lanche ao longo do dia. A variedade de combinações é quase ilimitada, permitindo adaptar cada receita ao seu gosto e objetivo nutricional.`,
+    dicas: [
+      'Adicione proteínas (whey, iogurte, tofu) para tornar o smoothie mais saciante',
+      'Use leite vegetal ou água de coco como base mais saudável e saborosa',
+      'Inclua folhas verdes como espinafre ou couve — o sabor fica neutro e o valor nutritivo aumenta muito',
+      'Congele frutas maduras para smoothies cremosos sem precisar de gelo',
+      'Evite adicionar açúcar — as frutas já fornecem dulçor natural suficiente',
+    ],
+    conclusao: `Explore as receitas de smoothies e sucos desta categoria e descubra combinações que vão se tornar parte da sua rotina. Nutritivos, práticos e deliciosos, são a escolha perfeita para qualquer momento do dia.`,
+  },
+  'pre-treino': {
+    intro: `A refeição pré-treino é estratégica para garantir energia, foco e performance durante os exercícios. O momento e a composição dessa refeição variam conforme o tipo e a intensidade do treino, mas em geral é recomendado consumir carboidratos de médio índice glicêmico e proteínas de fácil digestão de 30 minutos a 2 horas antes da atividade física. Uma boa nutrição pré-treino pode fazer diferença significativa no rendimento e na qualidade do treino.`,
+    dicas: [
+      'Consuma a refeição pré-treino de 30 minutos a 2 horas antes do exercício',
+      'Priorize carboidratos de fácil digestão como banana, tapioca ou aveia',
+      'Inclua proteína leve como iogurte, ovos ou whey para preservar a massa muscular',
+      'Evite alimentos muito gordurosos ou fibrosos que possam causar desconforto gástrico',
+      'Hidrate-se bem antes, durante e após o treino para melhor performance',
+    ],
+    conclusao: `Uma boa alimentação pré-treino é tão importante quanto o próprio treino. Confira as receitas desta categoria e encontre as melhores opções para potencializar sua performance e conquistar seus objetivos.`,
+  },
+  'pos-treino': {
+    intro: `A janela pós-treino é um dos momentos mais importantes para a nutrição de quem pratica atividade física. Após o esforço, o organismo está em estado anabólico, pronto para absorver nutrientes e iniciar o processo de recuperação e crescimento muscular. Consumir proteínas de rápida absorção e carboidratos logo após o treino acelera a recuperação, reduz o catabolismo e potencializa os resultados a longo prazo.`,
+    dicas: [
+      'Consuma proteínas de rápida absorção (whey, ovos) em até 30–60 minutos após o treino',
+      'Combine proteína com carboidratos simples para repor o glicogênio muscular',
+      'Hidrate-se adequadamente após o exercício para repor fluidos e eletrólitos perdidos',
+      'Frango com batata-doce, shake de whey com banana ou omelete são opções clássicas pós-treino',
+      'Não fique sem comer após treinos intensos — o catabolismo muscular começa rapidamente',
+    ],
+    conclusao: `Maximize seus resultados com a nutrição pós-treino correta. As receitas desta categoria foram selecionadas para oferecer a combinação ideal de nutrientes para recuperação e crescimento muscular. Experimente e evolua!`,
+  },
+};
+
+const seoTexto = seoTextos[categoria.slug] ?? {
+  intro: `Explore nossa seleção de receitas fit para ${categoria.nome.toLowerCase()}, com informações nutricionais completas e dicas para uma alimentação saudável e equilibrada.`,
+  dicas: ['Varie as receitas para garantir diversidade de nutrientes', 'Respeite as porções indicadas', 'Combine com hidratação adequada'],
+  conclusao: `Confira todas as receitas disponíveis e escolha as que melhor se encaixam nos seus objetivos e preferências alimentares.`,
+};
 ---
 
 <BaseLayout
@@ -101,6 +198,17 @@ const schemas = [
           </li>
         ))}
       </ul>
+
+      <!-- SEO content block -->
+      <section class="categoria-seo-block">
+        <h2>Tudo sobre {categoria.nome}</h2>
+        <p>{seoTexto.intro}</p>
+        <h3>Dicas para {categoria.nome}</h3>
+        <ul class="categoria-dicas-lista">
+          {seoTexto.dicas.map((dica) => <li>{dica}</li>)}
+        </ul>
+        <p>{seoTexto.conclusao}</p>
+      </section>
     </div>
   </main>
 
@@ -123,5 +231,35 @@ const schemas = [
     font-size: var(--text-lg);
     max-width: 60ch;
     margin-top: var(--space-2);
+  }
+  .categoria-seo-block {
+    margin-top: var(--space-16);
+    padding: var(--space-8);
+    background: var(--color-surface);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+  }
+  .categoria-seo-block h2 {
+    margin-bottom: var(--space-4);
+  }
+  .categoria-seo-block h3 {
+    margin-top: var(--space-6);
+    margin-bottom: var(--space-3);
+  }
+  .categoria-seo-block p {
+    color: var(--color-muted);
+    line-height: 1.7;
+    max-width: 75ch;
+  }
+  .categoria-dicas-lista {
+    list-style: disc;
+    padding-left: var(--space-6);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+  }
+  .categoria-dicas-lista li {
+    color: var(--color-muted);
+    line-height: 1.6;
   }
 </style>
