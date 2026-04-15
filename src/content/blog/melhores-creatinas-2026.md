@@ -113,12 +113,12 @@ O pote maior entrega melhor custo por grama vs a versão 300g.
 
 | # | Produto | Preço | Avaliação | |
 |---|---------|-------|-----------|--|
-| 1 | Dark Lab 500g Monohidratada | **R$ 44,90** | ★★★★★ 4.8 (35.635) | [Veja o melhor preço](https://amzn.to/48uLHwo) |
-| 2 | Dark Lab 300g Monohidratada | **R$ 35,15** | ★★★★★ 4.7 (34.603) | [Veja o melhor preço](https://amzn.to/4dLgQiS) |
-| 3 | FTW Creatina 100% Pura | **R$ 38,51** | ★★★★☆ 4.6 (143) | [Veja o melhor preço](https://amzn.to/4vpDXpm) |
-| 4 | Creapure Nutrends Elite 300g | **R$ 138,90** | ★★★★★ 4.8 (176) | [Veja o melhor preço](https://amzn.to/4mqeMPz) |
-| 5 | Creapure Optimum Nutrition 300g | **R$ 170,00** | ★★★★☆ 4.5 (226) | [Veja o melhor preço](https://amzn.to/4mqeMPz) |
-| 6 | Creapure Go More Kosher Vegan | **R$ 194,00** | sem avaliação | [Veja o melhor preço](https://amzn.to/3Ql9w3w) |
+| 1 | Dark Lab 500g Monohidratada | **R$ 44,90** | ★★★★★ 4.8 (35.635) | <a href="https://amzn.to/48uLHwo" target="_blank" rel="noopener sponsored" class="btn-preco">Veja o melhor preço</a> |
+| 2 | Dark Lab 300g Monohidratada | **R$ 35,15** | ★★★★★ 4.7 (34.603) | <a href="https://amzn.to/4dLgQiS" target="_blank" rel="noopener sponsored" class="btn-preco">Veja o melhor preço</a> |
+| 3 | FTW Creatina 100% Pura | **R$ 38,51** | ★★★★☆ 4.6 (143) | <a href="https://amzn.to/4vpDXpm" target="_blank" rel="noopener sponsored" class="btn-preco">Veja o melhor preço</a> |
+| 4 | Creapure Nutrends Elite 300g | **R$ 138,90** | ★★★★★ 4.8 (176) | <a href="https://amzn.to/4mqeMPz" target="_blank" rel="noopener sponsored" class="btn-preco">Veja o melhor preço</a> |
+| 5 | Creapure Optimum Nutrition 300g | **R$ 170,00** | ★★★★☆ 4.5 (226) | <a href="https://amzn.to/4mqeMPz" target="_blank" rel="noopener sponsored" class="btn-preco">Veja o melhor preço</a> |
+| 6 | Creapure Go More Kosher Vegan | **R$ 194,00** | sem avaliação | <a href="https://amzn.to/3Ql9w3w" target="_blank" rel="noopener sponsored" class="btn-preco">Veja o melhor preço</a> |
 
 ---
 

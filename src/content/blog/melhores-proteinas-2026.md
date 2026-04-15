@@ -124,13 +124,13 @@ Para 90% dos praticantes, é a escolha certa.
 
 | # | Produto | Preço | Avaliação | |
 |---|---------|-------|-----------|--|
-| 1 | Integralmédica Concentrado Morango 900g | **R$ 119,90** | ★★★★★ 4.7 (11.592) | [Veja o melhor preço](https://amzn.to/3OwWFe9) |
-| 2 | Dark Lab Concentrado 1kg Chocolate | **R$ 129,90** | ★★★★★ 4.7 (837) | [Veja o melhor preço](https://amzn.to/4tJESiW) |
-| 3 | Integralmédica Concentrado Cookies 900g | **R$ 119,90** | ★★★★★ 4.7 (2.292) | [Veja o melhor preço](https://amzn.to/3Q9sdan) |
-| 4 | Bodyaction Isolado 1,8kg Chocolate | **R$ 155,65** | ★★★★☆ 4.4 (1.346) | [Veja o melhor preço](https://amzn.to/3Q9bd47) |
-| 5 | Dark Lab Concentrado 1kg Morango | **R$ 129,90** | ★★★★★ 4.7 (837) | [Veja o melhor preço](https://amzn.to/48uLFog) |
-| 6 | Bodyaction Isolado 1,8kg Morango | **R$ 169,55** | ★★★★☆ 4.1 (134) | [Veja o melhor preço](https://amzn.to/4mpsHVU) |
-| 7 | Whey Isolado Cookies 450g | **R$ 206,00** | ★★★★★ 4.7 (9.982) | [Veja o melhor preço](https://amzn.to/4eqsMqe) |
+| 1 | Integralmédica Concentrado Morango 900g | **R$ 119,90** | ★★★★★ 4.7 (11.592) | <a href="https://amzn.to/3OwWFe9" target="_blank" rel="noopener sponsored" class="btn-preco">Veja o melhor preço</a> |
+| 2 | Dark Lab Concentrado 1kg Chocolate | **R$ 129,90** | ★★★★★ 4.7 (837) | <a href="https://amzn.to/4tJESiW" target="_blank" rel="noopener sponsored" class="btn-preco">Veja o melhor preço</a> |
+| 3 | Integralmédica Concentrado Cookies 900g | **R$ 119,90** | ★★★★★ 4.7 (2.292) | <a href="https://amzn.to/3Q9sdan" target="_blank" rel="noopener sponsored" class="btn-preco">Veja o melhor preço</a> |
+| 4 | Bodyaction Isolado 1,8kg Chocolate | **R$ 155,65** | ★★★★☆ 4.4 (1.346) | <a href="https://amzn.to/3Q9bd47" target="_blank" rel="noopener sponsored" class="btn-preco">Veja o melhor preço</a> |
+| 5 | Dark Lab Concentrado 1kg Morango | **R$ 129,90** | ★★★★★ 4.7 (837) | <a href="https://amzn.to/48uLFog" target="_blank" rel="noopener sponsored" class="btn-preco">Veja o melhor preço</a> |
+| 6 | Bodyaction Isolado 1,8kg Morango | **R$ 169,55** | ★★★★☆ 4.1 (134) | <a href="https://amzn.to/4mpsHVU" target="_blank" rel="noopener sponsored" class="btn-preco">Veja o melhor preço</a> |
+| 7 | Whey Isolado Cookies 450g | **R$ 206,00** | ★★★★★ 4.7 (9.982) | <a href="https://amzn.to/4eqsMqe" target="_blank" rel="noopener sponsored" class="btn-preco">Veja o melhor preço</a> |
 
 ---
 

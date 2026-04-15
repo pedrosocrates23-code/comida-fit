@@ -282,9 +282,9 @@ const breadcrumbSchema = {
   }
 
   /* Botão vermelho de afiliado nas tabelas comparativas */
-  .blog-prose :global(td a) {
+  .blog-prose :global(.btn-preco) {
     display: inline-block;
-    padding: 0.4rem 0.85rem;
+    padding: 0.4rem 0.9rem;
     background: #dc2626;
     color: #fff !important;
     font-size: 0.78rem;
@@ -294,12 +294,14 @@ const breadcrumbSchema = {
     white-space: nowrap;
     transition: background 0.15s, transform 0.1s;
     line-height: 1.4;
+    border: none;
   }
 
-  .blog-prose :global(td a:hover) {
+  .blog-prose :global(.btn-preco:hover) {
     background: #b91c1c;
     transform: translateY(-1px);
     color: #fff !important;
+    text-decoration: none !important;
   }
 
   .blog-prose :global(tr:nth-child(even) td) {

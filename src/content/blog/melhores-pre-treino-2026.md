@@ -122,13 +122,13 @@ Comprovado por mais de 4.500 compradores.
 
 | # | Produto | Preço | Avaliação | |
 |---|---------|-------|-----------|--|
-| 1 | FTW Inferno 300g | **R$ 89,99** | ★★★★☆ 4.5 (4.582) | [Veja o melhor preço](https://amzn.to/4cluA1d) |
-| 2 | FTW Diabo Verde Cereja 150g | **R$ 39,99** | ★★★★☆ 4.4 (840) | [Veja o melhor preço](https://amzn.to/4cn4f2G) |
-| 3 | Rapid Fuse Foguinho 60 cáps | **R$ 86,00** | ★★★★★ 4.7 (83) | [Veja o melhor preço](https://amzn.to/4tLfcCy) |
-| 4 | Thermo Muscle 90 cáps | **R$ 72,90** | ★★★★☆ 4.4 (73) | [Veja o melhor preço](https://amzn.to/4mnEkMY) |
-| 5 | Easy Boost Caffeine Free 300g | **R$ 78,99** | sem avaliação | [Veja o melhor preço](https://amzn.to/3QD0DT1) |
-| 6 | FTW Dilabol Pump 300g s/ cafeína | **R$ 69,99** | ★★★★☆ 4.3 (37) | [Veja o melhor preço](https://amzn.to/4cM1J6H) |
-| 7 | Combo Insane 400g + Garrafa | **R$ 199,00** | sem avaliação | [Veja o melhor preço](https://amzn.to/4cM1J6H) |
+| 1 | FTW Inferno 300g | **R$ 89,99** | ★★★★☆ 4.5 (4.582) | <a href="https://amzn.to/4cluA1d" target="_blank" rel="noopener sponsored" class="btn-preco">Veja o melhor preço</a> |
+| 2 | FTW Diabo Verde Cereja 150g | **R$ 39,99** | ★★★★☆ 4.4 (840) | <a href="https://amzn.to/4cn4f2G" target="_blank" rel="noopener sponsored" class="btn-preco">Veja o melhor preço</a> |
+| 3 | Rapid Fuse Foguinho 60 cáps | **R$ 86,00** | ★★★★★ 4.7 (83) | <a href="https://amzn.to/4tLfcCy" target="_blank" rel="noopener sponsored" class="btn-preco">Veja o melhor preço</a> |
+| 4 | Thermo Muscle 90 cáps | **R$ 72,90** | ★★★★☆ 4.4 (73) | <a href="https://amzn.to/4mnEkMY" target="_blank" rel="noopener sponsored" class="btn-preco">Veja o melhor preço</a> |
+| 5 | Easy Boost Caffeine Free 300g | **R$ 78,99** | sem avaliação | <a href="https://amzn.to/3QD0DT1" target="_blank" rel="noopener sponsored" class="btn-preco">Veja o melhor preço</a> |
+| 6 | FTW Dilabol Pump 300g s/ cafeína | **R$ 69,99** | ★★★★☆ 4.3 (37) | <a href="https://amzn.to/4cM1J6H" target="_blank" rel="noopener sponsored" class="btn-preco">Veja o melhor preço</a> |
+| 7 | Combo Insane 400g + Garrafa | **R$ 199,00** | sem avaliação | <a href="https://amzn.to/4cM1J6H" target="_blank" rel="noopener sponsored" class="btn-preco">Veja o melhor preço</a> |
 
 ---
 
