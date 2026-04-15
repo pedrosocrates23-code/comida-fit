@@ -106,11 +106,11 @@ Leucina em 10 partes, o "gatilho" anabólico mais importante dos BCAAs.
 
 | # | Produto | Preço | Avaliação | |
 |---|---------|-------|-----------|--|
-| 1 | 3VS BCAA 10:1:1 250g Uva Verde | **R$ 52,90** | ★★★★☆ 4.6 (316) | [Comprar →](https://amzn.to/42aPAD3 |
-| 2 | BCAA Hydro 300g Laranja | **R$ 42,90** | ★★★★☆ 4.6 (148) | [Comprar →](https://amzn.to/4mM0JUJ |
-| 3 | BCAA Trends Nutrition 100g | **R$ 26,99** | ★★★★★ 5.0 (2) | [Comprar →](https://amzn.to/3OeB7mv |
-| 4 | Glutamina NUTRI-LEAF 1000mg | **R$ 68,39** | ★★★★☆ 4.5 (8) | [Comprar →](https://amzn.to/47ZcXTG |
-| 5 | Kit 3x Glutamina Qnutri 180 cáps | **R$ 83,80** | ★★★★★ 5.0 (1) | [Comprar →](https://amzn.to/4tdi0se |
+| 1 | 3VS BCAA 10:1:1 250g Uva Verde | **R$ 52,90** | ★★★★☆ 4.6 (316) | [Comprar →](https://amzn.to/42aPAD3) |
+| 2 | BCAA Hydro 300g Laranja | **R$ 42,90** | ★★★★☆ 4.6 (148) | [Comprar →](https://amzn.to/4mM0JUJ) |
+| 3 | BCAA Trends Nutrition 100g | **R$ 26,99** | ★★★★★ 5.0 (2) | [Comprar →](https://amzn.to/3OeB7mv) |
+| 4 | Glutamina NUTRI-LEAF 1000mg | **R$ 68,39** | ★★★★☆ 4.5 (8) | [Comprar →](https://amzn.to/47ZcXTG) |
+| 5 | Kit 3x Glutamina Qnutri 180 cáps | **R$ 83,80** | ★★★★★ 5.0 (1) | [Comprar →](https://amzn.to/4tdi0se) |
 
 ---
 
