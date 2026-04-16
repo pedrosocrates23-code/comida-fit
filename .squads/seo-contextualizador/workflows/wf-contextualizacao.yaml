@@ -1,0 +1,202 @@
+workflow:
+  id: wf-contextualizacao
+  name: "Pipeline de Contextualização SEO — E.E.A.T.S."
+  version: "1.0"
+  purpose: |
+    Processar planilha XLSX com título + keyword → pesquisar web → gerar briefing
+    E.E.A.T.S. completo (7 camadas) → escrever nas colunas Prompt Adicional e Termos LSI.
+  orchestrator: "@maestro"
+  mode: "yolo"  # yolo | quality | hybrid
+
+specialists:
+  pesquisa:
+    agent: "@nebula"
+    role: "Web Research & SERP Intelligence"
+    invoke_in_phases: ["phase_2"]
+    responsibilities:
+      - "Executar 5+ queries WebSearch por keyword"
+      - "Mapear entidades co-ocorrentes no SERP"
+      - "Extrair termos LSI em 4+ clusters"
+      - "Identificar dados recentes 2025-2026"
+      - "Encontrar intenções latentes via PAA"
+
+  briefing:
+    agent: "@atlas"
+    role: "E.E.A.T.S. Briefing Architect"
+    invoke_in_phases: ["phase_3"]
+    responsibilities:
+      - "Gerar as 7 camadas E.E.A.T.S. completas"
+      - "Integrar contexto da empresa no briefing"
+      - "Gerar termos LSI estruturados para col U"
+      - "Gerar outline H1/H2/H3 + FAQ"
+      - "Gerar restrições editoriais + CTA"
+
+yolo_mode:
+  philosophy: |
+    Executar autonomamente linha por linha.
+    Parar apenas quando dados críticos estiverem genuinamente indisponíveis.
+    Registrar erros por linha sem travar o lote inteiro.
+  auto_proceed_when:
+    - "contexto-empresa-ativo.md está preenchido com > 100 palavras"
+    - "Linha tem Palavra-chave Foco e Título preenchidos"
+    - "@nebula encontrou ≥10 resultados relevantes"
+    - "@atlas gerou briefing com ≥7 camadas"
+  must_stop_when:
+    - "data/contexto-empresa-ativo.md está vazio ou não encontrado"
+    - "Planilha não tem colunas 'Palavra-chave Foco' ou 'Título'"
+    - "Usuário não confirmou quais linhas processar"
+    - "Briefing gerado tem < 500 palavras (sinal de falha)"
+
+pre_flight:
+  trigger: "Início do workflow (ANTES de tudo)"
+  blocking: true
+  questions:
+    - id: "xlsx_path"
+      question: "Qual o caminho do arquivo .xlsx a processar?"
+      required: true
+      example: "C:/Users/User/Downloads/Template (2).xlsx"
+
+    - id: "empresa_context"
+      question: "O arquivo data/contexto-empresa-ativo.md está preenchido com o contexto do cliente?"
+      options:
+        - id: "sim"
+          label: "Sim — contexto já está no arquivo"
+        - id: "nao"
+          label: "Não — vou colar agora (*set-empresa)"
+
+    - id: "modo_execucao"
+      question: "Modo de processamento:"
+      options:
+        - id: "completo"
+          label: "Completo — pesquisa profunda + briefing completo (recomendado)"
+          tempo: "3-5 min por linha"
+        - id: "rapido"
+          label: "Rápido — pesquisa básica + briefing compacto (preview)"
+          tempo: "1-2 min por linha"
+
+phases:
+
+  phase_0:
+    name: "PRE-FLIGHT"
+    purpose: "Verificar pré-requisitos e confirmar parâmetros"
+    executor: "@maestro"
+    duration: "1-2 minutos"
+    mode: "interactive"
+    steps:
+      - step_id: "verificar-empresa"
+        description: "Verificar se data/contexto-empresa-ativo.md tem conteúdo"
+        validation: "Arquivo existe e tem > 100 palavras"
+        bloqueante: true
+
+      - step_id: "verificar-xlsx"
+        description: "Executar xlsx-manager.py --action=read no arquivo fornecido"
+        command: "python scripts/xlsx-manager.py --action=read --file={xlsx_path}"
+        validation: "Arquivo válido com colunas 'Palavra-chave Foco' e 'Título'"
+        bloqueante: true
+
+      - step_id: "confirmar-linhas"
+        description: "Apresentar linhas processáveis e aguardar confirmação do usuário"
+        elicit: true
+        validation: "Usuário confirmou quais linhas processar"
+
+  phase_1:
+    name: "LOOP DE PROCESSAMENTO"
+    purpose: "Para cada linha confirmada: pesquisar → gerar → armazenar"
+    executor: "@maestro (orquestra @nebula + @atlas)"
+    duration: "variável — 3-8 min por linha"
+    mode: "yolo"
+    loop_config:
+      for_each: "linha em linhas_confirmadas"
+      error_handling: "registrar_e_continuar"
+      max_retries_per_line: 2
+
+    sub_steps:
+
+      sub_step_1_research:
+        name: "Pesquisar Tópico"
+        executor: "@nebula"
+        command: "*pesquisar-topico {keyword} {titulo}"
+        task_file: "tasks/pesquisar-topico.md"
+        output: "research_findings[linha]"
+        validation: "≥10 resultados, ≥8 entidades, ≥25 LSI terms"
+        on_fail: "retry(1) → registrar como 'pesquisa_limitada' e prosseguir"
+
+      sub_step_2_briefing:
+        name: "Gerar Briefing E.E.A.T.S."
+        executor: "@atlas"
+        command: "*gerar-briefing {keyword} {titulo} --research={research_findings}"
+        task_file: "tasks/gerar-briefing-eatss.md"
+        template: "templates/briefing-eatss-tmpl.md"
+        input:
+          - keyword
+          - titulo
+          - contexto_empresa (de data/contexto-empresa-ativo.md)
+          - research_findings (de sub_step_1)
+        output: |
+          results[linha] = {
+            "numero": linha.numero,
+            "prompt_adicional": briefing_eatss_completo,
+            "termos_lsi": lsi_clusters_formatado
+          }
+        validation: "Briefing ≥500 palavras com 7 camadas, LSI ≥25 termos"
+        on_fail: "retry(1) → registrar como 'briefing_incompleto'"
+
+      sub_step_3_report:
+        name: "Reportar Progresso"
+        executor: "@maestro"
+        action: "Exibir: '✅ Linha {N}/{total}: \"{keyword}\" — {tamanho} palavras'"
+
+  phase_2:
+    name: "ESCREVER PLANILHA"
+    purpose: "Salvar todos os resultados de volta ao XLSX"
+    executor: "@maestro"
+    duration: "< 1 minuto"
+    mode: "auto"
+    steps:
+      - step_id: "escrever"
+        description: "Executar xlsx-manager.py --action=write com todos os results"
+        command: |
+          python scripts/xlsx-manager.py \
+            --action=write \
+            --input={xlsx_path} \
+            --output={output_path} \
+            --data={results_json_path}
+        validation: "Arquivo salvo, colunas T e U preenchidas"
+        output_naming: "{xlsx_nome_original}_contextualizado.xlsx"
+        nunca_sobrescrever: true
+
+  phase_3:
+    name: "RELATÓRIO FINAL"
+    purpose: "Apresentar resultado ao usuário"
+    executor: "@maestro"
+    duration: "< 1 minuto"
+    mode: "interactive"
+    steps:
+      - step_id: "relatorio"
+        description: |
+          Exibir:
+          - Total processadas com sucesso
+          - Linhas com alertas
+          - Linhas com falha
+          - Path do arquivo salvo
+          - Detalhes por linha
+        elicit: true
+        question: "Deseja revisar algum briefing específico?"
+
+quality_gates:
+  por_linha:
+    - "research_findings tem ≥10 resultados"
+    - "briefing tem todas as 7 camadas"
+    - "prompt_adicional > 500 palavras"
+    - "termos_lsi tem ≥4 clusters"
+  final:
+    - "Arquivo salvo com novo nome (não sobrescreveu original)"
+    - "Colunas T e U preenchidas nas linhas processadas"
+    - "Relatório apresentado ao usuário"
+
+escalation:
+  triggers:
+    - "contexto-empresa-ativo.md vazio → BLOCK — solicitar *set-empresa"
+    - "Planilha sem colunas esperadas → BLOCK — alertar usuário"
+    - "Todas as linhas falharam → BLOCK — investigar com @maestro"
+    - "@nebula sem acesso a WebSearch → WARN — briefing sem pesquisa real"

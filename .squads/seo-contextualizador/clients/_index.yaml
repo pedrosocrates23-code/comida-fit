@@ -1,0 +1,80 @@
+# Registro de Clientes — SEO Contextualizador Squad
+#
+# Cada entrada mapeia um cliente para seu arquivo de contexto.
+# O campo "aliases" define os termos que serão buscados no nome do arquivo xlsx.
+#
+# Como funciona a detecção automática:
+#   1. Quando um xlsx é carregado, o sistema extrai tokens do nome do arquivo
+#   2. Compara com os "aliases" de cada cliente (case-insensitive)
+#   3. Se houver match único → carrega automaticamente
+#   4. Se não houver match → lista os clientes e pede escolha
+#
+# Como adicionar um novo cliente:
+#   1. Crie o arquivo clients/{slug}.md com o contexto da empresa
+#   2. Adicione uma entrada aqui com o slug, nome e aliases
+#   3. Pronto — o sistema já reconhece automaticamente
+
+clientes:
+  - slug: mand-digital
+    nome: "Mand Digital"
+    arquivo: "clients/mand-digital.md"
+    aliases:
+      - mand
+      - mand-digital
+      - manddigital
+      - mand_digital
+    setor: "Promoções Comerciais Regulamentadas"
+    ativo: true
+
+
+  - slug: tcl-turbinas
+    nome: "TCL Turbinas"
+    arquivo: "clients/tcl-turbinas.md"
+    aliases:
+      - tcl
+      - tcl-turbinas
+      - tcl_turbinas
+      - tclturbinas
+      - tt
+      - turbinas
+    setor: "Turbocompressores — Turbinas Novas e Recondicionadas"
+    ativo: true
+
+
+  - slug: peggo-market
+    nome: "Peggô Market"
+    arquivo: "clients/peggo-market.md"
+    aliases:
+      - market
+      - peggo
+      - peggo-market
+      - peggo_market
+      - peggomarket
+      - pm
+    setor: "Minimercados Autônomos e Franquia de Varejo de Proximidade"
+    ativo: true
+
+  - slug: soplanosdesaude
+    nome: "Só Planos de Saúde"
+    arquivo: "clients/soplanosdesaude.md"
+    aliases:
+      - soplanosdesaude
+      - so-planos
+      - soplanos
+      - soplanosdesaude
+      - splanos
+      - planos-saude-pipeline
+    setor: "Corretora e Comparador de Planos de Saúde — Saúde Suplementar"
+    ativo: true
+
+  # Template para novos clientes — copie e preencha:
+  #
+  # - slug: nome-empresa
+  #   nome: "Nome da Empresa"
+  #   arquivo: "clients/nome-empresa.md"
+  #   aliases:
+  #     - nomeempresa
+  #     - nome-empresa
+  #     - nome_empresa
+  #   setor: "Setor da empresa"
+  #   ativo: true

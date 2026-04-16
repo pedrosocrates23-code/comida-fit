@@ -134,6 +134,14 @@ Principalmente pela presença de gordura e fibras da pasta de amendoim, que desa
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Banana com Pasta de Amendoim](/receitas/banana-com-pasta-de-amendoim)
+- [Chips de Banana Fit Assados](/receitas/chips-de-banana)
+- [Enroladinho de Banana](/receitas/enroladinho-de-banana)
+
 ## Perguntas Frequentes
 
 **Por que meu sorvete ficou granulado e não cremoso?**

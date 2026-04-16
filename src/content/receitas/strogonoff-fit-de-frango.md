@@ -156,6 +156,14 @@ Com apenas 8g de carboidratos, este strogonoff serve como jantar low carb, cetog
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Frango ao Molho de Iogurte](/receitas/frango-ao-molho-de-iogurte)
+- [Frango Grelhado com Legumes no Vapor](/receitas/frango-grelhado-com-legumes-no-vapor)
+- [Risoto de Couve-Flor com Frango](/receitas/risoto-de-couve-flor-com-frango)
+
 ## Perguntas Frequentes
 
 **O que servir com o strogonoff fit no lugar do arroz branco?**

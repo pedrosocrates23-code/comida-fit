@@ -157,6 +157,14 @@ Entrega alto impacto anabólico com baixo impacto calórico. Para quem treina pa
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Frango ao Molho de Iogurte](/receitas/frango-ao-molho-de-iogurte)
+- [Tapioca de Frango Desfiado](/receitas/tapioca-de-frango-desfiado)
+- [Wrap de Frango com Alface](/receitas/wrap-de-frango-com-alface)
+
 ## Perguntas Frequentes
 
 **Qual a diferença entre consumir esta refeição imediatamente ou 2 horas após o treino?**

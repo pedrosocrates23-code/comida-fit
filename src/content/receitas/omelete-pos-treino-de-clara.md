@@ -154,6 +154,14 @@ Eletrólitos perdidos pelo suor durante o treino que precisam ser repostos para 
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Omelete de Espinafre com Queijo Cottage](/receitas/omelete-de-espinafre-e-queijo-cottage)
+- [Crepioca de Ovos](/receitas/crepioca-de-ovos)
+- [Melhores Pre-Treinos 2025: Comparativo Completo](/blog/melhores-pre-treino-2026)
+
 ## Perguntas Frequentes
 
 **Posso adicionar whey protein à omelete de clara para aumentar ainda mais a proteína?**

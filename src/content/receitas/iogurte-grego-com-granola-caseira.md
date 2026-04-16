@@ -151,6 +151,14 @@ A granola caseira, ao contrário das versões industriais cheias de açúcar ref
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Iogurte Proteico com Frutas](/receitas/iogurte-proteico-com-frutas)
+- [Mingau de Aveia com Frutas Vermelhas](/receitas/mingau-de-aveia-com-frutas-vermelhas)
+- [Smoothie Bowl de Acai Fit](/receitas/smoothie-bowl-de-acai-fit)
+
 ## Perguntas Frequentes
 
 **Qual é a diferença entre iogurte grego e iogurte comum?**

@@ -164,6 +164,14 @@ O conjunto proteína-fibra-gordura equilibrada faz desta receita uma escolha per
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Macarrao de Abobrinha com Molho Branco](/receitas/macarrao-de-abobrinha-com-molho-branco)
+- [Mini Pizza de Abobrinha](/receitas/mini-pizza-de-abobrinha)
+- [Zoodles com Pesto de Manjericao](/receitas/zoodles-com-pesto-de-manjericao)
+
 ## Perguntas Frequentes
 
 **A abobrinha precisa ser descascada antes de cozinhar?**

@@ -165,6 +165,14 @@ Com apenas 8g de carboidratos e 18g de gorduras de boa qualidade (do azeite, dos
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Omelete de Espinafre com Queijo Cottage](/receitas/omelete-de-espinafre-e-queijo-cottage)
+- [Ovos Mexidos com Abacate](/receitas/ovos-mexidos-com-abacate)
+- [Quinoa com Legumes Grelhados](/receitas/quinoa-com-legumes-grelhados)
+
 ## Perguntas Frequentes
 
 **Como evitar que a omelete grude na frigideira?**

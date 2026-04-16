@@ -159,6 +159,14 @@ As folhas verdes adicionam fibras, ácido fólico, vitaminas K, C e E, e compost
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Salmao Assado com Aspargos](/receitas/salmao-assado-com-aspargos)
+- [Tilapia Assada com Ervas](/receitas/tilapia-assada-com-ervas)
+- [Proteinas na Dieta Fit: Quanto Voce Precisa?](/blog/proteinas-na-dieta-fit)
+
 ## Perguntas Frequentes
 
 **Posso usar camarão congelado nesta receita?**

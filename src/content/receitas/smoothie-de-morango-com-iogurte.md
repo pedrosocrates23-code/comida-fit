@@ -152,6 +152,14 @@ Nutrientes frequentemente deficientes em dietas restritivas. O iogurte grego con
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Smoothie Bowl de Acai Fit](/receitas/smoothie-bowl-de-acai-fit)
+- [Mousse de Morango Fit](/receitas/mousse-de-morango-fit)
+- [Iogurte Proteico com Frutas](/receitas/iogurte-proteico-com-frutas)
+
 ## Perguntas Frequentes
 
 **Posso usar iogurte de sabor (morango, baunilha) em vez do natural?**

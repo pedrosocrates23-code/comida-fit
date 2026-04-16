@@ -1,0 +1,234 @@
+name: pipeline-404-recovery
+version: 1.0.0
+description: >
+  Pipeline de recuperacao das 36 URLs com 404 do melhoresreceitasfit.com.br.
+  Para cada slug: gera briefing EATS via seo-contextualizador, escreve conteudo
+  via redator-4.0 e salva como .md em src/content/receitas/{slug}.md.
+  Os 301 redirects da raiz para /receitas/ ja estao configurados no astro.config.mjs.
+
+client: melhoresreceitasfit
+client_slug: melhoresreceitasfit
+output_dir: src/content/receitas/
+output_format: markdown_frontmatter
+
+restricoes_editoriais:
+  - NUNCA usar travessao (substituir por virgula ou reescrita)
+  - Tom acolhedor e pratico
+  - Informacoes nutricionais obrigatorias no frontmatter
+  - Comprimento ideal entre 1500 e 2500 palavras
+
+squads:
+  fase_1_briefing:
+    squad: seo-contextualizador
+    path: .squads/seo-contextualizador/
+    agents: [maestro, nebula, atlas]
+    context_file: .squads/seo-contextualizador/data/contexto-empresa-ativo.md
+
+  fase_2_redacao:
+    squad: redator-4.0
+    path: .squads/redator-4.0/
+    client_context: .squads/redator-4.0/knowledge/clients/melhoresreceitasfit-marketing.md
+    output_format: markdown_com_frontmatter  # adaptado de HTML para .md
+
+# ═══════════════════════════════════════════════════════════
+# SLUGS A PROCESSAR (36 URLs com 404 confirmado)
+# ═══════════════════════════════════════════════════════════
+
+slugs_404:
+  - slug: panquecas-fininhas-sem-gluten-e-lactose-free
+    keyword: panquecas fininhas sem gluten e lactose free
+    categoria: cafe-da-manha
+  - slug: mini-pizza-de-abobrinha
+    keyword: mini pizza de abobrinha
+    categoria: lanches-saudaveis
+  - slug: bolo-de-limao-lowcarb
+    keyword: bolo de limao low carb
+    categoria: sobremesas-fit
+  - slug: suco-para-desinchar
+    keyword: suco para desinchar
+    categoria: smoothies-e-sucos
+  - slug: shake-detox-de-banana
+    keyword: shake detox de banana
+    categoria: smoothies-e-sucos
+  - slug: bolo-de-chocolate-low-carb
+    keyword: bolo de chocolate low carb
+    categoria: sobremesas-fit
+  - slug: receitas-fitness
+    keyword: receitas fitness
+    categoria: lanches-saudaveis
+  - slug: bolo-mousse-de-chocolate
+    keyword: bolo mousse de chocolate
+    categoria: sobremesas-fit
+  - slug: pudim-de-coco-low-carb
+    keyword: pudim de coco low carb
+    categoria: sobremesas-fit
+  - slug: receita-de-torta-salgada-low-carb
+    keyword: receita de torta salgada low carb
+    categoria: almoco-fit
+  - slug: receita-low-carb-facil
+    keyword: receita low carb facil
+    categoria: jantar-low-carb
+  - slug: como-fazer-cuscuz-fit
+    keyword: como fazer cuscuz fit
+    categoria: cafe-da-manha
+  - slug: receita-de-bolo-low-carb-facil
+    keyword: receita de bolo low carb facil
+    categoria: sobremesas-fit
+  - slug: receitas-low-carb-com-espinafre
+    keyword: receitas low carb com espinafre
+    categoria: almoco-fit
+  - slug: receita-de-bolo-de-aniversario-low-carb
+    keyword: receita de bolo de aniversario low carb
+    categoria: sobremesas-fit
+  - slug: danette-low-carb
+    keyword: danette low carb
+    categoria: sobremesas-fit
+  - slug: mousse-de-morango-fit
+    keyword: mousse de morango fit
+    categoria: sobremesas-fit
+  - slug: receita-de-vitamina-saudavel
+    keyword: receita de vitamina saudavel
+    categoria: smoothies-e-sucos
+  - slug: casadinho-fit
+    keyword: casadinho fit
+    categoria: sobremesas-fit
+  - slug: receita-de-bolo-low-carb
+    keyword: receita de bolo low carb
+    categoria: sobremesas-fit
+  - slug: receita-de-bolo-de-chocolate-low-carb
+    keyword: receita de bolo de chocolate low carb
+    categoria: sobremesas-fit
+  - slug: receitas-saudaveis-e-rapidas
+    keyword: receitas saudaveis e rapidas
+    categoria: lanches-saudaveis
+  - slug: bolo-de-coco-gelado
+    keyword: bolo de coco gelado fit
+    categoria: sobremesas-fit
+  - slug: bolo-fit-saboroso
+    keyword: bolo fit saboroso
+    categoria: sobremesas-fit
+  - slug: 5-receitas-de-quiche-low-carb
+    keyword: receitas de quiche low carb
+    categoria: almoco-fit
+  - slug: receita-fit-e-saudavel
+    keyword: receita fit e saudavel
+    categoria: lanches-saudaveis
+  - slug: receitas-fit-com-batata-doce
+    keyword: receitas fit com batata doce
+    categoria: pre-treino
+  - slug: barrinha-de-chocolate-com-coco-low-carb
+    keyword: barrinha de chocolate com coco low carb
+    categoria: lanches-saudaveis
+  - slug: enroladinho-de-banana
+    keyword: enroladinho de banana fit
+    categoria: lanches-saudaveis
+  - slug: bolo-de-chocolate-fit
+    keyword: bolo de chocolate fit
+    categoria: sobremesas-fit
+  - slug: bolo-de-maca-canela-e-frutas-secas
+    keyword: bolo de maca canela e frutas secas
+    categoria: sobremesas-fit
+  - slug: chips-de-banana
+    keyword: chips de banana fit
+    categoria: lanches-saudaveis
+  - slug: bolo-de-caneca-low-carb-de-chocolate
+    keyword: bolo de caneca low carb de chocolate
+    categoria: sobremesas-fit
+  - slug: 10-receitas-de-bolo-de-banana-fit
+    keyword: receitas de bolo de banana fit
+    categoria: sobremesas-fit
+  - slug: bolo-de-laranja-fit
+    keyword: bolo de laranja fit
+    categoria: sobremesas-fit
+  - slug: macarrao-de-abobrinha-com-molho-branco
+    keyword: macarrao de abobrinha com molho branco
+    categoria: jantar-low-carb
+
+# ═══════════════════════════════════════════════════════════
+# FASES DO PIPELINE
+# ═══════════════════════════════════════════════════════════
+
+phases:
+
+  phase_0:
+    name: PRE-FLIGHT
+    steps:
+      - Verificar contexto-empresa-ativo.md preenchido
+      - Verificar client context melhoresreceitasfit-marketing.md
+      - Listar os 36 slugs e aguardar confirmacao de quais processar
+      - Confirmar modo (lote completo ou por lotes de N)
+
+  phase_1:
+    name: BRIEFING EATS via seo-contextualizador
+    executor: "@maestro (orquestra @nebula + @atlas)"
+    for_each_slug:
+      - "@nebula: pesquisar keyword no SERP (5+ queries)"
+      - "@nebula: mapear entidades, LSI, PAA, dados 2025-2026"
+      - "@atlas: gerar briefing EATS 7 camadas"
+      - "@atlas: gerar termos LSI em 4 clusters"
+      - Armazenar briefing[slug] para fase_2
+
+  phase_2:
+    name: REDACAO via redator-4.0
+    executor: "redator-seo-chief (orquestra content-architect + seo-writer + output-packager)"
+    for_each_slug:
+      - "content-architect: gerar outline H2/H3 a partir do briefing EATS"
+      - "qa-outline: validar outline (gate RS-002)"
+      - "seo-writer: escrever conteudo completo usando briefing e outline"
+      - "qa-content: validar conteudo (gate RS-003)"
+      - "output-packager: montar meta, H1, slug, FAQ"
+      - "qa-package: validar pacote final (gate RS-004)"
+
+  phase_3:
+    name: ADAPTER — converter para .md frontmatter
+    for_each_slug:
+      - Extrair do pacote: title (H1), description (meta), keywords
+      - Inferir ou estimar valores numericos: calorias, proteinas, carboidratos, gorduras, porcoes, tempoPreparo
+      - Mapear categoria conforme slugs_404[slug].categoria
+      - Estruturar frontmatter YAML conforme schema do site
+      - Converter body do HTML para Markdown limpo
+      - Salvar em src/content/receitas/{slug}.md
+
+  phase_4:
+    name: RELATORIO FINAL
+    actions:
+      - Listar todos os arquivos .md criados com caminho absoluto
+      - Listar slugs pulados com motivo
+      - Confirmar que os 36 arquivos foram salvos
+
+# ═══════════════════════════════════════════════════════════
+# FRONTMATTER SCHEMA — obrigatorio para cada .md gerado
+# ═══════════════════════════════════════════════════════════
+
+frontmatter_schema:
+  title: "string — titulo da receita (sem travessao)"
+  description: "string — max 160 chars, keyword-first, sem travessao"
+  categoria: "enum — usar categoria de slugs_404"
+  tempoPreparo: "number — minutos de preparo"
+  porcoes: "number — numero de porcoes"
+  calorias: "number — calorias por porcao (estimado)"
+  proteinas: "number — gramas de proteina por porcao"
+  carboidratos: "number — gramas de carboidrato por porcao"
+  gorduras: "number — gramas de gordura por porcao"
+  ingredientes: "array de strings"
+  instrucoes: "array de strings — passo a passo resumido"
+  keywords: "array — 6 a 10 termos"
+  publishDate: "date — usar data de hoje"
+  image: "string — /images/receitas/{slug}.webp"
+  imageAlt: "string — descricao da imagem"
+  rating: "number — default 4.8"
+  ratingCount: "number — default entre 80 e 200"
+  featured: "boolean — false"
+
+# ═══════════════════════════════════════════════════════════
+# COMO EXECUTAR
+# ═══════════════════════════════════════════════════════════
+
+execution:
+  comando_inicio: "@maestro *processar-lote"
+  modo_recomendado: lotes de 5 slugs por vez para controle de qualidade
+  validacao_pos_geracao: npm run build (verifica se todos os .md compilam sem erros)
+  nota: >
+    Apos gerar todos os .md, executar npm run build no projeto para confirmar
+    que nenhum frontmatter quebrou o schema da content collection.
+    Em seguida, @devops faz o push e deploy.

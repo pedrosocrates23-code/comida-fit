@@ -167,6 +167,14 @@ Especialmente o oleocantal, com comprovadas propriedades anti-inflamatórias. A 
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Bolinho de Atum Assado](/receitas/bolinho-de-atum-assado)
+- [Sanduiche de Atum Integral](/receitas/sanduiche-de-atum-integral)
+- [Hamburguer de Grao de Bico](/receitas/hamburguer-de-grao-de-bico)
+
 ## Perguntas Frequentes
 
 **Qual marca de atum usar para melhor resultado?**

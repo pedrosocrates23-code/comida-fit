@@ -150,6 +150,14 @@ Com 168 calorias por porção, 5g de proteínas e 5g de gorduras boas (ômega-3 
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Receita de Vitamina Saudavel](/receitas/receita-de-vitamina-saudavel)
+- [Smoothie Verde Detox](/receitas/smoothie-verde-detox)
+- [Shake Detox de Banana](/receitas/shake-detox-de-banana)
+
 ## Perguntas Frequentes
 
 **Posso usar sementes de mamão na vitamina?**

@@ -149,6 +149,14 @@ O abacate é protagonista nesta receita do ponto de vista nutricional: rico em �
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Ovos Mexidos com Abacate](/receitas/ovos-mexidos-com-abacate)
+- [Omelete de Espinafre com Queijo Cottage](/receitas/omelete-de-espinafre-e-queijo-cottage)
+- [Iogurte Grego com Granola Caseira](/receitas/iogurte-grego-com-granola-caseira)
+
 ## Perguntas Frequentes
 
 **Posso comer gema e tudo sem preocupação para pré-treino?**

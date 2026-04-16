@@ -154,6 +154,14 @@ O morango, além de decorativo, é nutricionalmente rico em vitamina C (uma por�
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Mousse de Morango Fit](/receitas/mousse-de-morango-fit)
+- [Pudim Fit Sem Lactose](/receitas/pudim-fit-sem-lactose)
+- [Smoothie de Morango com Iogurte](/receitas/smoothie-de-morango-com-iogurte)
+
 ## Perguntas Frequentes
 
 **Posso usar proteína vegana no lugar do whey?**

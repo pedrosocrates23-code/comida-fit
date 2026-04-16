@@ -164,6 +164,14 @@ De digestão lenta, que mantêm o balanço de aminoácidos positivo por horas ap
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Omelete Pos-Treino de Clara](/receitas/omelete-pos-treino-de-clara)
+- [Receitas Low Carb com Espinafre](/receitas/receitas-low-carb-com-espinafre)
+- [Ovos Mexidos com Abacate](/receitas/ovos-mexidos-com-abacate)
+
 ## Perguntas Frequentes
 
 **Posso usar espinafre congelado nesta receita?**

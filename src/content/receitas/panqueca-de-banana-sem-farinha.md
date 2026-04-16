@@ -165,6 +165,14 @@ Com 185 calorias por porção, essa panqueca é leve mas satisfatória. Os ovos 
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Biscoito de Aveia e Banana](/receitas/biscoito-de-aveia-e-banana)
+- [Panquecas Fininhas Sem Gluten e Lactose](/receitas/panquecas-fininhas-sem-gluten-e-lactose-free)
+- [10 Receitas de Bolo de Banana Fit](/receitas/10-receitas-de-bolo-de-banana-fit)
+
 ## Perguntas Frequentes
 
 **Por que minha panqueca fica quebrando ao virar?**

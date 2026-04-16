@@ -1,0 +1,447 @@
+name: wf-produce-batch
+version: 2.0.0
+description: >
+  Pipeline completo de produção em batch de conteúdo SEO semântico.
+  Valida cliente → lê planilha → produz conteúdo keyword por keyword → entrega pacotes.
+
+orchestrator: redator-seo-chief
+mode: sequential_with_gates
+
+# ═══════════════════════════════════════════════════════════
+# PHASE 0: PRE-CHECK
+# ═══════════════════════════════════════════════════════════
+
+phase_0:
+  id: pre-check
+  name: "Pre-Check — Validação de Cliente e Contexto"
+  executor: client-validator
+  task: tasks/pre-check.md
+  gate: RS-000
+  blocking: true
+
+  inputs:
+    - cliente_slug
+    - planilha_path
+
+  steps:
+    - id: "0.1"
+      action: "Verificar cliente_slug fornecido"
+      fail: "BLOCK — SP_CV_001"
+
+    - id: "0.2"
+      action: "Localizar redator-2.0/knowledge/{slug}-marketing.md"
+      fail: "BLOCK — SP_CV_002"
+
+    - id: "0.3"
+      action: "Ler e extrair entidades do contexto"
+      fail: "BLOCK se vazio"
+
+    - id: "0.4"
+      action: "Verificar completude do contexto (>= 200 palavras)"
+      fail: "WARN se < 300 palavras"
+
+    - id: "0.5"
+      action: "Verificar existência da planilha"
+      fail: "WARN — modo fallback manual"
+
+  outputs:
+    - contexto_estruturado
+    - pipeline_state.cliente
+    - pipeline_state.contexto_carregado: true
+
+  gate_criteria:
+    - cliente_slug: not_empty
+    - contexto_path: file_exists
+    - contexto_carregado: true
+
+  on_pass:
+    next_phase: phase_1
+    message: "✅ RS-000 PASS → Iniciando keyword intake"
+
+  on_fail:
+    action: BLOCK
+    message: "❌ RS-000 FAIL → Pipeline pausado. Resolver pré-condições."
+
+# ═══════════════════════════════════════════════════════════
+# PHASE 1: KEYWORD INTAKE
+# ═══════════════════════════════════════════════════════════
+
+phase_1:
+  id: keyword-intake
+  name: "Keyword Intake — Leitura e Classificação de Planilha"
+  executor: keyword-analyst
+  task: tasks/read-spreadsheet.md
+  gate: RS-001
+  blocking: true
+  requires: phase_0_pass
+
+  inputs:
+    - planilha_path (from phase_0)
+    - contexto_estruturado (from phase_0)
+
+  steps:
+    - id: "1.1"
+      action: "Ler arquivo Excel"
+      fallback: "Elicitation manual se arquivo não legível"
+
+    - id: "1.2"
+      action: "Identificar colunas (keyword, volume, kd)"
+
+    - id: "1.3"
+      action: "Classificar intenção de busca por keyword"
+
+    - id: "1.4"
+      action: "Recomendar tipo de artigo por keyword"
+
+    - id: "1.5"
+      action: "Validar relevância para o cliente"
+
+    - id: "1.6"
+      action: "Calcular prioridade (Alta/Média/Baixa)"
+
+    - id: "1.7"
+      action: "Remover duplicatas e ordenar lista"
+
+  outputs:
+    - keywords_classificadas (lista priorizada)
+    - pipeline_state.keywords
+
+  gate_criteria:
+    - keywords_count: ">= 1"
+    - all_keywords_have_intent: true
+    - all_keywords_have_type: true
+
+  on_pass:
+    next_phase: phase_2
+    message: "✅ RS-001 PASS → {N} keywords prontas. Iniciando produção pela #1."
+
+  on_fail:
+    action: BLOCK
+    message: "❌ RS-001 FAIL → Nenhuma keyword processada. Verificar planilha."
+
+# ═══════════════════════════════════════════════════════════
+# PHASE 2: PRODUCTION LOOP
+# ═══════════════════════════════════════════════════════════
+
+phase_2:
+  id: production-loop
+  name: "Production Loop — Outline + Escrita + Pacote por Keyword"
+  requires: phase_1_pass
+  loop:
+    over: keywords_classificadas
+    variable: keyword_atual
+    index: keyword_atual_index
+    direction: sequential
+
+  # ─── SUB-PHASE 2a: OUTLINE ─────────────────────────────
+  sub_phase_2a:
+    id: outline-generation
+    name: "Outline Generation"
+    executor: content-architect
+    task: tasks/generate-outline.md
+    gate: RS-002
+    blocking: true
+
+    inputs:
+      - keyword: keyword_atual.keyword
+      - tipo_artigo: keyword_atual.tipo_artigo
+      - intencao: keyword_atual.intencao
+      - contexto_estruturado: (from phase_0)
+      - knowledge_base_path: "redator-2.0/knowledge/"
+
+    steps:
+      - id: "2a.1"
+        action: "Carregar Outline Generator + Article Templates"
+      - id: "2a.2"
+        action: "Identificar entidade central e taxonomia"
+      - id: "2a.3"
+        action: "Mapear intenções explícitas e latentes"
+      - id: "2a.4"
+        action: "Filtrar por tipo de artigo"
+      - id: "2a.5"
+        action: "Organizar hierarquia H2/H3"
+      - id: "2a.6"
+        action: "Calcular distância semântica"
+      - id: "2a.7"
+        action: "Injetar dados do cliente nas seções relevantes"
+      - id: "2a.8"
+        action: "Estimar word count"
+      - id: "2a.9"
+        action: "Gerar perguntas do FAQ"
+      - id: "2a.10"
+        action: "Validar outline pelo checklist"
+
+    outputs:
+      - outline_estruturado
+      - pipeline_state.outline_atual
+
+    gate_criteria:
+      - h2_count: ">= 4"
+      - semantic_distance_max: "<= 3"
+      - faq_questions: ">= 4"
+
+    on_pass:
+      next_phase: sub_phase_2a_qa
+    on_fail:
+      action: RETRY_ONCE
+      on_retry_fail: BLOCK
+
+  # ─── SUB-PHASE 2a-QA: OUTLINE QA ──────────────────────
+  sub_phase_2a_qa:
+    id: outline-qa
+    name: "QA Outline — Revisão pelo qa-outline (13 regras Dimensão A)"
+    executor: qa-outline
+    squad: redator-seo
+    gate: RS-002-QA
+    blocking: true
+    requires: sub_phase_2a_pass
+    requires_explicit_qa_report: true
+
+    inputs:
+      - outline_estruturado: (from 2a)
+      - keyword: keyword_atual.keyword
+      - tipo_artigo: keyword_atual.tipo_artigo
+      - knowledge_base: "redator-2.0/knowledge/canonical-rules.md"
+
+    outputs:
+      - qa_outline_report
+      - qa_outline_result: PASS | FAIL
+
+    on_pass:
+      next_phase: sub_phase_2b
+      message: "✅ RS-002 QA PASS → qa-outline aprovou. Liberando seo-writer."
+    on_fail:
+      action: RETURN_TO_ARCHITECT
+      passes: lista_violacoes_bloqueantes
+      message: "❌ RS-002 QA FAIL → Devolvendo ao content-architect com violações."
+
+  # ─── SUB-PHASE 2b: CONTENT WRITING ────────────────────
+  sub_phase_2b:
+    id: content-writing
+    name: "Content Writing — HTML Seção por Seção"
+    executor: seo-writer
+    task: tasks/write-content.md
+    gate: RS-003
+    blocking: true
+    requires: sub_phase_2a_qa_pass
+
+    inputs:
+      - outline_estruturado: (from 2a)
+      - contexto_estruturado: (from phase_0)
+      - keyword: keyword_atual.keyword
+      - tipo_artigo: keyword_atual.tipo_artigo
+
+    execution_mode: sequential_sections
+    sections_order:
+      1: summarization
+      2: h1_intro
+      3: h2_sections (loop)
+      4: faq
+
+    per_section:
+      write: "HTML limpo seguindo PMR19 + Style Guide"
+      self_check: "Anti-conector + entidade nomeada + lead GEO + word count"
+      deliver_format: "HTML + separador + pergunta + STATUS"
+      wait_for_ok: true
+
+    outputs:
+      - html_completo
+      - pipeline_state.conteudo_atual
+
+    gate_criteria:
+      - all_sections_written: true
+      - no_prohibited_connectors: true
+      - html_tags_valid: true
+      - summarization_present: true
+      - faq_written: true
+
+    on_pass:
+      next_phase: sub_phase_2b_qa
+    on_fail:
+      action: RETURN_TO_WRITER
+      message: "Reescrever seções com problemas"
+
+  # ─── SUB-PHASE 2b-QA: CONTENT QA ──────────────────────
+  sub_phase_2b_qa:
+    id: content-qa
+    name: "QA Content — Revisão pelo qa-content (80+ regras Dimensões B-I + M-P)"
+    executor: qa-content
+    squad: redator-seo
+    gate: RS-003-QA
+    blocking: true
+    requires: sub_phase_2b_pass
+    requires_explicit_qa_report: true
+
+    inputs:
+      - html_completo: (from 2b)
+      - outline_estruturado: (from 2a)
+      - contexto_estruturado: (from phase_0)
+      - keyword: keyword_atual.keyword
+      - tipo_artigo: keyword_atual.tipo_artigo
+      - knowledge_base: "redator-2.0/knowledge/canonical-rules.md"
+
+    outputs:
+      - qa_content_report
+      - qa_content_result: PASS | FAIL
+
+    on_pass:
+      next_phase: sub_phase_2c
+      message: "✅ RS-003 QA PASS → qa-content aprovou. Liberando output-packager."
+    on_fail:
+      action: RETURN_TO_WRITER
+      passes: lista_violacoes_por_secao
+      message: "❌ RS-003 QA FAIL → Devolvendo ao seo-writer com violações por seção."
+
+  # ─── SUB-PHASE 2c: PACKAGE ASSEMBLY ───────────────────
+  sub_phase_2c:
+    id: package-assembly
+    name: "Package Assembly — 5 Deliverables"
+    executor: output-packager
+    task: tasks/package-output.md
+    gate: RS-004
+    blocking: true
+    requires: sub_phase_2b_qa_pass
+
+    inputs:
+      - html_completo: (from 2b)
+      - outline_estruturado: (from 2a)
+      - keyword: keyword_atual.keyword
+      - contexto_estruturado: (from phase_0)
+
+    steps:
+      - id: "2c.1"
+        action: "Extrair H1 do HTML"
+      - id: "2c.2"
+        action: "Gerar Meta Description"
+      - id: "2c.3"
+        action: "Gerar Slug"
+      - id: "2c.4"
+        action: "Extrair/formatar FAQ"
+      - id: "2c.5"
+        action: "Limpar HTML"
+      - id: "2c.6"
+        action: "Montar pacote com template"
+      - id: "2c.7"
+        action: "Quality check final (5 deliverables)"
+
+    outputs:
+      - pacote_completo
+      - pipeline_state.pacote_atual
+
+    gate_criteria:
+      all_deliverables_present:
+        - meta_description: not_empty
+        - h1: not_empty
+        - slug: not_empty
+        - faq: not_empty
+        - html_content: not_empty
+      meta_description_length: "18-22 palavras"
+      slug_valid: "kebab-case, max 60 chars"
+
+    on_pass:
+      next_phase: sub_phase_2c_qa
+    on_fail:
+      action: FIX_AND_RETRY
+      max_retries: 2
+
+  # ─── SUB-PHASE 2c-QA: PACKAGE QA ──────────────────────
+  sub_phase_2c_qa:
+    id: package-qa
+    name: "QA Package — Revisão pelo qa-package (37 regras Dimensões J K L M + PKG03)"
+    executor: qa-package
+    squad: redator-seo
+    gate: RS-004-QA
+    blocking: true
+    requires: sub_phase_2c_pass
+    requires_explicit_qa_report: true
+
+    inputs:
+      - pacote_completo: (from 2c)
+      - keyword: keyword_atual.keyword
+      - contexto_estruturado: (from phase_0)
+      - knowledge_base: "redator-2.0/knowledge/canonical-rules.md"
+
+    outputs:
+      - qa_package_report
+      - qa_package_result: PASS | FAIL
+
+    on_pass:
+      next_action: deliver_package
+      message: "✅ RS-004 QA PASS → qa-package aprovou. Entregando ao usuário."
+    on_fail:
+      action: RETURN_TO_PACKAGER
+      passes: relatorio_por_deliverable
+      message: "❌ RS-004 QA FAIL → Devolvendo ao output-packager com violações."
+
+  # ─── DELIVERY ──────────────────────────────────────────
+  delivery:
+    id: keyword-delivery
+    name: "Entrega do Pacote"
+    executor: redator-seo-chief
+    requires: sub_phase_2c_qa_pass
+
+    actions:
+      - "Exibir pacote completo usando delivery-package-tmpl.md"
+      - "Adicionar pacote ao pipeline_state.pacotes_entregues"
+      - "Verificar se há próxima keyword"
+
+    on_more_keywords:
+      next_action: "Incrementar keyword_atual_index → voltar ao início do loop"
+    on_last_keyword:
+      next_phase: phase_3
+
+# ═══════════════════════════════════════════════════════════
+# PHASE 3: BATCH COMPLETION
+# ═══════════════════════════════════════════════════════════
+
+phase_3:
+  id: batch-completion
+  name: "Batch Completion — Resumo Final"
+  executor: redator-seo-chief
+  requires: phase_2_loop_complete
+
+  actions:
+    - "Exibir resumo de todos os pacotes entregues"
+    - "Listar keywords processadas vs puladas"
+    - "Informar próximos passos"
+
+  output_summary: |
+    ═══════════════════════════════════════════
+    ✅ BATCH CONCLUÍDO
+    ═══════════════════════════════════════════
+    Cliente: {nome_empresa}
+    Keywords processadas: {N}
+    Keywords com sucesso: {N_success}
+    Keywords puladas: {N_skip}
+
+    PACOTES ENTREGUES:
+    {lista de keywords com status}
+
+    Próximos passos sugeridos:
+    - Publicar conteúdo no CMS
+    - Implementar FAQ Schema em cada artigo
+    - Adicionar links internos entre os artigos
+    ═══════════════════════════════════════════
+
+# ═══════════════════════════════════════════════════════════
+# ERROR HANDLING GLOBAL
+# ═══════════════════════════════════════════════════════════
+
+error_handling:
+  on_gate_fail:
+    RS-000: "BLOCK — resolver pré-condições"
+    RS-001: "BLOCK — verificar planilha ou fornecer keywords"
+    RS-002: "RETRY uma vez → se falhar: pular keyword com log"
+    RS-002-QA: "RETURN ao content-architect com violações bloqueantes do qa-outline"
+    RS-003: "RETURN para seo-writer com feedback"
+    RS-003-QA: "RETURN ao seo-writer com violações bloqueantes do qa-content por seção"
+    RS-004: "FIX automático → se falhar: entregar parcial com aviso"
+    RS-004-QA: "RETURN ao output-packager com violações bloqueantes do qa-package por deliverable"
+
+  on_unexpected_error:
+    action: "Salvar state atual, informar usuário, aguardar instrução"
+
+  on_skip:
+    action: "Registrar motivo em pipeline_state.erros, avançar"
+
+  max_retries_per_keyword: 2

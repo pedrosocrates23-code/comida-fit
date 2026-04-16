@@ -167,6 +167,14 @@ Cada caloria vem acompanhada de nutrientes. Para pessoas que buscam reduzir o a√
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Casadinho Fit](/receitas/casadinho-fit)
+- [Barrinha de Chocolate com Coco Low Carb](/receitas/barrinha-de-chocolate-com-coco-low-carb)
+- [Bolo de Caneca Low Carb de Chocolate](/receitas/bolo-de-caneca-low-carb-de-chocolate)
+
 ## Perguntas Frequentes
 
 **O chocolate ficou granuloso ao derreter. O que aconteceu?**

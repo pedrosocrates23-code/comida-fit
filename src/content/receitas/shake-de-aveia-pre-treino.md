@@ -153,6 +153,14 @@ Especialmente leucina, que é o aminoácido que "ativa" a síntese proteica musc
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Shake Proteico de Chocolate](/receitas/shake-proteico-de-chocolate)
+- [Shake de Whey com Banana](/receitas/shake-whey-com-banana)
+- [Melhores Pre-Treinos 2025: Comparativo Completo](/blog/melhores-pre-treino-2026)
+
 ## Perguntas Frequentes
 
 **Posso fazer este shake sem whey protein?**

@@ -149,6 +149,14 @@ Com 245 calorias, 7g de proteína, 38g de carboidratos e 9g de gordura, este lan
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Panqueca de Banana Sem Farinha](/receitas/panqueca-de-banana-sem-farinha)
+- [Chips de Banana Fit Assados](/receitas/chips-de-banana)
+- [Sorvete de Banana com Pasta de Amendoim](/receitas/sorvete-de-banana-com-pasta-de-amendoim)
+
 ## Perguntas Frequentes
 
 **Quantas calorias a mais a pasta de amendoim adiciona se eu usar 3 colheres em vez de 2?**

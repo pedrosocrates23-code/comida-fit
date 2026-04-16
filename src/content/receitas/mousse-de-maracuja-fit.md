@@ -144,6 +144,14 @@ Com apenas 112 calorias por porção e 9g de proteína, esta mousse tem uma dens
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Mousse de Morango Fit](/receitas/mousse-de-morango-fit)
+- [Pudim Fit Sem Lactose](/receitas/pudim-fit-sem-lactose)
+- [Gelatina Proteica de Morango](/receitas/gelatina-proteica-de-morango)
+
 ## Perguntas Frequentes
 
 **Posso usar polpa de maracujá congelada industrializada?**

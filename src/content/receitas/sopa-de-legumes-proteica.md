@@ -168,6 +168,14 @@ Esta receita é naturalmente low fat com apenas 5g de gordura por porção, torn
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Carne Moida com Abobrinha](/receitas/carne-moida-com-abobrinha)
+- [Quinoa com Legumes Grelhados](/receitas/quinoa-com-legumes-grelhados)
+- [Proteinas na Dieta Fit: Quanto Voce Precisa?](/blog/proteinas-na-dieta-fit)
+
 ## Perguntas Frequentes
 
 **Como fazer o caldo de legumes caseiro para esta sopa?**

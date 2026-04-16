@@ -156,6 +156,14 @@ Com 245 calorias por hambúrguer, esta é uma opção de jantar satisfatória qu
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Salada de Atum com Grao de Bico](/receitas/salada-de-atum-com-grao-de-bico)
+- [Quinoa com Legumes Grelhados](/receitas/quinoa-com-legumes-grelhados)
+- [Proteinas na Dieta Fit: Quanto Voce Precisa?](/blog/proteinas-na-dieta-fit)
+
 ## Perguntas Frequentes
 
 **Posso usar grão-de-bico de lata em vez de cozido em casa?**

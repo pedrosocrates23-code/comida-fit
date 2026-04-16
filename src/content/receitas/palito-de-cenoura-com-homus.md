@@ -165,6 +165,14 @@ O azeite do homus otimiza essa absorção, tornando a combinação cenoura + hom
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Chips de Batata Doce Assada](/receitas/chips-de-batata-doce-assada)
+- [Fruta com Castanhas Pre-Treino](/receitas/fruta-com-castanhas-pre-treino)
+- [Salada de Atum com Grao de Bico](/receitas/salada-de-atum-com-grao-de-bico)
+
 ## Perguntas Frequentes
 
 **Meu homus ficou granuloso, não cremoso. O que fazer?**

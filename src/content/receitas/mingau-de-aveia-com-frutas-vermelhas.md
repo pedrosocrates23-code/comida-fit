@@ -153,6 +153,14 @@ A chia adiciona 5 a 6g extras de fibras, ômega-3 vegetal (ALA) e proteínas com
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Iogurte Grego com Granola Caseira](/receitas/iogurte-grego-com-granola-caseira)
+- [Biscoito de Aveia e Banana](/receitas/biscoito-de-aveia-e-banana)
+- [Smoothie Bowl de Acai Fit](/receitas/smoothie-bowl-de-acai-fit)
+
 ## Perguntas Frequentes
 
 **A aveia engorda?**

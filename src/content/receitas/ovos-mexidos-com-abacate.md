@@ -160,6 +160,14 @@ Os ovos caipiras fornecem proteínas de alto valor biológico com todos os amino
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Omelete de Espinafre com Queijo Cottage](/receitas/omelete-de-espinafre-e-queijo-cottage)
+- [Torrada Integral com Ovos](/receitas/torrada-integral-com-ovos)
+- [Crepioca de Ovos](/receitas/crepioca-de-ovos)
+
 ## Perguntas Frequentes
 
 **Ovos mexidos cremosos podem ficar mal passados?**

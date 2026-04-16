@@ -1,0 +1,114 @@
+name: seo-contextualizador
+version: 1.0.0
+tested: true
+updated_at: "2026-03-30"
+short-title: SEO Contextualizador
+description: >-
+  Squad especializado em gerar briefings contextuais E.E.A.T.S. para artigos SEO.
+  Recebe planilha XLSX com título + palavra-chave preenchidos → pesquisa a internet
+  com dados mais recentes → gera contexto E.E.A.T.S. completo (7 camadas) → escreve
+  nas colunas "Prompt Adicional" e "Termos LSI" da planilha.
+  Orchestrator: @maestro | Research: @nebula | Briefing: @atlas
+author: Synkra AIOX
+entry_agent: maestro
+slashPrefix: ctx
+
+settings:
+  activation:
+    show_ecosystem_report: true
+    show_greeting: true
+    show_quick_commands: true
+
+tier_system:
+  tier_0_orchestration:
+    description: "Orquestração, planilha I/O, coordenação geral"
+    agents: [maestro]
+  tier_1_specialists:
+    description: "Pesquisa web e arquitetura de briefing"
+    agents: [nebula, atlas]
+
+agents:
+  - id: maestro
+    file: agents/maestro.md
+    icon: "🎯"
+    role: Chief Orchestrator & Spreadsheet Manager
+    activate: "@maestro"
+
+  - id: nebula
+    file: agents/nebula.md
+    icon: "🔭"
+    role: Web Research & SERP Intelligence Analyst
+    activate: "@nebula"
+
+  - id: atlas
+    file: agents/atlas.md
+    icon: "🗺️"
+    role: E.E.A.T.S. Briefing Architect
+    activate: "@atlas"
+
+# Planilha XLSX — estrutura esperada
+spreadsheet:
+  input_columns:
+    keyword: "Palavra-chave Foco"       # col B — preenchida pelo usuário
+    title: "Título"                      # col C — preenchida pelo usuário
+    idioma: "Idioma"                     # col A — contexto de idioma
+    categoria: "Categoria"               # col F — contexto adicional
+  output_columns:
+    prompt_adicional: "Prompt Adicional" # col T — briefing E.E.A.T.S. gerado
+    termos_lsi: "Termos LSI"            # col U — LSI terms gerados
+  processing_rule: "Processar apenas linhas com Palavra-chave Foco E Título preenchidos"
+
+# Sistema de contexto de clientes
+# Cada cliente tem seu próprio arquivo em clients/{slug}.md
+# A detecção é automática pelo nome do arquivo xlsx
+client_context:
+  directory: "clients/"
+  index: "clients/_index.yaml"
+  detection: "automática pelo nome do arquivo xlsx"
+  fallback: "listar clientes e pedir escolha manual"
+  naming_convention: "{slug-cliente}_{descricao}.xlsx"
+  example: "mand-digital_posts-abril-2026.xlsx → Mand Digital detectado automaticamente"
+
+components:
+  tasks:
+    - ler-planilha.md
+    - pesquisar-topico.md
+    - gerar-briefing-eatss.md
+    - escrever-planilha.md
+    - processar-lote.md
+    - cadastrar-cliente.md
+  workflows:
+    - wf-contextualizacao.yaml
+  templates:
+    - briefing-eatss-tmpl.md
+  data:
+    - eatss-framework.md
+    - lsi-taxonomy.md
+    - contexto-empresa-ativo.md
+  scripts:
+    - xlsx-manager.py
+  checklists:
+    - briefing-quality-gate.md
+
+dependencies:
+  python: [">=3.8"]
+  packages:
+    - name: openpyxl
+      version: ">=3.0.0"
+      install: "pip install openpyxl"
+  optional:
+    - name: WebSearch
+      description: "Ferramenta de busca web do Claude Code — necessária para @nebula"
+    - name: WebFetch
+      description: "Fetch de páginas web — necessário para análise de SERP"
+
+tags:
+  - seo
+  - briefing
+  - eatss
+  - context-generation
+  - spreadsheet
+  - content-strategy
+  - lsi
+  - entity-seo
+  - prompt-adicional

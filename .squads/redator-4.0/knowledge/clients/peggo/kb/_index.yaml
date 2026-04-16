@@ -1,0 +1,32 @@
+# Knowledge Base — Peggô Market
+# Gerenciado pelo kb-retriever. Não editar manualmente salvo se necessário.
+# Para adicionar documentos: *add-kb-doc peggo {file_path}
+
+client: peggo
+created: 2026-03-29
+total_documents: 0
+
+documents: []
+
+# Exemplo de entrada após *add-kb-doc:
+#
+# documents:
+#   - id: kb-001
+#     original_filename: "manual-franquia-peggo-2025.pdf"
+#     type: pdf
+#     title: "Manual da Franquia Peggô Market 2025"
+#     description: "Documento completo da franquia com dados financeiros, operacionais e de suporte."
+#     can_reference: true
+#     reference_label: "Manual da Franquia Peggô Market 2025"
+#     processed_at: 2026-03-29
+#     processed_file: "kb/docs/kb-001.md"
+#
+#   - id: kb-002
+#     original_filename: "dados-internos-q1-2026.xlsx"
+#     type: xlsx
+#     title: "Resultados Internos Q1 2026"
+#     description: "Dados financeiros consolidados do primeiro trimestre de 2026."
+#     can_reference: false
+#     reference_label: null
+#     processed_at: 2026-03-29
+#     processed_file: "kb/docs/kb-002.md"

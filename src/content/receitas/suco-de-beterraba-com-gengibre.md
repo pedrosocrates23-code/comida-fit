@@ -150,6 +150,14 @@ Preservando tanto a cor quanto os benefícios do suco. Juntos, esses ingrediente
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Agua Detox de Pepino e Hortela](/receitas/agua-detox-de-pepino-e-hortela)
+- [Suco para Desinchar](/receitas/suco-para-desinchar)
+- [Smoothie Verde Detox](/receitas/smoothie-verde-detox)
+
 ## Perguntas Frequentes
 
 **Por que minha urina ficou vermelha/rosa após tomar suco de beterraba?**

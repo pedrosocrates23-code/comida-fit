@@ -162,6 +162,14 @@ Quando combinada com proteínas e gorduras, não causa picos glicêmicos signifi
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Crepioca de Ovos](/receitas/crepioca-de-ovos)
+- [Frango Desfiado com Arroz Integral](/receitas/frango-desfiado-com-arroz-integral)
+- [Wrap de Frango com Alface](/receitas/wrap-de-frango-com-alface)
+
 ## Perguntas Frequentes
 
 **Por que minha tapioca fica quebrando ao dobrar?**

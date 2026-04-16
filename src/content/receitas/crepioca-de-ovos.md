@@ -164,6 +164,14 @@ Com apenas 20g de carboidratos (provenientes principalmente da tapioca), a crepi
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Omelete Pos-Treino de Clara](/receitas/omelete-pos-treino-de-clara)
+- [Tapioca de Frango Desfiado](/receitas/tapioca-de-frango-desfiado)
+- [Panquecas Fininhas Sem Gluten e Lactose](/receitas/panquecas-fininhas-sem-gluten-e-lactose-free)
+
 ## Perguntas Frequentes
 
 **Posso fazer crepioca sem goma de tapioca?**

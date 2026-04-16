@@ -163,6 +163,14 @@ Isso ocorre porque os açúcares da tâmara são acompanhados de fibra e potáss
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Pudim de Coco Low Carb](/receitas/pudim-de-coco-low-carb)
+- [Gelatina Proteica de Morango](/receitas/gelatina-proteica-de-morango)
+- [Mousse de Maracuja Fit](/receitas/mousse-de-maracuja-fit)
+
 ## Perguntas Frequentes
 
 **O pudim ficou com bolhas e textura esponjosa. O que aconteceu?**

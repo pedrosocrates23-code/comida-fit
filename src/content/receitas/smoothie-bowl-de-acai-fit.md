@@ -160,6 +160,14 @@ Em contraste com os açaís de sorveteria que podem ter 20 a 40g de açúcar por
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Smoothie de Morango com Iogurte](/receitas/smoothie-de-morango-com-iogurte)
+- [Iogurte Grego com Granola Caseira](/receitas/iogurte-grego-com-granola-caseira)
+- [Smoothie Verde Detox](/receitas/smoothie-verde-detox)
+
 ## Perguntas Frequentes
 
 **Por que meu açaí fica líquido em vez de cremoso?**

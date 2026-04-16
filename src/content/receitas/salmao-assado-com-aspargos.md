@@ -170,6 +170,14 @@ E em apenas 26 minutos do início ao fim.
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Tilapia Assada com Ervas](/receitas/tilapia-assada-com-ervas)
+- [Camarao Grelhado com Salada Verde](/receitas/camarao-grelhado-com-salada-verde)
+- [Proteinas na Dieta Fit: Quanto Voce Precisa?](/blog/proteinas-na-dieta-fit)
+
 ## Perguntas Frequentes
 
 **O salmão de cativeiro é tão nutritivo quanto o selvagem?**

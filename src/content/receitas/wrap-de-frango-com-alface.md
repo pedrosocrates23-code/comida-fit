@@ -169,6 +169,14 @@ Uma proporção excepcional para qualquer estratégia alimentar focada em emagre
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Sanduiche de Atum Integral](/receitas/sanduiche-de-atum-integral)
+- [Tapioca de Frango Desfiado](/receitas/tapioca-de-frango-desfiado)
+- [Frango Desfiado com Arroz Integral](/receitas/frango-desfiado-com-arroz-integral)
+
 ## Perguntas Frequentes
 
 **Como evitar que o wrap se abra na marmita?**

@@ -156,6 +156,14 @@ Por ser livre de farinha de trigo e açúcar adicionado, o biscoito é adequado 
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Panqueca de Banana Sem Farinha](/receitas/panqueca-de-banana-sem-farinha)
+- [10 Receitas de Bolo de Banana Fit](/receitas/10-receitas-de-bolo-de-banana-fit)
+- [Barrinha de Cereal Caseira](/receitas/barrinha-de-cereal-caseira)
+
 ## Perguntas Frequentes
 
 **O biscoito fica mole depois de um dia?**

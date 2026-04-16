@@ -165,6 +165,14 @@ Com apenas 14g de carboidratos totais, essa receita é naturalmente adequada par
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Frango ao Molho de Iogurte](/receitas/frango-ao-molho-de-iogurte)
+- [Frango Desfiado com Arroz Integral](/receitas/frango-desfiado-com-arroz-integral)
+- [Proteinas na Dieta Fit: Quanto Voce Precisa?](/blog/proteinas-na-dieta-fit)
+
 ## Perguntas Frequentes
 
 **Como evitar que o peito de frango fique seco na grelha?**

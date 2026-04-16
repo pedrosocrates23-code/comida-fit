@@ -1,0 +1,261 @@
+name: redator-seo-4.0
+title: Redator SEO 4.0
+version: 4.0.0
+author: kyoojin-san
+description: >
+  Squad unificado de produção e revisão de conteúdo SEO semântico.
+  Valida contexto do cliente, lê planilha de keywords (Col 22: templates,
+  Col 23: fontes), gera outline, escreve HTML seção por seção e entrega
+  o pacote completo — tudo com QA integrado em cada gate
+  (E.E.A.T.S., GEO, PMR19, 126+ regras canônicas, sistema de citações).
+
+slash_prefix: RedatorSEO
+pattern_prefix: RS
+
+knowledge_base:
+  root: redator-2.0/knowledge
+  files:
+    - redator-2.0/knowledge/01_SYSTEM_PROMPT.md
+    - redator-2.0/knowledge/02_KNOWLEDGE_BASE.md
+    - redator-2.0/knowledge/03_ARTICLE_TEMPLATES.md
+    - redator-2.0/knowledge/04_OUTLINE_GENERATOR.md
+    - redator-2.0/knowledge/05_STYLE_GUIDE.md
+    - redator-2.0/knowledge/06_REFERENCE_DATA.md
+    - redator-2.0/knowledge/Premissas.md
+    - redator-2.0/knowledge/restricao.md
+    - redator-2.0/knowledge/canonical-rules.md
+  clients_dir: redator-2.0/knowledge/clients
+  client_context_pattern: "{client-slug}-marketing.md"
+  client_kb_pattern: "{client-slug}/kb/_index.yaml"
+  client_kb_docs_dir: "{client-slug}/kb/docs/"
+
+agents:
+  # Orquestrador
+  - id: redator-seo-chief
+    tier: orchestrator
+    file: agents/redator-seo-chief.md
+    role: Pipeline Orchestrator — Batch Controller & Quality Gates
+
+  # Produção — Tier 0
+  - id: client-validator
+    tier: 0
+    file: agents/client-validator.md
+    role: Pre-Check — Client ID + Context File Validation
+
+  - id: keyword-analyst
+    tier: 0
+    file: agents/keyword-analyst.md
+    role: Keyword Intake — Spreadsheet Reader & Intent Classifier (Col 22 + Col 23)
+
+  # Produção — Tier 0.3 (condicional, ativado pelo keyword-analyst)
+  - id: kb-retriever
+    tier: 0.3
+    file: agents/kb-retriever.md
+    role: Knowledge Base Retriever — Contexto proprietário do cliente (PDFs, docs, slides)
+    activation: automática quando knowledge/clients/{cliente}/kb/_index.yaml existe com documentos
+
+  # Produção — Tier 0.5 (condicional)
+  - id: template-resolver
+    tier: 0.5
+    file: agents/template-resolver.md
+    role: Template Resolver — CLIENT_TEMPLATE branch (Gate RS-001.5)
+    activation: CLIENT_TEMPLATE only
+
+  # Produção — Tier 1
+  - id: content-architect
+    tier: 1
+    file: agents/content-architect.md
+    role: Outline Generator — E.E.A.T.S. Semantic Structure
+
+  - id: seo-writer
+    tier: 1
+    file: agents/seo-writer.md
+    role: Content Writer — HTML Sections (PMR19 + Style Guide)
+
+  # Produção — Tool
+  - id: output-packager
+    tier: tool
+    file: agents/output-packager.md
+    role: Delivery Assembler — HTML + Meta + H1 + Slug + FAQ
+
+  # QA — integrado
+  - id: qa-outline
+    tier: qa
+    file: agents/qa-outline.md
+    role: Revisor do content-architect — estrutura e semântica do outline
+    mirrors: content-architect
+    gate: RS-002-QA
+
+  - id: qa-content
+    tier: qa
+    file: agents/qa-content.md
+    role: Revisor do seo-writer — escrita, estilo, HTML e integridade editorial
+    mirrors: seo-writer
+    gate: RS-003-QA
+
+  - id: qa-package
+    tier: qa
+    file: agents/qa-package.md
+    role: Revisor do output-packager — os 5 deliverables do pacote final
+    mirrors: output-packager
+    gate: RS-004-QA
+
+  # Revisão — Tier revision
+  - id: revision-handler
+    tier: revision
+    file: agents/revision-handler.md
+    role: Gestor do loop de revisão — artigos entregues com feedback do cliente
+    gate: RS-005
+
+workflows:
+  - id: wf-produce-batch
+    file: workflows/wf-produce-batch.yaml
+    description: Pipeline completo — pré-check → intake → produção+QA → entrega
+
+tasks:
+  - id: pre-check
+    file: tasks/pre-check.md
+    description: Valida cliente + contexto antes de iniciar produção
+  - id: read-spreadsheet
+    file: tasks/read-spreadsheet.md
+    description: Lê planilha Excel e classifica keywords por intenção e tipo de artigo
+  - id: generate-outline
+    file: tasks/generate-outline.md
+    description: Gera outline H2/H3 para uma keyword usando Outline Generator
+  - id: write-content
+    file: tasks/write-content.md
+    description: Escreve o conteúdo HTML completo seção por seção
+  - id: package-output
+    file: tasks/package-output.md
+    description: Monta o pacote de entrega com todos os 5 deliverables
+
+templates:
+  - id: delivery-package
+    file: templates/delivery-package-tmpl.md
+    description: Template de entrega com HTML + Meta + H1 + Slug + FAQ
+
+checklists:
+  - id: pre-check-checklist
+    file: checklists/pre-check-checklist.md
+  - id: content-quality-checklist
+    file: checklists/content-quality-checklist.md
+
+data:
+  - id: redator-seo-kb
+    file: data/redator-seo-kb.md
+    description: Base de conhecimento do squad (resumo dos frameworks)
+
+quality_gates:
+  - id: RS-000
+    name: Pre-Check Passed
+    transition: Input → keyword-analyst
+    blocking: true
+
+  - id: RS-001
+    name: Keyword List Ready
+    transition: keyword-analyst → loop
+    blocking: true
+
+  - id: RS-002
+    name: Outline Validated
+    transition: content-architect → qa-outline
+    blocking: true
+    criteria:
+      - h2_minimo: 4
+      - intencoes_mapeadas: true
+      - distancia_semantica_maxima: 3
+
+  - id: RS-002-QA
+    name: Outline QA Passed
+    transition: qa-outline → seo-writer
+    blocking: true
+
+  - id: RS-003
+    name: Content Written
+    transition: seo-writer → qa-content
+    blocking: true
+    criteria:
+      - todas_secoes_escritas: true
+      - zero_conectores_proibidos: true
+      - html_valido: true
+
+  - id: RS-003-QA
+    name: Content QA Passed
+    transition: qa-content → output-packager
+    blocking: true
+
+  - id: RS-004
+    name: Package Assembled
+    transition: output-packager → qa-package
+    blocking: true
+    criteria:
+      - html_completo: true
+      - meta_description: true
+      - h1: true
+      - slug: true
+      - faq: true
+
+  - id: RS-004-QA
+    name: Package QA Passed
+    transition: qa-package → delivery
+    blocking: true
+
+  - id: RS-005
+    name: Revision Brief Ready
+    transition: revision-handler → seo-writer (revision_mode)
+    blocking: true
+    criteria:
+      - revision_brief: completo
+      - especialista_confirmou: true
+      - arquivo_original: localizado
+
+execution_flow: |
+  Input: planilha (xlsx) + identificação do cliente
+        ↓
+  [RS-000] Pre-Check — client-validator
+        ↓
+  [RS-001] Keyword Intake — keyword-analyst
+        ↓
+  [LOOP por keyword]
+  [RS-002] Outline Generation — content-architect
+        ↓
+  [RS-002-QA] Outline Review — qa-outline
+        ↓
+  [RS-003] Content Writing — seo-writer
+        ↓
+  [RS-003-QA] Content Review — qa-content
+        ↓
+  [RS-004] Package Assembly — output-packager
+        ↓
+  [RS-004-QA] Package Review — qa-package
+        ↓
+  [FIM DO LOOP]
+        ↓
+  redator-seo-chief → Entrega batch completo
+
+output_format:
+  deliverables:
+    - name: meta_description
+      format: plain text
+      rules: "18-22 palavras, keyword-first, sem aspas"
+    - name: h1
+      format: plain text
+      rules: "título principal do artigo, com keyword, máximo 70 chars"
+    - name: slug
+      format: kebab-case
+      rules: "URL-friendly, sem acentos, baseado no H1, máximo 60 chars"
+    - name: faq
+      format: HTML (h2 + h3 + p)
+      rules: "4-8 perguntas, respostas 30-60 palavras, Schema FAQ marcado"
+    - name: content
+      format: HTML limpo (sem <html><head><body>)
+      rules: "inclui summarization, H2s, H3s, tabelas, listas conforme style guide"
+
+pre_check_rules:
+  client_identification:
+    - "O nome/slug do cliente DEVE ser fornecido antes de qualquer produção"
+    - "Se não fornecido: BLOQUEAR e solicitar"
+  context_validation:
+    - "Procurar arquivo: redator-2.0/knowledge/clients/{client-slug}-marketing.md"
+    - "Se não existe: BLOQUEAR, informar caminho esperado, solicitar criação"
+    - "Se existe: CARREGAR como contexto base para todos os agentes"

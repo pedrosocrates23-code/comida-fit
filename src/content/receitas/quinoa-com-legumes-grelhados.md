@@ -171,6 +171,14 @@ Os legumes grelhados desta receita amplificam ainda mais o perfil nutricional: o
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Arroz Integral com Feijao Carioca](/receitas/arroz-integral-com-feijao-carioca)
+- [Omelete Recheada de Legumes](/receitas/omelete-recheada-de-legumes)
+- [Hamburguer de Grao de Bico](/receitas/hamburguer-de-grao-de-bico)
+
 ## Perguntas Frequentes
 
 **Por que minha quinoa fica com textura empapada e grudenta?**

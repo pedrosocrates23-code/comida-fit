@@ -144,6 +144,14 @@ Auxiliando no metabolismo das gorduras. Juntos, esses ingredientes criam uma beb
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Suco para Desinchar](/receitas/suco-para-desinchar)
+- [Smoothie Verde Detox](/receitas/smoothie-verde-detox)
+- [Suco de Beterraba com Gengibre](/receitas/suco-de-beterraba-com-gengibre)
+
 ## Perguntas Frequentes
 
 **A água detox realmente "desintoxica" o organismo?**

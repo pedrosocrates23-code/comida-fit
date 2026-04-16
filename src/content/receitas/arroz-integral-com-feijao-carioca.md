@@ -172,6 +172,14 @@ Fundamental para a produção de células sanguíneas. Com apenas 4g de gordura 
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Frango Grelhado com Legumes no Vapor](/receitas/frango-grelhado-com-legumes-no-vapor)
+- [Receitas Saudaveis e Rapidas](/receitas/receitas-saudaveis-e-rapidas)
+- [Proteinas na Dieta Fit: Quanto Voce Precisa?](/blog/proteinas-na-dieta-fit)
+
 ## Perguntas Frequentes
 
 **Preciso deixar o feijão seco de molho antes de cozinhar?**

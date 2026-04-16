@@ -169,6 +169,14 @@ O azeite é predominantemente ácido oleico (monoinsaturado), com comprovados be
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Salmao Assado com Aspargos](/receitas/salmao-assado-com-aspargos)
+- [Camarao Grelhado com Salada Verde](/receitas/camarao-grelhado-com-salada-verde)
+- [Proteinas na Dieta Fit: Quanto Voce Precisa?](/blog/proteinas-na-dieta-fit)
+
 ## Perguntas Frequentes
 
 **Como saber se a tilápia está fresca antes de comprar?**

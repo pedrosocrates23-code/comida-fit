@@ -169,6 +169,14 @@ A couve-flor em si é um superalimento subestimado: rica em colina (essencial pa
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Carne Moida com Abobrinha](/receitas/carne-moida-com-abobrinha)
+- [Frango Grelhado com Legumes no Vapor](/receitas/frango-grelhado-com-legumes-no-vapor)
+- [Proteinas na Dieta Fit: Quanto Voce Precisa?](/blog/proteinas-na-dieta-fit)
+
 ## Perguntas Frequentes
 
 **Como deixar o risoto de couve-flor mais cremoso sem adicionar mais queijo?**

@@ -168,6 +168,14 @@ Com apenas 6g de carboidratos por porção, este prato se encaixa perfeitamente 
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Frango Grelhado com Legumes no Vapor](/receitas/frango-grelhado-com-legumes-no-vapor)
+- [Frango Desfiado com Arroz Integral](/receitas/frango-desfiado-com-arroz-integral)
+- [Proteinas na Dieta Fit: Quanto Voce Precisa?](/blog/proteinas-na-dieta-fit)
+
 ## Perguntas Frequentes
 
 **Por que o molho de iogurte talhou durante o cozimento?**

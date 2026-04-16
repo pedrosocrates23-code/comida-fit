@@ -158,6 +158,14 @@ Para quem treina, a batata-doce tem outra vantagem importante: seu índice glic�
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Batata Doce Assada com Mel](/receitas/batata-doce-assada-com-mel)
+- [Receitas Fit com Batata Doce](/receitas/receitas-fit-com-batata-doce)
+- [Palito de Cenoura com Homus](/receitas/palito-de-cenoura-com-homus)
+
 ## Perguntas Frequentes
 
 **Por que meus chips ficam moles e não crocantes?**

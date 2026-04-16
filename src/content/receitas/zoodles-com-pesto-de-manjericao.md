@@ -161,6 +161,14 @@ O pesto de azeite extra virgem fornece ácido oleico (ômega-9), o ácido graxo 
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Macarrao de Abobrinha com Molho Branco](/receitas/macarrao-de-abobrinha-com-molho-branco)
+- [Mini Pizza de Abobrinha](/receitas/mini-pizza-de-abobrinha)
+- [Carne Moida com Abobrinha](/receitas/carne-moida-com-abobrinha)
+
 ## Perguntas Frequentes
 
 **Devo temperar os zoodles antes ou depois de espiralizá-los?**

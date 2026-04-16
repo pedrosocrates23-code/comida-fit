@@ -157,6 +157,14 @@ Além dos carboidratos, a batata doce é extraordinariamente rica em betacaroten
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Chips de Batata Doce Assada](/receitas/chips-de-batata-doce-assada)
+- [Receitas Fit com Batata Doce](/receitas/receitas-fit-com-batata-doce)
+- [Brownie de Batata Doce](/receitas/brownie-de-batata-doce)
+
 ## Perguntas Frequentes
 
 **Qual é a diferença entre batata doce e inhame para pré-treino?**

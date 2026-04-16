@@ -166,6 +166,14 @@ A pasta de amendoim substitui o óleo ou a manteiga fornecendo gorduras insatura
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Batata Doce Assada com Mel](/receitas/batata-doce-assada-com-mel)
+- [Chips de Batata Doce Assada](/receitas/chips-de-batata-doce-assada)
+- [Bolo de Chocolate Low Carb](/receitas/bolo-de-chocolate-low-carb)
+
 ## Perguntas Frequentes
 
 **Consigo sentir o sabor da batata doce no brownie?**

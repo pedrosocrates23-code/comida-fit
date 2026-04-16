@@ -165,6 +165,14 @@ Tornando este bolinho um lanche que realmente sustenta até a próxima refeiçã
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Salada de Atum com Grao de Bico](/receitas/salada-de-atum-com-grao-de-bico)
+- [Sanduiche de Atum Integral](/receitas/sanduiche-de-atum-integral)
+- [Proteinas na Dieta Fit: Quanto Voce Precisa?](/blog/proteinas-na-dieta-fit)
+
 ## Perguntas Frequentes
 
 **Os bolinhos se desmancham durante o preparo. O que fazer?**

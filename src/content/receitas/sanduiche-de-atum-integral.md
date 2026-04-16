@@ -156,6 +156,14 @@ Benéfica após o treino, mas sem o pico e queda abrupta do pão refinado. Com a
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Bolinho de Atum Assado](/receitas/bolinho-de-atum-assado)
+- [Salada de Atum com Grao de Bico](/receitas/salada-de-atum-com-grao-de-bico)
+- [Wrap de Frango com Alface](/receitas/wrap-de-frango-com-alface)
+
 ## Perguntas Frequentes
 
 **Posso substituir a mostarda por maionese fit?**

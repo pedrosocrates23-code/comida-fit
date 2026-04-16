@@ -151,6 +151,14 @@ Exatamente o que uma bebida fit deve ser.
 
 ---
 
+---
+
+## Leia Tambem
+
+- [Agua Detox de Pepino e Hortela](/receitas/agua-detox-de-pepino-e-hortela)
+- [Suco para Desinchar](/receitas/suco-para-desinchar)
+- [Shake Detox de Banana](/receitas/shake-detox-de-banana)
+
 ## Perguntas Frequentes
 
 **O smoothie verde vai "desintoxicar" meu fígado?**
