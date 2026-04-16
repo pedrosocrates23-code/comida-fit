@@ -21,6 +21,7 @@
   "devDependencies": {
     "@astrojs/check": "^0.9.8",
     "googleapis": "^171.4.0",
+    "rehype-external-links": "^3.0.0",
     "typescript": "^5.9.3"
   }
 }

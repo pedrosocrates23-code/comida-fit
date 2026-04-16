@@ -1,6 +1,22 @@
 import { defineConfig } from 'astro/config';
+import { visit } from 'unist-util-visit';
+
+// Plugin rehype: adiciona target="_blank" rel="noopener noreferrer" em todos os <a>
+function rehypeAllLinksNewTab() {
+  return (tree) => {
+    visit(tree, 'element', (node) => {
+      if (node.tagName === 'a' && node.properties?.href) {
+        node.properties.target = '_blank';
+        node.properties.rel = 'noopener noreferrer';
+      }
+    });
+  };
+}
 
 export default defineConfig({
+  markdown: {
+    rehypePlugins: [rehypeAllLinksNewTab],
+  },
   site: 'https://melhoresreceitasfit.com.br',
   output: 'static',
   integrations: [],

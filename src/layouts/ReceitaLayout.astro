@@ -421,4 +421,18 @@ const stars = '★'.repeat(Math.round(data.rating)) + '☆'.repeat(5 - Math.roun
     padding: 0.1em 0.4em;
     border-radius: var(--radius-sm);
   }
+
+  /* ── Links internos: laranja + sublinhado ─────────────────── */
+  .recipe-prose :global(a) {
+    color: #E85A00;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    font-weight: 600;
+    transition: color 0.15s ease, text-decoration-color 0.15s ease;
+  }
+
+  .recipe-prose :global(a:hover) {
+    color: var(--color-primary);
+    text-decoration-color: var(--color-primary);
+  }
 </style>
