@@ -33,7 +33,7 @@ keywords:
   - "proteína magra"
   - "jantar saudável rápido"
 publishDate: 2024-03-25
-image: "/images/receitas/camarao-grelhado-com-salada-verde.webp"
+image: "../../assets/images/receitas/camarao-grelhado-com-salada-verde.webp"
 imageAlt: "Camarão grelhado dourado sobre salada verde com tomates-cereja"
 rating: 4.9
 ratingCount: 176

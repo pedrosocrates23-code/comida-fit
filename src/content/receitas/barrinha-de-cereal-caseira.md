@@ -33,7 +33,7 @@ keywords:
   - "receita caseira"
   - "lanche natural"
 publishDate: 2024-03-12
-image: "/images/receitas/barrinha-de-cereal-caseira.webp"
+image: "../../assets/images/receitas/barrinha-de-cereal-caseira.webp"
 imageAlt: "Barrinhas de cereal douradas cortadas em quadrados sobre tábua de madeira"
 rating: 4.8
 ratingCount: 211

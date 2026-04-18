@@ -41,7 +41,7 @@ keywords:
   - "bolo de aniversario cetogenico"
   - "bolo fit de morango e coco"
 publishDate: 2024-02-16
-image: "/images/receitas/receita-de-bolo-de-aniversario-low-carb.webp"
+image: "../../assets/images/receitas/receita-de-bolo-de-aniversario-low-carb.webp"
 imageAlt: "Bolo de aniversario low carb de chocolate com recheio de coco e morangos frescos por cima"
 rating: 4.9
 ratingCount: 224

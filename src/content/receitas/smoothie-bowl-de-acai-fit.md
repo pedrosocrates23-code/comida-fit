@@ -30,7 +30,7 @@ keywords:
   - "sem açúcar"
   - "café da manhã fit"
 publishDate: 2024-01-22
-image: "/images/receitas/smoothie-bowl-de-acai-fit.webp"
+image: "../../assets/images/receitas/smoothie-bowl-de-acai-fit.webp"
 imageAlt: "Bowl de açaí roxo escuro decorado com frutas frescas e granola crocante"
 rating: 4.9
 ratingCount: 312

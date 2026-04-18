@@ -24,7 +24,7 @@ const categoriaNomes: Record<string, string> = {
 const breadcrumbs = [
   { name: 'Home', url: 'https://melhoresreceitasfit.com.br/' },
   { name: 'Blog', url: 'https://melhoresreceitasfit.com.br/blog/' },
-  { name: data.title, url: `https://melhoresreceitasfit.com.br/blog/${post.slug}/` },
+  { name: data.title, url: `https://melhoresreceitasfit.com.br/blog/${post.id}/` },
 ];
 
 const formattedDate = data.publishDate.toLocaleDateString('pt-BR', {
@@ -51,7 +51,7 @@ const articleSchema = {
   },
   datePublished: data.publishDate.toISOString(),
   dateModified: (data.updatedDate ?? data.publishDate).toISOString(),
-  url: `https://melhoresreceitasfit.com.br/blog/${post.slug}/`,
+  url: `https://melhoresreceitasfit.com.br/blog/${post.id}/`,
   keywords: data.keywords.join(', '),
 };
 
@@ -73,7 +73,7 @@ const breadcrumbSchema = {
   image={data.image}
   imageAlt={data.imageAlt}
   type="article"
-  canonicalUrl={`https://melhoresreceitasfit.com.br/blog/${post.slug}/`}
+  canonicalUrl={`https://melhoresreceitasfit.com.br/blog/${post.id}/`}
   schema={[articleSchema, breadcrumbSchema]}
 >
   <Header />

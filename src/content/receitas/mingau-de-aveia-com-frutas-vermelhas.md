@@ -31,7 +31,7 @@ keywords:
   - "café da manhã fit"
   - "rico em fibras"
 publishDate: 2024-01-14
-image: "/images/receitas/mingau-de-aveia-com-frutas-vermelhas.webp"
+image: "../../assets/images/receitas/mingau-de-aveia-com-frutas-vermelhas.webp"
 imageAlt: "Mingau de aveia cremoso em tigela com frutas vermelhas e chia"
 rating: 4.7
 ratingCount: 163

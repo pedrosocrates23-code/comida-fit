@@ -32,7 +32,7 @@ keywords:
   - "recuperação muscular"
   - "proteína pós-treino"
 publishDate: 2024-05-01
-image: "/images/receitas/frango-desfiado-com-arroz-integral.webp"
+image: "../../assets/images/receitas/frango-desfiado-com-arroz-integral.webp"
 imageAlt: "Frango desfiado temperado sobre arroz integral em prato branco"
 rating: 4.8
 ratingCount: 223

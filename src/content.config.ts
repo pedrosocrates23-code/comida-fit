@@ -1,8 +1,9 @@
 import { defineCollection, z } from 'astro:content';
+import { glob } from 'astro/loaders';
 
 const receitasCollection = defineCollection({
-  type: 'content',
-  schema: z.object({
+  loader: glob({ pattern: '**/*.md', base: './src/content/receitas' }),
+  schema: ({ image }) => z.object({
     title:          z.string(),
     description:    z.string().max(160),
     categoria:      z.enum([
@@ -26,7 +27,7 @@ const receitasCollection = defineCollection({
     instrucoes:      z.array(z.string()),
     keywords:        z.array(z.string()),
     publishDate:     z.date(),
-    image:           z.string(),
+    image:           image(),
     imageAlt:        z.string(),
     rating:          z.number().min(1).max(5).default(4.8),
     ratingCount:     z.number().default(127),
@@ -35,7 +36,7 @@ const receitasCollection = defineCollection({
 });
 
 const blogCollection = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/*.md', base: './src/content/blog' }),
   schema: z.object({
     title:       z.string(),
     description: z.string().max(160),

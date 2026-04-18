@@ -29,7 +29,7 @@ keywords:
   - "sobremesa low carb"
   - "receita fit morango"
 publishDate: 2024-02-25
-image: "/images/receitas/gelatina-proteica-de-morango.webp"
+image: "../../assets/images/receitas/gelatina-proteica-de-morango.webp"
 imageAlt: "Gelatina proteica de morango em taça com morangos frescos"
 rating: 4.6
 ratingCount: 121

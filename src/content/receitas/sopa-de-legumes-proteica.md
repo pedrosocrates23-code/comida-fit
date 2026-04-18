@@ -35,7 +35,7 @@ keywords:
   - "receita low calorie"
   - "sopa nutritiva"
 publishDate: 2024-02-17
-image: "/images/receitas/sopa-de-legumes-proteica.webp"
+image: "../../assets/images/receitas/sopa-de-legumes-proteica.webp"
 imageAlt: "Tigela de sopa de legumes com frango e grão-de-bico em caldo dourado"
 rating: 4.8
 ratingCount: 173

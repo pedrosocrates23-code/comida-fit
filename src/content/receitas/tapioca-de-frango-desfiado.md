@@ -32,7 +32,7 @@ keywords:
   - "tapioca recheada"
   - "lanche fit"
 publishDate: 2024-01-16
-image: "/images/receitas/tapioca-de-frango-desfiado.webp"
+image: "../../assets/images/receitas/tapioca-de-frango-desfiado.webp"
 imageAlt: "Tapioca dobrada ao meio com recheio de frango desfiado ao fundo verde"
 rating: 4.8
 ratingCount: 214

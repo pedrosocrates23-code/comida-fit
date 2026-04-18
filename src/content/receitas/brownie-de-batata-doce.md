@@ -34,7 +34,7 @@ keywords:
   - "receita fit doce"
   - "brownie sem açúcar"
 publishDate: 2024-02-05
-image: "/images/receitas/brownie-de-batata-doce.webp"
+image: "../../assets/images/receitas/brownie-de-batata-doce.webp"
 imageAlt: "Quadradinhos de brownie fit de batata doce com cacau polvilhado"
 rating: 4.9
 ratingCount: 287

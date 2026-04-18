@@ -34,7 +34,7 @@ keywords:
   - "mousse bolo low carb"
   - "bolo fundente fit"
 publishDate: 2024-01-28
-image: "/images/receitas/bolo-mousse-de-chocolate.webp"
+image: "../../assets/images/receitas/bolo-mousse-de-chocolate.webp"
 imageAlt: "Fatia de bolo mousse de chocolate fit com centro cremoso em prato escuro"
 rating: 4.9
 ratingCount: 198

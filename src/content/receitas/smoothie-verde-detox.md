@@ -26,7 +26,7 @@ keywords:
   - "receita detox"
   - "bebida saudável"
 publishDate: 2024-02-20
-image: "/images/receitas/smoothie-verde-detox.webp"
+image: "../../assets/images/receitas/smoothie-verde-detox.webp"
 imageAlt: "Smoothie verde detox em copo alto com folhas de hortelã"
 rating: 4.7
 ratingCount: 156

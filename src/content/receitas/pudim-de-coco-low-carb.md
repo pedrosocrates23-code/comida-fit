@@ -32,7 +32,7 @@ keywords:
   - "pudim cetogenico"
   - "pudim fit sem farinha"
 publishDate: 2024-02-01
-image: "/images/receitas/pudim-de-coco-low-carb.webp"
+image: "../../assets/images/receitas/pudim-de-coco-low-carb.webp"
 imageAlt: "Pudim de coco low carb desenformado em prato branco com coco ralado por cima"
 rating: 4.8
 ratingCount: 152

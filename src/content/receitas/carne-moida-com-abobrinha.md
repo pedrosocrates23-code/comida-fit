@@ -34,7 +34,7 @@ keywords:
   - "refeição saudável"
   - "carne moída saudável"
 publishDate: 2024-04-05
-image: "/images/receitas/carne-moida-com-abobrinha.webp"
+image: "../../assets/images/receitas/carne-moida-com-abobrinha.webp"
 imageAlt: "Frigideira com carne moída temperada e cubos de abobrinha verde"
 rating: 4.8
 ratingCount: 197

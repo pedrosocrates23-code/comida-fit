@@ -29,7 +29,7 @@ keywords:
   - "suco anti-inflamatório"
   - "bebida energizante"
 publishDate: 2024-01-28
-image: "/images/receitas/suco-de-beterraba-com-gengibre.webp"
+image: "../../assets/images/receitas/suco-de-beterraba-com-gengibre.webp"
 imageAlt: "Suco de beterraba vermelho intenso em copo com gengibre ao lado"
 rating: 4.6
 ratingCount: 143

@@ -34,7 +34,7 @@ keywords:
   - "lanche proteico"
   - "muffin saudável"
 publishDate: 2024-03-10
-image: "/images/receitas/muffin-de-proteina-de-chocolate.webp"
+image: "../../assets/images/receitas/muffin-de-proteina-de-chocolate.webp"
 imageAlt: "Muffins de chocolate proteico em forma de papel com textura úmida"
 rating: 4.9
 ratingCount: 289

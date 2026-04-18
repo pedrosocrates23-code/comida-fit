@@ -34,7 +34,7 @@ keywords:
   - "almoço nutritivo"
   - "quinoa receita"
 publishDate: 2024-02-15
-image: "/images/receitas/quinoa-com-legumes-grelhados.webp"
+image: "../../assets/images/receitas/quinoa-com-legumes-grelhados.webp"
 imageAlt: "Bowl de quinoa branca com legumes grelhados coloridos e ervas frescas"
 rating: 4.7
 ratingCount: 142

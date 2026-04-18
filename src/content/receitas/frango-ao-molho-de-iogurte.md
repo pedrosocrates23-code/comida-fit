@@ -34,7 +34,7 @@ keywords:
   - "jantar saudável"
   - "frango low carb"
 publishDate: 2024-04-01
-image: "/images/receitas/frango-ao-molho-de-iogurte.webp"
+image: "../../assets/images/receitas/frango-ao-molho-de-iogurte.webp"
 imageAlt: "Filé de frango dourado coberto com molho cremoso de iogurte e ervas verdes"
 rating: 4.9
 ratingCount: 234

@@ -34,7 +34,7 @@ keywords:
   - "almoço fit"
   - "wrap integral"
 publishDate: 2024-02-13
-image: "/images/receitas/wrap-de-frango-com-alface.webp"
+image: "../../assets/images/receitas/wrap-de-frango-com-alface.webp"
 imageAlt: "Wrap integral cortado ao meio mostrando recheio de frango e legumes frescos"
 rating: 4.8
 ratingCount: 189

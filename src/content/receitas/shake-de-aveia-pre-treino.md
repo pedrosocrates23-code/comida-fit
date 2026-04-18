@@ -29,7 +29,7 @@ keywords:
   - "energia treino"
   - "performance esportiva"
 publishDate: 2024-04-12
-image: "/images/receitas/shake-de-aveia-pre-treino.webp"
+image: "../../assets/images/receitas/shake-de-aveia-pre-treino.webp"
 imageAlt: "Shake cremoso de aveia e banana em copo alto com canela polvilhada"
 rating: 4.7
 ratingCount: 167

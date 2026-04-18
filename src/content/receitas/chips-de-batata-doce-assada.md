@@ -32,7 +32,7 @@ keywords:
   - "sem fritura"
   - "lanche low calorie"
 publishDate: 2024-03-14
-image: "/images/receitas/chips-de-batata-doce-assada.webp"
+image: "../../assets/images/receitas/chips-de-batata-doce-assada.webp"
 imageAlt: "Chips crocantes de batata-doce em laranja vivo sobre papel manteiga"
 rating: 4.7
 ratingCount: 178

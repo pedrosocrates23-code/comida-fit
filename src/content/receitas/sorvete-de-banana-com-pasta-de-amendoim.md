@@ -28,7 +28,7 @@ keywords:
   - "pasta de amendoim receita"
   - "sobremesa saudável"
 publishDate: 2024-02-15
-image: "/images/receitas/sorvete-de-banana-com-pasta-de-amendoim.webp"
+image: "../../assets/images/receitas/sorvete-de-banana-com-pasta-de-amendoim.webp"
 imageAlt: "Sorvete cremoso de banana com fio de pasta de amendoim em copo"
 rating: 4.9
 ratingCount: 312

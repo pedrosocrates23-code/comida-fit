@@ -35,7 +35,7 @@ keywords:
   - "bolo fit facil"
   - "receita bolo cetogenico"
 publishDate: 2024-02-12
-image: "/images/receitas/receita-de-bolo-low-carb-facil.webp"
+image: "../../assets/images/receitas/receita-de-bolo-low-carb-facil.webp"
 imageAlt: "Fatia de bolo low carb de cenoura com coco em prato branco com canela polvilhada"
 rating: 4.8
 ratingCount: 156

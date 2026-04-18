@@ -31,7 +31,7 @@ keywords:
   - "biscoito natural"
   - "snack saudável"
 publishDate: 2024-03-06
-image: "/images/receitas/biscoito-de-aveia-e-banana.webp"
+image: "../../assets/images/receitas/biscoito-de-aveia-e-banana.webp"
 imageAlt: "Biscoitos de aveia e banana dourados em prato rústico de madeira"
 rating: 4.7
 ratingCount: 167

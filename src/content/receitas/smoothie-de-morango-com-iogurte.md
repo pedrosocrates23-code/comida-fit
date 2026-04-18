@@ -29,7 +29,7 @@ keywords:
   - "café da manhã proteico"
   - "smoothie proteico"
 publishDate: 2024-01-30
-image: "/images/receitas/smoothie-de-morango-com-iogurte.webp"
+image: "../../assets/images/receitas/smoothie-de-morango-com-iogurte.webp"
 imageAlt: "Smoothie rosado de morango com iogurte em copo com morango na borda"
 rating: 4.7
 ratingCount: 178

@@ -420,7 +420,7 @@ const breadcrumbSchema = {
       <!-- Link ao comparativo -->
       <section class="produto-comparativo">
         <p>Quer comparar este produto com outras opcoes da categoria?</p>
-        <a href={`/blog/${post.slug}/`} class="link-comparativo">
+        <a href={`/blog/${post.id}/`} class="link-comparativo">
           Ver Comparativo Completo &rarr;
         </a>
       </section>
@@ -428,6 +428,32 @@ const breadcrumbSchema = {
   </main>
 
   <Footer />
+
+  <!-- ── GA4: rastreamento de cliques de afiliado ──────────── -->
+  <script define:vars={{ gaAsin: asin, gaTitulo: titulo, gaPreco: produto.preco ?? 0 }}>
+    document.addEventListener('DOMContentLoaded', () => {
+      const botoesAfiliado = [
+        { selector: '.btn-comprar',    clickType: 'comprar_agora' },
+        { selector: '.btn-ver-preco',  clickType: 'ver_preco' },
+        { selector: '.btn-avaliacoes', clickType: 'ver_avaliacoes' },
+      ];
+
+      botoesAfiliado.forEach(({ selector, clickType }) => {
+        const el = document.querySelector(selector);
+        if (!el) return;
+        el.addEventListener('click', () => {
+          if (typeof gtag === 'undefined') return;
+          gtag('event', 'affiliate_click', {
+            item_id:    gaAsin,
+            item_name:  gaTitulo,
+            click_type: clickType,
+            value:      gaPreco,
+            currency:   'BRL',
+          });
+        });
+      });
+    });
+  </script>
 </BaseLayout>
 
 <style>

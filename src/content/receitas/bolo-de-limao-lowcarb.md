@@ -36,7 +36,7 @@ keywords:
   - "bolo sem gluten"
   - "bolo cetogenico"
 publishDate: 2024-01-15
-image: "/images/receitas/bolo-de-limao-lowcarb.webp"
+image: "../../assets/images/receitas/bolo-de-limao-lowcarb.webp"
 imageAlt: "Bolo de limao low carb fatiado em prato branco com raspas de limao por cima"
 rating: 4.8
 ratingCount: 156

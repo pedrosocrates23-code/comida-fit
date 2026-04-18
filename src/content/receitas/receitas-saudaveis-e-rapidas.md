@@ -28,7 +28,7 @@ keywords:
   - "receita saudavel 15 minutos"
   - "lanche proteico rapido"
 publishDate: 2024-03-01
-image: "/images/receitas/receitas-saudaveis-e-rapidas.webp"
+image: "../../assets/images/receitas/receitas-saudaveis-e-rapidas.webp"
 imageAlt: "Wrap de alface com frango e hummus ao lado de outros lanches saudaveis rapidos"
 rating: 4.8
 ratingCount: 198

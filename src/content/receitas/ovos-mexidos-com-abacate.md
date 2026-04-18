@@ -32,7 +32,7 @@ keywords:
   - "receita saudável"
   - "café da manhã keto"
 publishDate: 2024-01-24
-image: "/images/receitas/ovos-mexidos-com-abacate.webp"
+image: "../../assets/images/receitas/ovos-mexidos-com-abacate.webp"
 imageAlt: "Ovos mexidos cremosos ao lado de fatias verdes de abacate no prato"
 rating: 4.8
 ratingCount: 176

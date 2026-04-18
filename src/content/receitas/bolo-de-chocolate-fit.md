@@ -34,7 +34,7 @@ keywords:
   - "bolo low carb proteico de chocolate"
   - "bolo de chocolate com whey protein"
 publishDate: 2024-03-17
-image: "/images/receitas/bolo-de-chocolate-fit.webp"
+image: "../../assets/images/receitas/bolo-de-chocolate-fit.webp"
 imageAlt: "Fatia de bolo de chocolate fit com whey protein em prato cinza com cacau polvilhado"
 rating: 4.9
 ratingCount: 207

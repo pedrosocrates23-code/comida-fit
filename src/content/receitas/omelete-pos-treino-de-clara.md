@@ -32,7 +32,7 @@ keywords:
   - "clara de ovo receita"
   - "recuperação muscular"
 publishDate: 2024-05-05
-image: "/images/receitas/omelete-pos-treino-de-clara.webp"
+image: "../../assets/images/receitas/omelete-pos-treino-de-clara.webp"
 imageAlt: "Omelete de claras dourada com espinafre e tomate em frigideira"
 rating: 4.7
 ratingCount: 189

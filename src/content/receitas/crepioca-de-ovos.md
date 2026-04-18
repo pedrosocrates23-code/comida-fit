@@ -31,7 +31,7 @@ keywords:
   - "receita proteica"
   - "tapioca fit"
 publishDate: 2024-01-20
-image: "/images/receitas/crepioca-de-ovos.webp"
+image: "../../assets/images/receitas/crepioca-de-ovos.webp"
 imageAlt: "Crepioca dourada dobrada ao meio com queijo branco derretendo"
 rating: 4.8
 ratingCount: 231

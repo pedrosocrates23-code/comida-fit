@@ -29,7 +29,7 @@ keywords:
   - "pudim de leite de coco"
   - "receita fit doce"
 publishDate: 2024-02-18
-image: "/images/receitas/pudim-fit-sem-lactose.webp"
+image: "../../assets/images/receitas/pudim-fit-sem-lactose.webp"
 imageAlt: "Pudim fit sem lactose desenformado com calda dourada de tâmaras"
 rating: 4.7
 ratingCount: 143

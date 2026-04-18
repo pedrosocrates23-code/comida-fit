@@ -29,7 +29,7 @@ keywords:
   - "proteína iogurte"
   - "frutas vermelhas fitness"
 publishDate: 2024-05-10
-image: "/images/receitas/iogurte-proteico-com-frutas.webp"
+image: "../../assets/images/receitas/iogurte-proteico-com-frutas.webp"
 imageAlt: "Bowl de iogurte grego com frutas vermelhas coloridas e granola"
 rating: 4.8
 ratingCount: 204

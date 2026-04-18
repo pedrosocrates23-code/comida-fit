@@ -11,11 +11,14 @@
     "index:all": "node scripts/index-gsc.mjs",
     "index:new": "node scripts/index-new-content.mjs",
     "index:new-dry": "node scripts/index-new-content.mjs --dry-run",
-    "deploy": "npm run build && node scripts/index-new-content.mjs"
+    "deploy": "npm run build && node scripts/index-new-content.mjs",
+    "typecheck": "astro check"
   },
   "dependencies": {
-    "@astrojs/sitemap": "^3.2.0",
-    "astro": "^4.16.0",
+    "@fontsource/dm-sans": "^5.2.8",
+    "@fontsource/fredoka-one": "^5.2.5",
+    "@fontsource/space-mono": "^5.2.9",
+    "astro": "^6.1.8",
     "sharp": "^0.33.5"
   },
   "devDependencies": {

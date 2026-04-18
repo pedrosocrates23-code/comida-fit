@@ -32,7 +32,7 @@ keywords:
   - "sobremesa chocolate cremosa fit"
   - "danette cetogenico"
 publishDate: 2024-02-18
-image: "/images/receitas/danette-low-carb.webp"
+image: "../../assets/images/receitas/danette-low-carb.webp"
 imageAlt: "Potinho de danette low carb de chocolate decorado com cacau polvilhado em mesa de madeira"
 rating: 4.8
 ratingCount: 196

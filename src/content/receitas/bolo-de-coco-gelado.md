@@ -36,7 +36,7 @@ keywords:
   - "sobremesa gelada de coco"
   - "bolo de coco fit sem farinha"
 publishDate: 2024-03-03
-image: "/images/receitas/bolo-de-coco-gelado.webp"
+image: "../../assets/images/receitas/bolo-de-coco-gelado.webp"
 imageAlt: "Fatia de bolo de coco gelado com base crocante e creme branco em prato com coco ralado"
 rating: 4.9
 ratingCount: 231

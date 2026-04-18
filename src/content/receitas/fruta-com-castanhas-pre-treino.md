@@ -29,7 +29,7 @@ keywords:
   - "mix de frutas fit"
   - "lanche pré-treino saudável"
 publishDate: 2024-04-10
-image: "/images/receitas/fruta-com-castanhas-pre-treino.webp"
+image: "../../assets/images/receitas/fruta-com-castanhas-pre-treino.webp"
 imageAlt: "Tigela colorida com mix de frutas frescas e castanhas variadas"
 rating: 4.5
 ratingCount: 112

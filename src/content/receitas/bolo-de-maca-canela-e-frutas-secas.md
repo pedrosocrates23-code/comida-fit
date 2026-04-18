@@ -38,7 +38,7 @@ keywords:
   - "bolo outonal fit"
   - "bolo low carb com nozes"
 publishDate: 2024-03-19
-image: "/images/receitas/bolo-de-maca-canela-e-frutas-secas.webp"
+image: "../../assets/images/receitas/bolo-de-maca-canela-e-frutas-secas.webp"
 imageAlt: "Fatia de bolo de maca com canela e nozes em prato de madeira com maca fresca ao lado"
 rating: 4.8
 ratingCount: 143

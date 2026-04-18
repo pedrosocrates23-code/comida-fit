@@ -35,7 +35,7 @@ keywords:
   - "bolo low carb aromatico"
   - "bolo fit sem acucar de laranja"
 publishDate: 2024-03-05
-image: "/images/receitas/bolo-fit-saboroso.webp"
+image: "../../assets/images/receitas/bolo-fit-saboroso.webp"
 imageAlt: "Bolo fit de laranja fatiado em prato branco com raspas de laranja por cima"
 rating: 4.8
 ratingCount: 162

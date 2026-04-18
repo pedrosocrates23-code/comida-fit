@@ -4,7 +4,7 @@
    Neobrutalismo Cartoon — bold, lúdico, agressivo
    ============================================================ */
 
-/* Fonts carregadas via <link> no BaseLayout (não-bloqueante) */
+/* Fonts self-hosted via @fontsource — importadas no BaseLayout.astro */
 
 /* ── Design Tokens (@brad-frost) ─────────────────────────── */
 :root {

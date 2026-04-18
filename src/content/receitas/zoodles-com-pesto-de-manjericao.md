@@ -33,7 +33,7 @@ keywords:
   - "espaguete de abobrinha"
   - "pesto de manjericão"
 publishDate: 2024-03-20
-image: "/images/receitas/zoodles-com-pesto-de-manjericao.webp"
+image: "../../assets/images/receitas/zoodles-com-pesto-de-manjericao.webp"
 imageAlt: "Zoodles com pesto verde em prato fundo com tomates-cereja"
 rating: 4.7
 ratingCount: 98

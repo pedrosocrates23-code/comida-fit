@@ -87,7 +87,7 @@ const webPageSchema = {
           <h2 class="section-label">Em Destaque</h2>
           <BlogCard
             title={featured.data.title}
-            slug={featured.slug}
+            slug={featured.id}
             description={featured.data.description}
             publishDate={featured.data.publishDate}
             categoria={featured.data.categoria}
@@ -108,7 +108,7 @@ const webPageSchema = {
               <li>
                 <BlogCard
                   title={post.data.title}
-                  slug={post.slug}
+                  slug={post.id}
                   description={post.data.description}
                   publishDate={post.data.publishDate}
                   categoria={post.data.categoria}

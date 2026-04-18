@@ -33,7 +33,7 @@ keywords:
   - "bolo de laranja low carb"
   - "bolo de laranja com aveia"
 publishDate: 2024-03-27
-image: "/images/receitas/bolo-de-laranja-fit.webp"
+image: "../../assets/images/receitas/bolo-de-laranja-fit.webp"
 imageAlt: "Bolo de laranja fit fatiado em prato branco com rodela de laranja fresca por cima"
 rating: 4.8
 ratingCount: 172

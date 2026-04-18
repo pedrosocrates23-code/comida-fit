@@ -28,7 +28,7 @@ keywords:
   - "batata doce fit"
   - "energia pré-treino"
 publishDate: 2024-04-08
-image: "/images/receitas/batata-doce-assada-com-mel.webp"
+image: "../../assets/images/receitas/batata-doce-assada-com-mel.webp"
 imageAlt: "Batata doce assada aberta ao meio com fio de mel e canela"
 rating: 4.6
 ratingCount: 145

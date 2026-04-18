@@ -39,7 +39,7 @@ keywords:
   - "torta sem gluten"
   - "torta proteica"
 publishDate: 2024-02-05
-image: "/images/receitas/receita-de-torta-salgada-low-carb.webp"
+image: "../../assets/images/receitas/receita-de-torta-salgada-low-carb.webp"
 imageAlt: "Torta salgada low carb de frango e legumes fatiada em tabuleiro de madeira"
 rating: 4.8
 ratingCount: 178

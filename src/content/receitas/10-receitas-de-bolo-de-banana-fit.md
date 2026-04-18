@@ -33,7 +33,7 @@ keywords:
   - "bolo de banana aveia"
   - "bolo de banana fit variacao"
 publishDate: 2024-03-25
-image: "/images/receitas/10-receitas-de-bolo-de-banana-fit.webp"
+image: "../../assets/images/receitas/10-receitas-de-bolo-de-banana-fit.webp"
 imageAlt: "Selecao de bolos de banana fit com diferentes coberturas e acompanhamentos em mesa"
 rating: 4.8
 ratingCount: 263

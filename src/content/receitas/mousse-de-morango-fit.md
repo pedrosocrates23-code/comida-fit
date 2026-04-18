@@ -32,7 +32,7 @@ keywords:
   - "mousse low carb de morango"
   - "sobremesa fit rapida"
 publishDate: 2024-02-20
-image: "/images/receitas/mousse-de-morango-fit.webp"
+image: "../../assets/images/receitas/mousse-de-morango-fit.webp"
 imageAlt: "Mousse de morango fit em tacinha de vidro com morango fresco por cima"
 rating: 4.9
 ratingCount: 213

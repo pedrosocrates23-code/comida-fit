@@ -34,7 +34,7 @@ keywords:
   - "enroladinho low carb de banana"
   - "banana fit enroladinha"
 publishDate: 2024-03-15
-image: "/images/receitas/enroladinho-de-banana.webp"
+image: "../../assets/images/receitas/enroladinho-de-banana.webp"
 imageAlt: "Enroladinhos de banana fit fatiados mostrando o recheio de amendoim e canela em prato branco"
 rating: 4.8
 ratingCount: 156

@@ -29,7 +29,7 @@ keywords:
   - "café da manhã pré-treino"
   - "ovos mexidos fitness"
 publishDate: 2024-04-05
-image: "/images/receitas/torrada-integral-com-ovos.webp"
+image: "../../assets/images/receitas/torrada-integral-com-ovos.webp"
 imageAlt: "Torrada integral com abacate e ovos mexidos em tábua de madeira"
 rating: 4.7
 ratingCount: 198

@@ -33,7 +33,7 @@ keywords:
   - "almoco low carb com espinafre"
   - "espinafre proteico"
 publishDate: 2024-02-14
-image: "/images/receitas/receitas-low-carb-com-espinafre.webp"
+image: "../../assets/images/receitas/receitas-low-carb-com-espinafre.webp"
 imageAlt: "Frango ao creme de espinafre com alho em frigideira de ferro fundido"
 rating: 4.9
 ratingCount: 187

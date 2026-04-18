@@ -26,7 +26,7 @@ keywords:
   - "proteína pós-treino"
   - "shake fitness"
 publishDate: 2024-05-08
-image: "/images/receitas/shake-whey-com-banana.webp"
+image: "../../assets/images/receitas/shake-whey-com-banana.webp"
 imageAlt: "Shake proteico de banana em copo com logotipo fitness ao fundo"
 rating: 4.9
 ratingCount: 298

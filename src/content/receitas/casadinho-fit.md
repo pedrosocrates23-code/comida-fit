@@ -37,7 +37,7 @@ keywords:
   - "biscoito fit de amendoim"
   - "casadinho proteico"
 publishDate: 2024-02-24
-image: "/images/receitas/casadinho-fit.webp"
+image: "../../assets/images/receitas/casadinho-fit.webp"
 imageAlt: "Casadinhos fit de farinha de amendoas com recheio de coco e amendoim em bandeja de madeira"
 rating: 4.8
 ratingCount: 169

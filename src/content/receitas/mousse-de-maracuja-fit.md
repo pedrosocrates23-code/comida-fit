@@ -29,7 +29,7 @@ keywords:
   - "receita fit doce"
   - "mousse sem açúcar"
 publishDate: 2024-02-10
-image: "/images/receitas/mousse-de-maracuja-fit.webp"
+image: "../../assets/images/receitas/mousse-de-maracuja-fit.webp"
 imageAlt: "Mousse de maracujá fit em taça com polpa fresca por cima"
 rating: 4.8
 ratingCount: 201

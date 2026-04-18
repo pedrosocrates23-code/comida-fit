@@ -33,7 +33,7 @@ keywords:
   - "macarrao low carb"
   - "pasta de abobrinha fit"
 publishDate: 2024-03-29
-image: "/images/receitas/macarrao-de-abobrinha-com-molho-branco.webp"
+image: "../../assets/images/receitas/macarrao-de-abobrinha-com-molho-branco.webp"
 imageAlt: "Espaguete de abobrinha com molho branco cremoso e parmesao ralado em prato fundo"
 rating: 4.8
 ratingCount: 193

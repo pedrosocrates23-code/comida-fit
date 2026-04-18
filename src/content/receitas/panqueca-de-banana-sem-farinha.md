@@ -30,7 +30,7 @@ keywords:
   - "panqueca de banana"
   - "receita proteica"
 publishDate: 2024-01-10
-image: "/images/receitas/panqueca-de-banana-sem-farinha.webp"
+image: "../../assets/images/receitas/panqueca-de-banana-sem-farinha.webp"
 imageAlt: "Panquecas de banana empilhadas com mel e frutas vermelhas"
 rating: 4.9
 ratingCount: 247

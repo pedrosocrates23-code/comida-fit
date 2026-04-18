@@ -31,7 +31,7 @@ keywords:
   - "lanche fit de banana"
   - "chips de banana low carb"
 publishDate: 2024-03-21
-image: "/images/receitas/chips-de-banana.webp"
+image: "../../assets/images/receitas/chips-de-banana.webp"
 imageAlt: "Chips de banana fit crocantes em bowl de madeira com canela polvilhada"
 rating: 4.7
 ratingCount: 128

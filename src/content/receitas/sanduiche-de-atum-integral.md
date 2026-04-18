@@ -31,7 +31,7 @@ keywords:
   - "refeição pós-treino"
   - "proteína magra"
 publishDate: 2024-05-15
-image: "/images/receitas/sanduiche-de-atum-integral.webp"
+image: "../../assets/images/receitas/sanduiche-de-atum-integral.webp"
 imageAlt: "Sanduíche de atum com pão integral cortado ao meio mostrando recheio"
 rating: 4.7
 ratingCount: 175

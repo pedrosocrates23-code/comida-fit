@@ -32,7 +32,7 @@ keywords:
   - "receita saudavel rapida"
   - "omelete fit saudavel"
 publishDate: 2024-03-09
-image: "/images/receitas/receita-fit-e-saudavel.webp"
+image: "../../assets/images/receitas/receita-fit-e-saudavel.webp"
 imageAlt: "Omelete fit recheada com frango e legumes aberta em frigideira com queijo derretido"
 rating: 4.8
 ratingCount: 176

@@ -34,7 +34,7 @@ keywords:
   - "shake pre treino"
   - "shake de banana com espinafre"
 publishDate: 2024-01-10
-image: "/images/receitas/shake-detox-de-banana.webp"
+image: "../../assets/images/receitas/shake-detox-de-banana.webp"
 imageAlt: "Shake detox de banana verde cremoso em copo alto com sementes de chia por cima"
 rating: 4.7
 ratingCount: 134

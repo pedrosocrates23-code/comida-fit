@@ -34,7 +34,7 @@ keywords:
   - "rico em fibras"
   - "dieta equilibrada"
 publishDate: 2024-02-07
-image: "/images/receitas/arroz-integral-com-feijao-carioca.webp"
+image: "../../assets/images/receitas/arroz-integral-com-feijao-carioca.webp"
 imageAlt: "Prato com arroz integral e feijão carioca caldo temperado com salsinha"
 rating: 4.7
 ratingCount: 198

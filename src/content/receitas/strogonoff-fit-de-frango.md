@@ -33,7 +33,7 @@ keywords:
   - "strogonoff saudável"
   - "low carb jantar"
 publishDate: 2024-03-10
-image: "/images/receitas/strogonoff-fit-de-frango.webp"
+image: "../../assets/images/receitas/strogonoff-fit-de-frango.webp"
 imageAlt: "Strogonoff fit de frango com cogumelos em panela branca"
 rating: 4.8
 ratingCount: 214

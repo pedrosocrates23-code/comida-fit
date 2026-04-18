@@ -33,7 +33,7 @@ keywords:
   - "jantar saudável"
   - "receita de salmão"
 publishDate: 2024-04-07
-image: "/images/receitas/salmao-assado-com-aspargos.webp"
+image: "../../assets/images/receitas/salmao-assado-com-aspargos.webp"
 imageAlt: "Filé de salmão rosado assado sobre aspargos verdes com rodelas de limão"
 rating: 5.0
 ratingCount: 89

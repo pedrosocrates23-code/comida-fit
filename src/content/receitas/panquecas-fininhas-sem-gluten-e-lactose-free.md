@@ -32,7 +32,7 @@ keywords:
   - "panqueca de farinha de arroz"
   - "receita sem trigo"
 publishDate: 2024-01-20
-image: "/images/receitas/panquecas-fininhas-sem-gluten-e-lactose-free.webp"
+image: "../../assets/images/receitas/panquecas-fininhas-sem-gluten-e-lactose-free.webp"
 imageAlt: "Panquecas fininhas empilhadas sem gluten e sem lactose com frutas frescas por cima"
 rating: 4.8
 ratingCount: 173

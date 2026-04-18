@@ -29,7 +29,7 @@ keywords:
   - "batata-doce com amendoim pre-treino"
   - "carboidrato pre-treino natural"
 publishDate: 2024-03-11
-image: "/images/receitas/receitas-fit-com-batata-doce.webp"
+image: "../../assets/images/receitas/receitas-fit-com-batata-doce.webp"
 imageAlt: "Batata-doce assada aberta com pasta de amendoim e banana fatiada em prato branco"
 rating: 4.8
 ratingCount: 188

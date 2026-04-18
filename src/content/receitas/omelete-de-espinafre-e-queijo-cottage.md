@@ -32,7 +32,7 @@ keywords:
   - "queijo cottage"
   - "low carb"
 publishDate: 2024-01-12
-image: "/images/receitas/omelete-de-espinafre-e-queijo-cottage.webp"
+image: "../../assets/images/receitas/omelete-de-espinafre-e-queijo-cottage.webp"
 imageAlt: "Omelete dourada com espinafre e queijo cottage no prato"
 rating: 4.8
 ratingCount: 189

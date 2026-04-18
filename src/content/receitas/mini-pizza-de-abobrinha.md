@@ -33,7 +33,7 @@ keywords:
   - "abobrinha receita"
   - "pizza sem gluten"
 publishDate: 2024-01-18
-image: "/images/receitas/mini-pizza-de-abobrinha.webp"
+image: "../../assets/images/receitas/mini-pizza-de-abobrinha.webp"
 imageAlt: "Mini pizzas de abobrinha com molho de tomate e queijo derretido em assadeira"
 rating: 4.9
 ratingCount: 218

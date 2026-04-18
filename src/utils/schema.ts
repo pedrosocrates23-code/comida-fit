@@ -17,7 +17,7 @@ const categoriaNomes: Record<string, string> = {
 
 /** Recipe schema - página individual */
 export function buildRecipeSchema(receita: CollectionEntry<'receitas'>) {
-  const { data, slug } = receita;
+  const { data, id: slug } = receita;
   const totalMinutos   = data.tempoPreparo + (data.tempoCozimento ?? 0);
 
   return {
@@ -25,7 +25,7 @@ export function buildRecipeSchema(receita: CollectionEntry<'receitas'>) {
     '@type':    'Recipe',
     name:        data.title,
     description: data.description,
-    image:       [`${SITE_URL}${data.image}`],
+    image:       [`${SITE_URL}${data.image.src}`],
     author: {
       '@type': 'Organization',
       name:    SITE_NAME,

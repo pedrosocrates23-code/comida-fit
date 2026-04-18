@@ -30,7 +30,7 @@ keywords:
   - "smoothie saudavel de banana"
   - "vitamina fit para academia"
 publishDate: 2024-02-22
-image: "/images/receitas/receita-de-vitamina-saudavel.webp"
+image: "../../assets/images/receitas/receita-de-vitamina-saudavel.webp"
 imageAlt: "Vitamina saudavel de banana com canela em copo alto com palinha e chia por cima"
 rating: 4.7
 ratingCount: 145

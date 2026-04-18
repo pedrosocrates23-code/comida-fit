@@ -34,7 +34,7 @@ keywords:
   - "bolo de abacate com chocolate"
   - "bolo cetogenico de chocolate"
 publishDate: 2024-02-28
-image: "/images/receitas/receita-de-bolo-de-chocolate-low-carb.webp"
+image: "../../assets/images/receitas/receita-de-bolo-de-chocolate-low-carb.webp"
 imageAlt: "Fatia de bolo de chocolate low carb com abacate em prato escuro com cacau polvilhado"
 rating: 4.9
 ratingCount: 219

@@ -32,7 +32,7 @@ keywords:
   - "receita fit facil jantar"
   - "refeicao low carb rapida"
 publishDate: 2024-02-08
-image: "/images/receitas/receita-low-carb-facil.webp"
+image: "../../assets/images/receitas/receita-low-carb-facil.webp"
 imageAlt: "Frango grelhado fatiado ao lado de brocolis salteado no azeite em prato branco"
 rating: 4.8
 ratingCount: 203

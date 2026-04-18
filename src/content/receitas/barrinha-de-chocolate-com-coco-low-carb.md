@@ -35,7 +35,7 @@ keywords:
   - "lanche low carb barrinha"
   - "barrinha cetogenica"
 publishDate: 2024-03-13
-image: "/images/receitas/barrinha-de-chocolate-com-coco-low-carb.webp"
+image: "../../assets/images/receitas/barrinha-de-chocolate-com-coco-low-carb.webp"
 imageAlt: "Barrinhas low carb de chocolate e coco empilhadas mostrando o interior crocante"
 rating: 4.9
 ratingCount: 234

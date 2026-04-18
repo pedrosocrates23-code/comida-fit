@@ -38,7 +38,7 @@ keywords:
   - "quiche low carb de espinafre"
   - "quiche cetogenico"
 publishDate: 2024-03-07
-image: "/images/receitas/5-receitas-de-quiche-low-carb.webp"
+image: "../../assets/images/receitas/5-receitas-de-quiche-low-carb.webp"
 imageAlt: "Quiche low carb fatiada em tabuleiro de madeira com salada verde ao lado"
 rating: 4.9
 ratingCount: 247

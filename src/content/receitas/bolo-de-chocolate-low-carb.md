@@ -36,7 +36,7 @@ keywords:
   - "bolo cetogenico"
   - "bolo sem gluten de chocolate"
 publishDate: 2024-01-22
-image: "/images/receitas/bolo-de-chocolate-low-carb.webp"
+image: "../../assets/images/receitas/bolo-de-chocolate-low-carb.webp"
 imageAlt: "Fatia de bolo de chocolate low carb em prato branco com cacau polvilhado"
 rating: 4.9
 ratingCount: 241

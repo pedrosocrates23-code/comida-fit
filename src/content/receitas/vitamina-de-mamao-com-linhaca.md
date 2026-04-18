@@ -29,7 +29,7 @@ keywords:
   - "café da manhã saudável"
   - "bebida com linhaça"
 publishDate: 2024-01-20
-image: "/images/receitas/vitamina-de-mamao-com-linhaca.webp"
+image: "../../assets/images/receitas/vitamina-de-mamao-com-linhaca.webp"
 imageAlt: "Vitamina de mamão laranja com linhaça em copo de vidro"
 rating: 4.5
 ratingCount: 89

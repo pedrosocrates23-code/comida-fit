@@ -33,7 +33,7 @@ keywords:
   - "snack saudável"
   - "lanche low calorie"
 publishDate: 2024-03-08
-image: "/images/receitas/palito-de-cenoura-com-homus.webp"
+image: "../../assets/images/receitas/palito-de-cenoura-com-homus.webp"
 imageAlt: "Palitos de cenoura laranja ao lado de tigela de homus cremoso com páprica"
 rating: 4.7
 ratingCount: 134

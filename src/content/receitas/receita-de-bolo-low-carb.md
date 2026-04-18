@@ -34,7 +34,7 @@ keywords:
   - "bolo de banana fit facil"
   - "bolo cetogenico de banana"
 publishDate: 2024-02-26
-image: "/images/receitas/receita-de-bolo-low-carb.webp"
+image: "../../assets/images/receitas/receita-de-bolo-low-carb.webp"
 imageAlt: "Bolo low carb de banana fatiado em tabua de madeira com canela polvilhada"
 rating: 4.8
 ratingCount: 178

@@ -6,6 +6,7 @@ import Header from '@components/Header.astro';
 import Footer from '@components/Footer.astro';
 import Breadcrumb from '@components/Breadcrumb.astro';
 import ReceitaSchema from '@components/ReceitaSchema.astro';
+import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 
 interface Props {
@@ -29,20 +30,21 @@ const categoriaNomes: Record<string, string> = {
 const breadcrumbs = [
   { name: 'Home',        url: 'https://melhoresreceitasfit.com.br/' },
   { name: categoriaNomes[data.categoria], url: `https://melhoresreceitasfit.com.br/categoria/${data.categoria}/` },
-  { name: data.title,    url: `https://melhoresreceitasfit.com.br/receitas/${receita.slug}/` },
+  { name: data.title,    url: `https://melhoresreceitasfit.com.br/receitas/${receita.id}/` },
 ];
 
 const totalMinutos = data.tempoPreparo + (data.tempoCozimento ?? 0);
 const stars = '★'.repeat(Math.round(data.rating)) + '☆'.repeat(5 - Math.round(data.rating));
+const imageUrl = data.image.src;
 ---
 
 <BaseLayout
   title={data.title}
   description={data.description}
-  image={data.image}
+  image={imageUrl}
   imageAlt={data.imageAlt}
   type="article"
-  canonicalUrl={`https://melhoresreceitasfit.com.br/receitas/${receita.slug}/`}
+  canonicalUrl={`https://melhoresreceitasfit.com.br/receitas/${receita.id}/`}
 >
   <ReceitaSchema receita={receita} breadcrumbs={breadcrumbs} slot="head" />
 
@@ -90,14 +92,16 @@ const stars = '★'.repeat(Math.round(data.rating)) + '☆'.repeat(5 - Math.roun
 
         <!-- Hero Image -->
         <figure class="recipe-page__figure">
-          <img
+          <Image
             src={data.image}
             alt={data.imageAlt}
+            width={900}
+            height={506}
+            format="avif"
+            quality={80}
             loading="eager"
             fetchpriority="high"
             decoding="sync"
-            width="900"
-            height="506"
             itemprop="image"
             class="recipe-page__image"
           />

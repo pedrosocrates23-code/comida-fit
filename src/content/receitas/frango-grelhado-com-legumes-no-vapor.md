@@ -34,7 +34,7 @@ keywords:
   - "frango saudável"
   - "low carb"
 publishDate: 2024-02-05
-image: "/images/receitas/frango-grelhado-com-legumes-no-vapor.webp"
+image: "../../assets/images/receitas/frango-grelhado-com-legumes-no-vapor.webp"
 imageAlt: "Peito de frango grelhado com marcas de grelha ao lado de legumes coloridos no vapor"
 rating: 4.8
 ratingCount: 267

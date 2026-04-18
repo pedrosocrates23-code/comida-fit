@@ -33,7 +33,7 @@ keywords:
   - "dieta saudável"
   - "atum saudável"
 publishDate: 2024-02-09
-image: "/images/receitas/salada-de-atum-com-grao-de-bico.webp"
+image: "../../assets/images/receitas/salada-de-atum-com-grao-de-bico.webp"
 imageAlt: "Salada colorida de atum com grão-de-bico, tomate e pepino em bowl"
 rating: 4.8
 ratingCount: 221

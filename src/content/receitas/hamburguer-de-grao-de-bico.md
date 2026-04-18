@@ -33,7 +33,7 @@ keywords:
   - "jantar saudável"
   - "grão-de-bico receita"
 publishDate: 2024-03-15
-image: "/images/receitas/hamburguer-de-grao-de-bico.webp"
+image: "../../assets/images/receitas/hamburguer-de-grao-de-bico.webp"
 imageAlt: "Hambúrguer de grão-de-bico grelhado servido com salada verde"
 rating: 4.6
 ratingCount: 132

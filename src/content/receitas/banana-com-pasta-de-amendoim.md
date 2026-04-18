@@ -25,7 +25,7 @@ keywords:
   - "lanche fit"
   - "carboidrato pré-treino"
 publishDate: 2024-04-01
-image: "/images/receitas/banana-com-pasta-de-amendoim.webp"
+image: "../../assets/images/receitas/banana-com-pasta-de-amendoim.webp"
 imageAlt: "Banana fatiada com pasta de amendoim cremosa em prato branco"
 rating: 4.8
 ratingCount: 256

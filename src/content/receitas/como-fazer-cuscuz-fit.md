@@ -31,7 +31,7 @@ keywords:
   - "cafe da manha fit"
   - "cuscuz proteico"
 publishDate: 2024-02-10
-image: "/images/receitas/como-fazer-cuscuz-fit.webp"
+image: "../../assets/images/receitas/como-fazer-cuscuz-fit.webp"
 imageAlt: "Cuscuz fit de aveia desenformado em prato com queijo cottage e ervas por cima"
 rating: 4.7
 ratingCount: 134

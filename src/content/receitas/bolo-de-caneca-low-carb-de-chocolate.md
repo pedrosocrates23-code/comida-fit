@@ -33,7 +33,7 @@ keywords:
   - "mug cake low carb"
   - "bolo individual fit de chocolate"
 publishDate: 2024-03-23
-image: "/images/receitas/bolo-de-caneca-low-carb-de-chocolate.webp"
+image: "../../assets/images/receitas/bolo-de-caneca-low-carb-de-chocolate.webp"
 imageAlt: "Bolo de caneca low carb de chocolate em caneca branca com cacau polvilhado e colher"
 rating: 4.9
 ratingCount: 287

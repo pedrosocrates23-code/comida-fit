@@ -33,7 +33,7 @@ keywords:
   - "jantar proteico"
   - "receita com ovos"
 publishDate: 2024-04-03
-image: "/images/receitas/omelete-recheada-de-legumes.webp"
+image: "../../assets/images/receitas/omelete-recheada-de-legumes.webp"
 imageAlt: "Omelete dourada aberta mostrando recheio colorido de legumes e queijo"
 rating: 4.7
 ratingCount: 156

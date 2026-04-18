@@ -33,7 +33,7 @@ keywords:
   - "proteína magra"
   - "almoço low carb"
 publishDate: 2024-02-11
-image: "/images/receitas/tilapia-assada-com-ervas.webp"
+image: "../../assets/images/receitas/tilapia-assada-com-ervas.webp"
 imageAlt: "Filé de tilápia dourado assado com ervas verdes e fatias de limão"
 rating: 4.7
 ratingCount: 154

@@ -31,7 +31,7 @@ keywords:
   - "receita fit doce"
   - "óleo de coco receita"
 publishDate: 2024-02-22
-image: "/images/receitas/trufa-de-chocolate-com-oleo-de-coco.webp"
+image: "../../assets/images/receitas/trufa-de-chocolate-com-oleo-de-coco.webp"
 imageAlt: "Trufas fit de chocolate polvilhadas com cacau em pó em caixinha"
 rating: 4.8
 ratingCount: 189

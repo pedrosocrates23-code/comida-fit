@@ -33,7 +33,7 @@ keywords:
   - "lanche sem fritura"
   - "snack fit"
 publishDate: 2024-03-04
-image: "/images/receitas/bolinho-de-atum-assado.webp"
+image: "../../assets/images/receitas/bolinho-de-atum-assado.webp"
 imageAlt: "Bolinhos de atum dourados assados em bandeja com salsinha fresca"
 rating: 4.8
 ratingCount: 203

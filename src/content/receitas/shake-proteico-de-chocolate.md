@@ -28,7 +28,7 @@ keywords:
   - "bebida proteica"
   - "smoothie proteico"
 publishDate: 2024-01-25
-image: "/images/receitas/shake-proteico-de-chocolate.webp"
+image: "../../assets/images/receitas/shake-proteico-de-chocolate.webp"
 imageAlt: "Shake proteico de chocolate cremoso em copo alto com cacau polvilhado"
 rating: 4.8
 ratingCount: 234

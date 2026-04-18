@@ -34,7 +34,7 @@ keywords:
   - "low carb"
   - "risoto fit"
 publishDate: 2024-02-19
-image: "/images/receitas/risoto-de-couve-flor-com-frango.webp"
+image: "../../assets/images/receitas/risoto-de-couve-flor-com-frango.webp"
 imageAlt: "Prato de risoto cremoso de couve-flor com frango desfiado e parmesão"
 rating: 4.9
 ratingCount: 258

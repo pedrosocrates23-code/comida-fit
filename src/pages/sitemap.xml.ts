@@ -35,7 +35,7 @@ export const GET: APIRoute = async () => {
   }
 
   const blogPages = blogPosts.map((p) => ({
-    url:        `/blog/${p.slug}/`,
+    url:        `/blog/${p.id}/`,
     priority:   '0.8',
     changefreq: 'weekly',
     lastmod:    p.data.publishDate.toISOString().split('T')[0],
@@ -57,7 +57,7 @@ export const GET: APIRoute = async () => {
   }));
 
   const receitaPages = receitas.map((r) => ({
-    url:        `/receitas/${r.slug}/`,
+    url:        `/receitas/${r.id}/`,
     priority:   '0.7',
     changefreq: 'weekly',
     lastmod:    r.data.publishDate.toISOString().split('T')[0],

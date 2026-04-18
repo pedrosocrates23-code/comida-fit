@@ -1,6 +1,9 @@
 ---
 // @hakari - <article> semantic card
 // @higuruma - accessible links and images
+import { Image } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
+
 interface Props {
   title: string;
   slug: string;
@@ -9,7 +12,7 @@ interface Props {
   calorias: number;
   tempoPreparo: number;
   proteinas: number;
-  image: string;
+  image: ImageMetadata;
   imageAlt: string;
   rating: number;
   featured?: boolean;
@@ -44,14 +47,16 @@ const stars = '★'.repeat(Math.round(rating));
     tabindex="-1"
     aria-hidden="true"
   >
-    <img
+    <Image
       src={image}
       alt={imageAlt}
+      width={400}
+      height={300}
+      format="avif"
+      quality={80}
       loading={priority ? 'eager' : 'lazy'}
       fetchpriority={priority ? 'high' : 'auto'}
       decoding={priority ? 'sync' : 'async'}
-      width="400"
-      height="300"
       sizes="(max-width: 640px) calc(100vw - 2rem), (max-width: 1024px) calc(50vw - 2.5rem), 400px"
     />
   </a>

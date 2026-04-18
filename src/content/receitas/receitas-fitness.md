@@ -33,7 +33,7 @@ keywords:
   - "refeicao fitness"
   - "receita proteica"
 publishDate: 2024-01-25
-image: "/images/receitas/receitas-fitness.webp"
+image: "../../assets/images/receitas/receitas-fitness.webp"
 imageAlt: "Bolinhos fitness de frango e batata doce dourados em frigideira antiaderente"
 rating: 4.8
 ratingCount: 167

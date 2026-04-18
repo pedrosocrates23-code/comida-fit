@@ -33,7 +33,7 @@ keywords:
   - "suco fit"
   - "suco para barriga"
 publishDate: 2024-01-12
-image: "/images/receitas/suco-para-desinchar.webp"
+image: "../../assets/images/receitas/suco-para-desinchar.webp"
 imageAlt: "Copo de suco verde para desinchar com abacaxi e hortelã, servido com gelo"
 rating: 4.7
 ratingCount: 142

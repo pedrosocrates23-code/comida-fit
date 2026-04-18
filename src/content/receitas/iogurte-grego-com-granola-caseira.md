@@ -31,7 +31,7 @@ keywords:
   - "café da manhã fit"
   - "probióticos"
 publishDate: 2024-01-18
-image: "/images/receitas/iogurte-grego-com-granola-caseira.webp"
+image: "../../assets/images/receitas/iogurte-grego-com-granola-caseira.webp"
 imageAlt: "Bowl de iogurte grego com granola dourada e frutas frescas coloridas"
 rating: 4.9
 ratingCount: 298

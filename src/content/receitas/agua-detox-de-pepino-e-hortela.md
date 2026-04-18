@@ -29,7 +29,7 @@ keywords:
   - "hidratação saudável"
   - "emagrecer bebida"
 publishDate: 2024-02-01
-image: "/images/receitas/agua-detox-de-pepino-e-hortela.webp"
+image: "../../assets/images/receitas/agua-detox-de-pepino-e-hortela.webp"
 imageAlt: "Jarra de água detox transparente com rodelas de pepino e folhas de hortelã"
 rating: 4.6
 ratingCount: 167

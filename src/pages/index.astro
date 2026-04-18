@@ -43,7 +43,7 @@ const websiteSchema = buildWebSiteSchema();
             Receitas <span>Fit</span><br />que você vai<br />querer fazer
           </h1>
           <p class="hero__subtitle">
-            Mais de 52 receitas saudáveis com macros completos, proteínas,
+            Mais de {receitas.length} receitas saudáveis com macros completos, proteínas,
             carboidratos, calorias e gorduras. Do café da manhã ao jantar.
           </p>
           <div class="hero__ctas">
@@ -79,7 +79,7 @@ const websiteSchema = buildWebSiteSchema();
             <li>
               <ReceitaCard
                 title={r.data.title}
-                slug={r.slug}
+                slug={r.id}
                 description={r.data.description}
                 categoria={r.data.categoria}
                 calorias={r.data.calorias}
