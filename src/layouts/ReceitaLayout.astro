@@ -33,6 +33,7 @@ const breadcrumbs = [
   { name: data.title,    url: `https://melhoresreceitasfit.com.br/receitas/${receita.id}/` },
 ];
 
+const SITE_URL   = 'https://melhoresreceitasfit.com.br';
 const totalMinutos = data.tempoPreparo + (data.tempoCozimento ?? 0);
 const stars = '★'.repeat(Math.round(data.rating)) + '☆'.repeat(5 - Math.round(data.rating));
 const imageUrl = data.image.src;
@@ -57,6 +58,16 @@ const imageUrl = data.image.src;
 
       <!-- Recipe Article (@hakari semantic) -->
       <article class="recipe-page" itemscope itemtype="https://schema.org/Recipe">
+        {/* Campos obrigatórios da microdata ausentes no markup visual */}
+        <meta itemprop="recipeCategory" content={categoriaNomes[data.categoria] ?? data.categoria} />
+        <meta itemprop="recipeCuisine"  content="Brasileira" />
+        <meta itemprop="keywords"        content={data.keywords.join(', ')} />
+        <meta itemprop="datePublished"   content={data.publishDate.toISOString().split('T')[0]} />
+        <div itemprop="author" itemscope itemtype="https://schema.org/Organization" hidden>
+          <meta itemprop="name" content="Melhores Receitas Fit" />
+          <link itemprop="url"  href={SITE_URL} />
+        </div>
+
         <!-- Header -->
         <header class="recipe-page__header">
           <div class="recipe-page__badge-row">
@@ -222,7 +233,11 @@ const imageUrl = data.image.src;
                   itemprop="recipeInstructions"
                   itemscope
                   itemtype="https://schema.org/HowToStep"
+                  id={`passo-${i + 1}`}
                 >
+                  <meta itemprop="name" content={step.length > 70 ? step.substring(0, 67).trimEnd() + '...' : step} />
+                  <link itemprop="image" href={`${SITE_URL}${imageUrl}`} />
+                  <link itemprop="url"   href={`${SITE_URL}/receitas/${receita.id}/#passo-${i + 1}`} />
                   <span class="instruction-number" aria-hidden="true">
                     {String(i + 1).padStart(2, '0')}
                   </span>
