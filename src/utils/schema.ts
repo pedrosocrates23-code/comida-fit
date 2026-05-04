@@ -50,8 +50,11 @@ export function buildRecipeSchema(receita: CollectionEntry<'receitas'>) {
     recipeIngredient:   data.ingredientes,
     recipeInstructions: data.instrucoes.map((text, i) => ({
       '@type':   'HowToStep',
+      name:      text.length > 70 ? text.substring(0, 67).trimEnd() + '...' : text,
       position:  i + 1,
       text,
+      image:     [`${SITE_URL}${data.image.src}`],
+      url:       `${SITE_URL}/receitas/${slug}/#passo-${i + 1}`,
     })),
     aggregateRating: {
       '@type':       'AggregateRating',
