@@ -1,0 +1,350 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import Header from '@components/Header.astro';
+import Footer from '@components/Footer.astro';
+import Breadcrumb from '@components/Breadcrumb.astro';
+import { buildBreadcrumbSchema } from '@utils/schema';
+
+const breadcrumbs = [
+  { name: 'Home', url: 'https://melhoresreceitasfit.com.br/' },
+  { name: 'Política de Devolução', url: 'https://melhoresreceitasfit.com.br/politica-de-devolucao/' },
+];
+---
+
+<BaseLayout
+  title="Política de Devolução | Melhores Receitas Fit"
+  description="Entenda a política de devolução do Melhores Receitas Fit. Somos um site afiliado da Amazon Brasil e todas as devoluções são processadas diretamente pela plataforma Amazon."
+  schema={buildBreadcrumbSchema(breadcrumbs)}
+>
+  <Header />
+
+  <main id="main-content">
+    <div class="container">
+      <Breadcrumb items={breadcrumbs} />
+
+      <article class="politica-page" aria-labelledby="politica-title">
+        <header class="politica-page__header">
+          <h1 id="politica-title">Política de Devolução</h1>
+          <p class="politica-intro">
+            O <strong>Melhores Receitas Fit</strong> é um portal de conteúdo composto por
+            <strong>páginas afiliadas da Amazon Brasil</strong> e não realiza vendas diretas de nenhum produto.
+            Todo item indicado em nossas páginas é comercializado, entregue e gerenciado exclusivamente pela
+            <strong>Amazon</strong> e por seus vendedores parceiros dentro da plataforma.
+          </p>
+        </header>
+
+        <nav class="politica-sumario" aria-label="Sumário da página">
+          <h2 class="politica-sumario__titulo">Sumário</h2>
+          <ol class="politica-sumario__lista">
+            <li>
+              <a href="#o-que-e">O que é o Melhores Receitas Fit?</a>
+              <p>Entenda como funciona o nosso portal de conteúdo e qual é a nossa relação
+              com o Programa de Associados da Amazon Brasil.</p>
+            </li>
+            <li>
+              <a href="#como-funcionam-compras">Como funcionam as compras neste site?</a>
+              <p>Saiba o que acontece quando você clica em um link de produto e é
+              redirecionado para a página oficial da Amazon.</p>
+            </li>
+            <li>
+              <a href="#processo-devolucao">Processo de devolução de produtos</a>
+              <p>Veja por que todas as devoluções são tratadas diretamente pela Amazon
+              e não pelo nosso portal de conteúdo.</p>
+            </li>
+            <li>
+              <a href="#como-solicitar">Como solicitar uma devolução na Amazon</a>
+              <p>Acompanhe o passo a passo completo para abrir uma solicitação de
+              devolução dentro da sua conta na plataforma Amazon.</p>
+            </li>
+            <li>
+              <a href="#prazos">Prazos para devolução</a>
+              <p>Conheça os prazos estabelecidos pela Amazon para a solicitação e o
+              envio de retorno dos produtos devolvidos.</p>
+            </li>
+            <li>
+              <a href="#produtos-elegiveis">Produtos elegíveis para devolução</a>
+              <p>Descubra quais categorias de produtos podem ser devolvidas e quais
+              possuem restrições ou condições específicas.</p>
+            </li>
+            <li>
+              <a href="#reembolso">Reembolso</a>
+              <p>Entenda como e quando o valor pago pelo produto é devolvido após
+              a aprovação da solicitação de devolução.</p>
+            </li>
+            <li>
+              <a href="#contato">Contato</a>
+              <p>Veja como entrar em contato com a Amazon e com o nosso portal
+              em caso de dúvidas sobre produtos ou conteúdo.</p>
+            </li>
+          </ol>
+        </nav>
+
+        <section aria-labelledby="o-que-e">
+          <h2 id="o-que-e">O que é o Melhores Receitas Fit?</h2>
+          <p>
+            O <strong>Melhores Receitas Fit</strong> é um portal de conteúdo especializado em alimentação
+            saudável, receitas fit e suplementos nutricionais para quem busca uma vida mais equilibrada.
+            Somos <strong>participantes do Programa de Associados da Amazon Brasil</strong>, um programa de
+            afiliados que permite a portais de conteúdo como o nosso indicar produtos e receber uma comissão
+            pelas vendas geradas.
+          </p>
+          <p>
+            Essa comissão <strong>não representa nenhum custo adicional para o consumidor</strong>: o preço
+            que você paga é exatamente o mesmo que encontraria ao acessar a Amazon diretamente.
+            Nossa remuneração é paga pela própria Amazon como recompensa pela indicação realizada em
+            nossas páginas de conteúdo.
+          </p>
+        </section>
+
+        <section aria-labelledby="como-funcionam-compras">
+          <h2 id="como-funcionam-compras">Como funcionam as compras neste site?</h2>
+          <p>
+            Ao clicar em qualquer botão ou link de produto neste site, você é redirecionado para a
+            <strong>página oficial do produto na Amazon Brasil</strong>, onde toda a jornada de compra
+            é concluída diretamente na plataforma da Amazon.
+            Pagamento, confirmação de pedido, frete e entrega são de responsabilidade exclusiva da
+            Amazon e do vendedor parceiro cadastrado na plataforma.
+          </p>
+          <p>
+            O <strong>Melhores Receitas Fit</strong> não armazena dados de pagamento, não processa
+            transações financeiras e não participa de nenhuma etapa logística do seu pedido.
+            Somos apenas o canal de indicação do produto, e a relação contratual de compra ocorre
+            diretamente entre você e a Amazon.
+          </p>
+        </section>
+
+        <section aria-labelledby="processo-devolucao">
+          <h2 id="processo-devolucao">Processo de devolução de produtos</h2>
+          <p>
+            Como não somos vendedores diretos, <strong>não temos capacidade de processar devoluções</strong>
+            de produtos adquiridos por meio dos nossos links de afiliado.
+            Toda solicitação de devolução deve ser feita diretamente na <strong>plataforma da Amazon</strong>,
+            onde a transação foi realizada e onde o histórico completo do pedido está registrado.
+          </p>
+          <p>
+            A Amazon disponibiliza uma <strong>Central de Devoluções</strong> completa e automatizada,
+            que permite ao consumidor abrir, acompanhar e concluir o processo de devolução de forma
+            rápida e segura.
+            O processo pode ser iniciado diretamente pela conta do comprador, sem necessidade de
+            contato prévio com o vendedor ou com o nosso portal.
+          </p>
+        </section>
+
+        <section aria-labelledby="como-solicitar">
+          <h2 id="como-solicitar">Como solicitar uma devolução na Amazon</h2>
+          <p>
+            Para devolver um produto comprado por meio de um link do nosso site, acesse sua conta
+            em <strong>amazon.com.br</strong> e siga as etapas indicadas abaixo.
+            O processo leva apenas alguns minutos e pode ser realizado pelo computador ou pelo
+            aplicativo oficial da Amazon no celular.
+          </p>
+          <ol class="politica-steps">
+            <li>
+              <strong>Acesse "Devoluções e Pedidos"</strong> no menu da sua conta Amazon.
+              <p>Essa opção está disponível no canto superior direito da página inicial,
+              ao passar o cursor sobre o seu nome de usuário.</p>
+            </li>
+            <li>
+              <strong>Localize o pedido</strong> que deseja devolver na lista de compras recentes.
+              <p>Utilize os filtros de data disponíveis para encontrar pedidos mais antigos
+              com mais facilidade.</p>
+            </li>
+            <li>
+              <strong>Clique em "Devolver ou Substituir Itens"</strong> ao lado do produto escolhido.
+              <p>Essa opção aparece ao expandir os detalhes do pedido dentro da sua conta
+              na plataforma.</p>
+            </li>
+            <li>
+              <strong>Selecione o motivo da devolução</strong> entre as opções disponíveis na lista.
+              <p>O motivo escolhido pode influenciar quem arca com o custo do frete de
+              retorno do produto.</p>
+            </li>
+            <li>
+              <strong>Escolha o método de envio</strong> e imprima a etiqueta gerada pela Amazon.
+              <p>Cole a etiqueta na embalagem e deposite o produto nos Correios ou no ponto
+              de coleta indicado pela plataforma.</p>
+            </li>
+          </ol>
+        </section>
+
+        <section aria-labelledby="prazos">
+          <h2 id="prazos">Prazos para devolução</h2>
+          <p>
+            A <strong>Amazon Brasil</strong> aceita devoluções dentro do prazo de <strong>30 dias corridos</strong>
+            a partir da data de entrega do produto, para a grande maioria das categorias de itens.
+            Esse prazo é contado a partir do dia em que o produto foi entregue no endereço
+            cadastrado no pedido.
+          </p>
+          <p>
+            Algumas categorias específicas, como <strong>eletrônicos</strong>,
+            <strong>eletrodomésticos</strong> e produtos de vendedores parceiros, podem ter prazos distintos.
+            Recomendamos verificar as <strong>condições específicas de devolução na página do produto</strong>
+            dentro da Amazon antes de finalizar qualquer compra.
+          </p>
+        </section>
+
+        <section aria-labelledby="produtos-elegiveis">
+          <h2 id="produtos-elegiveis">Produtos elegíveis para devolução</h2>
+          <p>
+            A maioria dos produtos vendidos na Amazon Brasil são elegíveis para devolução, desde que
+            estejam em condições originais, com embalagem intacta e acompanhados de todos os
+            acessórios e manuais incluídos na caixa.
+            Produtos com sinais de uso que vão além de uma inspeção visual básica podem ter a
+            devolução recusada pela Amazon ou pelo vendedor parceiro responsável.
+          </p>
+          <p>
+            Algumas categorias possuem restrições ou não são elegíveis para devolução, como
+            <strong>produtos perecíveis</strong>, <strong>itens de higiene pessoal abertos</strong>,
+            <strong>conteúdo digital</strong> e <strong>suplementos alimentares com lacre violado</strong>.
+            Sempre confira a política específica de cada produto diretamente na página de detalhes
+            dentro da plataforma Amazon.
+          </p>
+        </section>
+
+        <section aria-labelledby="reembolso">
+          <h2 id="reembolso">Reembolso</h2>
+          <p>
+            Após a aprovação da devolução pela Amazon e o recebimento do produto no armazém,
+            o <strong>reembolso é processado de acordo com o método de pagamento original</strong>
+            utilizado na compra.
+            O prazo para o valor aparecer na sua conta pode variar entre 3 e 10 dias úteis,
+            dependendo da sua operadora de cartão ou instituição financeira.
+          </p>
+          <p>
+            Compras realizadas com <strong>cartão de crédito</strong> podem levar até duas faturas
+            para serem revertidas, conforme a política de cada operadora de cartão.
+            Pagamentos via <strong>Pix</strong> ou <strong>boleto bancário</strong> são reembolsados
+            diretamente na conta cadastrada, com prazo em geral de até 5 dias úteis após a aprovação
+            da solicitação.
+          </p>
+        </section>
+
+        <section aria-labelledby="contato">
+          <h2 id="contato">Contato</h2>
+          <p>
+            Para todas as questões relacionadas a devoluções, trocas, reembolsos e problemas com
+            produtos, entre em contato diretamente com o
+            <strong>Atendimento ao Cliente da Amazon</strong> pelo endereço
+            <a
+              href="https://www.amazon.com.br/gp/help/customer/display.html"
+              class="politica-link"
+              target="_blank"
+              rel="noopener noreferrer"
+            >amazon.com.br/ajuda</a>.
+            A equipe da Amazon está disponível para atender via chat, telefone e e-mail
+            em todos os dias da semana.
+          </p>
+          <p>
+            Para dúvidas sobre o conteúdo publicado no nosso portal, como receitas, suplementos
+            indicados ou informações nutricionais, entre em contato pelo e-mail
+            <a href="mailto:contato@melhoresreceitasfit.com.br" class="politica-link">
+              contato@melhoresreceitasfit.com.br
+            </a>.
+            Respondemos todas as mensagens em até 2 dias úteis.
+          </p>
+        </section>
+      </article>
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .politica-page {
+    max-width: var(--max-width-text);
+    padding-block: var(--space-8) var(--space-16);
+  }
+
+  .politica-page__header {
+    margin-bottom: var(--space-10);
+    padding-bottom: var(--space-8);
+    border-bottom: var(--border);
+  }
+
+  .politica-intro {
+    margin-top: var(--space-4);
+    line-height: 1.75;
+  }
+
+  .politica-page section {
+    margin-bottom: var(--space-10);
+  }
+
+  .politica-page h2 {
+    font-size: var(--text-2xl);
+    margin-bottom: var(--space-4);
+    color: var(--color-primary);
+  }
+
+  .politica-page p {
+    line-height: 1.75;
+    margin-bottom: var(--space-4);
+  }
+
+  /* Sumário */
+  .politica-sumario {
+    background-color: var(--color-surface);
+    border: var(--border);
+    border-radius: 0.5rem;
+    padding: var(--space-8);
+    margin-bottom: var(--space-10);
+  }
+
+  .politica-sumario__titulo {
+    font-size: var(--text-2xl);
+    margin-bottom: var(--space-4);
+    color: var(--color-primary);
+  }
+
+  .politica-sumario__lista {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-4);
+    padding-left: var(--space-4);
+  }
+
+  .politica-sumario__lista li {
+    line-height: 1.6;
+  }
+
+  .politica-sumario__lista li a {
+    font-weight: 600;
+    color: var(--color-primary);
+    text-decoration: underline;
+  }
+
+  .politica-sumario__lista li p {
+    margin-top: 0.25rem;
+    font-size: var(--text-sm);
+    margin-bottom: 0;
+    line-height: 1.6;
+  }
+
+  /* Passos numerados */
+  .politica-steps {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-4);
+    padding-left: var(--space-4);
+    margin-top: var(--space-4);
+  }
+
+  .politica-steps li {
+    line-height: 1.75;
+  }
+
+  .politica-steps li p {
+    margin-top: 0.25rem;
+    font-size: var(--text-sm);
+    margin-bottom: 0;
+    line-height: 1.6;
+  }
+
+  /* Links */
+  .politica-link {
+    color: var(--color-primary);
+    font-weight: 600;
+    text-decoration: underline;
+  }
+</style>
