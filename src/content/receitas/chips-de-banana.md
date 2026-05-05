@@ -112,7 +112,7 @@ Retire os chips e **deixe esfriar completamente** antes de guardar. Chips quente
 
 ### Chips de banana na air fryer
 
-**Air fryer:** 150°C por **8 a 10 minutos**, virando na metade. Mais rapido que o forno, mas monitorar de perto: a circulacao de ar quente pode queimar os chips mais rapido. Vantagem: ficam extremamente crocantes.
+**<a href="https://amzn.to/3P5pSNB" class="link-amazon" target="_blank" rel="noopener sponsored">Air fryer</a>:** 150°C por **8 a 10 minutos**, virando na metade. Mais rapido que o forno, mas monitorar de perto: a circulacao de ar quente pode queimar os chips mais rapido. Vantagem: ficam extremamente crocantes.
 
 ### Como usar chips de banana prontos
 

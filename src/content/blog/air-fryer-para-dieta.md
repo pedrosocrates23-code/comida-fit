@@ -4,7 +4,7 @@ description: "Saiba como a air fryer facilita a dieta com preparações mais sau
 publishDate: 2026-05-04
 categoria: dicas-fit
 tipo: artigo
-image: "/afiliados/images/air-fryer-dieta.jpg"
+image: "https://m.media-amazon.com/images/I/81cUAhQ4LcL._AC_SL1500_.jpg"
 imageAlt: "Air fryer na bancada da cozinha com alimentos fit ao redor"
 keywords:
   - "air fryer para dieta"
@@ -45,7 +45,7 @@ produtos:
 ## Sumário
 
 1. **Contexto: por que o método de preparo importa na dieta** — Entenda como a forma de cozinhar influencia diretamente as calorias e a qualidade nutricional do prato.
-2. **O que é uma air fryer e como ela funciona** — Conheça a tecnologia por trás da fritadeira elétrica e o motivo pelo qual ela reduz tanto a gordura das preparações.
+2. **O que é uma air fryer e como ela funciona** — Conheça a tecnologia por trás da <a href="https://amzn.to/3P5pSNB" class="link-amazon" target="_blank" rel="noopener sponsored">fritadeira elétrica</a> e o motivo pelo qual ela reduz tanto a gordura das preparações.
 3. **Benefícios para quem faz dieta** — Veja por que a air fryer entrou de vez nas cozinhas de quem controla a alimentação.
 4. **O que preparar na air fryer no dia a dia fit** — Proteínas, legumes, lanches e sobremesas saudáveis que ficam prontos em minutos.
 5. **Como escolher a air fryer certa para o seu perfil** — Capacidade, potência e funções essenciais para quem usa o aparelho na rotina da dieta.
@@ -71,7 +71,7 @@ A **air fryer** é um eletrodoméstico que circula ar quente em alta velocidade 
 A tecnologia imita o efeito da fritura por convecção, mas com controle muito maior de temperatura e sem o volume de óleo que a fritura convencional exige.
 O resultado é uma textura próxima à fritura com até **80% menos gordura** no preparo.
 
-<img src="/afiliados/images/air-fryer-funcionamento.jpg" alt="Interior da air fryer com circulação de ar quente durante o preparo" loading="lazy" />
+<img src="https://m.media-amazon.com/images/I/81cUAhQ4LcL._AC_SL1500_.jpg" alt="Interior da air fryer com circulação de ar quente durante o preparo" loading="lazy" / />
 
 O aparelho atinge a temperatura de trabalho em menos de 3 minutos, o que também representa economia de tempo e energia elétrica em comparação ao forno convencional.
 A distribuição uniforme do calor garante que todos os lados do alimento recebam o mesmo tratamento, eliminando os pontos crus ou queimados comuns em outros métodos.
@@ -100,7 +100,7 @@ Quem cozinha mais em casa controla melhor o que come e gasta menos com alimenta�
 **Proteínas magras** são o ponto forte do equipamento. Peito de frango, filé de tilápia, salmão, camarão e atum ficam prontos em até 15 minutos com casquinha dourada e interior suculento.
 A textura final é consistentemente melhor do que na frigideira e sem o excesso de gordura da grelha com manteiga.
 
-<img src="/afiliados/images/air-fryer-frango-fit.jpg" alt="Peito de frango temperado e dourado preparado na air fryer" loading="lazy" />
+<img src="https://m.media-amazon.com/images/I/81cUAhQ4LcL._AC_SL1500_.jpg" alt="Peito de frango temperado e dourado preparado na air fryer" loading="lazy" / />
 
 **Vegetais assados** ganham outro nível de sabor na air fryer. Brócolis, couve-flor, abobrinha, aspargos e pimentão ficam levemente caramelizados por fora sem precisar de óleo em quantidade.
 Para quem tem resistência a vegetais, a textura que a air fryer entrega costuma mudar completamente a percepção do alimento.
@@ -133,7 +133,7 @@ Prefira modelos com peças laváveis na máquina de lavar louça para garantir q
 Prefira fazer em lotes menores ou espalhar bem os alimentos em uma única camada sempre que possível.
 Essa simples atenção muda completamente a qualidade final do preparo.
 
-**Use spray de azeite em vez de fio de óleo.** Um borrifador com azeite extravirgem cobre toda a superfície do alimento com muito menos gordura do que um fio aplicado à mão.
+**Use <a href="https://amzn.to/3PlrDGs" class="link-amazon" target="_blank" rel="noopener sponsored">spray de azeite</a> em vez de fio de óleo.** Um borrifador com azeite extravirgem cobre toda a superfície do alimento com muito menos gordura do que um fio aplicado à mão.
 A diferença calórica acumulada ao longo de semanas é significativa para quem está em processo de emagrecimento.
 Sprays de azeite específicos para uso culinário estão amplamente disponíveis e são uma das melhores compras complementares à air fryer.
 

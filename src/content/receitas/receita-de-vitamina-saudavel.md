@@ -163,7 +163,7 @@ A **chia** adiciona **5g de fibras por colher de sopa**, desacelerando a absorca
 Sim. A vitamina fica boa sem whey, mas a proteina cai para apenas **4g por copo**. Sem a proteina, e mais um smoothie de fruta que uma vitamina proteica de verdade. Alternativas: **2 colheres de cottage**, **1/2 xicara de iogurte grego** ou **2 colheres de amendoim**.
 
 **O whey pode ser de qualquer sabor?**
-Sim. O sabor baunilha combina melhor com banana e canela, mas chocolate tambem funciona muito bem (vitamina de banana com chocolate). Whey neutro e uma boa opcao se voce quiser controlar o sabor completamente.
+Sim. O sabor baunilha combina melhor com banana e canela, mas chocolate tambem funciona muito bem (vitamina de banana com chocolate). <a href="https://amzn.to/4n9BmvS" class="link-amazon" target="_blank" rel="noopener sponsored">Whey neutro</a> e uma boa opcao se voce quiser controlar o sabor completamente.
 
 **Precisa ser banco congelada?**
 Sim para a textura espessa. Com banana fresca, a vitamina fica boa mas mais liquida, similar a um milk-shake ralo. Se quiser textura espessa sem banana congelada, adicione **3 cubos de gelo** extras ao liquidificador.

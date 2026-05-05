@@ -93,7 +93,7 @@ Coloque a banana temperada com canela no centro do crepe. Enrole com as duas mao
 
 Para fixar, espete um palito de dente ou sirva com a emenda para baixo. Polvilhe **canela extra** por cima e sirva imediatamente (o crepe quente e a combinacao mais saborosa).
 
-> 💡 **Dica:** Para uma crocancia extra, leve os enroladinhos prontos a air fryer por **3 minutos a 180°C**. A aveia externa fica ligeiramente tostada, criando uma textura crocante que contrasta com o recheio macio.
+> 💡 **Dica:** Para uma crocancia extra, leve os enroladinhos prontos a <a href="https://amzn.to/3P5pSNB" class="link-amazon" target="_blank" rel="noopener sponsored">air fryer</a> por **3 minutos a 180°C**. A aveia externa fica ligeiramente tostada, criando uma textura crocante que contrasta com o recheio macio.
 
 > ⚠️ **Erro comum:** Enrolar muito frouxo. Um enroladinho frouxo abre ao ser mordido e o recheio cai. Pressione levemente ao enrolar para a banana e a pasta ficarem firmemente dentro do crepe.
 

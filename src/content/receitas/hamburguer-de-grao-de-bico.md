@@ -47,7 +47,7 @@ Escorra bem o **grão-de-bico cozido** e seque levemente com **papel toalha**. O
 
 Use um **garfo** para amassar, aplicando pressão uniforme mas intencional: o objetivo é obter uma mistura com **textura irregular**, com aproximadamente **70% amassado e 30% em pedaços menores**. Essa textura heterogênea cria hambúrgueres com mais personalidade e melhor estrutura do que uma pasta completamente homogênea.
 
-> 💡 **Dica:** Você também pode usar um processador de alimentos com pulsos curtos (não deixe processar continuamente). 3-4 pulsos são suficientes para a textura ideal sem virar homus.
+> 💡 **Dica:** Você também pode usar um <a href="https://amzn.to/48IBhJT" class="link-amazon" target="_blank" rel="noopener sponsored">processador de alimentos</a> com pulsos curtos (não deixe processar continuamente). 3-4 pulsos são suficientes para a textura ideal sem virar homus.
 
 > ⚠️ **Erro comum:** Amassar demais e criar uma pasta completamente lisa. Quanto mais uniforme a pasta, mais o hambúrguer vai desmanchar ao grelhar e mais sua textura vai lembrar um biscoito do que um hambúrguer.
 

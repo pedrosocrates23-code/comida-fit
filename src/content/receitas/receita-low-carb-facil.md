@@ -159,7 +159,7 @@ Funciona, mas resseca a carne. Para reaquecer sem perder a suculencia, use frigi
 **Qual o ponto certo do frango grelhado?**
 O frango esta pronto quando a temperatura interna atingir **74°C** (termometro culinario) ou quando, ao pressionar com o dedo, sentir firmeza sem resistencia de carne crua. O suco que escorrer ao fatiar deve ser claro, nao rosado.
 
-**Posso fazer essa receita na air fryer?**
+**Posso fazer essa receita na <a href="https://amzn.to/3P5pSNB" class="link-amazon" target="_blank" rel="noopener sponsored">air fryer</a>?**
 Sim. Coloque os files temperados na cestinha, **200°C por 12 a 14 minutos**, virando na metade. O brocolis vai na air fryer com azeite e alho por **8 minutos a 180°C**.
 
 **O brocolis pode ser substituido por brocolis congelado?**

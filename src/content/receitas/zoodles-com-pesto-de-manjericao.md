@@ -43,7 +43,7 @@ featured: false
 ## Passo a Passo Detalhado
 
 ### Passo 1: Espiralize as abobrinhas para criar os zoodles
-Lave e seque as **abobrinhas**. Use um **espiralizador** (o equipamento mais eficiente), um descascador de legumes em movimentos longos para criar fitas mais largas, ou um cortador **mandoline** com lâmina julienne. Espiralize até chegar próximo ao **núcleo com sementes**, pois esse miolo é mais aquoso e vai deixar o prato com excesso de líquido.
+Lave e seque as **abobrinhas**. Use um **<a href="https://amzn.to/4wasqdY" class="link-amazon" target="_blank" rel="noopener sponsored">espiralizador</a>** (o equipamento mais eficiente), um descascador de legumes em movimentos longos para criar fitas mais largas, ou um cortador **mandoline** com lâmina julienne. Espiralize até chegar próximo ao **núcleo com sementes**, pois esse miolo é mais aquoso e vai deixar o prato com excesso de líquido.
 
 Reserve os **zoodles** em um escorredor ou sobre **papel toalha** para que o excesso de **umidade** drene naturalmente por **5-10 minutos**.
 
@@ -54,7 +54,7 @@ Reserve os **zoodles** em um escorredor ou sobre **papel toalha** para que o exc
 ---
 
 ### Passo 2: Processe o pesto de manjericão fresco
-No **processador de alimentos** ou liquidificador, adicione as folhas de **manjericão fresco** (aperte bem para medir), o **azeite extra virgem**, as **castanhas-de-caju** (ou pinholi, para o pesto mais tradicional), o dente de **alho** e o **suco de limão**. Processe em **pulsos curtos** no início para quebrar os ingredientes grosseiros, depois processe continuamente por **30-40 segundos**.
+No **<a href="https://amzn.to/48IBhJT" class="link-amazon" target="_blank" rel="noopener sponsored">processador de alimentos</a>** ou liquidificador, adicione as folhas de **manjericão fresco** (aperte bem para medir), o **azeite extra virgem**, as **castanhas-de-caju** (ou pinholi, para o pesto mais tradicional), o dente de **alho** e o **suco de limão**. Processe em **pulsos curtos** no início para quebrar os ingredientes grosseiros, depois processe continuamente por **30-40 segundos**.
 
 O **pesto** deve ter textura levemente **rústica**, não completamente lisa. Um pesto com alguns pedaços pequenos tem mais personalidade.
 

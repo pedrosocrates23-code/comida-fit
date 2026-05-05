@@ -189,7 +189,7 @@ Sim, com um passo extra essencial: descongele completamente na geladeira (nunca 
 
 Sem secagem adequada, vai soltar muita água no forno e o peixe vai cozinhar no próprio vapor em vez de assar, com resultado muito inferior.
 
-**Posso fazer esta receita na airfryer?**
-Com excelentes resultados! Asse a 200°C por 10 a 12 minutos, sem papel-manteiga (use spray de azeite diretamente na cesta). A airfryer cria uma crosta mais seca e levemente crocante que o forno convencional, o que muitas pessoas preferem. O tempo é menor pela circulação de ar quente forçada.
+**Posso fazer esta receita na <a href="https://amzn.to/3P5pSNB" class="link-amazon" target="_blank" rel="noopener sponsored">airfryer</a>?**
+Com excelentes resultados! Asse a 200°C por 10 a 12 minutos, sem papel-manteiga (use <a href="https://amzn.to/3PlrDGs" class="link-amazon" target="_blank" rel="noopener sponsored">spray de azeite</a> diretamente na cesta). A airfryer cria uma crosta mais seca e levemente crocante que o forno convencional, o que muitas pessoas preferem. O tempo é menor pela circulação de ar quente forçada.
 
 Fique de olho a partir dos 8 minutos para não passar do ponto.

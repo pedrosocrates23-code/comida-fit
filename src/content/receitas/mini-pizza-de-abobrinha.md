@@ -114,7 +114,7 @@ Se mesmo assim a base ficar molhada, aumente o tempo de forno em 3 minutos sem o
 
 ### Variante na air fryer
 
-Na air fryer a **200°C por 6 a 8 minutos**, a base fica ainda mais crocante por causa da circulacao de ar quente. Nao e necessario prensar forno ou papel manteiga. Coloque as rodelas diretamente na cestinha.
+Na <a href="https://amzn.to/3P5pSNB" class="link-amazon" target="_blank" rel="noopener sponsored">air fryer</a> a **200°C por 6 a 8 minutos**, a base fica ainda mais crocante por causa da circulacao de ar quente. Nao e necessario prensar forno ou papel manteiga. Coloque as rodelas diretamente na cestinha.
 
 ---
 

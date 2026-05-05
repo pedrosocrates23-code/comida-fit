@@ -42,7 +42,7 @@ featured: false
 
 ## O Macarrao que Nao Sabota a Dieta
 
-O **macarrao de abobrinha com molho branco fit** e um dos substitutos de massa mais convincentes da culinaria low carb. Com **espiralizador ou simples descascador de legumes**, a abobrinha vira espaguetes que absorvem qualquer molho como uma massa real, com apenas **8g de carboidratos** versus os **43g** de uma porcao convencional de espaguete.
+O **macarrao de abobrinha com molho branco fit** e um dos substitutos de massa mais convincentes da culinaria low carb. Com **<a href="https://amzn.to/4wasqdY" class="link-amazon" target="_blank" rel="noopener sponsored">espiralizador</a> ou simples descascador de legumes**, a abobrinha vira espaguetes que absorvem qualquer molho como uma massa real, com apenas **8g de carboidratos** versus os **43g** de uma porcao convencional de espaguete.
 
 O **molho branco de ricota** substitui o bechamel classico (manteiga + farinha + leite) sem perder cremosidade, entregando mais proteina e menos gordura saturada.
 

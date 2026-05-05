@@ -4,7 +4,7 @@ description: "Descubra como o espiral de legumes (spiralizer) substitui o macarr
 publishDate: 2026-05-04
 categoria: dicas-fit
 tipo: artigo
-image: "/afiliados/images/espiral-legumes-dieta.jpg"
+image: "https://m.media-amazon.com/images/I/81iTnfyn3wL._AC_SL1500_.jpg"
 imageAlt: "Espiral de legumes fazendo tiras de abobrinha como substituto de macarrão"
 keywords:
   - "espiral de legumes dieta"
@@ -28,7 +28,7 @@ produtos:
 
 ## Sumário
 
-1. **Contexto: o desafio do carboidrato no prato de quem faz dieta** — Entenda por que substituir massas convencionais é uma estratégia eficaz e como o espiral de legumes torna isso viável.
+1. **Contexto: o desafio do carboidrato no prato de quem faz dieta** — Entenda por que substituir massas convencionais é uma estratégia eficaz e como o <a href="https://amzn.to/4wasqdY" class="link-amazon" target="_blank" rel="noopener sponsored">espiral de legumes</a> torna isso viável.
 2. **O que é um espiral de legumes e como funciona** — Conheça o equipamento, os tipos disponíveis e o que cada um produz.
 3. **Benefícios para quem segue dieta low carb ou de emagrecimento** — Veja os números por trás da substituição e o impacto real na contagem de calorias e carboidratos.
 4. **Quais legumes funcionam melhor no espiral** — Os melhores vegetais para espiralar e como usá-los em diferentes preparações.
@@ -55,7 +55,7 @@ O **espiral de legumes**, também chamado de **spiralizer**, é um utensílio qu
 O funcionamento é simples: o vegetal é encaixado no aparelho e pressionado contra uma lâmina giratória que corta a polpa em espirais contínuas.
 O resultado são "fios" de vegetal que podem ser consumidos crus, levemente refogados ou cozidos no vapor.
 
-<img src="/afiliados/images/spiralizer-abobrinha-tiras.jpg" alt="Spiralizer cortando abobrinha em tiras finas semelhantes a macarrão" loading="lazy" />
+<img src="https://m.media-amazon.com/images/I/81iTnfyn3wL._AC_SL1500_.jpg" alt="Spiralizer cortando abobrinha em tiras finas semelhantes a macarrão" loading="lazy" / />
 
 Existem dois tipos principais de spiralizer. O **modelo de bancada** tem uma manivela lateral e fica fixo por ventosas ou grampos, ideal para processar grandes volumes rapidamente.
 O **modelo manual de cabo** é menor, mais econômico e fácil de guardar, mas exige mais esforço para vegetais mais duros.
@@ -69,7 +69,7 @@ A comparação entre macarrão convencional e espiral de abobrinha é reveladora
 A mesma quantidade visual de macarrão cozido contém cerca de **260 calorias e 52g de carboidratos**.
 Essa diferença de mais de **220 calorias por refeição** é, em uma semana com 5 refeições de massa, equivalente a quase 1.500 calorias economizadas.
 
-<img src="/afiliados/images/comparativo-massa-espiral.jpg" alt="Comparativo visual entre macarrão convencional e espiral de abobrinha no prato" loading="lazy" />
+<img src="https://m.media-amazon.com/images/I/81iTnfyn3wL._AC_SL1500_.jpg" alt="Comparativo visual entre macarrão convencional e espiral de abobrinha no prato" loading="lazy" / />
 
 Além do impacto calórico, os espirais de legumes entregam **fibras alimentares**, vitaminas e minerais que o macarrão convencional não tem.
 A fibra presente nos vegetais aumenta o tempo de digestão e contribui para a saciedade, o que ajuda a controlar o apetite nas horas seguintes à refeição.
@@ -92,7 +92,7 @@ Tem textura mais firme e requer um spiralizer mais robusto.
 Rica em antioxidantes, nitratos naturais e fibras, é uma das opções mais nutritivas para espiralar.
 
 **Batata-doce** espiral é uma das substituições mais saborosas para massas mais encorpadas.
-Assada na air fryer ou levemente refogada na frigideira, ela entrega um resultado com mais sabor e estrutura do que a abobrinha.
+Assada na <a href="https://amzn.to/3P5pSNB" class="link-amazon" target="_blank" rel="noopener sponsored">air fryer</a> ou levemente refogada na frigideira, ela entrega um resultado com mais sabor e estrutura do que a abobrinha.
 Tem carboidratos, mas com índice glicêmico mais baixo que a batata comum e perfil nutritivo muito superior ao macarrão.
 
 **Pepino e cenoura** são boas opções para versões cruas em saladas asiáticas e bowls frios.

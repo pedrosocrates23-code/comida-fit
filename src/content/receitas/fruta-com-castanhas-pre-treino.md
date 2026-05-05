@@ -74,7 +74,7 @@ Use uma **tigela ou pote com tampa** se for levar na mochila, pois frutas soltas
 ### Passo 4: Medir e adicionar as castanhas
 Meça as porções de castanhas com precisão: **10g de castanha-do-pará** (são exatamente 2 unidades grandes), **15g de nozes** (equivale a 2 metades ou 4 quartos), **10g de amêndoas** (cerca de 8 a 10 unidades). Castanhas são **densas em calorias**.
 
-Pequenas variações no peso têm **grande impacto calórico**. Uma **balança de cozinha** ou o hábito de contar unidades garante que você não ultrapasse as **11g de gordura** previstas na receita sem perceber.
+Pequenas variações no peso têm **grande impacto calórico**. Uma **<a href="https://amzn.to/4ut425E" class="link-amazon" target="_blank" rel="noopener sponsored">balança de cozinha</a>** ou o hábito de contar unidades garante que você não ultrapasse as **11g de gordura** previstas na receita sem perceber.
 
 > 💡 **Dica:** Prepare pacotinhos semanais com as castanhas já separadas nas porções corretas. Use pequenos saquinhos de papel ou potes individuais de 50 ml, um por dia de treino. Isso elimina a necessidade de medir na pressa antes do treino.
 

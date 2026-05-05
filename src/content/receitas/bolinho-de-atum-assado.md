@@ -145,7 +145,7 @@ A estrutura pode não se manter da mesma forma.
 
 ## Como Armazenar
 
-**Geladeira:** Até 4 dias em pote fechado. Aqueça no forno a 180°C por 5 minutos ou no airfryer por 3 minutos para recuperar a crocância.
+**Geladeira:** Até 4 dias em pote fechado. Aqueça no forno a 180°C por 5 minutos ou no <a href="https://amzn.to/3P5pSNB" class="link-amazon" target="_blank" rel="noopener sponsored">airfryer</a> por 3 minutos para recuperar a crocância.
 **Freezer:** Sim, até 2 meses. Congele os bolinhos crus (já modelados) em uma assadeira e depois transfira para sacos. Asse direto do freezer a 200°C por 25 minutos.
 **Preparo antecipado:** A massa pode ser preparada e refrigerada por até 24 horas antes de modelar e assar.
 

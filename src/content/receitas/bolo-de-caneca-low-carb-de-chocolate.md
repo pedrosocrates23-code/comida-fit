@@ -114,7 +114,7 @@ Um bolo de caneca sem repouso fica com interior excessivamente liquido e escorre
 
 No forno: despeje a massa em ramequin untado, asse a **180°C por 12 a 14 minutos**. Resultado ligeiramente mais seco que o microondas, mas funciona bem.
 
-Na air fryer: ramequin a **160°C por 8 a 10 minutos**.
+Na <a href="https://amzn.to/3P5pSNB" class="link-amazon" target="_blank" rel="noopener sponsored">air fryer</a>: ramequin a **160°C por 8 a 10 minutos**.
 
 ### O bolo pode ser preparado com antecedencia?
 

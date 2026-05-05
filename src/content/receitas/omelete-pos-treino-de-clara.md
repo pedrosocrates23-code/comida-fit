@@ -55,7 +55,7 @@ A **gema do ovo inteiro** contribui com **lecitina**, que ajuda a **emulsificar*
 ### Passo 2: Aqueça a frigideira e aplique o spray de azeite
 Coloque a **frigideira antiaderente** em **fogo médio** por **1 a 2 minutos** até aquecer. Faça o **teste da gota**: pingue uma gota de água na frigideira.
 
-Se evaporar imediatamente com **som de chiado**, está na **temperatura certa**. Aplique o **spray de azeite** de forma uniforme por toda a superfície, inclusive nas bordas. O spray usa quantidades mínimas de gordura (aproximadamente **1g por segundo** de spray), o que mantém as **calorias baixíssimas** sem comprometer o antiaderente natural do azeite.
+Se evaporar imediatamente com **som de chiado**, está na **temperatura certa**. Aplique o **<a href="https://amzn.to/3PlrDGs" class="link-amazon" target="_blank" rel="noopener sponsored">spray de azeite</a>** de forma uniforme por toda a superfície, inclusive nas bordas. O spray usa quantidades mínimas de gordura (aproximadamente **1g por segundo** de spray), o que mantém as **calorias baixíssimas** sem comprometer o antiaderente natural do azeite.
 
 > 💡 **Dica:** Se não tiver spray de azeite, unte com um pedaço de papel toalha dobrado levemente untado com meia colher de chá de azeite. Espalhe em camada finíssima. Gordura demais deixa a omelete encharcada; gordura de menos faz grudar.
 

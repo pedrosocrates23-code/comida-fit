@@ -171,7 +171,7 @@ Para fatias limpas: refrigere a quiche assada por **1 hora** antes de fatiar. A 
 
 ## Como Armazenar
 
-**Geladeira:** Ate **4 dias** coberta com filme plastico. Reaqueça por fatia na air fryer (**180°C por 4 minutos**) para recuperar a crocancia da massa.
+**Geladeira:** Ate **4 dias** coberta com filme plastico. Reaqueça por fatia na <a href="https://amzn.to/3P5pSNB" class="link-amazon" target="_blank" rel="noopener sponsored">air fryer</a> (**180°C por 4 minutos**) para recuperar a crocancia da massa.
 
 **Freezer:** Corte em fatias, embrulhe individualmente e congele por ate **30 dias**. Asse diretamente do freezer a **180°C por 15 minutos**.
 

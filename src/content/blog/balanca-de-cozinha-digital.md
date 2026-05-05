@@ -4,7 +4,7 @@ description: "Entenda por que a balança de cozinha digital é indispensável pa
 publishDate: 2026-05-04
 categoria: dicas-fit
 tipo: artigo
-image: "/afiliados/images/balanca-cozinha-digital.jpg"
+image: "https://m.media-amazon.com/images/I/51NW3Wo9b3L._SL1000_.jpg"
 imageAlt: "Balança de cozinha digital com alimentos pesados para contagem de macros"
 keywords:
   - "balança de cozinha digital"
@@ -59,11 +59,11 @@ Para quem segue um plano alimentar ajustado, esse tipo de imprecisão compromete
 
 ## Por que a Balança Digital é Indispensável na Dieta
 
-A **balança de cozinha digital** é o instrumento que transforma intenção alimentar em controle real.
+A **<a href="https://amzn.to/4ut425E" class="link-amazon" target="_blank" rel="noopener sponsored">balança de cozinha digital</a>** é o instrumento que transforma intenção alimentar em controle real.
 Ela elimina a margem de erro que sabota silenciosamente os resultados de quem faz dieta com cuidado mas não usa nenhuma ferramenta de mensuração.
 Com ela, o que você registra no aplicativo de contagem de macros corresponde de fato ao que você comeu.
 
-<img src="/afiliados/images/balanca-pesando-proteina.jpg" alt="Balança digital pesando peito de frango cru para cálculo de macros" loading="lazy" />
+<img src="https://m.media-amazon.com/images/I/51NW3Wo9b3L._SL1000_.jpg" alt="Balança digital pesando peito de frango cru para cálculo de macros" loading="lazy" / />
 
 A pesagem frequente também educa a percepção visual ao longo do tempo. Depois de algumas semanas usando a balança consistentemente, muitas pessoas conseguem estimar porções com bem mais precisão do que antes.
 Ou seja, o uso da balança não cria dependência, mas sim **calibra o senso de porções** para o resto da vida.
@@ -78,7 +78,7 @@ Com o equipamento, você sai de metas genéricas para metas reais e alcançávei
 O processo é simples e leva menos de 30 segundos por alimento. Coloque o recipiente ou prato na balança, **zere a tara** (função que desconta o peso do recipiente) e acrescente o alimento até atingir a gramagem desejada.
 A função de tara permite pesar múltiplos ingredientes no mesmo prato sem precisar sujar mais tigelas.
 
-<img src="/afiliados/images/balanca-tara-receita.jpg" alt="Balança de cozinha com função de tara sendo usada em receita fit" loading="lazy" />
+<img src="https://m.media-amazon.com/images/I/31txBXCP9fL._SX38_SY50_CR,0,0,38,50_.jpg" alt="Balança de cozinha com função de tara sendo usada em receita fit" loading="lazy" / />
 
 Para usar junto a aplicativos de contagem de macros como MyFitnessPal ou Tecnonutri, registre os alimentos em gramas crus sempre que possível.
 O valor nutricional dos alimentos crus é mais padronizado nas tabelas, enquanto o cozido varia conforme tempo de preparo e quantidade de água absorvida.

@@ -92,7 +92,7 @@ Com as maos levemente umedecidas (evita que a massa grude), forme **8 bolinhos**
 
 Aqueça a frigideira antiaderente com um **fio de azeite** em fogo medio. Cozinhe os bolinhos por **3 a 4 minutos de cada lado**, sem mexer antes do tempo, ate formar uma crosta dourada. Essa crosta e o que mantem o bolinho inteiro ao virar.
 
-> 💡 **Dica:** Para uma versao mais crocante, asse os bolinhos em forno a **200°C por 20 minutos**, virando na metade do tempo. Na air fryer, **190°C por 12 minutos** entrega a crosta mais crocante de todas as opcoes.
+> 💡 **Dica:** Para uma versao mais crocante, asse os bolinhos em forno a **200°C por 20 minutos**, virando na metade do tempo. Na <a href="https://amzn.to/3P5pSNB" class="link-amazon" target="_blank" rel="noopener sponsored">air fryer</a>, **190°C por 12 minutos** entrega a crosta mais crocante de todas as opcoes.
 
 > ⚠️ **Erro comum:** Usar fogo alto demais faz os bolinhos dourarem por fora mas ficarem creem por dentro. Fogo medio e o ponto certo para cozinhar uniformemente por dentro e por fora.
 

@@ -173,7 +173,7 @@ As causas mais comuns são: fatias muito grossas (mais de 3mm), não secar as fa
 
 Geralmente a solução está na espessura ou na umidade.
 
-**Posso fazer no airfryer?**
+**Posso fazer no <a href="https://amzn.to/3P5pSNB" class="link-amazon" target="_blank" rel="noopener sponsored">airfryer</a>?**
 Sim, e o resultado tende a ser ainda mais crocante. Coloque em camada única na cestinha a 180°C por 10 a 12 minutos, virando na metade. Trabalhe em lotes pequenos para não sobrelotar a cestinha.
 
 **A batata-doce roxa funciona igual à laranja?**

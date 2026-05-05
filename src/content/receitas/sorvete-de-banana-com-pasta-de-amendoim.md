@@ -47,7 +47,7 @@ Leve ao **freezer** por pelo menos **4 horas** (de um dia para o outro é o idea
 > ⚠️ **Erro comum:** Usar bananas verdes ou apenas amarelas. Bananas verdes têm amido resistente que não vira açúcar ainda, resultando em sorvete sem doçura natural e com sabor amargo. Só funciona com bananas bem maduras, pintadas ou quase passando.
 
 ### Passo 2: Processar as bananas congeladas até cremoso
-Coloque as fatias de **banana congelada** no **processador de alimentos** ou **liquidificador de alta potência**. Pulse em intervalos de **5 segundos**, raspando as laterais do copo entre cada pulso.
+Coloque as fatias de **banana congelada** no **<a href="https://amzn.to/48IBhJT" class="link-amazon" target="_blank" rel="noopener sponsored">processador de alimentos</a>** ou **liquidificador de alta potência**. Pulse em intervalos de **5 segundos**, raspando as laterais do copo entre cada pulso.
 
 No início vai parecer uma farofa granulada. Não se preocupe, é o processo normal. Após **2 a 3 minutos** de pulsação, a mistura vai virar um **creme sedoso e branco**, semelhante ao **sorvete soft serve**.
 

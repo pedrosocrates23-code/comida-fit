@@ -50,7 +50,7 @@ Uma torrada levemente dourada tem **crosta crocante** suficiente para suportar o
 ---
 
 ### Passo 2: Preparar os ovos mexidos cremosos e macios
-Quebre os **2 ovos** em uma tigela, adicione **sal** e **pimenta** e bata vigorosamente com um garfo por **30 segundos** até que **clara** e **gema** estejam completamente integradas. Unte levemente uma **frigideira antiaderente** pequena com **spray de azeite** e leve ao **fogo mais baixo** possível.
+Quebre os **2 ovos** em uma tigela, adicione **sal** e **pimenta** e bata vigorosamente com um garfo por **30 segundos** até que **clara** e **gema** estejam completamente integradas. Unte levemente uma **frigideira antiaderente** pequena com **<a href="https://amzn.to/3PlrDGs" class="link-amazon" target="_blank" rel="noopener sponsored">spray de azeite</a>** e leve ao **fogo mais baixo** possível.
 
 Despeje os ovos batidos e, com uma **espátula de silicone**, faça movimentos lentos e contínuos do centro para as bordas. **Ovos mexidos perfeitos** são feitos em **fogo baixo**, com paciência. O resultado são pedaços **suaves, cremosos e úmidos**, não pedaços secos e borrachudos.
 

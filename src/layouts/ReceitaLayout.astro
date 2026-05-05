@@ -454,4 +454,29 @@ const imageUrl = data.image.src;
     color: var(--color-primary);
     text-decoration-color: var(--color-primary);
   }
+
+  /* ── Link inline Amazon (palavras-chave linkadas a produtos) ─ */
+  .recipe-prose :global(a.link-amazon) {
+    color: #E85A00;
+    background: linear-gradient(120deg, rgba(232, 90, 0, 0.08) 0%, rgba(232, 90, 0, 0.16) 100%);
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: #E85A00;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+    font-weight: 700;
+    padding: 0.05em 0.25em;
+    border-radius: 3px;
+    transition: background .15s ease, color .15s ease;
+  }
+  .recipe-prose :global(a.link-amazon:hover) {
+    color: #fff;
+    background: #E85A00;
+    text-decoration: none;
+  }
+  .recipe-prose :global(a.link-amazon::after) {
+    content: " ↗";
+    font-size: 0.75em;
+    opacity: 0.7;
+  }
 </style>

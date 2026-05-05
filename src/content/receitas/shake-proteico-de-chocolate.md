@@ -40,7 +40,7 @@ featured: true
 ### Passo 1: Separe e meça todos os ingredientes
 Antes de começar, tenha todos os ingredientes medidos e prontos: **1 scoop (30g) de whey protein**, **250ml de leite de amêndoas**, **1 colher de sopa de cacau em pó 100%**, a **banana congelada**, **1 colher de sopa de pasta de amendoim** e o **gelo**. Ter tudo preparado antes torna o processo de bater no liquidificador muito mais rápido e garante que as proporções estejam certas.
 
-Especialmente importante para o **whey protein**, que deve ser medido com a **colher dosadora** que acompanha o produto (ou em balança digital para precisão).
+Especialmente importante para o **whey protein**, que deve ser medido com a **colher dosadora** que acompanha o produto (ou em <a href="https://amzn.to/4ut425E" class="link-amazon" target="_blank" rel="noopener sponsored">balança digital</a> para precisão).
 
 > 💡 **Dica:** Congele a banana em fatias de 1 a 2 cm de espessura em vez de inteira, o liquidificador processa muito mais facilmente e o shake fica mais cremoso e frio sem precisar de muito gelo.
 
