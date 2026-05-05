@@ -19,19 +19,85 @@ const tipoMeta = TIPOS[meta.tipo];
 const all = await loadAllProdutos();
 const filtrados = sortProdutos(all.filter((e) => e.taxonomia?.categoria === categoria));
 
+const SITE = 'https://melhoresreceitasfit.com.br';
+const PAGE_URL = `${SITE}/produtos/categoria/${categoria}/`;
+const PAGE_TITLE = `${meta.label} — Comparativo dos Melhores`;
+const PAGE_DESCRIPTION = `Os melhores produtos de ${meta.label.toLowerCase()} com avaliações reais e preços atualizados. ${filtrados.length} produtos comparados.`;
+
 const breadcrumbs = [
-  { name: 'Home',         url: 'https://melhoresreceitasfit.com.br/' },
-  { name: 'Produtos',     url: 'https://melhoresreceitasfit.com.br/produtos/' },
-  { name: tipoMeta.label, url: `https://melhoresreceitasfit.com.br/produtos/tipo/${meta.tipo}/` },
-  { name: meta.label,     url: `https://melhoresreceitasfit.com.br/produtos/categoria/${categoria}/` },
+  { name: 'Home',         url: `${SITE}/` },
+  { name: 'Produtos',     url: `${SITE}/produtos/` },
+  { name: tipoMeta.label, url: `${SITE}/produtos/tipo/${meta.tipo}/` },
+  { name: meta.label,     url: PAGE_URL },
+];
+
+// ── Structured Data ───────────────────────────────────────
+const pageSchema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: PAGE_TITLE,
+    description: PAGE_DESCRIPTION,
+    url: PAGE_URL,
+    inLanguage: 'pt-BR',
+    isPartOf: { '@type': 'WebSite', name: 'Melhores Receitas Fit', url: SITE },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbs.map((b, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: b.name,
+      item: b.url,
+    })),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: PAGE_TITLE,
+    numberOfItems: filtrados.length,
+    itemListOrder: 'https://schema.org/ItemListOrderDescending',
+    itemListElement: filtrados.map(({ produto, slug }, i) => {
+      const productUrl = `${SITE}/produtos/${slug}/`;
+      const product: Record<string, any> = {
+        '@type': 'Product',
+        name: produto.titulo,
+        url: productUrl,
+        sku: produto.asin,
+      };
+      if (produto.imagem)   product.image = produto.imagem;
+      if (produto.vendedor) product.brand = { '@type': 'Brand', name: produto.vendedor };
+      if (produto.rating && produto.ratingCount) {
+        product.aggregateRating = {
+          '@type': 'AggregateRating',
+          ratingValue: produto.rating,
+          reviewCount: produto.ratingCount,
+          bestRating: 5,
+          worstRating: 1,
+        };
+      }
+      if (produto.preco != null) {
+        product.offers = {
+          '@type': 'Offer',
+          priceCurrency: 'BRL',
+          price: produto.preco.toFixed(2),
+          availability: 'https://schema.org/InStock',
+          url: productUrl,
+        };
+      }
+      return { '@type': 'ListItem', position: i + 1, url: productUrl, item: product };
+    }),
+  },
 ];
 ---
 
 <BaseLayout
-  title={`${meta.label} — Comparativo dos Melhores`}
-  description={`Os melhores produtos de ${meta.label.toLowerCase()} com avaliações reais e preços atualizados. ${filtrados.length} produtos comparados.`}
+  title={PAGE_TITLE}
+  description={PAGE_DESCRIPTION}
   type="website"
-  canonicalUrl={`https://melhoresreceitasfit.com.br/produtos/categoria/${categoria}/`}
+  canonicalUrl={PAGE_URL}
+  schema={pageSchema}
 >
   <Header />
 
