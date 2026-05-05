@@ -1,0 +1,78 @@
+---
+import BaseLayout    from '@layouts/BaseLayout.astro';
+import Header        from '@components/Header.astro';
+import Footer        from '@components/Footer.astro';
+import Breadcrumb    from '@components/Breadcrumb.astro';
+import ProdutoGrid   from '@components/ProdutoGrid.astro';
+import TaxonomyNav   from '@components/TaxonomyNav.astro';
+import { loadAllProdutos, sortProdutos } from '@utils/produto-loader';
+import { MARCAS, listMarcasComProdutos } from '@data/produto-taxonomy';
+
+export async function getStaticPaths() {
+  return listMarcasComProdutos().map((marca) => ({ params: { marca } }));
+}
+
+const { marca } = Astro.params as { marca: string };
+const meta = MARCAS[marca];
+
+const all = await loadAllProdutos();
+const filtrados = sortProdutos(all.filter((e) => e.taxonomia?.marca === marca));
+
+const breadcrumbs = [
+  { name: 'Home',     url: 'https://melhoresreceitasfit.com.br/' },
+  { name: 'Produtos', url: 'https://melhoresreceitasfit.com.br/produtos/' },
+  { name: meta.label, url: `https://melhoresreceitasfit.com.br/produtos/marca/${marca}/` },
+];
+---
+
+<BaseLayout
+  title={`${meta.label} — Produtos Avaliados`}
+  description={`Conheça os produtos da marca ${meta.label} avaliados no nosso comparativo. ${filtrados.length} produtos com nota e preço atualizados.`}
+  type="website"
+  canonicalUrl={`https://melhoresreceitasfit.com.br/produtos/marca/${marca}/`}
+>
+  <Header />
+
+  <main id="main-content">
+    <div class="container">
+      <Breadcrumb items={breadcrumbs} />
+
+      <header class="page-header">
+        <h1 class="page-title">Marca: {meta.label}</h1>
+        <p class="page-desc">
+          <strong>{filtrados.length} produtos</strong> da marca <strong>{meta.label}</strong> com avaliações reais e preços atualizados.
+        </p>
+      </header>
+
+      <TaxonomyNav active={{ marca }} />
+
+      <ProdutoGrid produtos={filtrados} emptyMessage={`Nenhum produto cadastrado para ${meta.label}.`} />
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .page-header {
+    padding-block: var(--space-8);
+    border-bottom: var(--border);
+    margin-bottom: var(--space-6);
+  }
+  .page-title {
+    font-family: var(--font-display);
+    font-size: var(--text-4xl);
+    margin-bottom: var(--space-2);
+  }
+  .page-desc {
+    font-size: var(--text-lg);
+    color: var(--color-muted);
+    line-height: 1.6;
+    max-width: 65ch;
+  }
+  @media (max-width: 640px) {
+    .page-header { padding-block: var(--space-5); }
+    .page-title { font-size: var(--text-2xl); margin-bottom: var(--space-1); }
+    .page-desc { font-size: var(--text-base); }
+  }
+</style>

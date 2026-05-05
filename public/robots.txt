@@ -2,6 +2,9 @@ User-agent: *
 Allow: /
 Disallow: /_astro/
 Disallow: /api/
+Disallow: /login/
+Disallow: /login/cms
+Disallow: /login/cms/
 
 # Permitir imagens para indexação
 User-agent: Googlebot-Image

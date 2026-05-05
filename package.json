@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
+    "prebuild": "npm run validate:taxonomy",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
@@ -11,6 +12,7 @@
     "index:all": "node scripts/index-gsc.mjs",
     "index:new": "node scripts/index-new-content.mjs",
     "index:new-dry": "node scripts/index-new-content.mjs --dry-run",
+    "validate:taxonomy": "node scripts/validate-taxonomy.mjs",
     "deploy": "npm run build && node scripts/index-new-content.mjs",
     "typecheck": "astro check"
   },

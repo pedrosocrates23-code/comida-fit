@@ -2,6 +2,11 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 import { slugify } from '../utils/slugify';
+import {
+  listTiposComProdutos,
+  listCategoriasComProdutos,
+  listMarcasComProdutos,
+} from '../data/produto-taxonomy';
 
 export const GET: APIRoute = async () => {
   const receitas = await getCollection('receitas');
@@ -63,7 +68,36 @@ export const GET: APIRoute = async () => {
     lastmod:    r.data.publishDate.toISOString().split('T')[0],
   }));
 
-  const allPages = [...staticPages, ...categoriaPages, ...receitaPages, ...blogPages, ...produtoPages];
+  // Taxonomia de produtos: /produtos/tipo/*, /produtos/categoria/*, /produtos/marca/*
+  const tipoProdutoPages = listTiposComProdutos().map((tipo) => ({
+    url:        `/produtos/tipo/${tipo}/`,
+    priority:   '0.7',
+    changefreq: 'weekly',
+    lastmod:    '',
+  }));
+  const catProdutoPages = listCategoriasComProdutos().map((cat) => ({
+    url:        `/produtos/categoria/${cat}/`,
+    priority:   '0.7',
+    changefreq: 'weekly',
+    lastmod:    '',
+  }));
+  const marcaProdutoPages = listMarcasComProdutos().map((marca) => ({
+    url:        `/produtos/marca/${marca}/`,
+    priority:   '0.6',
+    changefreq: 'weekly',
+    lastmod:    '',
+  }));
+
+  const allPages = [
+    ...staticPages,
+    ...categoriaPages,
+    ...receitaPages,
+    ...blogPages,
+    ...produtoPages,
+    ...tipoProdutoPages,
+    ...catProdutoPages,
+    ...marcaProdutoPages,
+  ];
   const base     = 'https://melhoresreceitasfit.com.br';
   const today    = new Date().toISOString().split('T')[0];
 

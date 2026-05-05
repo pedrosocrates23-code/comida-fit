@@ -1,0 +1,309 @@
+---
+// ───────────────────────────────────────────────────────────────
+// ProdutoGrid — grid de cards de produto
+// Reutilizado em /produtos/, /produtos/tipo/*, /categoria/*, /marca/*
+// ───────────────────────────────────────────────────────────────
+import type { ProdutoEntry } from '@utils/produto-loader';
+
+interface Props {
+  produtos: ProdutoEntry[];
+  emptyMessage?: string;
+}
+
+const { produtos, emptyMessage = 'Nenhum produto encontrado.' } = Astro.props;
+
+function renderStars(r: number) {
+  const filled = Math.round(r);
+  return '★'.repeat(filled) + '☆'.repeat(5 - filled);
+}
+function fmtNum(n: number | null | undefined) {
+  if (!n) return null;
+  return n.toLocaleString('pt-BR');
+}
+function fmtPrice(n: number | null | undefined) {
+  if (!n) return null;
+  return 'R$ ' + n.toFixed(2).replace('.', ',');
+}
+---
+
+{produtos.length === 0 ? (
+  <p class="produtos-empty">{emptyMessage}</p>
+) : (
+  <div class="produtos-grid">
+    {produtos.map(({ produto, post, slug }) => (
+      <article class="card-produto">
+        <a href={`/produtos/${slug}/`} class="card-link" aria-label={produto.titulo}>
+          <div class="card-imagem-wrapper">
+            {produto.imagem ? (
+              <img
+                src={produto.imagem}
+                alt={produto.titulo}
+                width="300"
+                height="300"
+                loading="lazy"
+                decoding="async"
+                class="card-imagem"
+              />
+            ) : (
+              <div class="card-imagem-placeholder">Sem imagem</div>
+            )}
+            {produto.destaque && (
+              <span class="badge-destaque">Top Pick</span>
+            )}
+          </div>
+        </a>
+
+        <div class="card-info">
+          <p class="card-vendedor">{produto.vendedor || post.data.categoria}</p>
+
+          <a href={`/produtos/${slug}/`} class="card-titulo-link">
+            <h2 class="card-titulo">{produto.titulo}</h2>
+          </a>
+
+          {produto.rating && (
+            <div class="card-rating">
+              <span class="card-stars">{renderStars(produto.rating)}</span>
+              <span class="card-rating-num">{produto.rating}/5</span>
+              {produto.ratingCount && (
+                <span class="card-rating-count">({fmtNum(produto.ratingCount)})</span>
+              )}
+            </div>
+          )}
+
+          <div class="card-footer">
+            {produto.preco != null ? (
+              <span class="card-preco">{fmtPrice(produto.preco)}</span>
+            ) : (
+              <span class="card-preco card-preco--indisponivel">Consulte o preço</span>
+            )}
+
+            <a href={`/produtos/${slug}/`} class="btn-card">Ver Produto</a>
+          </div>
+        </div>
+      </article>
+    ))}
+  </div>
+)}
+
+<style>
+  .produtos-empty {
+    padding: var(--space-8);
+    text-align: center;
+    color: var(--color-muted);
+    font-size: var(--text-lg);
+  }
+
+  /* ── Grid ─────────────────────────────────────────────── */
+  .produtos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: var(--space-6);
+    padding-bottom: var(--space-16);
+  }
+
+  /* ── Card ─────────────────────────────────────────────── */
+  .card-produto {
+    display: flex;
+    flex-direction: column;
+    border: var(--border-thick);
+    box-shadow: var(--shadow);
+    background: var(--color-canvas);
+    transition: box-shadow var(--transition), transform var(--transition);
+  }
+
+  .card-produto:hover {
+    box-shadow: var(--shadow-hover);
+    transform: translate(-2px, -2px);
+  }
+
+  .card-link { display: block; }
+
+  .card-imagem-wrapper {
+    position: relative;
+    aspect-ratio: 1 / 1;
+    background: #fff;
+    border-bottom: var(--border);
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .card-imagem {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    padding: var(--space-4);
+    transition: transform 0.3s ease;
+  }
+
+  .card-produto:hover .card-imagem { transform: scale(1.04); }
+
+  .card-imagem-placeholder {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-muted);
+    font-size: var(--text-sm);
+    background: var(--color-surface);
+  }
+
+  .badge-destaque {
+    position: absolute;
+    top: var(--space-2);
+    left: var(--space-2);
+    background: var(--color-primary);
+    color: #fff;
+    font-size: 0.65rem;
+    font-weight: 700;
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 0.2rem 0.5rem;
+    border: 2px solid #1a1a1a;
+  }
+
+  .card-info {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: var(--space-4);
+    gap: var(--space-2);
+  }
+
+  .card-vendedor {
+    font-size: var(--text-xs);
+    color: var(--color-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: 600;
+    margin: 0;
+  }
+
+  .card-titulo-link { text-decoration: none; color: inherit; }
+
+  .card-titulo {
+    font-size: var(--text-sm);
+    font-weight: 700;
+    line-height: 1.4;
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .card-titulo-link:hover .card-titulo { color: var(--color-primary); }
+
+  .card-rating {
+    display: flex;
+    align-items: center;
+    gap: var(--space-1);
+    flex-wrap: wrap;
+    margin-top: auto;
+  }
+
+  .card-stars { color: #d97706; font-size: 0.85rem; letter-spacing: 0.02em; }
+  .card-rating-num { font-size: var(--text-xs); font-weight: 700; }
+  .card-rating-count { font-size: var(--text-xs); color: var(--color-muted); }
+
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-2);
+    padding-top: var(--space-3);
+    border-top: var(--border);
+    margin-top: var(--space-2);
+  }
+
+  .card-preco {
+    font-family: var(--font-display);
+    font-size: var(--text-lg);
+    font-weight: 900;
+    color: var(--color-ink);
+    white-space: nowrap;
+  }
+
+  .card-preco--indisponivel {
+    font-size: var(--text-xs);
+    font-weight: 500;
+    color: var(--color-muted);
+  }
+
+  .btn-card {
+    flex-shrink: 0;
+    padding: 0.4rem 0.75rem;
+    background: var(--color-secondary);
+    color: #fff !important;
+    font-size: var(--text-xs);
+    font-weight: 700;
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    text-decoration: none !important;
+    border: 2px solid #1a1a1a;
+    box-shadow: 2px 2px 0 #1a1a1a;
+    transition: box-shadow var(--transition), transform var(--transition);
+    white-space: nowrap;
+  }
+
+  .btn-card:hover {
+    box-shadow: 4px 4px 0 #1a1a1a;
+    transform: translate(-1px, -1px);
+  }
+
+  /* ── Mobile ─────────────────────────────────────────────── */
+  @media (max-width: 640px) {
+    .produtos-grid {
+      grid-template-columns: 1fr;
+      gap: var(--space-3);
+    }
+    .card-produto { flex-direction: row; }
+    .card-link { flex-shrink: 0; width: 120px; }
+    .card-imagem-wrapper {
+      width: 120px;
+      height: 120px;
+      aspect-ratio: unset;
+      border-bottom: none;
+      border-right: var(--border);
+    }
+    .card-imagem { padding: var(--space-2); }
+    .card-info {
+      padding: var(--space-3);
+      gap: var(--space-1);
+      min-width: 0;
+    }
+    .card-vendedor { font-size: 0.6rem; }
+    .card-titulo { font-size: var(--text-sm); -webkit-line-clamp: 2; }
+    .card-rating { margin-top: var(--space-1); }
+    .card-stars { font-size: 0.75rem; }
+    .card-footer {
+      padding-top: var(--space-2);
+      margin-top: var(--space-1);
+      flex-direction: column;
+      align-items: stretch;
+      gap: var(--space-2);
+    }
+    .card-preco { font-size: var(--text-base); }
+    .btn-card { text-align: center; padding: 0.5rem; width: 100%; }
+    .badge-destaque { font-size: 0.55rem; padding: 0.15rem 0.4rem; }
+  }
+
+  @media (min-width: 400px) and (max-width: 640px) {
+    .produtos-grid { grid-template-columns: repeat(2, 1fr); gap: var(--space-3); }
+    .card-produto { flex-direction: column; }
+    .card-link { width: auto; }
+    .card-imagem-wrapper {
+      width: auto;
+      height: auto;
+      aspect-ratio: 1 / 1;
+      border-right: none;
+      border-bottom: var(--border);
+    }
+    .card-footer { flex-direction: row; align-items: center; }
+    .btn-card { width: auto; }
+  }
+</style>

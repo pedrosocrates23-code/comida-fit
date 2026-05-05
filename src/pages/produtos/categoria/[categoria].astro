@@ -1,0 +1,80 @@
+---
+import BaseLayout    from '@layouts/BaseLayout.astro';
+import Header        from '@components/Header.astro';
+import Footer        from '@components/Footer.astro';
+import Breadcrumb    from '@components/Breadcrumb.astro';
+import ProdutoGrid   from '@components/ProdutoGrid.astro';
+import TaxonomyNav   from '@components/TaxonomyNav.astro';
+import { loadAllProdutos, sortProdutos } from '@utils/produto-loader';
+import { CATEGORIAS, TIPOS, listCategoriasComProdutos } from '@data/produto-taxonomy';
+
+export async function getStaticPaths() {
+  return listCategoriasComProdutos().map((categoria) => ({ params: { categoria } }));
+}
+
+const { categoria } = Astro.params as { categoria: string };
+const meta = CATEGORIAS[categoria];
+const tipoMeta = TIPOS[meta.tipo];
+
+const all = await loadAllProdutos();
+const filtrados = sortProdutos(all.filter((e) => e.taxonomia?.categoria === categoria));
+
+const breadcrumbs = [
+  { name: 'Home',         url: 'https://melhoresreceitasfit.com.br/' },
+  { name: 'Produtos',     url: 'https://melhoresreceitasfit.com.br/produtos/' },
+  { name: tipoMeta.label, url: `https://melhoresreceitasfit.com.br/produtos/tipo/${meta.tipo}/` },
+  { name: meta.label,     url: `https://melhoresreceitasfit.com.br/produtos/categoria/${categoria}/` },
+];
+---
+
+<BaseLayout
+  title={`${meta.label} — Comparativo dos Melhores`}
+  description={`Os melhores produtos de ${meta.label.toLowerCase()} com avaliações reais e preços atualizados. ${filtrados.length} produtos comparados.`}
+  type="website"
+  canonicalUrl={`https://melhoresreceitasfit.com.br/produtos/categoria/${categoria}/`}
+>
+  <Header />
+
+  <main id="main-content">
+    <div class="container">
+      <Breadcrumb items={breadcrumbs} />
+
+      <header class="page-header">
+        <h1 class="page-title">{meta.label}</h1>
+        <p class="page-desc">
+          <strong>{filtrados.length} produtos</strong> de {meta.label.toLowerCase()} avaliados, ordenados pela combinação de nota e número de avaliações.
+        </p>
+      </header>
+
+      <TaxonomyNav active={{ categoria }} />
+
+      <ProdutoGrid produtos={filtrados} emptyMessage={`Nenhum produto cadastrado em ${meta.label}.`} />
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .page-header {
+    padding-block: var(--space-8);
+    border-bottom: var(--border);
+    margin-bottom: var(--space-6);
+  }
+  .page-title {
+    font-family: var(--font-display);
+    font-size: var(--text-4xl);
+    margin-bottom: var(--space-2);
+  }
+  .page-desc {
+    font-size: var(--text-lg);
+    color: var(--color-muted);
+    line-height: 1.6;
+    max-width: 65ch;
+  }
+  @media (max-width: 640px) {
+    .page-header { padding-block: var(--space-5); }
+    .page-title { font-size: var(--text-2xl); margin-bottom: var(--space-1); }
+    .page-desc { font-size: var(--text-base); }
+  }
+</style>
