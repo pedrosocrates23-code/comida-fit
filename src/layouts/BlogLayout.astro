@@ -405,6 +405,88 @@ const breadcrumbSchema = {
     vertical-align: top;
   }
 
+  /* ── Grid de produtos Amazon ───────────────────────── */
+  .blog-prose :global(.produtos-grid) {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: var(--space-6);
+    margin: var(--space-8) 0;
+  }
+
+  .blog-prose :global(.produto-card) {
+    background: var(--color-surface, #fff);
+    border: var(--border, 1px solid #e5e5e5);
+    border-radius: var(--radius, 8px);
+    overflow: hidden;
+    box-shadow: var(--shadow-sm, 0 1px 3px rgba(0, 0, 0, 0.08));
+    display: flex;
+    flex-direction: column;
+    transition: transform .2s ease, box-shadow .2s ease;
+  }
+
+  .blog-prose :global(.produto-card:hover) {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow, 0 4px 12px rgba(0, 0, 0, 0.12));
+  }
+
+  .blog-prose :global(.produto-card img) {
+    width: 100%;
+    height: 220px;
+    object-fit: contain;
+    background: #fff;
+    padding: 1rem;
+  }
+
+  .blog-prose :global(.produto-info) {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    gap: .5rem;
+  }
+
+  .blog-prose :global(.produto-info h3) {
+    font-size: var(--text-base);
+    line-height: 1.35;
+    margin: 0;
+  }
+
+  .blog-prose :global(.produto-info h3 a) {
+    color: var(--color-ink, #111);
+    text-decoration: none;
+    font-weight: 700;
+  }
+
+  .blog-prose :global(.produto-info h3 a:hover) {
+    color: var(--color-primary);
+    text-decoration: underline;
+  }
+
+  .blog-prose :global(.produto-rating) {
+    color: #f59e0b;
+    font-size: var(--text-sm);
+  }
+
+  .blog-prose :global(.produto-rating span) {
+    color: var(--color-muted, #666);
+    margin-left: .25rem;
+  }
+
+  .blog-prose :global(.produto-preco) {
+    font-size: var(--text-xl);
+    color: var(--color-primary);
+    margin: 0;
+    font-weight: 700;
+  }
+
+  .blog-prose :global(.produto-desc) {
+    font-size: var(--text-sm);
+    color: var(--color-muted, #555);
+    line-height: 1.55;
+    margin: 0;
+    flex: 1;
+  }
+
   @media (max-width: 768px) {
     .blog-post__title { font-size: var(--text-3xl); }
   }

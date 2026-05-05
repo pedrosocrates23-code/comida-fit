@@ -15,6 +15,31 @@ keywords:
   - "fritar sem óleo"
   - "cozinhar saudável"
 featured: false
+produtos:
+  - asin: "B095YWH6PC"
+    titulo: "Fritadeira sem Óleo Cadence Pratic Fryer, 3L, Preta, 110V, FRT515"
+    imagem: "https://m.media-amazon.com/images/I/51Hovs4qK6L._AC_SL1000_.jpg"
+    preco: 279
+    rating: 4.7
+    ratingCount: 4456
+    link: "https://amzn.to/4n6zRP4"
+    destaque: true
+  - asin: "B0CD9JLHTT"
+    titulo: "MONDIAL Fritadeira Sem Óleo Air Fryer 6L, Preto/Inox, 1900W, 110V - AFN-60-BI"
+    imagem: "https://m.media-amazon.com/images/I/81cUAhQ4LcL._AC_SL1500_.jpg"
+    preco: 399
+    rating: 4.8
+    ratingCount: 1271
+    link: "https://amzn.to/3P5pSNB"
+    destaque: false
+  - asin: "B0CC3ZW7Q4"
+    titulo: "Fritadeira Elétrica sem oleo Electrolux Airfryer 3,2L 8 receitas pré-sugeridas desligamento automático cesto removivel 1"
+    imagem: "https://m.media-amazon.com/images/I/51Fwc-RC0GL._AC_SL1000_.jpg"
+    preco: 274.55
+    rating: 4.8
+    ratingCount: 334
+    link: "https://amzn.to/3QQqk2L"
+    destaque: false
 ---
 
 ## Sumário
@@ -118,4 +143,51 @@ Com a air fryer na temperatura certa desde o início, o preparo fica mais previs
 
 ---
 
-*Links de produtos relacionados disponíveis em breve neste artigo. Consulte nossa seleção de [**air fryers na Amazon**](#) com entrega Prime.*
+
+---
+
+## Produtos Recomendados na Amazon
+
+<div class="produtos-grid">
+
+<div class="produto-card">
+  <a href="https://amzn.to/4n6zRP4" target="_blank" rel="noopener sponsored">
+    <img src="https://m.media-amazon.com/images/I/51Hovs4qK6L._AC_SL1000_.jpg" alt="Fritadeira sem Óleo Cadence Pratic Fryer, 3L, Preta, 110V, FRT515" loading="lazy" />
+  </a>
+  <div class="produto-info">
+    <h3><a href="https://amzn.to/4n6zRP4" target="_blank" rel="noopener sponsored">Fritadeira sem Óleo Cadence Pratic Fryer, 3L, Preta, 110V, FRT515</a></h3>
+    <div class="produto-rating">★★★★★ <span>4.7 (4,456 avaliações)</span></div>
+    <p class="produto-preco"><strong>R$ 279,00</strong></p>
+    <p class="produto-desc">POTÊNCIA: 1250W e temperatura de 90oC a 200oC graus para um cozimento rápido e potente | CAPACIDADE: 3L. Espaço suficiente para preparar carnes, bolos, empanados, legumes e muito mais | COZIMENTO POR </p>
+    <a href="https://amzn.to/4n6zRP4" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+  </div>
+</div>
+<div class="produto-card">
+  <a href="https://amzn.to/3P5pSNB" target="_blank" rel="noopener sponsored">
+    <img src="https://m.media-amazon.com/images/I/81cUAhQ4LcL._AC_SL1500_.jpg" alt="MONDIAL Fritadeira Sem Óleo Air Fryer 6L, Preto/Inox, 1900W, 110V - AFN-60-BI" loading="lazy" />
+  </a>
+  <div class="produto-info">
+    <h3><a href="https://amzn.to/3P5pSNB" target="_blank" rel="noopener sponsored">MONDIAL Fritadeira Sem Óleo Air Fryer 6L, Preto/Inox, 1900W, 110V - AFN-60-BI</a></h3>
+    <div class="produto-rating">★★★★★ <span>4.8 (1,271 avaliações)</span></div>
+    <p class="produto-preco"><strong>R$ 399,00</strong></p>
+    <p class="produto-desc">PRATICIDADE + RAPIDEZ NA COZINHA: A tecnologia de Circulação de Ar Quente e a alta potência possibilitam rapidez no preparo das receitas e praticidade em sua rotina na cozinha. | CAPACIDADE DE 6 LITRO</p>
+    <a href="https://amzn.to/3P5pSNB" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+  </div>
+</div>
+<div class="produto-card">
+  <a href="https://amzn.to/3QQqk2L" target="_blank" rel="noopener sponsored">
+    <img src="https://m.media-amazon.com/images/I/51Fwc-RC0GL._AC_SL1000_.jpg" alt="Fritadeira Elétrica sem oleo Electrolux Airfryer 3,2L 8 receitas pré-sugeridas desligamento automáti" loading="lazy" />
+  </a>
+  <div class="produto-info">
+    <h3><a href="https://amzn.to/3QQqk2L" target="_blank" rel="noopener sponsored">Fritadeira Elétrica sem oleo Electrolux Airfryer 3,2L 8 receitas pré-sugeridas desligamento automáti</a></h3>
+    <div class="produto-rating">★★★★★ <span>4.8 (334 avaliações)</span></div>
+    <p class="produto-preco"><strong>R$ 274,55</strong></p>
+    <p class="produto-desc">Cesto interno de 3,2L | Potência de 1400W | 8 Receitas Pré-sugeridas: Receitas pré-sugeridas no painel, com temperatura e tempo de preparo já indicados | Botão Seletor de Temperatura: Selecione de 80º</p>
+    <a href="https://amzn.to/3QQqk2L" target="_blank" rel="noopener sponsored" class="btn-afiliado">🛒 Ver Melhor Preço na Amazon</a>
+  </div>
+</div>
+
+</div>
+
+
+*Links atualizados via SiteStripe Amazon neste artigo. Consulte nossa seleção de [**air fryers na Amazon**](https://amzn.to/4n6zRP4) com entrega Prime.*
