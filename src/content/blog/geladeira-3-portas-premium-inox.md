@@ -1,4 +1,4 @@
----
+﻿---
 title: "Geladeira 3 Portas Premium: Modelos Inox, Black e Tecnologia Smart"
 description: "Modelos **premium 3 portas** combinam **acabamento inox/black**, **tecnologias smart** (Wi-Fi, controle por app, painel touch) e funcionalidades exclusivas."
 publishDate: 2026-05-05

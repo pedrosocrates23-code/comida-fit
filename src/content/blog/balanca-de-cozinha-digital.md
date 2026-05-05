@@ -1,4 +1,4 @@
----
+﻿---
 title: "Balança de Cozinha Digital: O Equipamento Essencial para Quem Conta Macros"
 description: "Entenda por que a balança de cozinha digital é indispensável para quem faz dieta e quer controlar calorias, proteínas e carboidratos com precisão."
 publishDate: 2026-05-04

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Geladeira Inverter: Guia Definitivo 2026 — Como Funciona, Vantagens e Desvantagens"
 description: "A tecnologia **inverter** revolucionou os refrigeradores ao substituir o compressor liga-desliga tradicional por um motor de velocidade variável."
 publishDate: 2026-05-04

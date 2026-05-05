@@ -1,4 +1,4 @@
----
+﻿---
 title: "Iogurteira Elétrica: Como Fazer Iogurte Natural em Casa para a Dieta"
 description: "Descubra como a iogurteira elétrica permite preparar iogurte natural caseiro com mais proteína e sem aditivos, ideal para quem faz dieta fit."
 publishDate: 2026-05-04

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Processador de Alimentos: o Aliado do Meal Prep e da Dieta Fit"
 description: "Veja como o processador de alimentos agiliza o preparo saudável, facilita o meal prep semanal e ajuda a manter a dieta mesmo com rotina intensa."
 publishDate: 2026-05-04

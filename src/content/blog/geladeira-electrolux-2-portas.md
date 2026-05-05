@@ -1,14 +1,15 @@
----
+﻿---
 title: "Geladeira Electrolux 2 Portas: Modelos, Preços e Qual Comprar"
 description: "Guia completo sobre geladeiras Electrolux de 2 portas: frost free, inverter e degelo manual. Compare modelos e preços para encontrar a ideal para o seu lar."
-date: "2026-05-05"
-tags: ["geladeira electrolux", "custo-benefício"]
-categoria: "Equipamentos"
+publishDate: 2026-05-05
+keywords: ["geladeira electrolux", "custo-benefício"]
+categoria: dicas-fit
 cluster: "geladeira-electrolux"
 intent: "comercial"
 produtos:
   - asin: "B0D9P9V38B"
     titulo: "Geladeira Electrolux Frost Free Inverter 480L Efficient AutoSense 3 Portas Inox Look (IM7S) 127V"
+    link: "https://www.amazon.com.br/dp/B0D9P9V38B?tag=fits000-20"
     imagem: "https://m.media-amazon.com/images/I/41qntZyTefL._AC_SL1000_.jpg"
     preco_brl: 5699.0
     nota_media: 4.7
@@ -17,6 +18,7 @@ produtos:
     destaque: true
   - asin: "B0D1YP2X5W"
     titulo: "Geladeira Electrolux Frost Free Inverter 480L Efficient com AutoSense SmartBivolt Duplex (IT70S) - Bivolt (inox)"
+    link: "https://www.amazon.com.br/dp/B0D1YP2X5W?tag=fits000-20"
     imagem: "https://m.media-amazon.com/images/I/41ir0KgZeXL._AC_SL1000_.jpg"
     preco_brl: 3999.0
     nota_media: 4.5
@@ -25,6 +27,7 @@ produtos:
     destaque: false
   - asin: "B0CL7XV8NN"
     titulo: "Geladeira Electrolux Frost Free 490L Efficient com AutoSense Inverse Inox Look (IB7S) 127V"
+    link: "https://www.amazon.com.br/dp/B0CL7XV8NN?tag=fits000-20"
     imagem: "https://m.media-amazon.com/images/I/413y5xpxNxL._AC_SL1000_.jpg"
     preco_brl: 3906.0
     nota_media: 4.5

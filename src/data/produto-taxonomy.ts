@@ -59,6 +59,7 @@ export const CATEGORIAS: Record<string, { label: string; tipo: ProdutoTipo }> = 
   'balanca-cozinha':  { label: 'Balança de Cozinha', tipo: 'equipamento' },
   'espiralizador':    { label: 'Espiralizador',      tipo: 'equipamento' },
   'geladeira':        { label: 'Geladeira',          tipo: 'equipamento' },
+  'geladeira-portatil': { label: 'Geladeira Portátil', tipo: 'equipamento' },
   // Acessórios
   'utensilio-cozinha': { label: 'Utensílios de Cozinha', tipo: 'acessorio' },
   'recipiente':        { label: 'Recipientes',           tipo: 'acessorio' },
@@ -70,6 +71,7 @@ export const MARCAS: Record<string, { label: string }> = {
   '3vs-nutrition':     { label: '3VS Nutrition' },
   'black-decker':      { label: 'Black+Decker' },
   'bodyaction':        { label: 'Bodyaction' },
+  'bougerv':           { label: 'BougeRV' },
   'brastemp':          { label: 'Brastemp' },
   'cadence':           { label: 'Cadence' },
   'consul':            { label: 'Consul' },
@@ -94,10 +96,12 @@ export const MARCAS: Record<string, { label: string }> = {
   'nutrends':          { label: 'Nutrends' },
   'optimum-nutrition': { label: 'Optimum Nutrition' },
   'philco':            { label: 'Philco' },
+  'polar':             { label: 'Polar' },
   'puro-nutrition':    { label: 'Puro Nutrition' },
   'qnutri':            { label: 'Qnutri' },
   'rapid-fuse':        { label: 'Rapid Fuse' },
   'suplementsfort':    { label: 'Suplementsfort' },
+  'samsung':           { label: 'Samsung' },
   'the-one-supps':     { label: 'The One Supps' },
   'thermo-muscle':     { label: 'Thermo Muscle' },
   'tramontina':        { label: 'Tramontina' },
@@ -190,12 +194,24 @@ export const taxonomia: Record<string, ProdutoTaxonomia> = {
   // ── Espiralizador ──
   'B074BC9FT9': { tipo: 'equipamento', categoria: 'espiralizador', marca: 'mealthy' },
 
-  // ── Geladeira ──
+  // ── Geladeira (doméstica) ──
   // Nota: B07FY23K8B está no post "geladeira-consul-frost-free.md" mas o
   // produto é Brastemp (título indica Brastemp) — taxonomia reflete o produto, não o post.
   'B07FY23K8B': { tipo: 'equipamento', categoria: 'geladeira', marca: 'brastemp' },
   'B0B3PGGKVT': { tipo: 'equipamento', categoria: 'geladeira', marca: 'electrolux' },
   'B076B9ZB8C': { tipo: 'equipamento', categoria: 'geladeira', marca: 'consul' },
+
+  // ── Geladeira Portátil / Frigobar ──
+  'B000JLNBW4': { tipo: 'equipamento', categoria: 'geladeira-portatil', marca: 'polar' },
+  'B0BPM7C8RT': { tipo: 'equipamento', categoria: 'geladeira-portatil', marca: 'bougerv' },
+  'B075Z7RST7': { tipo: 'equipamento', categoria: 'geladeira-portatil', marca: 'black-decker' },
+  'B0B3FCW6KQ': { tipo: 'equipamento', categoria: 'geladeira-portatil', marca: 'black-decker' },
+
+  // ── Geladeira Inverter ──
+  'B0D9P9V38B': { tipo: 'equipamento', categoria: 'geladeira', marca: 'electrolux' },
+  'B0D1YP2X5W': { tipo: 'equipamento', categoria: 'geladeira', marca: 'electrolux' },
+  'B0CL7XV8NN': { tipo: 'equipamento', categoria: 'geladeira', marca: 'electrolux' },
+  'B00FB6JQB2': { tipo: 'equipamento', categoria: 'geladeira', marca: 'samsung' },
 
   // ── Ímãs de Geladeira ──
   'B0DFX7BQX9': { tipo: 'acessorio', categoria: 'ima-geladeira', marca: 'generica' },

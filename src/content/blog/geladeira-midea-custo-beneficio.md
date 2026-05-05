@@ -1,13 +1,12 @@
----
+﻿---
 title: "Geladeira Midea Custo-Benefício: As Melhores Opções até R$2.500"
 description: "Seleção das melhores geladeiras Midea com melhor relação preço-qualidade. Focamos em modelos até R$2.500 com boa nota dos compradores e entrega Prime."
-date: "2026-05-05"
-tags: ["geladeira midea", "custo-benefício", "promoção"]
-categoria: "Equipamentos"
+publishDate: 2026-05-05
+keywords: ["geladeira midea", "custo-benefício", "promoção"]
+categoria: dicas-fit
 cluster: "geladeira-midea"
 intent: "comercial"
-produtos:
-  []
+produtos: []
 ---
 
 # Geladeira Midea Custo-Benefício: As Melhores Opções até R$2.500

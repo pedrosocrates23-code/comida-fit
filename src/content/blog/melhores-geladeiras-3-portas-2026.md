@@ -1,4 +1,4 @@
----
+﻿---
 title: "Melhores Geladeiras 3 Portas 2026: Ranking Completo com Preços e Avaliações"
 description: "Reunimos os modelos de **geladeira 3 portas mais bem avaliados** do Brasil em 2026."
 publishDate: 2026-05-05

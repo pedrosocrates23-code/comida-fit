@@ -1,0 +1,304 @@
+---
+// ───────────────────────────────────────────────────────────────
+// ProdutosFilter — filtro client-side por tipo + categoria
+// Não altera URL, não cria novas páginas → zero risco SEO
+// ───────────────────────────────────────────────────────────────
+import {
+  TIPOS,
+  CATEGORIAS,
+  listTiposComProdutos,
+  listCategoriasComProdutos,
+  listAsinsByTipo,
+  listAsinsByCategoria,
+  type ProdutoTipo,
+} from '@data/produto-taxonomy';
+
+const tipos      = listTiposComProdutos();
+const categorias = listCategoriasComProdutos();
+
+// Monta mapa: tipo → [categorias daquele tipo]
+const catsPorTipo: Record<string, { slug: string; label: string; count: number }[]> = {};
+for (const tipo of tipos) {
+  catsPorTipo[tipo] = categorias
+    .filter((c) => CATEGORIAS[c].tipo === tipo)
+    .map((c) => ({
+      slug:  c,
+      label: CATEGORIAS[c].label,
+      count: listAsinsByCategoria(c).length,
+    }));
+}
+
+// Total por tipo para os tabs
+const countPorTipo: Record<string, number> = {};
+for (const tipo of tipos) {
+  countPorTipo[tipo] = listAsinsByTipo(tipo).length;
+}
+
+const totalProdutos = tipos.reduce((acc, t) => acc + countPorTipo[t], 0);
+---
+
+<div class="filter-wrap" id="produtos-filter">
+
+  <!-- ── Tabs de tipo ─────────────────────────────────── -->
+  <div class="filter-tipos" role="tablist" aria-label="Filtrar por tipo">
+    <button
+      class="tab tab--active"
+      data-tipo="todos"
+      role="tab"
+      aria-selected="true"
+    >
+      Todos
+      <span class="tab-count">{totalProdutos}</span>
+    </button>
+
+    {tipos.map((tipo) => (
+      <button
+        class="tab"
+        data-tipo={tipo}
+        role="tab"
+        aria-selected="false"
+      >
+        {TIPOS[tipo].label}
+        <span class="tab-count">{countPorTipo[tipo]}</span>
+      </button>
+    ))}
+  </div>
+
+  <!-- ── Pills de subcategoria (dinâmicas via JS) ───── -->
+  <div class="filter-subcats" id="subcats-wrap">
+    {tipos.map((tipo) => (
+      <div
+        class="subcat-group"
+        data-grupo={tipo}
+        hidden
+      >
+        {catsPorTipo[tipo].map(({ slug, label, count }) => (
+          <button
+            class="pill-cat"
+            data-cat={slug}
+            data-tipo={tipo}
+          >
+            {label}
+            <span class="pill-count">{count}</span>
+          </button>
+        ))}
+      </div>
+    ))}
+  </div>
+
+  <!-- Contador de resultados -->
+  <p class="filter-result" id="filter-result" aria-live="polite"></p>
+</div>
+
+<script>
+// ── Filtro client-side ──────────────────────────────────────────
+// Lê data-tipo e data-categoria dos cards e mostra/esconde.
+// Não altera URL nem cria rotas novas.
+
+(function () {
+  const filterWrap = document.getElementById('produtos-filter');
+  if (!filterWrap) return;
+
+  const tabs       = filterWrap.querySelectorAll<HTMLButtonElement>('.tab');
+  const subcatWrap = document.getElementById('subcats-wrap');
+  const resultEl   = document.getElementById('filter-result');
+  const grid       = document.querySelector<HTMLElement>('.produtos-grid');
+  if (!grid) return;
+
+  const cards = grid.querySelectorAll<HTMLElement>('.card-produto');
+
+  let tipoAtivo: string = 'todos';
+  let catAtiva:  string = 'todos';
+
+  function aplicarFiltro() {
+    let visiveis = 0;
+    cards.forEach((card) => {
+      const cardTipo = card.dataset.tipo ?? '';
+      const cardCat  = card.dataset.categoria ?? '';
+
+      const passaTipo = tipoAtivo === 'todos' || cardTipo === tipoAtivo;
+      const passaCat  = catAtiva  === 'todos' || cardCat  === catAtiva;
+      const visivel   = passaTipo && passaCat;
+
+      card.hidden = !visivel;
+      if (visivel) visiveis++;
+    });
+
+    if (resultEl) {
+      resultEl.textContent = tipoAtivo === 'todos' && catAtiva === 'todos'
+        ? ''
+        : `${visiveis} produto${visiveis !== 1 ? 's' : ''} encontrado${visiveis !== 1 ? 's' : ''}`;
+    }
+  }
+
+  function mostrarSubcats(tipo: string) {
+    const grupos = document.querySelectorAll<HTMLElement>('.subcat-group');
+    grupos.forEach((g) => { g.hidden = g.dataset.grupo !== tipo; });
+  }
+
+  // Tabs de tipo
+  tabs.forEach((tab) => {
+    tab.addEventListener('click', () => {
+      tabs.forEach((t) => {
+        t.classList.remove('tab--active');
+        t.setAttribute('aria-selected', 'false');
+      });
+      tab.classList.add('tab--active');
+      tab.setAttribute('aria-selected', 'true');
+
+      tipoAtivo = tab.dataset.tipo ?? 'todos';
+      catAtiva  = 'todos';
+
+      // Limpa seleção de subcategoria
+      document.querySelectorAll<HTMLButtonElement>('.pill-cat').forEach((p) => {
+        p.classList.remove('pill-cat--active');
+      });
+
+      mostrarSubcats(tipoAtivo === 'todos' ? '' : tipoAtivo);
+      aplicarFiltro();
+    });
+  });
+
+  // Pills de subcategoria
+  document.querySelectorAll<HTMLButtonElement>('.pill-cat').forEach((pill) => {
+    pill.addEventListener('click', () => {
+      const mesmaCat = pill.dataset.cat === catAtiva;
+
+      document.querySelectorAll<HTMLButtonElement>('.pill-cat').forEach((p) => {
+        p.classList.remove('pill-cat--active');
+      });
+
+      if (mesmaCat) {
+        // Toggle off
+        catAtiva = 'todos';
+      } else {
+        pill.classList.add('pill-cat--active');
+        catAtiva = pill.dataset.cat ?? 'todos';
+      }
+
+      aplicarFiltro();
+    });
+  });
+})();
+</script>
+
+<style>
+  .filter-wrap {
+    margin-bottom: var(--space-6);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+  }
+
+  /* ── Tabs de tipo ─── */
+  .filter-tipos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    border-bottom: var(--border);
+    padding-bottom: var(--space-3);
+  }
+
+  .tab {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.45rem 1rem;
+    background: var(--color-canvas);
+    border: 2px solid #1a1a1a;
+    box-shadow: 2px 2px 0 #1a1a1a;
+    font-family: var(--font-display);
+    font-size: var(--text-sm);
+    font-weight: 700;
+    cursor: pointer;
+    transition: box-shadow var(--transition), transform var(--transition), background var(--transition);
+    color: var(--color-ink);
+  }
+
+  .tab:hover {
+    box-shadow: 4px 4px 0 #1a1a1a;
+    transform: translate(-1px, -1px);
+  }
+
+  .tab--active {
+    background: var(--color-ink);
+    color: var(--color-canvas);
+    box-shadow: 2px 2px 0 var(--color-secondary);
+  }
+
+  .tab-count {
+    font-size: 0.7rem;
+    font-weight: 700;
+    background: rgba(255,255,255,0.15);
+    padding: 0.05rem 0.35rem;
+    line-height: 1.4;
+  }
+
+  .tab:not(.tab--active) .tab-count {
+    background: rgba(0,0,0,0.07);
+    color: var(--color-muted);
+  }
+
+  /* ── Pills de subcategoria ─── */
+  .filter-subcats { min-height: 2rem; }
+
+  .subcat-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    animation: fadeIn 0.15s ease;
+  }
+
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; } }
+
+  .pill-cat {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.3rem 0.7rem;
+    background: var(--color-surface);
+    border: 2px solid #1a1a1a;
+    box-shadow: 2px 2px 0 #1a1a1a;
+    font-size: var(--text-xs);
+    font-weight: 600;
+    cursor: pointer;
+    transition: box-shadow var(--transition), transform var(--transition), background var(--transition);
+    color: var(--color-ink);
+  }
+
+  .pill-cat:hover {
+    box-shadow: 3px 3px 0 #1a1a1a;
+    transform: translate(-1px, -1px);
+  }
+
+  .pill-cat--active {
+    background: var(--color-secondary);
+    color: #fff;
+    box-shadow: 2px 2px 0 #1a1a1a;
+  }
+
+  .pill-count {
+    font-size: 0.65rem;
+    font-weight: 700;
+    background: rgba(0,0,0,0.08);
+    padding: 0.05rem 0.3rem;
+    line-height: 1.4;
+  }
+
+  .pill-cat--active .pill-count { background: rgba(255,255,255,0.25); }
+
+  /* ── Resultado ─── */
+  .filter-result {
+    font-size: var(--text-sm);
+    color: var(--color-muted);
+    font-weight: 600;
+    min-height: 1.2em;
+    margin: 0;
+  }
+
+  /* ── Mobile ─── */
+  @media (max-width: 640px) {
+    .tab { font-size: var(--text-xs); padding: 0.4rem 0.7rem; }
+    .pill-cat { font-size: 0.65rem; padding: 0.25rem 0.55rem; }
+  }
+</style>

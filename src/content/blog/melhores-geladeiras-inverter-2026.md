@@ -1,4 +1,4 @@
----
+﻿---
 title: "Melhores Geladeiras Inverter 2026: Ranking Completo com Preços e Avaliações"
 description: "Reunimos os modelos de **geladeira inverter mais bem avaliados** do mercado brasileiro em 2026."
 publishDate: 2026-05-04

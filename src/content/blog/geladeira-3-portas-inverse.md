@@ -1,4 +1,4 @@
----
+﻿---
 title: "Geladeira 3 Portas Inverse: Best-Sellers, Modelos e Análise Completa"
 description: "A **geladeira inverse** posiciona o freezer na parte de baixo, o que coloca o refrigerador (mais usado) na altura dos olhos."
 publishDate: 2026-05-05

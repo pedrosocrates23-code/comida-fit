@@ -3,8 +3,9 @@ import BaseLayout    from '@layouts/BaseLayout.astro';
 import Header        from '@components/Header.astro';
 import Footer        from '@components/Footer.astro';
 import Breadcrumb    from '@components/Breadcrumb.astro';
-import ProdutoGrid   from '@components/ProdutoGrid.astro';
-import TaxonomyNav   from '@components/TaxonomyNav.astro';
+import ProdutoGrid    from '@components/ProdutoGrid.astro';
+import ProdutosFilter from '@components/ProdutosFilter.astro';
+import TaxonomyNav    from '@components/TaxonomyNav.astro';
 import { loadAllProdutos, sortProdutos } from '@utils/produto-loader';
 
 const allProdutos = sortProdutos(await loadAllProdutos());
@@ -112,9 +113,13 @@ const pageSchema = [collectionPageSchema, breadcrumbSchema, itemListSchema];
         </p>
       </header>
 
-      <TaxonomyNav />
+      <ProdutosFilter />
 
       <ProdutoGrid produtos={allProdutos} />
+
+      <div class="taxonomy-links">
+        <TaxonomyNav compact />
+      </div>
     </div>
   </main>
 
@@ -139,6 +144,12 @@ const pageSchema = [collectionPageSchema, breadcrumbSchema, itemListSchema];
     color: var(--color-muted);
     line-height: 1.6;
     max-width: 65ch;
+  }
+
+  .taxonomy-links {
+    margin-top: var(--space-8);
+    padding-top: var(--space-6);
+    border-top: var(--border);
   }
 
   @media (max-width: 640px) {

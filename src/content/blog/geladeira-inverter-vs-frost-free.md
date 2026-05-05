@@ -1,4 +1,4 @@
----
+﻿---
 title: "Geladeira Inverter vs Frost Free: Diferenças, Comparativo e Qual Escolher"
 description: "Muita gente confunde as duas tecnologias, mas elas resolvem problemas **diferentes**."
 publishDate: 2026-05-04

@@ -1,13 +1,12 @@
----
+﻿---
 title: "Modelos de Geladeira Midea 2026: Frost Free, Inverter e Degelo Manual"
 description: "Comparativo de todos os modelos Midea disponíveis: frost free, inverter e degelo manual. Qual tecnologia vale mais para o seu uso?"
-date: "2026-05-05"
-tags: ["geladeira", "midea", "eletrodoméstico", "cozinha"]
-categoria: "Equipamentos"
+publishDate: 2026-05-05
+keywords: ["geladeira", "midea", "eletrodoméstico", "cozinha"]
+categoria: dicas-fit
 cluster: "geladeira-midea"
 intent: "informacional"
-produtos:
-  []
+produtos: []
 ---
 
 # Modelos de Geladeira Midea 2026: Frost Free, Inverter e Degelo Manual

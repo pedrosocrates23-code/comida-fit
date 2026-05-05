@@ -1,4 +1,4 @@
----
+﻿---
 title: "Geladeira 3 Portas: Guia Completo 2026 — Quando Vale a Pena, Vantagens e Desvantagens"
 description: "A **geladeira 3 portas** se tornou padrão em famílias de 4+ pessoas."
 publishDate: 2026-05-05

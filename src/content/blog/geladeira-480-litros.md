@@ -1,13 +1,12 @@
----
+﻿---
 title: "Geladeira 480 Litros: As Melhores para Famílias Grandes em 2026"
 description: "Seleção das melhores geladeiras de 480 litros para famílias de 5 a 8 pessoas. Comparamos preço, consumo de energia, tecnologia e nota dos compradores reais."
-date: "2026-05-05"
-tags: ["geladeira", "capacidade", "frost free", "família"]
-categoria: "Equipamentos"
+publishDate: 2026-05-05
+keywords: ["geladeira", "capacidade", "frost free", "família"]
+categoria: dicas-fit
 cluster: "geladeira-capacidade"
 intent: "transacional"
-produtos:
-  []
+produtos: []
 ---
 
 # Geladeira 480 Litros: As Melhores para Famílias Grandes em 2026

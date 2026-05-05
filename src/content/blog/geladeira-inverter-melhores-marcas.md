@@ -1,4 +1,4 @@
----
+﻿---
 title: "Geladeira Inverter Brastemp, Electrolux ou Samsung: Qual Marca é Melhor?"
 description: "**Brastemp**, **Electrolux** e **Samsung** dominam o mercado de geladeiras inverter no Brasil."
 publishDate: 2026-05-04

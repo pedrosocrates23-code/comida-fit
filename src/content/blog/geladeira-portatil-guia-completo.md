@@ -1,14 +1,15 @@
----
+﻿---
 title: "Geladeira Portátil: Qual Comprar em 2026? Guia Completo"
 description: "Tudo sobre geladeiras portáteis: tipos, capacidades, preços e as melhores opções disponíveis para casa, carro e viagens. Seleção com avaliações reais da Amazon."
-date: "2026-05-05"
-tags: ["geladeira portátil", "mini geladeira", "portátil"]
-categoria: "Equipamentos"
+publishDate: 2026-05-05
+keywords: ["geladeira portátil", "mini geladeira", "portátil"]
+categoria: dicas-fit
 cluster: "geladeira-portatil"
 intent: "informacional"
 produtos:
   - asin: "B000JLNBW4"
     titulo: "Frigobar Polar Coca Cola – Geladeira para quarto, escritório, mesa portátil, refrigerador de bebidas, 12 V CC/220 V AC p"
+    link: "https://www.amazon.com.br/dp/B000JLNBW4?tag=fits000-20"
     imagem: "https://m.media-amazon.com/images/I/61qW3wr49bL._AC_SL1278_.jpg"
     preco_brl: 307.74
     nota_media: 4.3
@@ -17,6 +18,7 @@ produtos:
     destaque: true
   - asin: "B0BPM7C8RT"
     titulo: "Geladeira BougeRV de 12 volts, geladeira 12 volts para carro 30 litros portátil, refrigerador compressor, congelador com"
+    link: "https://www.amazon.com.br/dp/B0BPM7C8RT?tag=fits000-20"
     imagem: "https://m.media-amazon.com/images/I/61NAP2vAyIL._AC_SL1500_.jpg"
     preco_brl: 1499.0
     nota_media: 4.6
@@ -25,6 +27,7 @@ produtos:
     destaque: false
   - asin: "B075Z7RST7"
     titulo: "BLACK+DECKER Mini Geladeira Portátil, Ideal para Viagens e Acampamentos, Capacidade de 24 Litros, Modelo BDC24L"
+    link: "https://www.amazon.com.br/dp/B075Z7RST7?tag=fits000-20"
     imagem: "https://m.media-amazon.com/images/I/51Ts2+Sd-pL._AC_SL1000_.jpg"
     preco_brl: 834.9
     nota_media: 4.4
@@ -33,6 +36,7 @@ produtos:
     destaque: false
   - asin: "B0B3FCW6KQ"
     titulo: "BLACK+DECKER Mini Refrigerador FreeStyle, Mini Geladeira com Função de Aquecer e Refrigerar, com Porta Copos, Modelo MR6"
+    link: "https://www.amazon.com.br/dp/B0B3FCW6KQ?tag=fits000-20"
     imagem: "https://m.media-amazon.com/images/I/31OMVBeVDjL._AC_SL1000_.jpg"
     preco_brl: 489.9
     nota_media: 4.3

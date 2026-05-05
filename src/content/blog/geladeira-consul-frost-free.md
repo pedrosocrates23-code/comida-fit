@@ -1,4 +1,4 @@
----
+﻿---
 title: "Melhor Geladeira consul frost free em 2026: Guia Completo de Escolha"
 description: "Busca de marca específica = comprador com alta intenção."
 publishDate: 2026-05-04

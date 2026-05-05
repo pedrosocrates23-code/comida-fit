@@ -1,4 +1,4 @@
----
+﻿---
 title: "Melhores Vitaminas para Atletas 2025: Comparativo com os 7 Melhores"
 description: "Compare os 7 melhores produtos de vitaminas com avaliações reais, preços atualizados e entrega Prime pela Amazon."
 publishDate: 2026-04-12

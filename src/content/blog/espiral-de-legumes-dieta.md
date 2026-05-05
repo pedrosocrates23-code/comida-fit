@@ -1,4 +1,4 @@
----
+﻿---
 title: "Espiral de Legumes: Como o Spiralizer Transforma Vegetais em Massa Fit"
 description: "Descubra como o espiral de legumes (spiralizer) substitui o macarrão convencional, reduz carboidratos e torna a dieta mais saborosa e variada."
 publishDate: 2026-05-04

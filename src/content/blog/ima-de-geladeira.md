@@ -1,4 +1,4 @@
----
+﻿---
 title: "Imã de geladeira: Guia Definitivo 2026 — Tudo Que Você Precisa Saber"
 description: "Leitor já tem geladeira e quer otimizá-la."
 publishDate: 2026-05-04

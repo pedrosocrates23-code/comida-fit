@@ -1,13 +1,12 @@
----
+﻿---
 title: "Geladeira 400 Litros: Qual Comprar em 2026? Guia para Famílias Médias"
 description: "Guia completo sobre geladeiras 400 litros: para quem é ideal, melhores modelos e preços disponíveis. Perfeita para famílias de 3 a 5 pessoas."
-date: "2026-05-05"
-tags: ["geladeira", "capacidade", "frost free", "família"]
-categoria: "Equipamentos"
+publishDate: 2026-05-05
+keywords: ["geladeira", "capacidade", "frost free", "família"]
+categoria: dicas-fit
 cluster: "geladeira-capacidade"
 intent: "transacional"
-produtos:
-  []
+produtos: []
 ---
 
 # Geladeira 400 Litros: Qual Comprar em 2026? Guia para Famílias Médias

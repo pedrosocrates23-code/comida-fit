@@ -1,14 +1,15 @@
----
+﻿---
 title: "Mini Geladeira para Apartamento: As Melhores Opções Compactas"
 description: "Seleção de mini geladeiras ideais para apartamentos pequenos, quartos, escritórios e repúblicas. Comparamos espaço, capacidade, silêncio e preço."
-date: "2026-05-05"
-tags: ["geladeira portátil", "mini geladeira", "portátil"]
-categoria: "Equipamentos"
+publishDate: 2026-05-05
+keywords: ["geladeira portátil", "mini geladeira", "portátil"]
+categoria: dicas-fit
 cluster: "geladeira-portatil"
 intent: "comercial"
 produtos:
   - asin: "B075Z7RST7"
     titulo: "BLACK+DECKER Mini Geladeira Portátil, Ideal para Viagens e Acampamentos, Capacidade de 24 Litros, Modelo BDC24L"
+    link: "https://www.amazon.com.br/dp/B075Z7RST7?tag=fits000-20"
     imagem: "https://m.media-amazon.com/images/I/51Ts2+Sd-pL._AC_SL1000_.jpg"
     preco_brl: 834.9
     nota_media: 4.4
@@ -17,6 +18,7 @@ produtos:
     destaque: true
   - asin: "B0B3FCW6KQ"
     titulo: "BLACK+DECKER Mini Refrigerador FreeStyle, Mini Geladeira com Função de Aquecer e Refrigerar, com Porta Copos, Modelo MR6"
+    link: "https://www.amazon.com.br/dp/B0B3FCW6KQ?tag=fits000-20"
     imagem: "https://m.media-amazon.com/images/I/31OMVBeVDjL._AC_SL1000_.jpg"
     preco_brl: 489.9
     nota_media: 4.3

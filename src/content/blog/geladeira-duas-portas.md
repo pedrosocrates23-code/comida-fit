@@ -1,4 +1,4 @@
----
+﻿---
 title: "Melhor Geladeira duas portas em 2026: Guia Completo de Escolha"
 description: "Leitor escolhe por número de pessoas ou por espaço físico disponível."
 publishDate: 2026-05-04

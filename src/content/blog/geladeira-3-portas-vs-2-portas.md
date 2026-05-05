@@ -1,4 +1,4 @@
----
+﻿---
 title: "Geladeira 3 Portas vs 2 Portas: Qual Escolher para Sua Família"
 description: "A escolha entre **2 ou 3 portas** vai além do número de compartimentos."
 publishDate: 2026-05-05

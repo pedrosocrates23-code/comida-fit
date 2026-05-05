@@ -1,4 +1,4 @@
----
+﻿---
 title: "Quanto Consome uma Geladeira Inverter? Cálculo Real (kWh/Mês e R$/Mês)"
 description: "Uma geladeira inverter pode reduzir o consumo de energia em **até 40%** em comparação com modelos convencionais."
 publishDate: 2026-05-04

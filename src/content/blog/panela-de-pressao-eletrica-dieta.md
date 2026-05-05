@@ -1,4 +1,4 @@
----
+﻿---
 title: "Panela de Pressão Elétrica: Cozinha Saudável em Metade do Tempo"
 description: "Veja como a panela de pressão elétrica agiliza o preparo de refeições fit, preserva nutrientes e facilita a dieta de quem tem rotina intensa."
 publishDate: 2026-05-04

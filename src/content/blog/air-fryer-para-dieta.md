@@ -1,4 +1,4 @@
----
+﻿---
 title: "Air Fryer para Dieta: Como a Fritadeira Sem Óleo Muda sua Alimentação"
 description: "Saiba como a air fryer facilita a dieta com preparações mais saudáveis, menos gordura e praticidade para o dia a dia fit."
 publishDate: 2026-05-04

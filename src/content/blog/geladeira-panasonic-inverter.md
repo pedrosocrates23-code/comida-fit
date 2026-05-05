@@ -1,13 +1,12 @@
----
+﻿---
 title: "Geladeira Panasonic Inverter: Análise, Modelos e Preços 2026"
 description: "Tudo sobre a linha Panasonic Inverter: economia de energia, capacidades disponíveis, tecnologia Twin Cooling e comparativo com outras marcas."
-date: "2026-05-05"
-tags: ["geladeira panasonic inverter", "geladeira", "panasonic"]
-categoria: "Equipamentos"
+publishDate: 2026-05-05
+keywords: ["geladeira panasonic inverter", "geladeira", "panasonic"]
+categoria: dicas-fit
 cluster: "por-marca"
 intent: "transacional"
-produtos:
-  []
+produtos: []
 ---
 
 # Geladeira Panasonic Inverter: Análise, Modelos e Preços 2026

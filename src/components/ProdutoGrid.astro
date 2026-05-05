@@ -30,8 +30,12 @@ function fmtPrice(n: number | null | undefined) {
   <p class="produtos-empty">{emptyMessage}</p>
 ) : (
   <div class="produtos-grid">
-    {produtos.map(({ produto, post, slug }) => (
-      <article class="card-produto">
+    {produtos.map(({ produto, post, slug, taxonomia: tax }) => (
+      <article
+        class="card-produto"
+        data-tipo={tax?.tipo ?? ''}
+        data-categoria={tax?.categoria ?? ''}
+      >
         <a href={`/produtos/${slug}/`} class="card-link" aria-label={produto.titulo}>
           <div class="card-imagem-wrapper">
             {produto.imagem ? (
