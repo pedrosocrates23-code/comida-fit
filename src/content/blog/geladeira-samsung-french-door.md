@@ -1,9 +1,9 @@
 ---
 title: "Geladeira Samsung French Door: Os Melhores Modelos de 2026"
 description: "Guia completo sobre geladeiras Samsung French Door: modelos disponíveis, capacidades, preços e se valem o investimento para famílias grandes."
-date: "2026-05-06"
-tags: ["geladeira samsung french door", "geladeira", "samsung"]
-categoria: "Equipamentos"
+publishDate: 2026-05-06
+keywords: ["geladeira samsung french door", "geladeira", "samsung"]
+categoria: geladeiras
 cluster: "por-marca"
 intent: "transacional"
 produtos:

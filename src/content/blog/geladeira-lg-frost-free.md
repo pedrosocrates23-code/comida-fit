@@ -1,9 +1,9 @@
 ---
 title: "Geladeira LG Frost Free: Modelos, Preços e Qual Comprar"
 description: "Seleção das melhores geladeiras LG frost free disponíveis agora. Comparamos capacidade, tecnologia Linear Inverter, preço e nota dos compradores reais."
-date: "2026-05-06"
-tags: ["geladeira lg frost free", "geladeira", "lg"]
-categoria: "Equipamentos"
+publishDate: 2026-05-06
+keywords: ["geladeira lg frost free", "geladeira", "lg"]
+categoria: geladeiras
 cluster: "por-marca"
 intent: "transacional"
 produtos:

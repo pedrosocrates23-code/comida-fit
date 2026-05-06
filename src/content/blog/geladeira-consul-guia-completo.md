@@ -1,9 +1,9 @@
 ---
 title: "Geladeira Consul: Vale a Pena em 2026? Guia Completo da Marca"
-description: "Análise completa das geladeiras Consul: linha frost free, degelo manual e modelos duplex. Por que é a marca mais vendida no Brasil e se ainda faz sentido comprar."
-date: "2026-05-06"
-tags: ["geladeira consul", "geladeira", "consul"]
-categoria: "Equipamentos"
+description: "Análise completa das geladeiras Consul: frost free, degelo manual e duplex. A marca mais vendida no Brasil vale a pena em 2026?"
+publishDate: 2026-05-06
+keywords: ["geladeira consul", "geladeira", "consul"]
+categoria: geladeiras
 cluster: "por-marca"
 intent: "informacional"
 produtos:

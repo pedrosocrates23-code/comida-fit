@@ -1,7 +1,7 @@
 ---
 title: "Hamburguer de Cenoura e Abobrinha Vegano"
 description: "Hamburguer de cenoura e abobrinha: crocante por fora, macio por dentro, 100% vegetal e com 8g de proteina. Assar ou fritar, fica delicioso das duas formas."
-categoria: "pratos-principais"
+categoria: almoco-fit
 tempoPreparo: 35
 porcoes: 6
 calorias: 125

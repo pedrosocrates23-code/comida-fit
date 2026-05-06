@@ -1,9 +1,9 @@
 ---
 title: "5 Melhores Geladeiras Consul de 2026: Ranking Custo-Benefício"
 description: "Ranking das melhores geladeiras Consul disponíveis na Amazon Brasil. Foco em custo-benefício — a marca mais vendida do país com melhor relação preço-qualidade."
-date: "2026-05-06"
-tags: ["melhores geladeiras consul 2026", "geladeira", "geladeiras"]
-categoria: "Equipamentos"
+publishDate: 2026-05-06
+keywords: ["melhores geladeiras consul 2026", "geladeira", "geladeiras"]
+categoria: geladeiras
 cluster: "por-marca"
 intent: "transacional"
 produtos:

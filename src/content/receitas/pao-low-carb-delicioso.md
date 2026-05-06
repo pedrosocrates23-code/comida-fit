@@ -1,7 +1,7 @@
 ---
 title: "Pao Low Carb Delicioso de Queijo e Ervas"
 description: "Pao low carb delicioso com base de queijo mozzarela e farinha de amendoas: macio, com fundo crocante e apenas 4g de carbs por fatia. O pao que nao da culpa."
-categoria: "paes-fit"
+categoria: lanches-saudaveis
 tempoPreparo: 30
 porcoes: 8
 calorias: 185

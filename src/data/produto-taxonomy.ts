@@ -101,6 +101,7 @@ export const MARCAS: Record<string, { label: string }> = {
   'qnutri':            { label: 'Qnutri' },
   'rapid-fuse':        { label: 'Rapid Fuse' },
   'suplementsfort':    { label: 'Suplementsfort' },
+  'midea':             { label: 'Midea' },
   'samsung':           { label: 'Samsung' },
   'the-one-supps':     { label: 'The One Supps' },
   'thermo-muscle':     { label: 'Thermo Muscle' },
@@ -215,6 +216,17 @@ export const taxonomia: Record<string, ProdutoTaxonomia> = {
 
   // ── Ímãs de Geladeira ──
   'B0DFX7BQX9': { tipo: 'acessorio', categoria: 'ima-geladeira', marca: 'generica' },
+
+  // ── Geladeira — novos silos 2026-05-06 ──
+  'B076BCK5WX': { tipo: 'equipamento', categoria: 'geladeira', marca: 'consul' },
+  'B07JGL1WH8': { tipo: 'equipamento', categoria: 'geladeira', marca: 'consul' },
+  'B07K29F3SB': { tipo: 'equipamento', categoria: 'geladeira', marca: 'electrolux' },
+  'B0DNR7TBTW': { tipo: 'equipamento', categoria: 'geladeira', marca: 'electrolux' },
+  'B0B723VVR7': { tipo: 'equipamento', categoria: 'geladeira', marca: 'philco' },
+  'B0F4RVF119': { tipo: 'equipamento', categoria: 'geladeira', marca: 'midea' },
+
+  // ── Acessório elétrico para geladeira ──
+  'B0C9DS7MCC': { tipo: 'acessorio', categoria: 'pecas-reposicao', marca: 'generica' },
 };
 
 // ───────────────────────────────────────

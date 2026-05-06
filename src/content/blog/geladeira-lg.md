@@ -1,9 +1,9 @@
 ---
 title: "Geladeira LG: Vale a Pena Comprar em 2026? Análise Completa"
 description: "Guia completo sobre geladeiras LG no Brasil: linha InstaView, Door-in-Door, compressor linear, prós e contras reais e se valem o investimento em 2026."
-date: "2026-05-06"
-tags: ["geladeira lg", "geladeira", "lg"]
-categoria: "Equipamentos"
+publishDate: 2026-05-06
+keywords: ["geladeira lg", "geladeira", "lg"]
+categoria: geladeiras
 cluster: "por-marca"
 intent: "informacional"
 produtos:

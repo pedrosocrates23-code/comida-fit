@@ -1,7 +1,7 @@
 ---
 title: "Coxinha Fit sem Farinha de Trigo"
 description: "Coxinha fit com massa de couve-flor: crocante por fora, suculenta por dentro, 5g de carbs por unidade. Assar ou fritar, o resultado e igualmente delicioso."
-categoria: "lanches-fit"
+categoria: lanches-saudaveis
 tempoPreparo: 50
 porcoes: 16
 calorias: 75

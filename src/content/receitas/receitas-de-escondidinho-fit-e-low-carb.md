@@ -1,7 +1,7 @@
 ---
 title: "Escondidinho Fit e Low Carb"
 description: "Escondidinho fit e low carb com purê de couve-flor no lugar da batata: cremoso, proteico e apenas 12g de carboidratos por porção. Perfeito para o jantar."
-categoria: "pratos-principais"
+categoria: almoco-fit
 tempoPreparo: 40
 porcoes: 4
 calorias: 285

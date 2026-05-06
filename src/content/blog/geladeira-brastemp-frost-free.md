@@ -1,9 +1,9 @@
 ---
 title: "Geladeira Brastemp Frost Free: Modelos, Preços e Qual Comprar"
 description: "Seleção das melhores geladeiras Brastemp frost free disponíveis agora. Comparamos capacidade, preço, tecnologia e nota dos compradores reais da Amazon."
-date: "2026-05-06"
-tags: ["geladeira brastemp frost free", "geladeira", "brastemp"]
-categoria: "Equipamentos"
+publishDate: 2026-05-06
+keywords: ["geladeira brastemp frost free", "geladeira", "brastemp"]
+categoria: geladeiras
 cluster: "por-marca"
 intent: "transacional"
 produtos:

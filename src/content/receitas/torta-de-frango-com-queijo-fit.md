@@ -1,7 +1,7 @@
 ---
 title: "Torta de Frango com Queijo Fit sem Farinha"
 description: "Torta de frango com queijo fit: massa de aveia e couve-flor sem gluten, recheio proteico cremoso. Apenas 180 kcal por fatia, 20g de proteina e facil de fazer."
-categoria: "pratos-principais"
+categoria: almoco-fit
 tempoPreparo: 50
 porcoes: 8
 calorias: 180

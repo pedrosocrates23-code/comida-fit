@@ -1,6 +1,6 @@
 ---
 title: "Omelete de Espinafre Proteico e Nutritivo"
-description: "Omelete de espinafre com queijo: 22g de proteina, rico em ferro e calcio, pronto em 8 minutos. Perfeito para cafe da manha ou jantar fit com poucos carboidratos."
+description: "Omelete de espinafre com queijo: 22g de proteina, rico em ferro e calcio, pronto em 8 minutos. Ideal para cafe da manha ou jantar fit."
 categoria: "cafe-da-manha"
 tempoPreparo: 10
 porcoes: 1

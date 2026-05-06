@@ -1,9 +1,9 @@
 ---
 title: "Geladeira Consul Duplex: Os Melhores Modelos e Preços 2026"
 description: "Seleção das melhores geladeiras Consul Duplex (2 portas) disponíveis agora. Comparamos capacidade, frost free vs degelo manual, preço e nota dos compradores."
-date: "2026-05-06"
-tags: ["geladeira consul duplex", "geladeira", "consul"]
-categoria: "Equipamentos"
+publishDate: 2026-05-06
+keywords: ["geladeira consul duplex", "geladeira", "consul"]
+categoria: geladeiras
 cluster: "por-marca"
 intent: "transacional"
 produtos:

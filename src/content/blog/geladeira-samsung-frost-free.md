@@ -1,9 +1,9 @@
 ---
 title: "Geladeira Samsung Frost Free: Modelos, Preços e Qual Comprar"
 description: "Seleção das melhores geladeiras Samsung frost free disponíveis. Comparamos capacidade, preço, tecnologia Digital Inverter e nota dos compradores reais."
-date: "2026-05-06"
-tags: ["geladeira samsung frost free", "geladeira", "samsung"]
-categoria: "Equipamentos"
+publishDate: 2026-05-06
+keywords: ["geladeira samsung frost free", "geladeira", "samsung"]
+categoria: geladeiras
 cluster: "por-marca"
 intent: "transacional"
 produtos:

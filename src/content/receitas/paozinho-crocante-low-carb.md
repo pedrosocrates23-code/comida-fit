@@ -1,7 +1,7 @@
 ---
 title: "Paozinho Crocante Low Carb de Parmesao"
 description: "Paozinho crocante low carb de parmesao: casca rigida que estala ao morder, interior macio e fofinho, 3g de carboidratos por unidade. Pronto em 25 minutos."
-categoria: "paes-fit"
+categoria: lanches-saudaveis
 tempoPreparo: 25
 porcoes: 8
 calorias: 155

@@ -1,9 +1,9 @@
 ---
 title: "5 Melhores Geladeiras Brastemp de 2026: Ranking com Dados Reais"
 description: "Ranking das melhores geladeiras Brastemp disponíveis agora na Amazon. Seleção baseada em nota real dos compradores, preço atual e eficiência energética."
-date: "2026-05-06"
-tags: ["melhores geladeiras brastemp 2026", "geladeira", "geladeiras"]
-categoria: "Equipamentos"
+publishDate: 2026-05-06
+keywords: ["melhores geladeiras brastemp 2026", "geladeira", "geladeiras"]
+categoria: geladeiras
 cluster: "por-marca"
 intent: "transacional"
 produtos:

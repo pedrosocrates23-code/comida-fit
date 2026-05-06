@@ -1,9 +1,9 @@
 ---
 title: "Geladeira Samsung: Vale a Pena Comprar em 2026? Análise Completa"
 description: "Tudo sobre geladeiras Samsung no Brasil: linha French Door, modelos frost free, tecnologia All-Around Cooling, prós e contras e se vale o investimento."
-date: "2026-05-06"
-tags: ["geladeira samsung", "geladeira", "samsung"]
-categoria: "Equipamentos"
+publishDate: 2026-05-06
+keywords: ["geladeira samsung", "geladeira", "samsung"]
+categoria: geladeiras
 cluster: "por-marca"
 intent: "informacional"
 produtos:

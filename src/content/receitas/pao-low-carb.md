@@ -1,7 +1,7 @@
 ---
 title: "Pao Low Carb de Farinha de Amendoas"
 description: "Pao low carb fofinho com farinha de amendoas: 3g de carboidratos por fatia, rico em proteina e sem gluten. Pronto em 35 minutos, corta bem e nao esmigalha."
-categoria: "paes-fit"
+categoria: lanches-saudaveis
 tempoPreparo: 35
 porcoes: 10
 calorias: 145

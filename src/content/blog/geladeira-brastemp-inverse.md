@@ -1,9 +1,9 @@
 ---
 title: "Geladeira Brastemp Inverse: Tecnologia, Modelos e Vale a Pena?"
 description: "Análise completa da linha Brastemp Inverse: como funciona a tecnologia, modelos disponíveis, economia de energia real e comparativo com frost free convencional."
-date: "2026-05-06"
-tags: ["geladeira brastemp inverse", "geladeira", "brastemp"]
-categoria: "Equipamentos"
+publishDate: 2026-05-06
+keywords: ["geladeira brastemp inverse", "geladeira", "brastemp"]
+categoria: geladeiras
 cluster: "por-marca"
 intent: "informacional"
 produtos:

@@ -1,7 +1,7 @@
 ---
 title: "7 Receitas de Bolo de Cenoura Fit"
 description: "7 variacoes de bolo de cenoura fit: do classico com aveia ao low carb com farinha de amendoas. Todas com menos de 200 kcal por fatia e sem acucar refinado."
-categoria: "bolos-fit"
+categoria: sobremesas-fit
 tempoPreparo: 45
 porcoes: 10
 calorias: 185

@@ -1,7 +1,7 @@
 ---
 title: "Salpicao Low Carb Cremoso com Frango"
 description: "Salpicao low carb com frango desfiado, maionese caseira e vegetais crocantes: cremoso, sem batata palha e apenas 5g de carboidratos por porcao."
-categoria: "saladas-fit"
+categoria: almoco-fit
 tempoPreparo: 30
 porcoes: 6
 calorias: 285

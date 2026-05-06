@@ -1,9 +1,9 @@
 ---
 title: "5 Melhores Geladeiras Samsung de 2026: Ranking Atualizado"
 description: "Ranking das melhores geladeiras Samsung disponíveis agora na Amazon Brasil. De frost free a French Door, seleção por nota real, preço e eficiência."
-date: "2026-05-06"
-tags: ["melhores geladeiras samsung 2026", "geladeira", "geladeiras"]
-categoria: "Equipamentos"
+publishDate: 2026-05-06
+keywords: ["melhores geladeiras samsung 2026", "geladeira", "geladeiras"]
+categoria: geladeiras
 cluster: "por-marca"
 intent: "transacional"
 produtos:

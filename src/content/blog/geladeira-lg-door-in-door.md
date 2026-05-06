@@ -1,9 +1,9 @@
 ---
 title: "Geladeira LG Door-in-Door: Guia Completo e Vale a Pena?"
 description: "Tudo sobre a geladeira LG Door-in-Door: como funciona o painel externo, modelos disponíveis no Brasil, preços e se o diferencial vale o custo extra."
-date: "2026-05-06"
-tags: ["geladeira lg door in door", "geladeira", "lg"]
-categoria: "Equipamentos"
+publishDate: 2026-05-06
+keywords: ["geladeira lg door in door", "geladeira", "lg"]
+categoria: geladeiras
 cluster: "por-marca"
 intent: "informacional"
 produtos:

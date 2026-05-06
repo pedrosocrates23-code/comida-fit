@@ -47,7 +47,7 @@ const blogCollection = defineCollection({
     imageAlt:    z.string().optional(),
     keywords:    z.array(z.string()),
     featured:    z.boolean().default(false),
-    categoria:   z.enum(['nutricao', 'treino', 'emagrecimento', 'saude', 'dicas-fit', 'suplementos']),
+    categoria:   z.enum(['nutricao', 'treino', 'emagrecimento', 'saude', 'dicas-fit', 'suplementos', 'geladeiras']),
     tipo:        z.enum(['comparativo', 'review', 'top-lista', 'artigo']).default('artigo'),
     produtos:    z.array(z.object({
       asin:        z.string(),

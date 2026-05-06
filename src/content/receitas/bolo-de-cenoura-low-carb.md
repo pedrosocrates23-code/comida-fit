@@ -1,7 +1,7 @@
 ---
 title: "Bolo de Cenoura Low Carb com Cobertura de Cacau"
 description: "Bolo de cenoura low carb com farinha de amendoas: apenas 8g de carbs por fatia, cobertura de cacau sem acucar e textura umida e densa. Sem gluten e sem culpa."
-categoria: "bolos-fit"
+categoria: sobremesas-fit
 tempoPreparo: 45
 porcoes: 10
 calorias: 215

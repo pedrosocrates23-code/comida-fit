@@ -1,9 +1,9 @@
 ---
 title: "Geladeira Consul Frost Free 2 Portas: Análise e Melhores Modelos"
 description: "Guia das melhores geladeiras Consul frost free 2 portas. Modelos econômicos, capacidades de 300L a 450L e as melhores opções para famílias de médio porte."
-date: "2026-05-06"
-tags: ["geladeira consul frost free 2 portas", "geladeira", "consul"]
-categoria: "Equipamentos"
+publishDate: 2026-05-06
+keywords: ["geladeira consul frost free 2 portas", "geladeira", "consul"]
+categoria: geladeiras
 cluster: "por-marca"
 intent: "transacional"
 produtos:

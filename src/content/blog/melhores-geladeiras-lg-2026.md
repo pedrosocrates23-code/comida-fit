@@ -1,9 +1,9 @@
 ---
 title: "5 Melhores Geladeiras LG de 2026: Ranking com Dados Reais"
 description: "Ranking das melhores geladeiras LG disponíveis agora na Amazon Brasil. De frost free a Door-in-Door, seleção por nota real, preço e custo de energia."
-date: "2026-05-06"
-tags: ["melhores geladeiras lg 2026", "geladeira", "geladeiras"]
-categoria: "Equipamentos"
+publishDate: 2026-05-06
+keywords: ["melhores geladeiras lg 2026", "geladeira", "geladeiras"]
+categoria: geladeiras
 cluster: "por-marca"
 intent: "transacional"
 produtos:

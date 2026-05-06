@@ -1,7 +1,7 @@
 ---
 title: "Guacamole Fit Autentico com Tempero Certo"
 description: "Guacamole autentico cremoso: abacate, limao, coentro e jalapeño. Rico em gordura boa, apenas 4g de carboidratos por porcao e pronto em 5 minutos."
-categoria: "lanches-fit"
+categoria: lanches-saudaveis
 tempoPreparo: 10
 porcoes: 4
 calorias: 145

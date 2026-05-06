@@ -1,9 +1,9 @@
 ---
 title: "Geladeira Brastemp: Vale a Pena em 2026? Análise Completa"
 description: "Guia completo sobre geladeiras Brastemp: modelos disponíveis, tecnologias, prós e contras reais e se a marca premium vale o preço em 2026."
-date: "2026-05-06"
-tags: ["geladeira brastemp", "geladeira", "brastemp"]
-categoria: "Equipamentos"
+publishDate: 2026-05-06
+keywords: ["geladeira brastemp", "geladeira", "brastemp"]
+categoria: geladeiras
 cluster: "por-marca"
 intent: "informacional"
 produtos:

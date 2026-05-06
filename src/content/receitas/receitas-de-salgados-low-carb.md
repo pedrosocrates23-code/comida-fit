@@ -1,7 +1,7 @@
 ---
 title: "Receitas de Salgados Low Carb"
 description: "10 salgados low carb para festa ou lanche: coxinha de couve-flor, quibe de frango, bolinho de atum e mais. Menos de 6g de carbs por unidade."
-categoria: "lanches-fit"
+categoria: lanches-saudaveis
 tempoPreparo: 45
 porcoes: 20
 calorias: 85

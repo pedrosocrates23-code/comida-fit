@@ -1,7 +1,7 @@
 ---
 title: "Bolo de Coco Fit Fofinho e Umido"
 description: "Bolo de coco fit umido com iogurte grego e farinha de aveia: menos de 180 kcal por fatia, sem manteiga e com muito sabor de coco. Pronto em 40 minutos."
-categoria: "bolos-fit"
+categoria: sobremesas-fit
 tempoPreparo: 40
 porcoes: 10
 calorias: 175

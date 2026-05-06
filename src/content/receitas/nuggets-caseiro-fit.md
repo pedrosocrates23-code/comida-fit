@@ -1,7 +1,7 @@
 ---
 title: "Nuggets Caseiro Fit Assado e Crocante"
 description: "Nuggets caseiro fit assado com empanamento de parmesao: crocante por fora, suculento por dentro e apenas 8g de carboidratos por porcao de 6 unidades."
-categoria: "lanches-fit"
+categoria: lanches-saudaveis
 tempoPreparo: 30
 porcoes: 4
 calorias: 245
