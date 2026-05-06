@@ -73,5 +73,35 @@ export default defineConfig({
     '/10-receitas-de-bolo-de-banana-fit':             { destination: '/receitas/10-receitas-de-bolo-de-banana-fit', status: 301 },
     '/bolo-de-laranja-fit':                           { destination: '/receitas/bolo-de-laranja-fit', status: 301 },
     '/macarrao-de-abobrinha-com-molho-branco':        { destination: '/receitas/macarrao-de-abobrinha-com-molho-branco', status: 301 },
+
+    // Novas receitas criadas — Coverage Drilldown 2026-05-06
+    '/receitas-de-escondidinho-fit-e-low-carb':       { destination: '/receitas/receitas-de-escondidinho-fit-e-low-carb', status: 301 },
+    '/receitas-de-cafe-da-manha-low-carb-7-opcoes':   { destination: '/receitas/receitas-de-cafe-da-manha-low-carb-7-opcoes', status: 301 },
+    '/receitas-de-salgados-low-carb':                 { destination: '/receitas/receitas-de-salgados-low-carb', status: 301 },
+    '/pao-low-carb':                                  { destination: '/receitas/pao-low-carb', status: 301 },
+    '/salpicao-low-carb':                             { destination: '/receitas/salpicao-low-carb', status: 301 },
+    '/bolo-de-coco-fit':                              { destination: '/receitas/bolo-de-coco-fit', status: 301 },
+    '/7-receitas-de-bolo-de-cenoura-fit':             { destination: '/receitas/7-receitas-de-bolo-de-cenoura-fit', status: 301 },
+    '/brownie-fit-3-receitas-deliciosas':             { destination: '/receitas/brownie-fit-3-receitas-deliciosas', status: 301 },
+    '/nuggets-caseiro-fit':                           { destination: '/receitas/nuggets-caseiro-fit', status: 301 },
+    '/crepioca-com-crosta-de-queijo':                 { destination: '/receitas/crepioca-com-crosta-de-queijo', status: 301 },
+    '/guacamole':                                     { destination: '/receitas/guacamole', status: 301 },
+    '/torta-de-frango-com-queijo-fit':                { destination: '/receitas/torta-de-frango-com-queijo-fit', status: 301 },
+    '/omelete-de-espinafre':                          { destination: '/receitas/omelete-de-espinafre', status: 301 },
+    '/omelete-de-forno-com-queijo':                   { destination: '/receitas/omelete-de-forno-com-queijo', status: 301 },
+    '/receita-de-coxinha-fit':                        { destination: '/receitas/receita-de-coxinha-fit', status: 301 },
+    '/pao-low-carb-delicioso':                        { destination: '/receitas/pao-low-carb-delicioso', status: 301 },
+    '/mousse-de-abacate-proteico':                    { destination: '/receitas/mousse-de-abacate-proteico', status: 301 },
+    '/paozinho-crocante-low-carb':                    { destination: '/receitas/paozinho-crocante-low-carb', status: 301 },
+    '/bolo-de-cenoura-low-carb':                      { destination: '/receitas/bolo-de-cenoura-low-carb', status: 301 },
+    '/hamburguer-de-cenoura-e-abobrinha':             { destination: '/receitas/hamburguer-de-cenoura-e-abobrinha', status: 301 },
+
+    // Categorias do WordPress antigo — redirecionam para categorias equivalentes
+    '/blog/categoria/emagrecimento':                  { destination: '/categoria/jantar-low-carb', status: 301 },
+    '/blog/categoria/dicas-fit':                      { destination: '/categoria/lanches-saudaveis', status: 301 },
+    '/blog/categoria/saude':                          { destination: '/categoria/sobremesas-fit', status: 301 },
+
+    // Feed WordPress — redireciona para home
+    '/ensopado-de-lentilha-com-salsa-verde/feed':     { destination: '/receitas/ensopado-de-lentilha-com-salsa-verde', status: 301 },
   },
 });
