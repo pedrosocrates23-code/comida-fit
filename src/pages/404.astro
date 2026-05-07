@@ -1,0 +1,168 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const categorias = [
+  { slug: 'cafe-da-manha',      nome: 'Café da Manhã' },
+  { slug: 'almoco-fit',         nome: 'Almoço Fit' },
+  { slug: 'lanches-saudaveis',  nome: 'Lanches' },
+  { slug: 'jantar-low-carb',    nome: 'Jantar Low Carb' },
+  { slug: 'sobremesas-fit',     nome: 'Sobremesas' },
+  { slug: 'smoothies-e-sucos',  nome: 'Smoothies e Sucos' },
+];
+---
+
+<BaseLayout
+  title="Página não encontrada"
+  description="A página que você procura não existe ou foi movida. Explore nossas receitas fit e artigos saudáveis."
+  noindex={true}
+>
+  <main id="main-content" class="page-404">
+    <div class="container">
+      <div class="error-box card-brutal">
+        <div class="error-code">404</div>
+        <h1 class="error-title">Ops! Página não encontrada</h1>
+        <p class="error-desc">
+          A página que você procura não existe ou foi movida para outro endereço.
+          Mas não se preocupe — temos muitas receitas fit esperando por você!
+        </p>
+
+        <div class="error-actions">
+          <a href="/" class="btn btn-primary">🏠 Ir para a Home</a>
+          <a href="/receitas/" class="btn btn-secondary">🥗 Ver Receitas</a>
+        </div>
+      </div>
+
+      <section class="categorias-section">
+        <h2 class="categorias-title">Explore por categoria</h2>
+        <div class="categorias-grid">
+          {categorias.map((cat) => (
+            <a href={`/categoria/${cat.slug}/`} class="cat-card card-brutal">
+              {cat.nome}
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section class="busca-section">
+        <h2 class="busca-title">Ou busque o que procura</h2>
+        <form action="/receitas/" method="get" class="busca-form">
+          <input
+            type="search"
+            name="q"
+            placeholder="Ex: bolo de cenoura fit, omelete..."
+            class="busca-input"
+            aria-label="Buscar receitas"
+            autofocus
+          />
+          <button type="submit" class="btn btn-primary">Buscar</button>
+        </form>
+      </section>
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  .page-404 {
+    min-height: 70vh;
+    padding: var(--space-12) 0;
+    display: flex;
+    align-items: center;
+  }
+
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 var(--space-4);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-10);
+  }
+
+  .error-box {
+    padding: var(--space-10) var(--space-8);
+    text-align: center;
+  }
+
+  .error-code {
+    font-size: 7rem;
+    font-weight: 900;
+    font-family: var(--font-display);
+    color: var(--color-primary);
+    line-height: 1;
+    margin-bottom: var(--space-4);
+  }
+
+  .error-title {
+    font-size: var(--text-3xl);
+    margin-bottom: var(--space-4);
+  }
+
+  .error-desc {
+    color: var(--color-muted);
+    font-size: var(--text-lg);
+    line-height: 1.7;
+    margin-bottom: var(--space-8);
+  }
+
+  .error-actions {
+    display: flex;
+    gap: var(--space-3);
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .categorias-title,
+  .busca-title {
+    font-size: var(--text-xl);
+    margin-bottom: var(--space-5);
+    text-align: center;
+  }
+
+  .categorias-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: var(--space-3);
+  }
+
+  .cat-card {
+    padding: var(--space-3) var(--space-4);
+    text-align: center;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: var(--text-sm);
+    color: var(--color-ink);
+    transition: background var(--transition), color var(--transition);
+  }
+
+  .cat-card:hover {
+    background: var(--color-primary);
+    color: white;
+  }
+
+  .busca-form {
+    display: flex;
+    gap: var(--space-3);
+    flex-wrap: wrap;
+  }
+
+  .busca-input {
+    flex: 1;
+    min-width: 200px;
+    padding: var(--space-3) var(--space-4);
+    border: var(--border);
+    font-size: var(--text-base);
+    background: var(--color-surface);
+    color: var(--color-ink);
+    outline: none;
+  }
+
+  .busca-input:focus {
+    border-color: var(--color-primary);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--color-primary) 20%, transparent);
+  }
+
+  @media (max-width: 640px) {
+    .error-code { font-size: 5rem; }
+    .error-box { padding: var(--space-8) var(--space-5); }
+  }
+</style>
