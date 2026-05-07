@@ -6,7 +6,9 @@ import Header from '@components/Header.astro';
 import Footer from '@components/Footer.astro';
 import Breadcrumb from '@components/Breadcrumb.astro';
 import ReceitaSchema from '@components/ReceitaSchema.astro';
+import ReceitaCard from '@components/ReceitaCard.astro';
 import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
 
 interface Props {
@@ -15,6 +17,13 @@ interface Props {
 
 const { receita } = Astro.props;
 const { data } = receita;
+
+// Receitas relacionadas: mesma categoria, excluindo a atual, max 4
+const todasReceitas = await getCollection('receitas');
+const relacionadas = todasReceitas
+  .filter(r => r.id !== receita.id && r.data.categoria === data.categoria)
+  .sort(() => Math.random() - 0.5)
+  .slice(0, 4);
 
 const categoriaNomes: Record<string, string> = {
   'cafe-da-manha':      'Café da Manhã',
@@ -254,6 +263,33 @@ const imageUrl = data.image.src;
         </div>
 
       </article>
+
+      <!-- Receitas Relacionadas -->
+      {relacionadas.length > 0 && (
+        <aside class="relacionadas-section" aria-labelledby="relacionadas-title">
+          <h2 id="relacionadas-title" class="relacionadas-title">
+            Receitas relacionadas
+          </h2>
+          <div class="relacionadas-grid">
+            {relacionadas.map((r) => (
+              <ReceitaCard
+                title={r.data.title}
+                slug={r.id}
+                description={r.data.description}
+                categoria={r.data.categoria}
+                calorias={r.data.calorias}
+                tempoPreparo={r.data.tempoPreparo}
+                proteinas={r.data.proteinas}
+                image={r.data.image}
+                imageAlt={r.data.imageAlt}
+                rating={r.data.rating}
+                featured={false}
+                priority={false}
+              />
+            ))}
+          </div>
+        </aside>
+      )}
     </div>
   </main>
 
@@ -478,5 +514,31 @@ const imageUrl = data.image.src;
     content: " ↗";
     font-size: 0.75em;
     opacity: 0.7;
+  }
+
+  /* ── Receitas Relacionadas ────────────────────────────── */
+  .relacionadas-section {
+    margin-top: var(--space-16);
+    padding-top: var(--space-10);
+    border-top: var(--border);
+  }
+
+  .relacionadas-title {
+    font-family: var(--font-display);
+    font-size: var(--text-2xl);
+    margin-bottom: var(--space-8);
+  }
+
+  .relacionadas-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: var(--space-5);
+  }
+
+  @media (max-width: 640px) {
+    .relacionadas-grid {
+      grid-template-columns: 1fr 1fr;
+      gap: var(--space-3);
+    }
   }
 </style>
