@@ -25,7 +25,7 @@ export interface ProdutoTaxonomia {
 // Ordem aqui controla ordem na navegação
 export const TIPOS: Record<ProdutoTipo, { label: string; descricao: string }> = {
   suplemento: {
-    label: 'Suplementos',
+    label: 'Produtos',
     descricao: 'Whey, creatina, BCAA, vitaminas, pré-treino e demais suplementos esportivos.',
   },
   alimento: {
