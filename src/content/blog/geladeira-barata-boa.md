@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Geladeira Barata e Boa: As 6 Melhores até R$2.000 em 2026"
 description: "Seleção das melhores geladeiras baratas e confiáveis disponíveis agora. Curadoria com nota dos compradores, preço atualizado e melhor custo por litro."
 publishDate: 2026-05-05
@@ -7,6 +7,7 @@ categoria: dicas-fit
 cluster: "informacional-geral"
 intent: "transacional"
 produtos: []
+noindex: true
 ---
 
 # Geladeira Barata e Boa: As 6 Melhores até R$2.000 em 2026

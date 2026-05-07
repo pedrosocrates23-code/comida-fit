@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Geladeira Degelo Manual: Vale a Pena em 2026? Análise Completa"
 description: "Análise honesta sobre geladeiras com degelo manual: quando escolher, vantagens reais de economia de energia e os melhores modelos disponíveis."
 publishDate: 2026-05-05
@@ -7,6 +7,7 @@ categoria: dicas-fit
 cluster: "informacional-geral"
 intent: "informacional"
 produtos: []
+noindex: true
 ---
 
 # Geladeira Degelo Manual: Vale a Pena em 2026? Análise Completa

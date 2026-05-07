@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Geladeira Simples: As Melhores Opções Básicas e Baratas de 2026"
 description: "Guia de geladeiras simples (degelo manual e frost free básico): para quem mora sozinho, tem orçamento limitado ou precisa de um modelo extra para a casa."
 publishDate: 2026-05-05
@@ -7,6 +7,7 @@ categoria: dicas-fit
 cluster: "informacional-geral"
 intent: "informacional"
 produtos: []
+noindex: true
 ---
 
 # Geladeira Simples: As Melhores Opções Básicas e Baratas de 2026

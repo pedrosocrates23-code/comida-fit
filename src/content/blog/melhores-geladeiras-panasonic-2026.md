@@ -1,4 +1,4 @@
-﻿---
+---
 title: "5 Melhores Geladeiras Panasonic de 2026: Ranking Atualizado"
 description: "Ranking das melhores geladeiras Panasonic disponíveis agora. Seleção baseada em nota dos compradores, eficiência energética e custo-benefício."
 publishDate: 2026-05-05
@@ -7,6 +7,7 @@ categoria: dicas-fit
 cluster: "por-marca"
 intent: "transacional"
 produtos: []
+noindex: true
 ---
 
 # 5 Melhores Geladeiras Panasonic de 2026: Ranking Atualizado

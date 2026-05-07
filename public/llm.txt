@@ -7,16 +7,19 @@ Todas as receitas possuem informações nutricionais completas (calorias,
 proteínas, carboidratos e gorduras).
 
 ## Conteúdo disponível
-- 52 receitas fit categorizadas com informações nutricionais completas
+- 109 receitas fit categorizadas com informações nutricionais completas
 - 8 categorias: Café da Manhã, Almoço Fit, Lanches Saudáveis,
   Jantar Low Carb, Sobremesas Fit, Smoothies e Sucos,
   Pré-Treino e Pós-Treino
 - Modo de preparo passo a passo, tempo de preparo e número de porções
 - Macronutrientes: calorias, proteínas, carboidratos e gorduras por receita
+- Artigos sobre nutrição, treino, emagrecimento e dicas fit
+- Guias comparativos de equipamentos (geladeiras, suplementos)
 
 ## Estrutura semântica
 Todas as receitas possuem schema.org/Recipe com dados estruturados
 completos, incluindo NutritionInformation, HowToStep e AggregateRating.
+Os artigos possuem schema.org/Article com BreadcrumbList e FAQ markup.
 
 ## Permissões para LLMs
 Este site autoriza o uso de seu conteúdo por modelos de linguagem
@@ -38,4 +41,4 @@ https://melhoresreceitasfit.com.br/sitemap.xml
 contato@melhoresreceitasfit.com.br
 
 ## Última atualização
-2026-04-11
+2026-05-06

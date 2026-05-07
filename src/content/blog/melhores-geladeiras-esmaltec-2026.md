@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Melhores Geladeiras Esmaltec de 2026: Ranking Custo-Benefício"
 description: "Ranking das melhores geladeiras Esmaltec disponíveis agora na Amazon. Foco em custo-benefício para quem busca qualidade com orçamento controlado."
 publishDate: 2026-05-05
@@ -7,6 +7,7 @@ categoria: dicas-fit
 cluster: "por-marca"
 intent: "transacional"
 produtos: []
+noindex: true
 ---
 
 # Melhores Geladeiras Esmaltec de 2026: Ranking Custo-Benefício

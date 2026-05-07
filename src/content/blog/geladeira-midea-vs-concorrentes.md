@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Geladeira Midea vs Consul vs Electrolux: Qual Comprar em 2026?"
 description: "Comparativo técnico e de custo-benefício entre Midea, Consul e Electrolux. Avaliamos preço, durabilidade, assistência técnica e satisfação dos compradores."
 publishDate: 2026-05-05
@@ -7,6 +7,7 @@ categoria: dicas-fit
 cluster: "geladeira-midea"
 intent: "comparativo"
 produtos: []
+noindex: true
 ---
 
 # Geladeira Midea vs Consul vs Electrolux: Qual Comprar em 2026?

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "5 Melhores Geladeiras Midea de 2026: Ranking com Produtos Reais"
 description: "Ranking das melhores geladeiras Midea disponíveis na Amazon Brasil. Seleção baseada em nota dos compradores, preço atualizado e funcionalidades."
 publishDate: 2026-05-05
@@ -7,6 +7,7 @@ categoria: dicas-fit
 cluster: "geladeira-midea"
 intent: "transacional"
 produtos: []
+noindex: true
 ---
 
 # 5 Melhores Geladeiras Midea de 2026: Ranking com Produtos Reais

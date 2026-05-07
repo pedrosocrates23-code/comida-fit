@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Geladeira Esmaltec Frost Free: Modelos, Preços e Avaliações"
 description: "Seleção das melhores geladeiras Esmaltec frost free disponíveis. Comparamos capacidade, preço, nota dos compradores e custo por litro."
 publishDate: 2026-05-05
@@ -7,6 +7,7 @@ categoria: dicas-fit
 cluster: "por-marca"
 intent: "transacional"
 produtos: []
+noindex: true
 ---
 
 # Geladeira Esmaltec Frost Free: Modelos, Preços e Avaliações

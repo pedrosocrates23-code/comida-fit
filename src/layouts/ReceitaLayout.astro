@@ -19,10 +19,18 @@ const { receita } = Astro.props;
 const { data } = receita;
 
 // Receitas relacionadas: mesma categoria, excluindo a atual, max 4
+// Ordenação determinística via hash do ID — garante links estáveis entre builds (SSG)
+function pseudoRandom(seed: string): number {
+  let h = 0;
+  for (let i = 0; i < seed.length; i++) {
+    h = Math.imul(31, h) + seed.charCodeAt(i) | 0;
+  }
+  return (h >>> 0) / 4294967295;
+}
 const todasReceitas = await getCollection('receitas');
 const relacionadas = todasReceitas
   .filter(r => r.id !== receita.id && r.data.categoria === data.categoria)
-  .sort(() => Math.random() - 0.5)
+  .sort((a, b) => pseudoRandom(receita.id + a.id) - pseudoRandom(receita.id + b.id))
   .slice(0, 4);
 
 const categoriaNomes: Record<string, string> = {

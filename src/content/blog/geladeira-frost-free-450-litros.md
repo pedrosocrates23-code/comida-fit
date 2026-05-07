@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Geladeira Frost Free 450 Litros: Guia e Melhores Modelos 2026"
 description: "Tudo sobre geladeiras frost free 450 litros: quais são os melhores modelos, quanto custam e qual oferece melhor custo-benefício para famílias."
 publishDate: 2026-05-05
@@ -7,6 +7,7 @@ categoria: dicas-fit
 cluster: "geladeira-capacidade"
 intent: "transacional"
 produtos: []
+noindex: true
 ---
 
 # Geladeira Frost Free 450 Litros: Guia e Melhores Modelos 2026

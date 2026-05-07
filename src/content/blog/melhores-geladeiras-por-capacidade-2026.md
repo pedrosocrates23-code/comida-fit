@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Geladeiras por Capacidade: Qual o Tamanho Certo para Você em 2026?"
 description: "Guia definitivo para escolher a capacidade certa: 200L, 300L, 400L, 480L ou 600L+. Recomendações por número de pessoas e estilo de vida."
 publishDate: 2026-05-05
@@ -7,6 +7,7 @@ categoria: dicas-fit
 cluster: "geladeira-capacidade"
 intent: "informacional"
 produtos: []
+noindex: true
 ---
 
 # Geladeiras por Capacidade: Qual o Tamanho Certo para Você em 2026?

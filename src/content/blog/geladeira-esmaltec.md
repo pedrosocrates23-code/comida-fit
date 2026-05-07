@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Geladeira Esmaltec: Vale a Pena? Análise Completa 2026"
 description: "Tudo sobre geladeiras Esmaltec: quem é a marca, quais modelos existem, prós e contras reais e se vale a pena comprar em 2026."
 publishDate: 2026-05-05
@@ -7,6 +7,7 @@ categoria: dicas-fit
 cluster: "por-marca"
 intent: "informacional"
 produtos: []
+noindex: true
 ---
 
 # Geladeira Esmaltec: Vale a Pena? Análise Completa 2026

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Geladeira Midea: Vale a Pena? Análise Completa + Modelos 2026"
 description: "Guia completo sobre geladeiras Midea: quem é a marca, quais modelos existem, prós e contras reais de compradores e nossa recomendação para cada perfil."
 publishDate: 2026-05-05
@@ -7,6 +7,7 @@ categoria: dicas-fit
 cluster: "geladeira-midea"
 intent: "informacional"
 produtos: []
+noindex: true
 ---
 
 # Geladeira Midea: Vale a Pena? Análise Completa + Modelos 2026

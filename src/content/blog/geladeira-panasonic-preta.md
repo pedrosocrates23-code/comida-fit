@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Geladeira Panasonic Preta: Os Melhores Modelos e Vale a Pena?"
 description: "Análise completa das geladeiras Panasonic na cor preta: modelos disponíveis, tecnologia inverter, preços reais e opinião de compradores da Amazon."
 publishDate: 2026-05-05
@@ -7,6 +7,7 @@ categoria: dicas-fit
 cluster: "por-marca"
 intent: "transacional"
 produtos: []
+noindex: true
 ---
 
 # Geladeira Panasonic Preta: Os Melhores Modelos e Vale a Pena?
