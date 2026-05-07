@@ -1,5 +1,5 @@
 ---
-title: "Carboidratos Bons e Ruins: O Guia Completo para Escolher Certo"
+title: "Carboidratos Bons e Ruins na Dieta"
 description: "Entenda a diferença entre carboidratos simples e complexos e saiba quais incluir na alimentação fit sem culpa."
 publishDate: 2024-03-15
 author: "Equipe Receitas Fit"

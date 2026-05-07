@@ -1,5 +1,5 @@
 ---
-title: "Proteínas na Dieta Fit: Quanto Você Realmente Precisa?"
+title: "Proteínas na Dieta Fit: Dose Ideal"
 description: "Descubra a quantidade ideal de proteína para emagrecer, ganhar músculo e manter a saúde com base em evidências científicas."
 publishDate: 2024-03-01
 author: "Equipe Receitas Fit"
